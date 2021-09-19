@@ -11,6 +11,10 @@ echo "installing homebrew please enter your password when asked"
 echo "installing python3"
 brew install python3
 
+#set python from python2 to python3
+echo "setting python"
+alias python=/usr/local/bin/python3
+
 #install r
 echo "installing R App"
 brew install --cask r
