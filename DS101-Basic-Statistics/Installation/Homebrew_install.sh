@@ -61,12 +61,12 @@ echo "install github desktop"
 brew install --cask github
 
 #install slack
-echo "install slack"
-brew install --cask slack
+#echo "install slack"
+#brew install --cask slack
 
 #install zoom
-echo "install zoom enter password when asked"
-brew install --cask zoom
+#echo "install zoom enter password when asked"
+#brew install --cask zoom
 
 #install tableau
 echo "installing tableau enter password when asked"
