@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# FIRST Click the apple icon in the upper left hand corner and check to see what MacOs you are running Sierra or High Sierra you SHOULD Upgrade to Big Sur! If not many of these applications won't install. Go into your App Store and search for MacOs, download Big Sur and start the installation process.
+
 # this script is for mac and runs in a terminal and can run on latest M1 chip macs :) 
 # chmod 755 Homebrew_install.sh then ./Homebrew_install.sh
 
