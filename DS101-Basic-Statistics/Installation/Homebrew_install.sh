@@ -7,6 +7,10 @@
 echo "installing homebrew please enter your password when asked"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+#install github desktop
+echo "install github desktop"
+brew install --cask github
+
 #install Python3
 echo "installing python3"
 brew install python3
@@ -56,10 +60,6 @@ brew install mongosh
 echo "installing vscode"
 brew install --cask visual-studio-code
 
-#install github desktop
-echo "install github desktop"
-brew install --cask github
-
 #install slack
 #echo "install slack"
 #brew install --cask slack
@@ -96,12 +96,12 @@ echo "ensure you're in the right directory"
 pwd
 
 # curl a.r
-echo "curl a.r from github"
-curl -O https://github.com/Wildertrek/Jupyter-Latex/blob/master/install_scripts/a.r
+#echo "curl a.r from github"
+#curl -O https://github.com/Wildertrek/Jupyter-Latex/blob/master/install_scripts/a.r
 
 # Start R terminal
-echo "R Terminal start and run script"
-Rscript a.r
+#echo "R Terminal start and run script"
+#Rscript a.r
 
 
 
@@ -119,7 +119,7 @@ echo "It's important that these next commands are done from within the version o
 echo ""
 echo "cd /Library/Frameworks/R.framework/Versions/4.1"
 echo ""
-echo "Open R and install the necessary packages by running the command below:"
+echo "Check to ensure you are in R directory pwd , Open R and install the necessary packages by running the command below:"
 echo "1. Type R in your terminal"
 echo ""
 echo "R"
