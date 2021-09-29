@@ -151,17 +151,22 @@ echo "Open the Julia Command-Line by typing the following line"
 echo ""
 echo "julia"
 echo ""
-echo "Press ENTER
+echo "Press ENTER"
 echo ""
 echo "Run the following command in the Julia Terminal"
 echo ""
-echo "using Pkg"
+
+using Pkg
+
+
 echo ""
 echo "Press ENTER"
 echo ""
 echo "Run the following command in the Julia Terminal"
 echo ""
-echo "Pkg.add("IJulia")"
+
+Pkg.add("IJulia")
+
 echo ""
 echo "Press ENTER"
 echo ""
