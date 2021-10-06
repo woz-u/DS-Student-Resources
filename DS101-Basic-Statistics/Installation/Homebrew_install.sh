@@ -15,7 +15,7 @@ brew install --cask github
 
 #install Python3
 echo "installing python3"
-brew install python3
+brew install python@3.9
 
 #set python/pip from python2 to python3
 echo "setting python and pip in .bashrc"
