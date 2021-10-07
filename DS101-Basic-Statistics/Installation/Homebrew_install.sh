@@ -114,11 +114,6 @@ brew install julia
 #Rscript a.r
 
 
-
-
-
-
-
 echo "*******************************************************************"
 echo "Congratulations! Main Data Science applications have been installed"
 echo "*******************************************************************"
@@ -173,7 +168,7 @@ echo ""
 echo "Wait a minute or so for the installation to complete"
 echo ""
 echo "Exit out of Julia terminal by typing CTRL-D"
-echot ""
+echo ""
 echo "Now in a new terminal (not Julia)test jupyter lab run test by running the command below:"
 echo "jupyter lab"
 echo "ensure you see notebook choices for Python3, Julia and R"
