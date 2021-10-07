@@ -100,10 +100,10 @@ brew install julia
 
 # Install R kernelspec
 # change directory to the R folder
-echo "changing directory to R folder"
-cd /Library/Frameworks/R.framework/Versions/4.1
-echo "ensure you're in the right directory"
-pwd
+# echo "changing directory to R folder"
+# cd /Library/Frameworks/R.framework/Versions/4.1
+# echo "ensure you're in the right directory"
+# pwd
 
 # curl a.r
 #echo "curl a.r from github"
