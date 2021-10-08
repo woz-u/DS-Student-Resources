@@ -1,0 +1,735 @@
+id,type of flower,Days to grow,Work force,Cost to grow,Cost of force,Field m/s,Location,Phone of location
+1,Stereocaulaceae,35,6,4.77,1.79,24,Kennedy,693-645-9738
+2,Poaceae,36,4,4.27,1.97,30,Ilene,326-571-2442
+3,Lamiaceae,25,4,4.47,1.19,38,Old Shore,241-773-9055
+4,Thelypteridaceae,36,6,4.93,1.45,38,Grasskamp,386-517-8498
+5,Asteraceae,32,3,4.46,1.84,34,Granby,948-910-2731
+6,Cuscutaceae,45,4,4.37,1.09,23,Garrison,990-392-4536
+7,Potamogetonaceae,25,3,4.41,1.47,20,Mayfield,707-672-8405
+8,Pinaceae,29,4,4.28,1.77,26,Kropf,795-807-7390
+9,Amblystegiaceae,38,4,4.28,1.24,29,Everett,192-135-2114
+10,Solanaceae,44,2,4.96,1.46,33,Lotheville,473-888-2253
+11,Poaceae,35,6,4.41,1.13,24,Loomis,105-406-8641
+12,Apiaceae,39,2,4.63,1.20,24,Upham,854-178-6127
+13,Isoetaceae,30,4,4.47,1.91,21,Shopko,340-515-8076
+14,Ranunculaceae,37,7,4.09,1.50,31,Badeau,721-410-6072
+15,Cyperaceae,29,7,4.39,1.79,23,Burrows,212-529-0753
+16,Cladoniaceae,44,6,4.86,1.56,33,Scott,330-957-6615
+17,Burseraceae,25,7,4.60,1.62,20,Buena Vista,318-319-0080
+18,Campanulaceae,36,4,4.08,1.74,35,Lindbergh,932-818-3807
+19,Dicranaceae,29,2,4.32,1.90,31,Rowland,475-511-3906
+20,Poaceae,37,4,4.03,1.01,34,Bobwhite,550-165-8553
+21,Fabaceae,41,7,4.76,1.86,22,Waywood,310-769-7350
+22,Zingiberaceae,30,6,4.94,1.39,20,Kenwood,542-290-6820
+23,Polemoniaceae,39,6,4.52,1.00,32,Crescent Oaks,841-714-3527
+24,Ranunculaceae,36,4,4.47,1.09,34,Harper,229-760-6014
+25,Juncaceae,26,6,4.17,1.86,33,Iowa,842-103-7508
+26,Lamiaceae,39,5,4.18,1.41,20,3rd,395-605-5895
+27,Marsileaceae,39,7,4.78,1.11,33,Eliot,119-228-5823
+28,Caryophyllaceae,43,7,4.32,1.06,25,Messerschmidt,717-561-2085
+29,Poaceae,41,6,4.06,1.12,33,Center,252-138-3771
+30,Asteraceae,35,7,4.15,1.10,39,Eliot,180-178-4507
+31,Brassicaceae,40,6,4.15,1.43,21,Melby,415-174-9603
+32,Fabaceae,34,2,4.18,1.20,26,Moland,889-795-3447
+33,Fabaceae,44,3,4.77,1.57,27,Ridgeway,906-423-2318
+34,Asteraceae,31,3,4.63,1.86,36,Mariners Cove,551-240-9613
+35,Chenopodiaceae,34,7,4.82,1.74,31,Lake View,743-781-6882
+36,Cyrillaceae,42,3,4.36,1.96,20,Blaine,502-954-4733
+37,Rosaceae,38,4,4.10,1.31,28,Forster,177-380-4998
+38,Scrophulariaceae,43,3,4.32,1.58,26,Crowley,918-999-2382
+39,Malvaceae,35,2,4.26,1.03,20,Toban,184-856-5320
+40,Parmeliaceae,45,2,4.85,1.55,20,Rockefeller,584-586-0618
+41,Hydrangeaceae,42,6,4.24,1.04,39,Magdeline,652-866-3607
+42,Chenopodiaceae,25,3,4.27,1.04,28,Atwood,640-808-4573
+43,Polemoniaceae,34,3,4.27,1.51,21,Graceland,197-896-0366
+44,Apiaceae,38,6,4.68,1.05,30,Declaration,349-190-3728
+45,Asteraceae,35,3,4.79,1.78,37,Nobel,530-302-0409
+46,Chrysobalanaceae,25,7,4.93,1.59,35,Surrey,755-308-6835
+47,Rutaceae,26,4,4.19,1.72,34,Linden,114-714-0996
+48,Poaceae,39,2,4.11,1.96,34,Farmco,807-298-2937
+49,Cactaceae,30,3,4.00,1.61,23,Hudson,536-220-9677
+50,Asteraceae,28,2,4.09,1.19,33,John Wall,906-328-9705
+51,Apiaceae,44,7,4.72,1.03,27,Montana,586-766-8132
+52,Liliaceae,27,5,4.65,1.98,24,Prairie Rose,411-872-5458
+53,Saxifragaceae,43,7,4.99,1.11,33,Alpine,908-932-0124
+54,Ericaceae,26,4,4.57,1.57,39,Barnett,659-305-7407
+55,Aspleniaceae,35,5,4.44,1.02,31,Mcguire,490-933-9349
+56,Amblystegiaceae,28,7,4.48,1.00,34,Doe Crossing,717-316-2897
+57,Campanulaceae,42,4,4.00,1.22,26,Oakridge,766-420-2113
+58,Asteraceae,25,4,4.43,1.57,25,Blue Bill Park,610-333-4790
+59,Cyperaceae,27,4,4.70,1.55,36,Grayhawk,251-636-5769
+60,Fabaceae,33,7,4.73,1.36,36,Arizona,352-520-9685
+61,Lamiaceae,34,4,4.54,1.85,29,Boyd,495-309-7028
+62,Potamogetonaceae,42,2,4.46,1.07,38,Holy Cross,316-772-5394
+63,Polygonaceae,36,7,4.67,1.90,31,Oak Valley,138-150-7983
+64,Parmeliaceae,32,5,4.70,1.35,21,Quincy,869-281-9884
+65,Onagraceae,34,5,4.35,1.79,28,Lakewood Gardens,697-684-5736
+66,Rhamnaceae,28,4,4.33,1.45,22,Merrick,100-393-4192
+67,Fabaceae,27,2,4.00,1.43,23,Bunker Hill,993-111-4897
+68,Apiaceae,25,4,4.50,1.60,40,Prentice,573-671-2883
+69,Fabaceae,27,3,4.37,1.99,38,Acker,557-351-0840
+70,Agavaceae,29,7,4.46,1.05,34,Clyde Gallagher,556-319-3780
+71,Sapindaceae,38,5,4.85,1.87,34,Algoma,164-433-2019
+72,Apiaceae,33,7,4.70,1.67,25,Union,182-116-8267
+73,Brassicaceae,35,5,4.59,1.67,24,Grayhawk,679-396-4880
+74,Fabaceae,27,4,4.97,1.17,28,Darwin,695-705-8144
+75,Aspleniaceae,30,5,4.03,1.55,27,Chive,350-442-2380
+76,Micareaceae,29,4,4.48,1.71,27,Alpine,258-454-4011
+77,Asteraceae,35,6,4.72,1.96,32,Delladonna,722-788-4125
+78,Ericaceae,27,4,4.60,1.62,25,Maple Wood,120-778-2636
+79,Betulaceae,33,7,4.79,1.84,34,Texas,203-505-1672
+80,Asteraceae,42,3,4.85,1.11,34,Hazelcrest,930-590-5293
+81,Pittosporaceae,42,3,4.85,1.48,34,Hermina,204-836-0548
+82,Parmeliaceae,27,7,4.03,1.06,32,Mariners Cove,301-663-0613
+83,Collemataceae,38,6,4.90,1.28,40,Cardinal,190-623-9891
+84,Asteraceae,37,4,4.20,1.89,32,Pine View,342-253-1427
+85,Ranunculaceae,32,3,4.40,1.65,36,Mandrake,136-788-7179
+86,Asteraceae,26,7,4.53,1.62,20,Spaight,788-623-1054
+87,Cyperaceae,37,4,4.15,1.15,36,Evergreen,318-724-9219
+88,Polemoniaceae,34,4,4.09,1.05,34,Boyd,488-976-6827
+89,Cyperaceae,39,2,4.27,1.22,26,Swallow,547-612-9599
+90,Lamiaceae,26,2,4.52,1.34,22,Park Meadow,430-129-6742
+91,Saxifragaceae,34,6,4.83,1.68,40,La Follette,658-184-5745
+92,Cyperaceae,28,7,4.11,1.44,25,Nancy,168-928-5044
+93,Lentibulariaceae,25,2,4.12,1.78,40,Morning,405-469-4467
+94,Balsaminaceae,33,5,4.63,1.88,39,Londonderry,564-482-7086
+95,Polemoniaceae,34,3,4.65,1.33,22,Logan,762-441-3585
+96,Araceae,26,2,4.87,1.16,22,Gerald,991-110-4303
+97,Rosaceae,35,4,4.28,1.79,36,Milwaukee,904-156-6355
+98,Asteraceae,36,7,4.73,1.69,23,Waywood,698-957-9919
+99,Hydrophyllaceae,26,2,4.28,1.39,31,Barby,808-442-4020
+100,Verrucariaceae,32,6,4.62,1.16,36,Canary,256-782-1135
+101,Poaceae,38,6,4.49,1.48,23,Westend,800-132-0191
+102,Apiaceae,38,3,4.87,1.89,31,Granby,568-786-4253
+103,Lamiaceae,31,2,4.27,1.50,34,Monterey,109-928-7740
+104,Theaceae,30,6,4.76,1.60,28,Moland,275-599-5524
+105,Ebenaceae,26,3,4.25,1.81,27,Melvin,315-732-8467
+106,Poaceae,28,7,4.50,1.57,36,Anthes,269-627-3651
+107,Fabaceae,31,6,4.20,1.43,27,Union,496-751-4711
+108,Crassulaceae,42,7,4.07,1.71,25,Dawn,162-374-3480
+109,Pteridaceae,41,7,4.51,1.85,39,Green Ridge,850-408-1629
+110,Fabaceae,34,6,4.85,1.52,38,East,513-450-5970
+111,Gentianaceae,40,6,4.92,1.21,33,Mayfield,702-960-9916
+112,Polygonaceae,45,4,4.43,1.53,31,Michigan,538-270-4226
+113,Clusiaceae,38,3,4.87,1.01,21,Lindbergh,836-221-9000
+114,Fabaceae,39,3,4.22,1.19,39,Sullivan,201-853-2980
+115,Orthotrichaceae,37,6,4.81,1.33,22,Lerdahl,395-911-6926
+116,Nyctaginaceae,31,7,4.09,1.18,39,Laurel,930-711-3527
+117,Liliaceae,29,5,4.70,1.48,21,Sundown,107-104-1846
+118,Celastraceae,29,3,4.43,1.99,40,Lien,791-575-3695
+119,Apiaceae,39,5,4.17,1.76,24,Menomonie,706-877-9522
+120,Poaceae,31,6,4.74,1.53,26,Mockingbird,405-390-9131
+121,Saxifragaceae,45,2,4.88,1.44,28,Moose,635-814-0086
+122,Campanulaceae,30,6,4.07,1.83,27,Tony,222-867-6667
+123,Verbenaceae,37,7,4.11,1.27,39,Johnson,440-418-5688
+124,Cyperaceae,35,3,4.49,1.24,33,Meadow Ridge,670-444-1091
+125,Cornaceae,40,4,4.83,1.66,25,Maywood,256-437-8700
+126,Boraginaceae,27,2,4.99,1.95,24,Clyde Gallagher,704-452-2110
+127,Ophioglossaceae,32,4,4.53,1.37,27,Esker,113-615-8765
+128,Rhamnaceae,37,5,4.31,1.41,30,Wayridge,500-993-7257
+129,Brassicaceae,37,2,4.90,1.21,21,Almo,592-364-9727
+130,Liliaceae,34,2,5.00,1.18,21,Mcbride,913-522-0897
+131,Asteraceae,32,4,4.12,1.01,23,Shasta,644-613-7945
+132,Collemataceae,42,6,4.47,1.28,26,Eliot,644-887-2712
+133,Primulaceae,33,3,4.68,1.63,24,Hazelcrest,974-681-1620
+134,Fabaceae,41,4,4.07,1.87,38,Victoria,365-297-1932
+135,Primulaceae,37,5,4.65,1.14,40,Northport,634-536-7331
+136,Brassicaceae,39,7,4.05,1.47,25,Annamark,826-374-1807
+137,Rosaceae,28,2,4.85,1.87,25,Dawn,218-431-4293
+138,Apiaceae,45,6,4.96,1.30,26,Shopko,695-693-8796
+139,Asterothyriaceae,35,6,4.03,1.78,40,Union,248-223-0619
+140,Rosaceae,38,5,4.84,1.33,23,Twin Pines,472-445-4911
+141,Vitaceae,27,6,4.98,1.08,31,Jana,415-615-9010
+142,Dennstaedtiaceae,40,6,4.41,1.03,36,Dakota,778-428-8487
+143,Fabaceae,45,2,4.12,1.90,37,Coolidge,993-677-5095
+144,Plumbaginaceae,30,4,4.66,1.40,40,Acker,249-195-3538
+145,Solanaceae,42,5,4.90,1.21,33,Mallory,515-790-6234
+146,Rhamnaceae,33,2,4.50,1.60,38,Vera,654-180-4341
+147,Liliaceae,29,7,4.94,1.62,25,Sauthoff,309-327-0001
+148,Hydrophyllaceae,29,7,4.25,1.21,36,Milwaukee,398-877-6100
+149,Malvaceae,28,5,4.84,1.67,28,Ridge Oak,877-484-4256
+150,Papaveraceae,42,5,4.42,1.94,24,Westport,705-165-7815
+151,Scrophulariaceae,36,4,4.44,1.70,34,Dennis,619-208-4579
+152,Cyperaceae,36,2,4.58,1.84,39,Derek,775-383-1574
+153,Porpidiaceae,39,3,4.65,1.18,31,Onsgard,822-225-4130
+154,Polygonaceae,38,6,4.10,1.37,23,Vidon,686-684-3901
+155,Asteraceae,33,2,4.01,1.14,40,Comanche,458-430-6717
+156,Liliaceae,32,5,4.39,1.92,33,Northview,821-891-3413
+157,Apiaceae,39,6,4.66,1.51,30,Bunting,964-630-2603
+158,Poaceae,36,6,4.47,1.35,38,Browning,740-152-9269
+159,Asteraceae,31,2,4.89,1.60,26,Ilene,254-462-7373
+160,Oleaceae,45,4,4.34,1.36,34,Meadow Vale,231-292-4263
+161,Asteraceae,42,2,4.54,1.41,40,Monument,434-489-0369
+162,Asteraceae,31,7,4.74,1.72,22,Debs,141-875-2828
+163,Agavaceae,35,4,4.68,1.63,25,Susan,734-823-3513
+164,Ranunculaceae,35,4,4.06,1.74,39,Ruskin,814-758-5264
+165,Asteraceae,32,4,4.55,1.21,37,Clarendon,833-584-5566
+166,Rubiaceae,25,7,4.27,1.56,22,Leroy,777-618-2030
+167,Asteraceae,37,2,4.32,1.14,27,Melrose,297-633-0941
+168,Polemoniaceae,34,7,4.30,1.18,35,Crest Line,929-131-6683
+169,Fabaceae,25,2,4.66,1.14,20,Oak,213-152-4423
+170,Dennstaedtiaceae,28,7,4.03,1.33,34,Surrey,322-274-2787
+171,Asteraceae,34,5,4.18,1.21,36,Atwood,824-399-7432
+172,Asteraceae,26,6,4.68,1.30,28,Scofield,812-196-5889
+173,Cyperaceae,38,2,4.81,1.26,26,Sloan,917-438-4549
+174,Pyrenulaceae,29,5,4.33,1.41,27,Erie,798-486-4467
+175,Orchidaceae,30,5,4.57,1.39,36,Clemons,573-549-2569
+176,Scrophulariaceae,25,2,4.19,1.75,26,Arapahoe,869-283-7043
+177,Fabaceae,39,5,4.30,1.86,29,Longview,285-509-4193
+178,Fabaceae,44,7,4.99,1.00,33,Superior,937-269-7087
+179,Melastomataceae,37,2,4.25,1.63,26,Pennsylvania,615-971-9170
+180,Asteraceae,33,3,4.15,1.83,26,Ohio,312-943-8142
+181,Chenopodiaceae,30,4,4.52,1.05,36,Ryan,537-314-5677
+182,Boraginaceae,43,2,4.64,1.18,39,Center,863-625-7097
+183,Monoblastiaceae,35,6,4.97,1.08,37,Nobel,721-910-1951
+184,Saxifragaceae,39,2,4.13,1.02,22,Randy,681-469-7882
+185,Rutaceae,39,5,4.57,1.69,24,Longview,907-536-6520
+186,Malvaceae,45,6,4.62,1.14,38,Hooker,747-355-9442
+187,Hydrophyllaceae,32,6,4.99,1.85,28,Westport,743-206-3995
+188,Asteraceae,39,7,4.45,1.42,33,Clarendon,875-650-7290
+189,Asteraceae,26,7,4.77,1.41,31,Boyd,628-442-6199
+190,Scrophulariaceae,28,2,4.46,1.05,33,Moose,754-865-7264
+191,Fabaceae,39,2,4.80,1.11,25,Tony,247-319-2875
+192,Solanaceae,40,3,4.08,1.85,32,Hovde,825-774-9214
+193,Betulaceae,37,6,4.61,1.57,32,Crest Line,171-680-3908
+194,Monotropaceae,25,2,4.75,1.71,38,Birchwood,888-442-1010
+195,Lichinaceae,30,4,4.37,1.91,23,Green Ridge,206-772-7734
+196,Poaceae,38,7,4.68,1.94,32,International,706-353-3759
+197,Asteraceae,29,7,4.08,1.43,39,Kipling,941-581-0671
+198,Pteridaceae,40,3,4.49,1.08,37,Chive,720-222-8988
+199,Poaceae,27,3,4.96,1.88,39,Ridgeway,966-876-0571
+200,Asteraceae,32,6,4.59,1.33,35,Thompson,152-987-0544
+201,Euphorbiaceae,30,2,4.25,1.97,39,Mayfield,438-392-0166
+202,Asteraceae,30,2,4.32,1.13,36,Mitchell,587-173-4139
+203,Caryophyllaceae,42,6,4.97,1.45,29,Kingsford,923-692-6125
+204,Asteraceae,37,3,4.77,1.25,24,Karstens,232-365-8939
+205,Salicaceae,26,5,4.64,1.66,26,New Castle,755-419-7102
+206,Agavaceae,32,4,4.66,1.83,23,Vera,136-527-3359
+207,Asteraceae,26,6,4.11,1.71,27,Graedel,806-421-2457
+208,Polemoniaceae,38,3,4.48,1.84,32,Walton,707-878-0583
+209,Fabaceae,32,4,4.05,1.04,32,Laurel,358-187-3314
+210,Chenopodiaceae,40,2,4.34,1.10,24,Beilfuss,592-986-6855
+211,Scrophulariaceae,28,2,4.21,1.60,29,Spenser,677-706-0361
+212,Solanaceae,43,6,4.85,1.23,22,Riverside,765-332-7967
+213,Asteraceae,45,7,4.70,1.48,23,Briar Crest,418-210-7439
+214,Physciaceae,31,3,4.13,1.78,38,Reindahl,801-364-1202
+215,Apocynaceae,34,4,4.38,1.87,35,Eliot,992-593-1153
+216,Agavaceae,32,4,4.68,1.02,29,Hanover,803-955-2208
+217,Parmeliaceae,43,2,4.80,1.44,26,Pierstorff,377-226-1409
+218,Malvaceae,39,3,4.78,1.32,24,Warrior,456-913-3803
+219,Fabaceae,34,4,4.23,1.85,33,Moose,200-889-3354
+220,Fabaceae,39,4,4.12,1.29,25,Elmside,479-532-2829
+221,Aspleniaceae,30,5,4.97,1.26,31,Thompson,198-463-7279
+222,Ephedraceae,32,2,4.39,1.61,23,Corben,935-545-0148
+223,Solanaceae,29,5,4.70,1.84,38,Hermina,194-646-7905
+224,Rosaceae,29,2,4.94,1.96,29,Dixon,877-704-5752
+225,Ericaceae,31,7,4.53,1.86,27,Fair Oaks,918-649-9373
+226,Aristolochiaceae,44,6,4.86,1.94,33,Parkside,506-260-8980
+227,Onagraceae,39,2,4.52,1.74,28,Bluestem,691-935-6204
+228,Pannariaceae,29,2,4.55,1.12,21,Valley Edge,892-982-9428
+229,Cactaceae,28,7,4.98,1.37,33,Lindbergh,260-153-7712
+230,Lecideaceae,33,2,4.78,1.18,26,Green,581-723-0925
+231,Balsaminaceae,25,2,4.20,1.94,22,Burning Wood,470-438-4737
+232,Malvaceae,32,5,4.27,1.14,28,Carberry,845-362-8634
+233,Burmanniaceae,45,7,4.06,1.68,36,Prairie Rose,811-378-0977
+234,Euphorbiaceae,32,4,4.57,1.70,36,Fallview,648-394-8720
+235,Polygonaceae,26,3,4.06,1.05,21,Glacier Hill,101-493-6021
+236,Papaveraceae,27,7,4.22,1.10,24,Monterey,744-788-2936
+237,Asteraceae,32,6,4.84,1.88,31,Esker,351-547-4243
+238,Cyperaceae,43,7,4.79,1.81,33,Oak,136-880-7186
+239,Cyperaceae,31,5,4.91,1.59,27,Namekagon,337-363-9194
+240,Betulaceae,26,5,4.79,1.62,30,Cody,787-400-3540
+241,Fabaceae,32,5,4.93,1.58,35,Harper,462-733-0187
+242,Polemoniaceae,44,2,4.48,1.13,33,Fulton,119-830-9833
+243,Onagraceae,32,4,4.42,1.94,38,Cherokee,997-327-6089
+244,Asteraceae,32,7,4.33,1.20,40,Forster,709-818-2492
+245,Myrtaceae,43,2,4.31,1.26,29,Namekagon,769-557-9902
+246,Brassicaceae,43,7,4.89,1.32,29,Graedel,454-713-5955
+247,Poaceae,26,7,4.99,1.55,32,Chinook,577-396-1497
+248,Poaceae,25,3,4.63,1.36,39,Pankratz,575-402-6351
+249,Caryophyllaceae,29,5,4.08,1.51,25,Charing Cross,361-851-4591
+250,Polemoniaceae,33,7,4.22,1.63,27,Evergreen,891-915-9138
+251,Fagaceae,29,7,4.60,1.66,36,Amoth,177-718-0571
+252,Asteraceae,29,3,4.90,1.05,21,Knutson,734-916-9154
+253,Brassicaceae,31,6,4.51,1.78,40,Hoard,825-701-8183
+254,Caryophyllaceae,35,7,4.32,1.23,25,Banding,628-262-6331
+255,Thelotremataceae,44,2,4.38,1.70,21,Melrose,580-454-0480
+256,Melastomataceae,33,5,4.44,1.37,36,Sunnyside,278-190-1511
+257,Collemataceae,32,7,4.04,1.53,26,Haas,876-563-4807
+258,Poaceae,44,2,4.26,1.53,31,Carey,794-329-4482
+259,Sterculiaceae,36,5,4.24,1.68,31,Armistice,164-494-8623
+260,Rosaceae,31,7,4.76,1.31,37,Mcguire,191-515-5909
+261,Liliaceae,30,5,4.79,1.67,31,Morrow,301-750-3622
+262,Liliaceae,31,5,4.42,1.75,27,Merry,422-513-2513
+263,Poaceae,39,3,4.66,1.59,25,Nelson,597-859-6308
+264,Fabaceae,35,6,4.83,1.86,35,Sugar,987-884-8713
+265,Vitaceae,42,3,4.53,1.59,30,Moose,392-301-8730
+266,Aceraceae,32,3,4.28,1.02,38,Farmco,340-552-9626
+267,Asteraceae,34,2,4.14,1.48,23,Bunting,116-114-5983
+268,Rosaceae,26,3,4.66,2.00,21,Pearson,101-994-3135
+269,Gentianaceae,30,4,4.58,1.15,37,Heffernan,760-200-9148
+270,Cuscutaceae,25,2,4.84,1.49,34,New Castle,903-972-6625
+271,Cactaceae,37,3,4.26,1.66,25,Bowman,324-334-4342
+272,Collemataceae,25,3,4.14,1.95,38,Pawling,846-433-1333
+273,Brassicaceae,44,4,4.49,1.23,25,Karstens,365-628-2897
+274,Rosaceae,38,7,4.30,1.88,24,Granby,605-188-7810
+275,Lecanoraceae,44,5,4.44,1.70,35,Helena,642-769-6376
+276,Fabaceae,43,5,4.83,1.61,36,Schurz,897-988-8943
+277,Asteraceae,41,7,4.50,1.83,22,Haas,387-539-5488
+278,Betulaceae,32,4,4.05,1.33,25,Service,360-873-5275
+279,Acanthaceae,44,3,4.23,1.88,24,Melby,554-135-9274
+280,Brassicaceae,27,5,4.38,1.34,28,Independence,683-471-6912
+281,Euphorbiaceae,30,7,4.74,1.72,27,Burrows,978-768-6351
+282,Cladoniaceae,29,6,4.94,1.84,36,Troy,328-224-4813
+283,Solanaceae,29,6,4.13,1.94,22,Macpherson,303-691-9925
+284,Fabaceae,45,4,4.85,1.65,21,Holmberg,962-850-0162
+285,Crassulaceae,26,5,4.97,1.64,32,Lyons,644-256-8434
+286,Polygonaceae,41,2,4.41,1.84,30,Muir,608-959-0126
+287,Santalaceae,30,4,4.78,1.08,24,Morningstar,539-981-5753
+288,Caprifoliaceae,26,5,4.71,1.24,40,Jay,849-486-3371
+289,Salicaceae,25,7,4.91,1.34,40,Vera,255-140-6721
+290,Scrophulariaceae,43,6,4.20,1.16,21,Nancy,429-394-6751
+291,Asteraceae,25,7,4.23,1.80,34,Service,263-999-9227
+292,Asclepiadaceae,36,3,4.54,1.71,40,Bonner,463-860-2982
+293,Moraceae,25,5,4.47,1.62,29,Sachtjen,886-751-1530
+294,Lecideaceae,28,7,4.11,1.92,39,Norway Maple,898-762-0759
+295,Asteraceae,25,3,4.71,1.81,23,Kedzie,390-876-1392
+296,Poaceae,33,2,4.92,1.03,28,Harbort,194-765-6876
+297,Saxifragaceae,27,2,4.36,1.47,38,Rutledge,487-594-7287
+298,Apiaceae,38,7,4.09,1.38,37,Algoma,142-493-9083
+299,Fabaceae,36,5,4.38,1.59,30,Swallow,225-670-3162
+300,Berberidaceae,35,5,4.64,1.56,31,North,960-564-0654
+301,Fabaceae,44,6,4.25,1.09,36,Carioca,112-315-5331
+302,Blechnaceae,27,2,4.91,1.75,20,Spenser,685-167-9438
+303,Ranunculaceae,31,2,4.16,1.20,31,Crest Line,506-995-3373
+304,Fabaceae,25,6,4.04,1.08,20,Sullivan,631-155-4963
+305,Lecanoraceae,38,5,4.88,1.70,38,Talmadge,757-251-3851
+306,Saxifragaceae,41,5,4.30,1.33,27,Independence,209-135-7128
+307,Pteridaceae,42,6,4.37,1.91,35,Derek,712-808-9675
+308,Brassicaceae,40,4,4.48,1.10,33,New Castle,861-425-1213
+309,Asteraceae,31,6,4.62,1.35,36,Tomscot,924-751-4617
+310,Hydrophyllaceae,34,3,4.96,1.88,34,Bonner,662-128-7988
+311,Gesneriaceae,33,7,4.49,1.72,34,Evergreen,215-714-6094
+312,Parmeliaceae,26,3,4.91,1.89,33,Northwestern,680-373-1368
+313,Lecanoraceae,25,7,4.95,1.70,37,Lawn,208-608-4116
+314,Asteraceae,29,6,4.16,1.16,28,Stephen,848-588-8323
+315,Poaceae,39,7,4.11,1.95,33,American Ash,366-731-4223
+316,Juglandaceae,30,6,4.39,1.44,23,Ohio,648-181-4988
+317,Boraginaceae,26,3,4.87,1.25,30,Fulton,864-844-2572
+318,Geraniaceae,41,5,4.78,1.49,24,American,537-292-5876
+319,Fabaceae,25,4,4.91,1.32,20,Mesta,197-438-5986
+320,Saxifragaceae,34,6,4.49,1.41,20,Park Meadow,688-674-5449
+321,Brassicaceae,37,2,4.08,1.87,27,Maple,707-563-7427
+322,Thymelaeaceae,30,2,4.33,1.04,21,Nova,389-463-9307
+323,Brassicaceae,33,7,4.49,1.35,23,Meadow Ridge,807-419-6735
+324,Crassulaceae,41,7,4.85,1.74,39,Shoshone,807-544-5083
+325,Physciaceae,36,3,4.20,1.91,20,Kensington,164-469-1807
+326,Caryophyllaceae,45,6,4.51,1.80,21,Golf,477-131-8734
+327,Cladoniaceae,28,2,4.05,1.61,34,Main,717-161-6072
+328,Fabaceae,38,6,4.50,1.05,23,1st,399-112-8662
+329,Hydrophyllaceae,35,7,4.75,1.83,34,Haas,250-682-0471
+330,Asteraceae,26,3,4.40,1.37,32,Talisman,421-918-4033
+331,Asteraceae,42,7,4.68,1.98,33,Manitowish,428-530-7712
+332,Grossulariaceae,29,7,4.07,1.17,22,Ludington,546-850-6463
+333,Polygonaceae,40,7,4.86,1.29,33,Forest Dale,861-880-7951
+334,Blechnaceae,44,4,4.99,1.01,24,Dahle,523-666-4174
+335,Ranunculaceae,36,6,4.47,1.63,21,Rigney,879-377-1860
+336,Apiaceae,39,5,4.63,1.35,29,Meadow Vale,792-350-2264
+337,Geraniaceae,26,5,4.28,1.30,23,Bayside,132-112-2228
+338,Pottiaceae,28,2,4.90,1.14,33,John Wall,918-304-3828
+339,Onagraceae,25,3,4.37,1.77,38,Division,601-581-9357
+340,Apiaceae,25,5,4.28,1.63,34,Karstens,318-918-7796
+341,Valerianaceae,45,5,4.14,1.62,23,West,516-398-2058
+342,Fabaceae,25,5,4.55,1.45,38,Blue Bill Park,982-605-8513
+343,Asteraceae,42,6,4.63,1.38,22,Bartillon,468-522-8612
+344,Chenopodiaceae,43,4,4.69,1.30,39,Prairieview,763-112-5009
+345,Juncaceae,42,7,4.69,1.15,21,Maple,930-824-8255
+346,Geraniaceae,25,6,4.22,1.53,40,Lukken,834-972-5075
+347,Polypodiaceae,39,2,4.06,1.94,36,Aberg,614-486-8110
+348,Asteraceae,30,6,4.60,1.14,31,Eastwood,446-726-0821
+349,Tiliaceae,32,4,4.17,1.95,31,Comanche,107-133-7179
+350,Poaceae,31,6,4.83,1.31,20,Cordelia,446-701-4047
+351,Hydrocharitaceae,38,7,4.35,1.93,24,Service,679-123-3338
+352,Asteraceae,31,3,4.08,1.68,27,Ramsey,568-876-6043
+353,Asteraceae,42,7,4.23,1.97,21,Sullivan,521-388-2097
+354,Asteraceae,39,5,4.52,1.97,23,Luster,276-658-0482
+355,Rhizocarpaceae,31,4,4.34,1.97,35,Ilene,613-941-5669
+356,Cactaceae,31,6,4.98,1.48,39,Bowman,200-254-2408
+357,Cyperaceae,28,2,4.63,1.10,21,Bultman,749-720-6019
+358,Fabaceae,38,3,4.51,1.38,34,Sugar,970-917-1275
+359,Physciaceae,38,5,4.97,1.61,31,Main,803-455-3962
+360,Gesneriaceae,45,6,4.86,1.88,35,Kings,185-647-1647
+361,Fabaceae,29,6,4.13,1.95,34,Banding,995-960-1175
+362,Brassicaceae,41,4,4.53,1.38,27,Boyd,995-599-5875
+363,Betulaceae,31,5,4.45,2.00,33,Buena Vista,370-173-5615
+364,Caryophyllaceae,29,4,4.27,1.55,28,Moulton,505-710-8009
+365,Cladoniaceae,37,2,4.69,1.90,30,Comanche,956-288-7528
+366,Polemoniaceae,40,3,4.56,1.43,23,Debs,115-702-9195
+367,Asteraceae,35,4,4.14,1.05,31,Bashford,461-354-0314
+368,Viscaceae,26,4,4.55,1.31,30,Stephen,346-786-9376
+369,Parmeliaceae,27,2,4.28,1.69,35,Lien,771-148-8845
+370,Polemoniaceae,39,3,4.79,1.74,27,Lakewood,985-125-0564
+371,Asteraceae,37,7,4.64,1.33,38,Buena Vista,381-525-6307
+372,Polemoniaceae,29,5,4.52,1.97,39,Ludington,385-235-0131
+373,Brassicaceae,35,6,4.31,1.62,32,School,919-660-3831
+374,Hydrophyllaceae,28,4,4.31,1.94,38,Forest Dale,685-111-5789
+375,Poaceae,34,3,4.64,1.02,25,Bashford,501-854-2806
+376,Asteraceae,40,6,4.90,1.86,25,Badeau,603-951-5961
+377,Poaceae,30,2,4.77,1.80,28,Vera,688-765-7405
+378,Buxaceae,32,7,4.45,1.36,37,Lunder,353-288-3570
+379,Cucurbitaceae,25,4,4.92,1.79,38,Tennyson,471-592-4297
+380,Asteraceae,26,4,4.02,1.44,26,Morningstar,703-386-3748
+381,Graphidaceae,36,7,4.11,1.40,30,Montana,709-536-0933
+382,Polygonaceae,30,5,4.79,1.35,26,Paget,804-219-9719
+383,Asteraceae,40,3,4.78,1.05,37,5th,822-137-7995
+384,Ectolechiaceae,45,5,4.58,1.35,24,Boyd,367-272-2890
+385,Apiaceae,36,6,4.04,1.87,21,Bobwhite,583-401-7294
+386,Pottiaceae,45,3,5.00,1.88,23,Derek,706-406-9332
+387,Euphorbiaceae,34,3,4.77,1.10,27,Prairie Rose,131-829-9857
+388,Dilleniaceae,42,3,4.64,1.13,38,Kensington,662-682-0976
+389,Blechnaceae,38,7,4.05,1.18,31,Colorado,165-992-5366
+390,Pteridaceae,45,4,4.95,1.54,23,Dunning,899-364-8638
+391,Araliaceae,35,5,4.19,1.40,35,Victoria,868-640-9135
+392,Onagraceae,25,2,4.13,1.52,21,Carioca,752-200-7706
+393,Liliaceae,35,5,4.76,1.51,22,8th,890-676-3244
+394,Poaceae,42,5,4.47,1.80,30,Brentwood,779-852-7949
+395,Gyalectaceae,44,6,4.94,1.68,20,Welch,233-485-1721
+396,Fabaceae,26,3,4.75,1.86,35,Oneill,937-775-2979
+397,Polygonaceae,29,5,4.51,1.21,21,Manitowish,464-241-1258
+398,Araceae,36,5,4.80,1.81,35,Eastlawn,593-170-6015
+399,Tamaricaceae,36,2,4.30,1.19,33,Logan,610-243-6945
+400,Pinaceae,25,3,4.21,1.12,27,Sachtjen,929-733-9908
+401,Euphorbiaceae,25,7,4.61,1.84,21,Schmedeman,106-468-5677
+402,Scrophulariaceae,27,7,4.70,1.42,24,Shasta,406-350-3233
+403,Lamiaceae,32,7,4.04,1.65,23,Del Mar,155-507-2110
+404,Meliaceae,42,5,4.15,1.12,38,Bunting,455-605-3358
+405,Peltigeraceae,25,7,4.37,1.27,32,Swallow,330-306-5548
+406,Boraginaceae,43,6,4.88,1.93,31,Tennessee,740-867-4102
+407,Chenopodiaceae,39,7,4.50,1.26,28,Pearson,796-553-7853
+408,Asteraceae,36,4,4.87,1.65,38,Utah,380-325-2152
+409,Porpidiaceae,35,7,4.97,1.57,38,Morrow,291-971-0908
+410,Selaginellaceae,44,7,4.66,1.21,32,Northport,892-485-1380
+411,Pteridaceae,31,3,4.84,1.61,38,Dixon,942-681-7891
+412,Rosaceae,39,5,4.56,1.58,21,Muir,184-917-8110
+413,Fabaceae,34,6,4.83,1.11,21,Reinke,105-331-5754
+414,Brassicaceae,37,7,4.73,1.42,25,John Wall,808-641-6348
+415,Poaceae,28,4,4.60,1.32,30,Dryden,324-227-2260
+416,Brassicaceae,26,7,4.09,1.34,40,Homewood,688-809-7041
+417,Boraginaceae,29,7,4.98,1.24,30,Division,629-843-5464
+418,Fabaceae,30,7,4.07,1.95,31,Schurz,790-974-2059
+419,Parmeliaceae,44,6,4.93,1.36,30,Dawn,548-593-8958
+420,Apiaceae,33,3,4.88,1.37,36,Summit,847-982-8219
+421,Myrtaceae,25,3,4.68,1.70,39,Hansons,353-985-3279
+422,Pottiaceae,25,4,4.10,1.22,21,Blackbird,145-623-1934
+423,Pandanaceae,34,5,4.63,1.22,35,Cody,304-279-4128
+424,Cyperaceae,29,4,4.82,1.79,28,Dawn,598-786-4098
+425,Nyctaginaceae,37,6,4.03,1.57,28,Mallard,463-768-7593
+426,Physciaceae,43,2,4.19,1.30,33,Esker,453-731-9886
+427,Onagraceae,34,6,4.97,1.58,30,Magdeline,732-569-5726
+428,Lamiaceae,43,7,4.29,1.63,22,Hagan,386-374-9876
+429,Portulacaceae,40,5,4.51,1.75,20,Fisk,162-428-5680
+430,Pyrenulaceae,31,4,4.43,1.09,38,Crownhardt,921-829-7435
+431,Brassicaceae,40,3,4.04,1.48,35,Westend,515-582-9376
+432,Asteraceae,42,5,4.09,1.79,23,Vidon,166-627-7121
+433,Fabaceae,26,2,4.51,1.05,38,Straubel,363-185-7003
+434,Caprifoliaceae,28,3,4.84,1.50,37,Hoffman,537-741-0330
+435,Poaceae,40,6,4.96,1.96,25,Ilene,322-189-7477
+436,Marsileaceae,39,3,4.77,1.06,31,Carioca,383-734-6167
+437,Campanulaceae,39,7,4.23,1.60,24,Clarendon,374-254-0619
+438,Simaroubaceae,37,3,4.38,1.97,33,Sunfield,241-457-6932
+439,Lauraceae,39,6,4.23,1.32,35,Fremont,615-666-0162
+440,Piperaceae,26,2,4.81,1.75,28,Dennis,110-824-7554
+441,Iridaceae,45,2,4.79,1.19,39,Fairview,198-677-0710
+442,Asteraceae,37,3,4.55,1.17,21,Nobel,567-414-8604
+443,Asteraceae,29,7,4.08,1.32,21,Miller,824-253-2511
+444,Amblystegiaceae,35,3,4.73,1.28,25,Towne,449-830-8091
+445,Parmeliaceae,35,2,4.09,1.43,38,Northwestern,189-832-4048
+446,Asteraceae,40,7,4.29,1.25,21,Norway Maple,516-110-0340
+447,Asteraceae,27,5,4.61,1.37,36,Pine View,614-938-8890
+448,Poaceae,31,5,4.84,1.95,25,Porter,688-915-1491
+449,Myrtaceae,37,6,4.54,1.19,21,Oneill,956-857-3606
+450,Orchidaceae,25,4,4.54,1.30,24,Village,516-488-5428
+451,Hypnaceae,40,4,4.95,1.31,40,Mesta,788-370-7712
+452,Orchidaceae,27,3,4.31,1.63,29,Dennis,367-598-2150
+453,Poaceae,31,7,4.56,1.51,29,Elgar,845-742-9305
+454,Poaceae,33,6,4.52,1.58,31,Morrow,494-285-2019
+455,Agavaceae,25,3,4.37,1.56,39,Bluestem,616-417-6175
+456,Asteraceae,45,5,4.83,1.75,34,Riverside,449-313-3164
+457,Fabaceae,31,5,4.45,1.06,32,Homewood,640-216-1219
+458,Ranunculaceae,29,7,4.99,1.33,39,Oriole,505-432-8776
+459,Asteraceae,32,5,4.40,1.61,33,Ridgeview,499-114-4050
+460,Apiaceae,26,5,4.54,1.45,38,Bellgrove,866-123-9905
+461,Poaceae,30,2,4.80,1.58,37,Golf Course,985-925-2234
+462,Polemoniaceae,28,6,4.72,1.13,35,Spaight,390-632-6948
+463,Poaceae,29,6,4.80,1.62,40,Graceland,489-727-3677
+464,Ranunculaceae,40,4,4.38,1.00,20,Kenwood,384-408-9392
+465,Poaceae,45,6,4.54,1.95,24,Mendota,709-988-3785
+466,Asteraceae,40,3,4.62,1.96,34,Morningstar,436-704-9601
+467,Lamiaceae,33,7,4.55,1.40,28,Emmet,631-387-9771
+468,Onagraceae,38,3,4.84,1.66,24,Mayer,481-521-3196
+469,Dryopteridaceae,29,2,4.31,1.06,20,Dovetail,260-360-1485
+470,Solanaceae,45,7,4.39,1.81,20,Rusk,697-179-7452
+471,Pinaceae,36,6,4.67,1.74,24,Pleasure,557-618-5421
+472,Fabaceae,25,7,4.40,1.61,28,6th,682-189-3794
+473,Fabaceae,31,3,4.02,1.38,39,Summit,234-307-8378
+474,Asteraceae,28,5,4.35,1.83,20,Bluejay,744-561-9697
+475,Asteraceae,32,7,4.08,1.06,27,Transport,405-693-1206
+476,Fabaceae,27,7,4.67,1.28,37,Iowa,727-514-1626
+477,Scrophulariaceae,34,2,4.43,1.91,22,Brickson Park,676-784-0465
+478,Aristolochiaceae,38,2,4.38,1.48,35,Trailsway,311-740-6167
+479,Asclepiadaceae,28,4,4.94,1.78,31,Memorial,525-230-4216
+480,Parmeliaceae,39,5,4.23,1.42,39,Novick,429-483-5206
+481,Ditrichaceae,26,5,4.23,1.42,36,Mockingbird,391-128-0829
+482,Pyrolaceae,31,3,4.40,1.79,39,Roxbury,750-152-5575
+483,Polygalaceae,28,6,4.49,1.38,28,Wayridge,640-886-5282
+484,Apiaceae,25,7,4.64,1.65,27,Comanche,670-429-7149
+485,Proteaceae,27,4,4.87,1.73,25,Rigney,449-558-2451
+486,Fabaceae,34,2,4.38,1.45,34,4th,929-677-8755
+487,Frankeniaceae,27,2,4.94,1.40,29,Tony,864-785-9775
+488,Asteraceae,35,4,4.20,1.86,27,Jana,139-696-9512
+489,Aristolochiaceae,26,5,4.26,1.55,36,Dorton,776-853-1487
+490,Ranunculaceae,30,4,4.54,1.16,39,Orin,913-158-1947
+491,Cyperaceae,27,3,4.57,1.10,20,Fremont,428-686-1692
+492,Sphagnaceae,34,4,4.59,1.97,38,Aberg,359-691-0867
+493,Asteraceae,45,6,5.00,1.46,40,Elmside,136-724-4825
+494,Fabaceae,26,5,4.64,1.87,24,Lunder,414-291-4163
+495,Orchidaceae,31,3,4.20,1.66,22,Darwin,844-798-2070
+496,Fabaceae,40,6,4.71,1.98,36,Hoard,139-150-7958
+497,Lamiaceae,29,7,4.15,1.21,27,Prairieview,158-484-7035
+498,Rhamnaceae,38,3,4.81,1.58,25,Brentwood,290-103-8242
+499,Chenopodiaceae,37,7,4.63,1.63,37,Fisk,143-370-9867
+500,Asteraceae,28,6,4.09,1.83,20,Macpherson,656-230-8466
+501,Scrophulariaceae,41,3,4.95,1.44,32,Debra,369-861-3423
+502,Brassicaceae,42,2,4.31,1.13,35,Milwaukee,418-951-7952
+503,Selaginellaceae,45,3,4.07,1.05,25,Leroy,659-705-5832
+504,Fabaceae,29,6,4.19,1.28,29,Myrtle,174-616-2221
+505,Celastraceae,33,7,4.49,1.35,40,Redwing,170-865-5452
+506,Dactylosporaceae,35,6,4.30,1.27,26,Meadow Vale,446-998-3451
+507,Rosaceae,38,7,4.23,1.07,20,Trailsway,837-835-3486
+508,Onagraceae,45,5,4.70,1.62,39,Scott,200-806-1337
+509,Aspleniaceae,28,4,4.15,1.94,20,Luster,507-530-7654
+510,Asteraceae,38,3,4.51,1.17,26,Logan,259-545-6617
+511,Apiaceae,31,3,4.34,1.04,39,Stephen,325-656-1809
+512,Agavaceae,38,6,4.66,1.33,40,Blaine,885-283-2954
+513,Asteraceae,30,3,4.85,1.04,29,Arapahoe,523-325-1287
+514,Rosaceae,25,7,4.04,1.55,30,Eagle Crest,135-487-6377
+515,Cyperaceae,28,5,4.54,1.55,36,Bashford,814-565-6693
+516,Apocynaceae,41,2,4.04,1.14,35,Buena Vista,557-158-4363
+517,Cuscutaceae,37,5,4.46,1.35,22,Springview,114-950-6356
+518,Polytrichaceae,27,7,4.10,1.04,28,Waxwing,637-656-4513
+519,Selaginellaceae,42,2,4.15,1.87,36,Hermina,529-685-9279
+520,Asteraceae,26,3,4.29,1.52,36,Twin Pines,568-175-2269
+521,Lamiaceae,31,4,4.00,1.01,25,Vahlen,953-110-4995
+522,Cladoniaceae,38,5,4.12,1.82,40,Boyd,150-321-2866
+523,Polemoniaceae,41,7,4.61,1.28,22,Bobwhite,924-919-2994
+524,Dryopteridaceae,34,2,4.45,1.00,35,Merrick,468-763-2647
+525,Scrophulariaceae,30,3,4.99,1.91,22,Sunbrook,216-118-2451
+526,Burseraceae,30,5,4.27,1.77,40,Del Sol,294-475-6144
+527,Aspleniaceae,32,6,4.26,1.59,22,Sachtjen,113-675-1677
+528,Polytrichaceae,39,7,4.02,1.70,32,Linden,494-448-0635
+529,Asclepiadaceae,45,7,4.06,1.12,35,Farwell,755-805-5999
+530,Asteraceae,27,7,4.39,1.59,39,Norway Maple,192-466-6393
+531,Leskeaceae,26,7,4.51,1.44,40,Dexter,909-271-9479
+532,Fabaceae,26,6,4.61,1.04,21,Golf View,665-219-5567
+533,Commelinaceae,27,5,4.09,1.20,38,Sachtjen,585-961-0011
+534,Asteraceae,39,3,4.08,1.43,27,Kings,647-687-9823
+535,Poaceae,26,2,4.63,1.29,26,Becker,448-336-0295
+536,Cyperaceae,39,2,4.46,1.77,23,Surrey,637-839-7254
+537,Rosaceae,33,5,4.77,1.91,37,Toban,604-273-9957
+538,Liliaceae,39,5,4.48,1.42,31,Sauthoff,272-605-1242
+539,Polygonaceae,27,7,4.52,1.50,31,Maple Wood,549-697-4358
+540,Lycopodiaceae,32,3,4.37,1.87,30,Sunnyside,468-693-9921
+541,Caryophyllaceae,36,6,5.00,1.95,33,Village,158-560-7889
+542,Capparaceae,39,3,4.30,1.54,37,Grayhawk,474-577-3272
+543,Malvaceae,37,5,4.52,1.63,35,Jackson,404-796-0262
+544,Rosaceae,36,6,4.82,1.71,30,Crest Line,292-686-9615
+545,Asclepiadaceae,29,7,4.79,1.61,22,Scoville,865-468-9899
+546,Moraceae,28,6,4.45,1.13,32,Mandrake,201-165-6026
+547,Fabaceae,35,4,4.50,1.78,27,Corry,937-322-1428
+548,Polygonaceae,40,2,4.49,1.12,36,1st,847-259-9123
+549,Malvaceae,41,2,4.22,2.00,36,Del Mar,646-916-8210
+550,Asteraceae,44,4,4.90,1.26,21,Sloan,494-603-4461
+551,Candelariaceae,31,6,4.41,1.52,24,Corry,836-448-6879
+552,Boraginaceae,28,5,4.54,1.50,40,Waxwing,756-572-8112
+553,Grammitidaceae,42,6,4.05,1.94,35,Hooker,421-735-0739
+554,Polygonaceae,37,6,4.39,1.74,20,Rusk,771-276-7820
+555,Asteraceae,44,5,4.49,1.16,35,Moose,263-572-7476
+556,Verbenaceae,30,2,4.46,1.43,31,Sherman,529-909-2214
+557,Portulacaceae,32,4,4.76,1.21,21,Fisk,160-778-3150
+558,Rubiaceae,32,6,4.04,1.02,24,Comanche,425-554-3316
+559,Melastomataceae,44,3,4.81,1.27,27,Division,311-200-9055
+560,Pontederiaceae,31,7,4.24,1.96,21,Banding,539-759-7525
+561,Rosaceae,35,2,4.10,1.46,30,Prentice,652-941-4083
+562,Orthotrichaceae,38,2,4.85,1.83,36,Ohio,771-343-8433
+563,Asteraceae,35,3,4.09,1.69,20,Gateway,906-324-4633
+564,Andreaeaceae,28,4,4.52,1.99,20,3rd,750-917-3268
+565,Zygophyllaceae,26,6,4.44,1.60,20,Fisk,924-996-3798
+566,Frankeniaceae,35,2,4.53,1.22,35,7th,895-275-9787
+567,Hookeriaceae,45,7,4.90,1.84,32,Welch,681-817-0355
+568,Lamiaceae,33,4,4.41,1.62,29,Drewry,594-361-6502
+569,Hydrophyllaceae,45,4,4.66,1.40,33,Dahle,375-683-5393
+570,Fabaceae,31,7,4.85,1.93,37,Hoffman,976-159-3512
+571,Poaceae,29,3,4.68,1.88,39,Rockefeller,348-351-1246
+572,Nyctaginaceae,25,3,4.61,1.16,35,Moose,342-455-0968
+573,Fabaceae,28,7,4.88,1.39,31,Ramsey,139-308-7363
+574,Poaceae,30,2,4.64,1.77,25,Buena Vista,904-837-1917
+575,Amblystegiaceae,45,2,4.69,1.34,27,Manley,585-907-8124
+576,Hydrophyllaceae,42,6,4.93,1.33,35,Kingsford,594-890-3404
+577,Fabaceae,44,5,4.26,1.83,38,Eastlawn,227-409-2297
+578,Caryophyllaceae,42,3,4.54,1.01,30,Spaight,190-406-6304
+579,Scrophulariaceae,33,3,4.12,1.65,20,Blue Bill Park,903-182-3538
+580,Fabaceae,26,2,4.38,1.35,39,Buena Vista,942-201-5679
+581,Fabaceae,27,7,4.87,1.97,37,Sullivan,520-500-6809
+582,Hymenophyllaceae,32,4,4.48,1.95,25,Fairfield,159-352-6228
+583,Ditrichaceae,30,6,4.39,1.67,26,Scoville,786-190-9297
+584,Brachytheciaceae,29,5,4.00,1.79,31,Chinook,100-610-6399
+585,Asteraceae,42,5,4.77,1.50,25,Thierer,993-348-7773
+586,Poaceae,28,4,4.50,1.43,23,La Follette,350-576-4874
+587,Asteraceae,28,6,4.12,1.56,37,New Castle,871-705-5919
+588,Boraginaceae,44,2,4.07,1.97,25,Stang,943-934-3350
+589,Fontinalaceae,27,3,4.33,1.80,21,Westridge,718-631-7136
+590,Thelenellaceae,40,7,4.53,1.89,38,Sommers,651-962-3115
+591,Campanulaceae,37,3,4.36,1.01,28,Sunfield,121-760-9020
+592,Euphorbiaceae,35,5,4.55,1.16,37,Lien,791-502-7481
+593,Saxifragaceae,36,7,4.73,1.10,39,Eggendart,827-657-9999
+594,Dicranaceae,43,7,4.01,1.25,37,Northfield,467-427-6662
+595,Hylocomiaceae,42,6,4.14,1.74,22,Oriole,468-646-7284
+596,Ranunculaceae,32,7,4.90,1.74,27,Clemons,629-590-9949
+597,Cyperaceae,26,5,4.77,1.06,40,West,808-948-3896
+598,Asteraceae,31,3,4.76,1.57,40,Cambridge,204-950-3641
+599,Asteraceae,35,7,4.00,1.50,34,Arapahoe,145-374-7056
+600,Lamiaceae,30,7,4.93,1.53,27,Ludington,574-397-5061
+601,Dryopteridaceae,37,4,4.34,1.27,25,Mccormick,941-914-1928
+602,Apiaceae,26,2,4.30,1.66,33,Maple,849-695-5424
+603,Brassicaceae,37,3,4.53,1.37,35,Jay,982-732-8574
+604,Piperaceae,36,4,4.25,1.28,29,Forest,148-495-1987
+605,Caryophyllaceae,32,7,4.33,1.48,26,Prentice,798-773-6580
+606,Polemoniaceae,40,4,4.68,1.90,36,Farmco,729-184-5026
+607,Cyperaceae,35,5,4.14,1.51,40,Sunnyside,599-885-6295
+608,Asteraceae,44,4,4.18,1.11,35,Beilfuss,708-605-4275
+609,Fabaceae,45,4,4.23,1.07,35,Brown,801-504-8508
+610,Brassicaceae,42,7,4.12,1.77,40,Sage,284-974-5885
+611,Polemoniaceae,28,4,4.23,1.85,20,Express,870-680-6260
+612,Boraginaceae,29,3,4.42,1.11,30,Erie,916-473-2442
+613,Fabaceae,38,3,4.44,1.58,23,Vera,203-962-1655
+614,Asteraceae,40,3,4.83,1.46,26,Arrowood,881-464-9906
+615,Rubiaceae,38,3,4.29,1.90,40,Kipling,321-778-6559
+616,Arecaceae,35,7,4.45,1.76,24,Ramsey,193-262-5931
+617,Polygonaceae,25,6,4.22,1.98,25,Bay,538-142-1324
+618,Violaceae,41,2,4.76,1.07,37,3rd,343-214-2803
+619,Fabaceae,35,7,4.17,1.15,37,8th,537-209-9969
+620,Lauraceae,27,6,4.60,1.20,37,Fallview,381-820-0924
+621,Fagaceae,27,2,4.12,1.76,35,Montana,829-764-6377
+622,Liliaceae,25,2,4.83,1.12,38,Kenwood,258-679-4643
+623,Fabaceae,43,5,4.58,1.76,21,Bartelt,430-926-8444
+624,Liliaceae,34,4,4.31,1.09,27,Norway Maple,530-583-4217
+625,Grammitidaceae,41,2,4.28,1.28,23,Mendota,794-306-9490
+626,Scrophulariaceae,38,7,4.08,1.02,30,Esker,171-624-9954
+627,Aristolochiaceae,39,6,4.70,1.00,29,Kinsman,949-135-4956
+628,Rubiaceae,33,5,4.32,1.44,33,Stephen,501-312-1638
+629,Liliaceae,30,7,4.26,1.16,35,Michigan,313-790-8973
+630,Asteraceae,44,2,4.05,1.18,27,Coolidge,961-419-4456
+631,Chenopodiaceae,45,2,4.58,1.60,37,Coleman,994-259-8212
+632,Asteraceae,38,2,4.08,1.06,30,Holmberg,847-931-9279
+633,Asteraceae,30,5,4.69,1.85,35,Kings,576-626-1963
+634,Salviniaceae,30,7,4.53,1.31,29,Rowland,203-256-9187
+635,Liliaceae,30,5,4.58,1.36,26,Oxford,747-650-1656
+636,Fagaceae,27,5,4.72,1.98,22,Westridge,894-592-9372
+637,Cuscutaceae,32,4,4.51,1.41,29,Thierer,838-295-9635
+638,Asteraceae,38,3,4.26,1.40,34,Mariners Cove,951-692-5462
+639,Juncaceae,27,7,4.43,1.18,20,Di Loreto,675-201-5649
+640,Asteraceae,34,5,4.04,1.18,26,Transport,361-378-5682
+641,Onagraceae,30,6,4.67,1.68,21,Magdeline,984-383-1186
+642,Asteraceae,30,6,4.29,1.56,21,Nobel,196-118-9369
+643,Euphorbiaceae,44,6,4.13,1.34,30,Schurz,968-755-3257
+644,Brassicaceae,37,2,4.02,1.66,21,Mesta,859-738-3180
+645,Caliciaceae,41,6,4.92,1.30,33,Warbler,441-171-8753
+646,Mniaceae,42,7,4.73,1.82,35,Pearson,509-600-7176
+647,Crassulaceae,38,6,4.93,1.70,35,Fremont,295-597-4916
+648,Liliaceae,40,2,4.40,1.35,40,Larry,367-670-4480
+649,Malvaceae,32,5,4.83,1.56,22,Farragut,257-567-7809
+650,Frankeniaceae,35,5,4.12,1.47,27,Del Mar,694-108-1824
+651,Juncaceae,38,2,4.04,1.12,32,Mcguire,602-384-5815
+652,Asteraceae,32,5,4.61,1.57,22,Melvin,956-741-4694
+653,Physciaceae,27,6,4.09,1.89,26,Independence,714-240-9365
+654,Violaceae,26,7,4.59,1.15,25,Fisk,638-604-6667
+655,Brassicaceae,30,6,4.09,1.70,29,Menomonie,806-161-2896
+656,Chenopodiaceae,33,4,4.29,1.10,32,Shasta,707-290-0289
+657,Liliaceae,35,5,4.42,1.19,30,Hayes,616-674-0806
+658,Juglandaceae,40,7,4.04,1.46,25,Lakeland,956-128-9455
+659,Rubiaceae,39,5,4.62,1.07,23,Straubel,720-572-4134
+660,Ranunculaceae,29,5,4.64,1.46,30,Dunning,772-733-3543
+661,Asteraceae,39,2,4.02,1.25,26,Rockefeller,856-400-9013
+662,Solanaceae,30,5,4.06,1.09,33,Roxbury,185-130-1260
+663,Lamiaceae,39,4,4.66,1.71,33,Mayfield,892-934-1461
+664,Caryophyllaceae,33,2,4.25,1.77,35,6th,285-938-9834
+665,Bacidiaceae,27,5,4.46,1.43,36,Petterle,693-216-7972
+666,Sphenocleaceae,25,3,4.05,1.89,35,Dovetail,720-998-2333
+667,Malvaceae,27,2,4.53,1.51,40,Nevada,899-641-4429
+668,Onagraceae,32,7,4.35,1.27,24,Express,617-159-5934
+669,Ranunculaceae,29,3,4.03,1.63,27,Lunder,969-555-1439
+670,Asteraceae,27,5,4.42,1.67,30,Debs,721-976-5062
+671,Liliaceae,26,3,4.69,1.56,37,Katie,505-306-3747
+672,Liliaceae,28,2,4.27,1.02,39,Sycamore,718-636-0944
+673,Scrophulariaceae,29,5,4.64,1.26,39,Lunder,173-891-6366
+674,Lamiaceae,29,6,4.98,1.59,38,North,688-494-6155
+675,Convolvulaceae,30,7,4.29,1.40,29,Atwood,753-143-4491
+676,Poaceae,26,4,4.37,1.22,33,Lakewood,143-799-5256
+677,Lecideaceae,29,4,4.97,1.59,37,Sullivan,565-717-0769
+678,Solanaceae,35,3,4.44,1.40,40,Westport,305-145-3080
+679,Convolvulaceae,41,2,4.80,1.89,20,Granby,832-877-6023
+680,Haematommataceae,37,5,4.74,1.52,36,Porter,916-395-6810
+681,Cactaceae,34,2,4.33,1.06,38,Magdeline,995-191-0360
+682,Scrophulariaceae,34,6,4.90,1.76,29,Reinke,983-694-4404
+683,Asteraceae,39,5,4.00,1.11,28,Everett,203-836-3175
+684,Liliaceae,29,4,4.47,1.82,25,Pennsylvania,210-489-3939
+685,Cornaceae,27,5,4.01,1.94,35,Dixon,551-288-7993
+686,Malvaceae,30,5,4.09,1.15,36,Browning,618-138-0855
+687,Brachytheciaceae,42,5,4.85,1.26,31,Dovetail,986-294-1394
+688,Juncaceae,35,7,4.65,1.36,32,Marcy,216-438-2419
+689,Polytrichaceae,43,5,4.22,1.92,34,Michigan,962-294-4161
+690,Asteraceae,29,5,4.83,1.42,20,Sutteridge,900-989-3140
+691,Fabaceae,28,7,4.21,1.96,35,Sunfield,146-650-9819
+692,Fabaceae,38,4,4.62,1.29,38,Larry,740-273-4426
+693,Acanthaceae,40,2,4.68,1.69,24,Gina,250-718-4748
+694,Agavaceae,37,6,4.74,1.09,28,Monica,618-313-8778
+695,Loranthaceae,40,7,4.77,1.94,38,Kings,164-226-2008
+696,Poaceae,37,6,4.85,1.18,34,Doe Crossing,666-297-1137
+697,Poaceae,37,2,4.39,1.65,40,Dunning,850-918-9887
+698,Amblystegiaceae,41,7,4.43,1.45,37,Fuller,797-402-3897
+699,Bromeliaceae,26,4,4.42,1.90,30,Lillian,774-298-3272
+700,Valerianaceae,43,2,4.87,1.00,33,Lunder,506-843-0190
+701,Rosaceae,41,2,4.96,1.59,22,Calypso,616-577-0888
+702,Cactaceae,45,7,4.50,1.38,35,Mariners Cove,336-266-2358
+703,Stictidaceae,37,3,4.68,1.70,33,Katie,285-391-6069
+704,Lecanoraceae,35,2,4.24,1.26,32,Brickson Park,263-401-9907
+705,Apiaceae,33,6,4.37,1.21,36,John Wall,859-498-3964
+706,Brassicaceae,38,4,4.36,1.51,29,Morningstar,431-612-9355
+707,Trypetheliaceae,29,7,4.08,1.90,35,Talmadge,541-746-0695
+708,Solanaceae,26,3,4.95,1.36,36,Nova,124-134-7390
+709,Cyperaceae,25,7,4.60,1.09,20,Birchwood,386-685-1451
+710,Liliaceae,42,5,4.15,1.33,22,2nd,272-690-9247
+711,Ericaceae,25,3,4.73,1.17,27,Clyde Gallagher,642-417-8045
+712,Poaceae,32,3,4.86,1.31,24,Golf,545-442-9462
+713,Poaceae,33,3,4.39,1.10,32,Northridge,290-714-2882
+714,Sapotaceae,25,5,4.18,1.63,27,Saint Paul,662-717-8764
+715,Scrophulariaceae,45,4,5.00,1.16,28,Veith,914-356-5714
+716,Fabaceae,26,3,4.10,1.67,27,Weeping Birch,468-389-8999
+717,Orchidaceae,42,4,4.34,1.02,23,Redwing,531-213-2085
+718,Apiaceae,27,5,4.80,1.45,20,Luster,644-353-8721
+719,Boraginaceae,25,6,4.39,1.18,20,Springs,996-289-5838
+720,Dryopteridaceae,30,5,4.78,1.82,21,Paget,698-588-6979
+721,Zingiberaceae,30,3,4.04,1.37,34,Fulton,536-452-6004
+722,Nyctaginaceae,27,2,4.77,1.40,21,Petterle,304-746-6361
+723,Bignoniaceae,30,5,4.82,1.38,20,Paget,234-423-7989
+724,Rubiaceae,45,7,4.55,1.82,27,Loeprich,888-210-9667
+725,Brassicaceae,35,4,4.50,1.69,34,Manitowish,341-663-0424
+726,Fabaceae,32,5,4.67,1.33,24,Glacier Hill,989-353-0440
+727,Grammitidaceae,41,4,4.99,1.22,35,Mendota,576-424-6851
+728,Poaceae,25,2,4.78,1.10,34,Shasta,611-536-5552
+729,Asteraceae,25,4,4.24,1.44,31,Riverside,294-392-5681
+730,Asteraceae,28,7,4.77,1.74,36,Westridge,632-121-2287
+731,Fabaceae,30,7,4.17,1.89,22,Golf View,652-727-3753
+732,Brassicaceae,44,4,4.00,1.97,34,Algoma,355-487-0147
+733,Onagraceae,30,3,4.94,1.73,36,Vera,921-146-3764
+734,Loganiaceae,26,3,4.33,1.73,28,Eastwood,675-506-5499

@@ -1,0 +1,76 @@
+db.breakfast.insertMany([
+    {
+    day: "Monday", 
+    person: "Meredith", 
+    components: ["Coffee", "Tea", "Waffles", "Eggs"], 
+    rating: 10,
+    eatAgain: true
+ },
+ {
+    day: "Tuesday", 
+    person: "Cameron", 
+    components: ["Coffee", "Tea", "English Muffins", "Eggs"], 
+    rating: '',
+    eatAgain: true
+ },
+ {
+    day: "Thursday", 
+    person: "Cameron", 
+    components: ["Coffee", "Tea", "Pancakes"], 
+    rating: 10,
+    eatAgain: true
+ },
+ {
+    day: "Friday", 
+    person: "Meredith", 
+    components: ["Pepsi", "Breakfast Tacos"], 
+    rating: 5,
+    eatAgain: false
+ }
+    ])
+
+#Change the breakfast rating from a 5 to a 6
+db.breakfast.updateOne({rating: 5}, {$set: {rating: 6}})
+db.breakfast.find({})
+
+#Can also do it by another identifier - doesn't have to be the same one as what you are changing
+db.breakfast.updateOne({day: "Friday"}, {$set: {rating: 7}})
+
+#Bump down all 10s to a 9
+db.breakfast.updateMany({rating: 10}, {$set: {rating: 9}})
+
+#Upsert
+db.breakfast.updateOne({day: "Tuesday"}, {$set: {rating: 4}}, {upsert: true})
+
+#Going over update operators
+
+#$inc
+db.breakfast.updateMany({rating:9}, {$inc: {rating: 1}})
+#Can also do negatives
+db.breakfast.updateMany({rating:10}, {$inc: {rating: -1}})
+
+#$mul
+db.breakfast.updateMany({rating:9}, {$mul: {rating: 2}})
+
+#$set
+db.breakfast.updateMany({person: "Meredith"}, {$set: {person: "Cameron"}})
+
+# $unset
+db.breakfast.updateMany({eatAgain: true}, {$unset: {eatAgain: ''}})
+db.breakfast.updateMany({}, {$unset: {eatAgain: ''}})
+
+# $rename
+db.breakfast.updateMany({}, {$rename: {components: 'foodItems'}})
+
+#Deleting
+
+db.breakfast.deleteOne({day: "Monday"})
+db.breakfast.deleteMany({foodItems: "Coffee"})
+
+#Drop the breakfast collection
+db.breakfast.drop()
+
+#Indexing
+
+db.breakfast.createIndex({person: 1})
+db.breakfast.dropIndex({person: 1})
