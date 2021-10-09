@@ -1,0 +1,676 @@
+id,Order number,Date,Plant family,Placement,Phone,Color,Cost
+1,1619,7/12/2018,Asteraceae,71 Rutledge Place,982-480-5919,Khaki,5.09
+2,1556,6/27/2018,Solanaceae,0290 Florence Avenue,262-509-4907,Yellow,7.90
+3,1219,10/20/2018,Fagaceae,8 Fairfield Street,234-838-6235,Puce,9.77
+4,1012,6/18/2018,Fabaceae,4100 Swallow Point,256-551-8984,Turquoise,7.60
+5,1989,8/7/2018,Saxifragaceae,785 Waubesa Park,154-491-0827,Pink,6.14
+6,2418,5/23/2018,Fabaceae,96569 Mayfield Park,103-656-1377,Teal,8.61
+7,1694,6/19/2018,Caryophyllaceae,8 Esker Avenue,951-978-5655,Red,6.05
+8,1503,7/19/2018,Scrophulariaceae,3188 Banding Park,443-355-6264,Red,9.78
+9,2678,6/19/2018,Lauraceae,723 Nova Park,338-930-2291,Red,5.62
+10,1641,5/18/2018,Rhamnaceae,5077 Jay Crossing,575-873-9216,Crimson,7.57
+11,1017,10/14/2018,Calycanthaceae,141 Ronald Regan Crossing,827-708-8119,Violet,9.03
+12,2133,10/6/2018,Asteraceae,74949 Knutson Crossing,755-574-6466,Blue,8.32
+13,2217,7/17/2018,Fabaceae,34 Cherokee Street,833-315-5516,Blue,6.24
+14,1969,9/24/2018,Cactaceae,84892 Norway Maple Alley,959-445-4655,Orange,9.98
+15,1558,10/20/2018,Boraginaceae,49 Raven Park,391-783-6997,Blue,5.58
+16,2228,8/12/2018,Liliaceae,207 Roxbury Place,770-587-0840,Goldenrod,8.32
+17,1358,5/16/2018,Liliaceae,69260 Prentice Hill,283-832-8271,Khaki,8.04
+18,2181,6/7/2018,Parmeliaceae,1606 Service Center,602-250-5404,Blue,7.20
+19,2535,9/4/2018,Stereocaulaceae,4322 Northridge Alley,879-456-9830,Maroon,9.84
+20,2503,5/12/2018,Poaceae,07890 Sullivan Pass,592-819-9757,Mauv,7.27
+21,1794,8/11/2018,Asteraceae,37 Farwell Circle,930-772-5939,Fuscia,7.58
+22,1570,6/10/2018,Ericaceae,6 Ohio Pass,636-449-3107,Goldenrod,9.86
+23,1880,5/3/2018,Fabaceae,3818 Westport Way,307-560-1192,Teal,7.90
+24,1793,5/17/2018,Liliaceae,85 Manitowish Drive,713-336-5171,Red,7.05
+25,1823,7/7/2018,Onagraceae,9195 Bobwhite Avenue,905-195-6312,Puce,7.45
+26,2780,10/27/2018,Poaceae,415 Bunker Hill Way,213-316-6733,Orange,7.40
+27,2461,9/3/2018,Primulaceae,148 Quincy Park,749-631-9252,Blue,7.29
+28,2624,6/19/2018,Brassicaceae,97 Miller Street,930-979-8117,Green,8.16
+29,2273,6/11/2018,Scrophulariaceae,83003 Memorial Point,731-481-4430,Yellow,9.54
+30,2567,5/8/2018,Asteraceae,3 Everett Center,122-221-5219,Pink,5.09
+31,1976,8/23/2018,Poaceae,33921 Park Meadow Terrace,724-770-5130,Mauv,9.46
+32,2813,7/18/2018,Fabaceae,37 Heffernan Trail,498-778-4318,Orange,9.47
+33,2395,5/19/2018,Fabaceae,94 Larry Road,375-552-1523,Teal,5.77
+34,1167,8/2/2018,Boraginaceae,84372 Oak Valley Court,739-496-2497,Blue,5.60
+35,2663,9/22/2018,Brassicaceae,65113 Heath Drive,836-215-3784,Yellow,7.71
+36,2208,7/17/2018,Parmeliaceae,9 Goodland Avenue,336-386-3967,Crimson,7.47
+37,1235,8/26/2018,Campanulaceae,0 Hauk Place,526-454-6300,Puce,7.91
+38,2748,7/17/2018,Anacardiaceae,1 Cherokee Trail,632-450-1933,Yellow,5.55
+39,2599,5/26/2018,Theaceae,99072 Carioca Drive,105-851-9775,Blue,9.37
+40,2559,9/12/2018,Dicranaceae,5 Arapahoe Way,714-969-7162,Khaki,9.22
+41,1288,7/4/2018,Asteraceae,9972 Mariners Cove Pass,147-782-8714,Aquamarine,8.48
+42,2326,7/28/2018,Fabaceae,65 Burrows Street,627-438-0608,Turquoise,5.15
+43,2318,6/11/2018,Pittosporaceae,0541 Duke Court,721-227-6626,Maroon,9.51
+44,1111,5/1/2018,Solanaceae,64 Moulton Crossing,157-136-6477,Maroon,8.21
+45,1541,9/24/2018,Fabaceae,8722 Harper Hill,904-525-7410,Green,7.04
+46,1604,7/28/2018,Asteraceae,4647 Acker Crossing,522-147-7810,Violet,5.93
+47,2242,6/17/2018,Hypnaceae,7 Vermont Lane,452-357-6436,Green,5.69
+48,1977,6/3/2018,Thelypteridaceae,10974 Delaware Lane,467-345-1914,Aquamarine,6.21
+49,1102,10/8/2018,Cyperaceae,84732 Dennis Drive,689-942-3985,Pink,9.15
+50,2431,6/8/2018,Brassicaceae,47 Bunting Park,657-682-7116,Teal,8.15
+51,1425,10/28/2018,Oxalidaceae,5077 Karstens Place,760-557-5209,Fuscia,7.48
+52,2575,9/7/2018,Berberidaceae,255 Fulton Street,435-897-5710,Orange,9.89
+53,2325,8/21/2018,Asteraceae,79 Logan Plaza,293-163-3468,Blue,8.51
+54,2670,8/5/2018,Rosaceae,18 Maple Center,997-279-6026,Mauv,8.94
+55,1490,10/26/2018,Bignoniaceae,29067 Bultman Circle,258-119-4322,Pink,9.22
+56,1820,10/7/2018,Fabaceae,65172 Cody Alley,399-291-0963,Violet,9.26
+57,1447,8/21/2018,Onagraceae,94 Lighthouse Bay Court,173-198-6069,Goldenrod,9.63
+58,1505,10/5/2018,Primulaceae,5 Hermina Alley,387-575-6708,Green,7.82
+59,1244,8/17/2018,Apiaceae,0709 Kenwood Avenue,535-678-8495,Red,7.77
+60,2263,9/18/2018,Ditrichaceae,2 Di Loreto Park,535-203-5646,Teal,7.74
+61,2012,9/28/2018,Myrtaceae,92826 Coolidge Road,812-459-9989,Aquamarine,5.75
+62,2175,5/22/2018,Asteraceae,14 Esch Point,558-237-4554,Green,7.99
+63,1076,7/31/2018,Brassicaceae,0 Mendota Place,739-728-3735,Green,7.84
+64,1429,9/9/2018,Scrophulariaceae,340 Eliot Park,168-799-9937,Red,7.41
+65,2519,5/31/2018,Lichinaceae,940 Briar Crest Parkway,288-944-9226,Indigo,6.21
+66,1479,7/14/2018,Violaceae,9649 Hazelcrest Alley,316-676-1408,Green,9.72
+67,1625,10/24/2018,Solanaceae,2815 Green Road,491-710-7310,Puce,6.43
+68,1359,7/22/2018,Gesneriaceae,42186 Dwight Drive,972-559-1304,Violet,8.76
+69,2952,7/22/2018,Hypnaceae,2 Northport Park,431-548-1887,Aquamarine,6.80
+70,2892,6/27/2018,Fabaceae,43 Service Avenue,399-884-1082,Yellow,9.00
+71,2426,8/2/2018,Scrophulariaceae,58 Summerview Lane,437-725-5741,Fuscia,9.72
+72,1224,6/3/2018,Trypetheliaceae,4 Vernon Terrace,811-832-6342,Goldenrod,8.93
+73,1695,8/1/2018,Poaceae,3383 Harbort Street,540-685-6404,Puce,5.94
+74,2448,9/15/2018,Gomphillaceae,177 Buell Junction,764-256-2550,Fuscia,5.24
+75,2493,10/17/2018,Convolvulaceae,60 Brown Place,571-549-9811,Blue,7.89
+76,2849,9/24/2018,Myrtaceae,588 Hayes Way,410-603-2896,Crimson,9.31
+77,2399,10/5/2018,Nyctaginaceae,99611 Oneill Junction,251-362-5106,Green,8.66
+78,2951,6/11/2018,Betulaceae,28464 Clarendon Road,587-619-8466,Orange,9.28
+79,2129,5/27/2018,Boraginaceae,0 Bay Terrace,524-527-8281,Crimson,7.79
+80,2652,6/30/2018,Poaceae,020 Bunker Hill Avenue,551-349-8848,Crimson,6.52
+81,1993,8/24/2018,Fabaceae,8 David Hill,166-426-1694,Puce,6.05
+82,2961,6/12/2018,Poaceae,4586 Swallow Trail,298-285-4430,Pink,5.94
+83,1998,9/29/2018,Gleicheniaceae,083 Hintze Circle,251-623-0495,Purple,7.81
+84,2721,10/25/2018,Poaceae,5 Meadow Vale Terrace,971-123-4614,Fuscia,6.57
+85,2966,7/3/2018,Myrtaceae,40577 Delladonna Street,312-290-6514,Yellow,7.01
+86,1121,6/12/2018,Parmeliaceae,39778 Lillian Park,297-716-7846,Maroon,5.56
+87,2259,6/17/2018,Verrucariaceae,532 Pankratz Way,610-337-2856,Aquamarine,8.59
+88,2856,6/13/2018,Solanaceae,3 Vermont Avenue,964-766-0232,Green,7.71
+89,2732,8/18/2018,Poaceae,3686 Laurel Drive,585-702-4223,Pink,9.55
+90,2283,9/12/2018,Campanulaceae,6717 Derek Hill,517-116-9970,Indigo,7.50
+91,1858,7/22/2018,Hypnaceae,523 Esker Road,967-215-6902,Indigo,9.17
+92,1615,5/26/2018,Apiaceae,2480 Hanover Parkway,369-764-0469,Turquoise,7.86
+93,2644,5/22/2018,Tiliaceae,7 Namekagon Terrace,328-966-7645,Fuscia,7.93
+94,1522,7/27/2018,Lamiaceae,5 Gulseth Pass,414-945-2700,Maroon,8.58
+95,2692,6/7/2018,Parmeliaceae,691 Dovetail Way,460-945-3493,Fuscia,5.81
+96,2662,8/22/2018,Anacardiaceae,31676 Nancy Center,137-494-8998,Pink,8.14
+97,2444,9/10/2018,Poaceae,214 Lakeland Road,536-130-4059,Green,8.81
+98,1025,9/22/2018,Apiaceae,1460 Ryan Center,620-994-5019,Goldenrod,5.97
+99,2716,7/5/2018,Rosaceae,9 Holy Cross Junction,378-427-1367,Red,7.54
+100,1477,6/26/2018,Asteraceae,0592 Dottie Point,858-306-2430,Puce,5.45
+101,2041,8/4/2018,Melastomataceae,03 Oak Road,644-365-3919,Goldenrod,6.12
+102,1590,7/28/2018,Caryophyllaceae,46 Steensland Alley,952-505-3968,Khaki,9.66
+103,1281,7/25/2018,Cyperaceae,94 Chive Parkway,986-507-8783,Green,5.29
+104,2234,5/21/2018,Cyperaceae,15 Sherman Place,922-240-5237,Yellow,7.03
+105,2534,6/24/2018,Fabaceae,22 Park Meadow Way,512-561-6931,Teal,6.83
+106,2846,10/28/2018,Asteraceae,86913 Transport Avenue,358-160-6262,Red,6.12
+107,1320,8/13/2018,Chenopodiaceae,9 Dapin Terrace,884-182-0086,Yellow,7.28
+108,1172,7/15/2018,Caryophyllaceae,143 Memorial Hill,427-259-5960,Indigo,7.09
+109,1442,7/31/2018,Fabaceae,7748 Mcbride Circle,134-791-5585,Violet,5.01
+110,1458,6/3/2018,Asteraceae,992 5th Street,422-409-2573,Yellow,7.78
+111,1979,7/3/2018,Asteraceae,0 Fieldstone Road,557-379-1317,Orange,9.15
+112,1960,7/10/2018,Apiaceae,6 Fairfield Terrace,441-607-3491,Goldenrod,7.58
+113,2890,6/21/2018,Onagraceae,9 Forster Court,140-716-4459,Goldenrod,5.72
+114,1004,8/26/2018,Hydrophyllaceae,10896 Larry Park,703-568-7860,Indigo,8.87
+115,1092,5/25/2018,Fabaceae,06 Gateway Parkway,123-309-4738,Fuscia,8.05
+116,2778,6/9/2018,Selaginellaceae,19735 Manufacturers Lane,158-765-2703,Green,8.86
+117,2072,10/1/2018,Fumariaceae,90160 John Wall Court,853-984-6520,Khaki,9.80
+118,2783,7/9/2018,Dicranaceae,51 Mesta Place,655-236-0874,Turquoise,5.73
+119,2864,7/9/2018,Asteraceae,1481 Katie Point,628-147-7744,Pink,8.80
+120,1296,8/16/2018,Fabaceae,8 Troy Junction,742-903-5070,Aquamarine,6.18
+121,1546,7/14/2018,Scrophulariaceae,576 Monica Terrace,526-551-4761,Maroon,7.28
+122,2520,5/5/2018,Myrtaceae,8 Anhalt Trail,540-560-8350,Blue,5.57
+123,2906,7/8/2018,Fabaceae,9292 Morning Court,979-723-6777,Teal,6.62
+124,2405,6/29/2018,Lecythidaceae,0101 Myrtle Avenue,971-328-3496,Turquoise,9.12
+125,2282,10/24/2018,Polygonaceae,56 Eastwood Terrace,989-237-2664,Green,9.34
+126,1445,8/8/2018,Brassicaceae,3418 Oakridge Avenue,630-427-5097,Violet,7.82
+127,2114,6/25/2018,Rosaceae,12 Northridge Trail,269-878-5944,Blue,5.65
+128,1399,9/12/2018,Clusiaceae,691 La Follette Avenue,488-707-1342,Orange,8.53
+129,2851,10/8/2018,Verbenaceae,5370 Blue Bill Park Parkway,739-423-0132,Orange,5.48
+130,1567,5/11/2018,Onagraceae,2734 Brentwood Plaza,387-974-9147,Red,5.13
+131,2627,6/19/2018,Asteraceae,95930 Swallow Court,863-809-8512,Goldenrod,7.79
+132,2246,6/28/2018,Saxifragaceae,58 Tennessee Lane,330-427-4315,Maroon,9.67
+133,1672,9/25/2018,Bixaceae,1450 Bluejay Pass,508-666-6554,Crimson,9.68
+134,2143,7/1/2018,Primulaceae,2408 Washington Lane,805-898-1558,Green,9.14
+135,1127,8/4/2018,Lycopodiaceae,77 Sunbrook Hill,935-779-2949,Blue,7.87
+136,2358,9/14/2018,Fabaceae,899 Sage Court,311-579-0131,Teal,7.05
+137,2835,7/30/2018,Liliaceae,81 Gateway Circle,723-530-6688,Mauv,7.10
+138,1032,10/1/2018,Oleaceae,51 Mayer Plaza,681-241-6627,Goldenrod,8.25
+139,2541,7/31/2018,Brassicaceae,43 Thierer Plaza,814-924-3021,Teal,7.41
+140,1263,8/31/2018,Rutaceae,378 Barnett Trail,814-960-5115,Mauv,7.98
+141,1003,6/5/2018,Sematophyllaceae,8 Judy Trail,316-641-5076,Khaki,7.87
+142,2221,9/27/2018,Asteraceae,4 Messerschmidt Park,882-793-0062,Puce,6.13
+143,2931,7/23/2018,Rubiaceae,96 Village Green Trail,765-988-1932,Teal,6.25
+144,1593,8/29/2018,Orchidaceae,4 Meadow Vale Court,175-363-3928,Blue,8.48
+145,1200,8/20/2018,Apiaceae,73 Rowland Road,953-649-5912,Violet,7.88
+146,1863,9/3/2018,Asteraceae,20 Cardinal Park,603-599-1166,Violet,7.56
+147,1150,7/15/2018,Rubiaceae,8260 Maryland Trail,666-780-7191,Blue,9.87
+148,2618,8/8/2018,Apiaceae,4115 Service Park,210-850-2018,Maroon,9.16
+149,2231,10/13/2018,Poaceae,1529 Hagan Avenue,228-171-7209,Yellow,6.54
+150,2462,6/30/2018,Loasaceae,15248 Mosinee Drive,665-649-5744,Blue,5.53
+151,1352,6/7/2018,Liliaceae,9 5th Park,850-140-8676,Aquamarine,5.37
+152,1084,9/24/2018,Poaceae,91030 Brentwood Street,842-241-3834,Blue,7.03
+153,1132,9/16/2018,Salicaceae,651 Forster Road,197-895-3719,Yellow,9.88
+154,1537,7/12/2018,Asteraceae,65911 Mariners Cove Crossing,283-338-0257,Green,7.22
+155,1102,7/10/2018,Violaceae,3 Briar Crest Lane,410-175-4813,Violet,6.09
+156,1900,6/7/2018,Asteraceae,479 Heffernan Way,154-745-1150,Teal,8.75
+157,2558,7/12/2018,Fabaceae,86 Sunfield Park,539-444-2166,Puce,9.95
+158,1908,6/11/2018,Brassicaceae,37 Messerschmidt Plaza,735-504-6343,Red,7.72
+159,1027,6/26/2018,Rutaceae,57 Hallows Trail,734-829-0411,Purple,5.00
+160,1780,9/16/2018,Ranunculaceae,58 Green Drive,727-481-4051,Khaki,7.64
+161,1019,8/12/2018,Violaceae,23460 Parkside Way,977-738-8000,Crimson,5.30
+162,1307,9/26/2018,Asteraceae,6 Warner Hill,390-616-2596,Teal,5.35
+163,2543,6/23/2018,Acanthaceae,798 Linden Trail,590-484-7404,Red,6.62
+164,2508,8/1/2018,Fabaceae,4197 Laurel Avenue,938-531-0693,Aquamarine,5.29
+165,2531,10/2/2018,Parmeliaceae,85929 North Trail,254-601-9272,Fuscia,6.31
+166,1587,6/6/2018,Clusiaceae,644 Summer Ridge Way,587-749-7296,Purple,9.66
+167,1048,7/30/2018,Polemoniaceae,72 Evergreen Junction,139-534-4295,Turquoise,7.06
+168,1686,10/19/2018,Dipsacaceae,10 7th Center,713-492-3817,Red,9.97
+169,2478,8/6/2018,Asteraceae,43 Sachs Trail,603-190-9275,Blue,6.28
+170,2680,10/6/2018,Calymperaceae,9 Norway Maple Parkway,923-971-3265,Indigo,9.28
+171,2536,6/24/2018,Campanulaceae,2926 Burrows Terrace,913-507-4363,Yellow,7.26
+172,2058,5/30/2018,Ditrichaceae,239 Thompson Way,882-993-2068,Fuscia,7.50
+173,1709,5/5/2018,Salicaceae,752 7th Point,941-342-3237,Fuscia,8.90
+174,2998,5/27/2018,Asteraceae,80 Corry Avenue,822-899-3515,Teal,6.84
+175,2078,9/16/2018,Bryaceae,8737 Moose Point,135-442-7014,Puce,5.17
+176,2735,6/29/2018,Asteraceae,56409 Commercial Place,988-962-6026,Orange,8.86
+177,1218,9/13/2018,Bryaceae,6 Ridgeway Street,309-774-4288,Pink,8.81
+178,2451,8/25/2018,Asteraceae,09741 Butterfield Avenue,751-940-2955,Yellow,8.37
+179,1789,8/22/2018,Fagaceae,88 Moland Drive,179-173-2955,Crimson,8.87
+180,1342,10/13/2018,Cyperaceae,1933 Melvin Road,669-515-7166,Blue,6.82
+181,2811,5/26/2018,Asteraceae,364 Carey Junction,967-765-2747,Indigo,5.22
+182,2543,10/9/2018,Physciaceae,8499 Boyd Hill,578-175-1855,Fuscia,6.28
+183,2029,8/18/2018,Myrtaceae,3557 Memorial Court,144-676-7187,Turquoise,6.96
+184,2528,5/17/2018,Poaceae,30671 Jenna Way,927-634-4240,Goldenrod,8.44
+185,2898,10/10/2018,Brassicaceae,65020 Lyons Plaza,234-829-5100,Khaki,9.66
+186,1873,5/9/2018,Brassicaceae,8 Di Loreto Road,277-198-4128,Indigo,9.72
+187,2177,8/29/2018,Poaceae,94 Gateway Trail,431-987-4823,Blue,6.26
+188,1579,8/19/2018,Chrysotrichaceae,9082 Magdeline Crossing,119-639-7899,Mauv,9.33
+189,2305,7/9/2018,Hydrophyllaceae,93287 Canary Park,154-880-2246,Maroon,9.31
+190,1214,9/28/2018,Poaceae,64 East Terrace,704-929-4519,Blue,8.08
+191,2705,10/15/2018,Droseraceae,749 Maple Wood Trail,450-398-8527,Red,6.63
+192,1586,9/12/2018,Caryophyllaceae,2 Mesta Court,144-267-1359,Green,9.14
+193,1689,9/7/2018,Urticaceae,0 Service Crossing,675-918-9092,Goldenrod,5.15
+194,2879,5/12/2018,Peltigeraceae,244 3rd Point,944-933-7589,Purple,9.44
+195,2915,10/25/2018,Passifloraceae,3 Valley Edge Pass,802-197-9132,Aquamarine,5.21
+196,1665,10/9/2018,Liliaceae,75786 Dapin Pass,853-407-4557,Violet,5.03
+197,2062,10/19/2018,Aspleniaceae,5 Messerschmidt Lane,247-867-8789,Red,8.94
+198,1796,7/11/2018,Myrtaceae,75 Hansons Terrace,572-958-2561,Maroon,5.37
+199,2265,8/13/2018,Fabaceae,8597 Coleman Hill,938-259-6576,Orange,6.45
+200,2440,9/30/2018,Cucurbitaceae,7283 Green Ridge Center,203-345-3535,Yellow,9.20
+201,1070,9/30/2018,Sphagnaceae,4 Packers Court,814-999-0685,Goldenrod,8.04
+202,1461,7/3/2018,Poaceae,6109 Granby Hill,340-669-3143,Purple,6.37
+203,2694,9/1/2018,Fabaceae,7689 Jenna Pass,394-677-1907,Crimson,7.55
+204,1475,6/12/2018,Seligeriaceae,8 Meadow Vale Hill,422-455-8083,Maroon,9.02
+205,2033,10/14/2018,Verbenaceae,634 Crowley Park,939-848-8324,Blue,9.00
+206,2836,7/12/2018,Cucurbitaceae,05890 Esker Pass,437-324-0368,Blue,7.60
+207,1210,7/17/2018,Fagaceae,66 Fairview Park,741-149-9931,Maroon,7.35
+208,1246,8/25/2018,Malvaceae,294 Mariners Cove Pass,856-761-7231,Khaki,7.12
+209,1591,9/6/2018,Fabaceae,8 Bobwhite Junction,913-370-7663,Orange,5.61
+210,2140,10/6/2018,Poaceae,85629 Melby Parkway,686-312-3579,Khaki,6.85
+211,1056,6/30/2018,Asteraceae,1 Arizona Hill,839-831-8084,Khaki,7.19
+212,2039,9/28/2018,Cornaceae,25 Colorado Parkway,191-711-9837,Red,7.99
+213,2397,6/24/2018,Orthotrichaceae,21 Columbus Way,205-861-3558,Crimson,7.70
+214,2402,8/2/2018,Cactaceae,35444 West Court,232-345-9445,Yellow,6.39
+215,2208,8/23/2018,Hydrophyllaceae,8 Village Crossing,617-458-9297,Yellow,6.41
+216,1656,6/29/2018,Scrophulariaceae,2245 Fair Oaks Plaza,993-618-1055,Crimson,7.90
+217,1505,5/16/2018,Rosaceae,7771 Clarendon Drive,520-370-3130,Green,8.30
+218,2898,7/23/2018,Rosaceae,578 Blackbird Alley,757-765-3456,Turquoise,7.80
+219,1163,7/24/2018,Scrophulariaceae,8477 Golden Leaf Plaza,688-330-2913,Red,9.86
+220,2409,6/22/2018,Pinaceae,28 Declaration Point,378-114-0173,Crimson,5.32
+221,1093,9/5/2018,Asteraceae,8846 Maple Wood Plaza,551-807-9479,Mauv,6.87
+222,1292,10/29/2018,Lamiaceae,12 Main Street,503-982-1353,Green,6.45
+223,1210,10/10/2018,Burmanniaceae,414 Comanche Plaza,706-154-4439,Goldenrod,10.00
+224,1002,10/7/2018,Myrsinaceae,1302 Buell Drive,138-778-2730,Teal,8.76
+225,2179,8/9/2018,Cyperaceae,19579 Hermina Alley,749-371-9166,Red,9.31
+226,2694,9/8/2018,Hydrophyllaceae,0670 Susan Crossing,583-363-3176,Goldenrod,8.84
+227,2988,9/1/2018,Cucurbitaceae,9279 Schurz Drive,238-240-9783,Mauv,9.54
+228,1265,7/12/2018,Zamiaceae,19 Ridgeway Plaza,352-897-0376,Purple,6.23
+229,1138,5/26/2018,Euphorbiaceae,294 Tomscot Point,331-626-8663,Orange,5.43
+230,2303,7/18/2018,Primulaceae,27 Beilfuss Court,171-541-7306,Fuscia,7.10
+231,1423,6/26/2018,Boraginaceae,786 Westport Trail,330-582-2496,Crimson,8.95
+232,2405,9/6/2018,Tropaeolaceae,429 Manufacturers Junction,130-633-5932,Turquoise,9.16
+233,1660,7/4/2018,Onagraceae,178 Wayridge Junction,823-376-4787,Mauv,8.82
+234,2285,5/10/2018,Graphidaceae,895 Judy Junction,512-440-3571,Yellow,8.72
+235,2322,6/21/2018,Pottiaceae,368 Hintze Way,120-340-7637,Aquamarine,5.81
+236,2604,6/1/2018,Asclepiadaceae,58 Mesta Drive,463-252-7714,Red,6.97
+237,1862,7/3/2018,Lycopodiaceae,9 Portage Center,812-153-1940,Khaki,9.03
+238,1144,6/22/2018,Caryocaraceae,7830 Homewood Trail,820-237-9472,Crimson,6.04
+239,1618,5/12/2018,Asteraceae,7474 Anthes Plaza,815-498-4898,Teal,7.34
+240,2540,9/1/2018,Lichinaceae,520 Mockingbird Lane,283-585-5584,Yellow,6.39
+241,2079,7/17/2018,Poaceae,80693 Valley Edge Alley,783-316-6259,Teal,9.58
+242,2997,9/3/2018,Campanulaceae,6 Hermina Plaza,797-334-9522,Aquamarine,5.66
+243,1358,10/18/2018,Parmeliaceae,8 West Street,724-771-2320,Indigo,6.94
+244,2388,8/18/2018,Liliaceae,5 Golf Park,557-700-4291,Purple,7.11
+245,1372,8/5/2018,Asteraceae,6 Drewry Hill,357-139-0297,Goldenrod,5.12
+246,1712,10/2/2018,Ericaceae,03797 Morrow Crossing,363-398-1571,Crimson,7.54
+247,2107,9/15/2018,Bombacaceae,0572 Crescent Oaks Point,670-188-4554,Aquamarine,9.42
+248,1898,5/15/2018,Fabaceae,8021 Elka Center,772-761-4476,Goldenrod,5.86
+249,2477,6/5/2018,Fabaceae,0099 Susan Drive,939-218-8032,Violet,9.78
+250,2842,5/6/2018,Lamiaceae,47 Merrick Street,769-246-5227,Maroon,8.80
+251,1417,9/11/2018,Cyperaceae,117 Sommers Crossing,923-222-3242,Khaki,9.65
+252,2043,8/12/2018,Apiaceae,455 Continental Point,685-545-4184,Blue,7.67
+253,1949,10/21/2018,Collemataceae,98319 Helena Road,488-303-4031,Fuscia,6.59
+254,2851,9/16/2018,Uncertain Ascomycota Family,3848 Derek Circle,325-500-7558,Maroon,8.32
+255,1012,9/20/2018,Pinaceae,58 Oak Valley Lane,376-862-8343,Blue,8.80
+256,1764,7/21/2018,Poaceae,01 New Castle Pass,414-173-5889,Turquoise,8.63
+257,2955,5/17/2018,Cyperaceae,3951 Stuart Center,884-630-3133,Khaki,6.39
+258,1910,9/25/2018,Piperaceae,0281 Monterey Parkway,407-787-9921,Green,6.19
+259,2917,6/23/2018,Sarraceniaceae,3137 Elka Crossing,189-917-9381,Khaki,6.22
+260,1267,7/2/2018,Caryophyllaceae,44327 Carpenter Way,696-504-0384,Aquamarine,9.50
+261,1627,10/29/2018,Polemoniaceae,4 Orin Lane,851-523-9525,Green,9.11
+262,1692,7/2/2018,Cyperaceae,14055 Valley Edge Court,633-441-9565,Red,8.81
+263,1515,5/15/2018,Fabaceae,3 Pierstorff Court,382-320-3190,Orange,7.46
+264,2107,8/15/2018,Campanulaceae,18 Schlimgen Hill,395-168-6351,Red,5.56
+265,1012,10/9/2018,Polemoniaceae,42 Bobwhite Place,520-375-1704,Orange,5.55
+266,2052,5/12/2018,Crassulaceae,8605 Veith Crossing,653-788-6817,Goldenrod,9.90
+267,2106,5/15/2018,Boraginaceae,7637 Golf View Lane,900-571-4264,Orange,8.96
+268,2694,10/26/2018,Myrtaceae,7099 Rowland Street,402-568-2913,Crimson,6.96
+269,2211,9/25/2018,Asteraceae,37725 Mitchell Terrace,686-435-1733,Mauv,9.94
+270,2307,7/28/2018,Asteraceae,8107 Coolidge Hill,450-726-5302,Puce,9.15
+271,2624,9/15/2018,Porpidiaceae,08549 Ohio Place,666-281-6792,Red,8.99
+272,2999,6/5/2018,Amaranthaceae,55 Norway Maple Crossing,135-176-8346,Pink,8.22
+273,1255,8/16/2018,Asteraceae,87 High Crossing Terrace,902-240-9659,Goldenrod,8.37
+274,1323,9/15/2018,Apocynaceae,2413 Blaine Center,110-878-5028,Fuscia,6.58
+275,2575,7/10/2018,Asteraceae,27264 Mifflin Plaza,417-340-9011,Blue,9.29
+276,1022,8/14/2018,Commelinaceae,84996 Bashford Street,966-851-3307,Blue,8.15
+277,2785,8/16/2018,Lamiaceae,9676 Harbort Center,140-104-1759,Indigo,9.42
+278,2239,7/26/2018,Fagaceae,76 Scofield Trail,171-358-4975,Mauv,6.05
+279,2187,9/24/2018,Verbenaceae,099 Center Street,150-599-8011,Crimson,8.91
+280,1873,9/26/2018,Rhamnaceae,65917 Sunbrook Place,987-913-9637,Fuscia,7.85
+281,2830,6/28/2018,Pottiaceae,7 Shopko Circle,851-106-3013,Purple,8.70
+282,1835,5/22/2018,Ranunculaceae,7077 Monica Avenue,159-406-1656,Pink,6.62
+283,2768,7/16/2018,Physciaceae,6 Carey Lane,805-905-8889,Goldenrod,5.78
+284,2040,10/22/2018,Rosaceae,665 Dapin Court,615-765-4431,Fuscia,6.33
+285,1746,6/27/2018,Brassicaceae,87096 East Point,901-709-5880,Puce,6.79
+286,1232,8/9/2018,Campanulaceae,17 Main Junction,267-271-3516,Fuscia,5.98
+287,1646,10/12/2018,Apiaceae,552 Roth Junction,658-617-3489,Teal,7.13
+288,2498,10/5/2018,Brassicaceae,461 Carberry Court,797-942-7006,Aquamarine,7.71
+289,1001,9/29/2018,Iridaceae,10 Service Crossing,277-950-7265,Aquamarine,9.13
+290,2572,9/22/2018,Araceae,75 Sauthoff Pass,868-471-5730,Goldenrod,9.36
+291,1812,5/18/2018,Convolvulaceae,3515 Ruskin Street,817-256-2813,Purple,6.89
+292,1380,9/3/2018,Poaceae,3 Hoard Terrace,712-885-1175,Orange,6.19
+293,1870,8/8/2018,Commelinaceae,112 Heath Court,450-115-2454,Pink,5.80
+294,2900,5/22/2018,Salicaceae,8 Anderson Park,303-316-8528,Turquoise,9.75
+295,2494,9/27/2018,Parmeliaceae,786 Becker Lane,464-100-6800,Turquoise,9.32
+296,1151,6/18/2018,Fabaceae,54 Grayhawk Street,827-633-6737,Turquoise,8.18
+297,2644,7/8/2018,Poaceae,27319 Sachs Center,371-139-4038,Violet,5.32
+298,1236,10/8/2018,Caryophyllaceae,4366 Armistice Point,199-463-7301,Fuscia,8.02
+299,2940,10/18/2018,Zingiberaceae,44 Riverside Way,452-586-6887,Aquamarine,7.83
+300,2147,5/12/2018,Fabaceae,2350 Grim Pass,713-743-0865,Khaki,5.68
+301,2474,9/10/2018,Fagaceae,2058 Derek Crossing,284-213-0945,Khaki,5.64
+302,2245,9/23/2018,Plantaginaceae,3 Artisan Court,434-284-2312,Goldenrod,6.47
+303,1308,6/21/2018,Thelenellaceae,1675 Crescent Oaks Alley,365-932-9609,Maroon,6.38
+304,2463,10/25/2018,Asteraceae,2 Gerald Terrace,954-961-3171,Maroon,5.67
+305,1594,6/3/2018,Onagraceae,69 Southridge Crossing,703-422-1119,Crimson,6.60
+306,1811,6/28/2018,Asteraceae,952 Debs Center,993-584-5502,Pink,8.05
+307,1473,8/7/2018,Asteraceae,8916 Nova Circle,773-330-6544,Indigo,9.02
+308,1516,10/31/2018,Uncertain Ascomycota Family,54 Pierstorff Road,275-727-3191,Purple,8.60
+309,1374,10/26/2018,Asteraceae,4 Armistice Crossing,752-224-1729,Goldenrod,6.82
+310,1681,9/4/2018,Polygonaceae,5 Little Fleur Road,468-912-8669,Turquoise,9.71
+311,2093,9/7/2018,Campanulaceae,56 Bunting Center,445-321-6422,Blue,6.28
+312,1575,10/4/2018,Lamiaceae,78 Northport Parkway,407-144-7654,Fuscia,6.14
+313,1378,8/1/2018,Salicaceae,88096 Basil Point,474-366-6830,Yellow,7.89
+314,1103,7/6/2018,Scrophulariaceae,48470 Schiller Plaza,415-586-8448,Blue,6.10
+315,1498,6/15/2018,Fabaceae,7 Red Cloud Trail,794-939-2365,Khaki,7.32
+316,1390,7/2/2018,Dennstaedtiaceae,0323 Bayside Pass,710-750-7557,Crimson,6.04
+317,1228,5/3/2018,Salicaceae,4 Mccormick Crossing,269-129-2711,Maroon,9.12
+318,2899,10/15/2018,Caryophyllaceae,4365 Tennyson Point,312-393-3656,Puce,9.70
+319,2036,5/9/2018,Asteraceae,3 Warner Place,767-105-7029,Aquamarine,6.05
+320,1781,6/24/2018,Asteraceae,37 Hallows Lane,911-514-0623,Indigo,5.68
+321,1092,10/29/2018,Papaveraceae,0 Kenwood Plaza,319-983-5008,Fuscia,8.78
+322,1111,10/9/2018,Rosaceae,28680 South Pass,483-448-6374,Khaki,8.59
+323,2187,10/5/2018,Rosaceae,78002 Helena Way,966-612-9394,Violet,7.14
+324,1931,10/23/2018,Lycopodiaceae,6124 Kim Alley,968-872-9042,Puce,7.99
+325,1731,8/16/2018,Alismataceae,4 Hansons Plaza,864-661-2627,Teal,7.24
+326,1390,6/29/2018,Asteraceae,5 Dixon Drive,301-577-6660,Pink,9.78
+327,2596,8/22/2018,Hymenophyllaceae,09 Nancy Point,112-406-4963,Pink,5.13
+328,1335,7/29/2018,Malvaceae,09182 Coleman Road,294-726-6154,Mauv,7.64
+329,2666,6/5/2018,Lemnaceae,91 6th Terrace,549-492-9320,Puce,6.77
+330,2194,5/24/2018,Onagraceae,9 Melvin Parkway,803-916-3318,Maroon,8.99
+331,1526,6/13/2018,Ophioglossaceae,2 Weeping Birch Parkway,752-642-1319,Khaki,6.67
+332,2083,10/21/2018,Convolvulaceae,9297 Washington Road,376-762-8644,Maroon,6.17
+333,2119,6/3/2018,Boraginaceae,23 Springview Place,775-994-7398,Maroon,7.65
+334,2977,5/12/2018,Lichinaceae,25669 Arrowood Pass,962-200-3731,Fuscia,5.83
+335,1894,6/20/2018,Hydrophyllaceae,3128 Saint Paul Parkway,638-597-1177,Maroon,7.35
+336,1348,10/24/2018,Cuscutaceae,08707 Sherman Lane,506-663-6484,Green,5.83
+337,2387,7/7/2018,Myrtaceae,6 Coleman Way,247-459-7106,Maroon,8.56
+338,1619,7/13/2018,Grammitidaceae,389 Northland Road,417-167-2803,Maroon,8.23
+339,2517,6/18/2018,Amblystegiaceae,52127 Northport Center,289-199-6243,Pink,6.19
+340,2453,7/30/2018,Thelenellaceae,83 Monterey Terrace,243-481-3050,Fuscia,5.92
+341,2378,10/8/2018,Fabaceae,0893 Grayhawk Terrace,887-118-3633,Green,6.10
+342,1968,6/13/2018,Violaceae,2 Troy Point,871-905-7096,Crimson,5.83
+343,2871,8/28/2018,Fabaceae,54441 Cascade Park,673-623-7786,Crimson,9.42
+344,2153,7/4/2018,Poaceae,41647 Farragut Hill,538-778-5010,Orange,7.41
+345,2022,10/16/2018,Fabaceae,9454 Schlimgen Alley,882-235-1755,Indigo,9.82
+346,1384,7/21/2018,Poaceae,91859 Mosinee Pass,772-356-1719,Pink,9.83
+347,2128,6/10/2018,Dryopteridaceae,52086 Reindahl Center,810-695-4711,Turquoise,9.60
+348,2918,9/10/2018,Asteraceae,71199 Merchant Place,176-230-0200,Purple,9.22
+349,2305,8/6/2018,Fabaceae,3674 Northridge Avenue,582-230-9300,Puce,8.65
+350,2389,7/18/2018,Saxifragaceae,7 Beilfuss Pass,257-888-8528,Puce,7.96
+351,2591,9/30/2018,Myricaceae,788 Lawn Court,354-106-3183,Aquamarine,6.02
+352,1099,5/15/2018,Asteraceae,296 Donald Terrace,164-129-9469,Indigo,8.49
+353,1992,9/23/2018,Cupressaceae,91040 Derek Plaza,726-507-0598,Crimson,8.33
+354,2694,7/23/2018,Rosaceae,89 Shelley Point,799-888-7761,Orange,9.14
+355,2394,9/12/2018,Caryophyllaceae,32 Service Parkway,207-588-7223,Turquoise,9.45
+356,2429,5/8/2018,Rosaceae,214 Declaration Circle,400-645-5052,Goldenrod,6.44
+357,1132,7/12/2018,Brassicaceae,56192 Westport Hill,443-274-0780,Red,6.54
+358,2944,6/21/2018,Scrophulariaceae,0 Tennyson Point,747-111-8116,Green,7.18
+359,2623,8/29/2018,Campanulaceae,0 Everett Pass,132-849-5328,Pink,7.46
+360,2840,6/18/2018,Hymeneliaceae,4139 Florence Road,602-769-5949,Turquoise,9.59
+361,2748,6/7/2018,Brassicaceae,6 Lakeland Terrace,267-820-2570,Yellow,8.93
+362,1707,9/17/2018,Solanaceae,36793 Briar Crest Junction,127-604-5059,Aquamarine,6.71
+363,2405,9/26/2018,Xyridaceae,7195 Saint Paul Crossing,548-754-0382,Green,6.01
+364,1451,7/16/2018,Apocynaceae,62963 Marcy Avenue,557-928-2077,Green,7.13
+365,1611,9/7/2018,Salicaceae,9 Clemons Plaza,747-373-9522,Mauv,8.85
+366,2227,6/30/2018,Cyperaceae,4 High Crossing Trail,890-209-4197,Red,5.04
+367,1555,5/25/2018,Potamogetonaceae,4 Fordem Junction,975-141-4945,Green,9.16
+368,2562,6/3/2018,Caryophyllaceae,525 Warbler Point,365-206-3921,Turquoise,10.00
+369,1420,6/5/2018,Polygonaceae,1 Mccormick Way,157-440-7601,Orange,5.19
+370,2553,7/8/2018,Asteraceae,356 Russell Way,154-551-2500,Crimson,8.77
+371,2299,6/25/2018,Hypnaceae,87184 Prairie Rose Alley,682-557-4931,Crimson,6.13
+372,2806,10/26/2018,Loasaceae,661 Sauthoff Park,280-822-8461,Green,8.20
+373,1652,9/26/2018,Porpidiaceae,8012 Charing Cross Parkway,647-574-6105,Turquoise,7.73
+374,2385,5/8/2018,Arthoniaceae,93215 Atwood Terrace,274-437-2502,Pink,5.33
+375,2802,8/20/2018,Rutaceae,7350 Del Mar Trail,564-265-3576,Green,9.40
+376,2504,10/13/2018,Polemoniaceae,44623 Lotheville Park,332-831-9584,Indigo,6.91
+377,1145,9/18/2018,Rubiaceae,64 Southridge Avenue,106-143-7146,Mauv,9.00
+378,2473,9/7/2018,Boraginaceae,532 Burning Wood Point,252-770-8144,Mauv,9.89
+379,2079,8/29/2018,Araceae,67 Clarendon Terrace,258-888-0277,Aquamarine,9.59
+380,2487,10/13/2018,Apiaceae,195 Granby Avenue,107-523-5332,Goldenrod,7.20
+381,1565,6/23/2018,Crassulaceae,60 Continental Crossing,172-967-2013,Puce,8.54
+382,2944,8/13/2018,Pottiaceae,625 Continental Parkway,879-326-8570,Blue,7.60
+383,2931,5/13/2018,Fabaceae,2058 Pierstorff Terrace,388-519-6508,Teal,8.77
+384,1242,10/27/2018,Caryophyllaceae,41 Morrow Drive,868-564-2873,Violet,8.41
+385,1141,5/14/2018,Garryaceae,08885 Farwell Point,531-718-4970,Aquamarine,5.28
+386,1109,8/10/2018,Asteraceae,65 Oxford Parkway,481-473-8061,Mauv,7.08
+387,1849,7/24/2018,Primulaceae,34891 Oxford Place,398-124-0841,Purple,6.86
+388,2878,5/2/2018,Fabaceae,4082 Johnson Center,637-154-9676,Khaki,7.59
+389,1389,6/4/2018,Chenopodiaceae,007 Westport Trail,419-679-6013,Blue,9.79
+390,2523,5/4/2018,Climaciaceae,53350 Grasskamp Point,740-427-4904,Yellow,7.92
+391,2988,8/15/2018,Poaceae,6542 Washington Road,671-359-0814,Pink,6.78
+392,2919,9/19/2018,Fabaceae,40105 Reindahl Road,975-906-5788,Pink,6.09
+393,1872,5/1/2018,Cyperaceae,137 Dakota Pass,671-806-4119,Indigo,5.81
+394,2588,7/2/2018,Brassicaceae,6966 Lukken Plaza,699-132-0962,Orange,8.90
+395,2976,8/4/2018,Boraginaceae,85520 Orin Road,257-230-0703,Pink,5.94
+396,2185,8/10/2018,Leucodontaceae,5 Gina Drive,474-183-2385,Green,6.12
+397,2105,9/24/2018,Violaceae,0 Carioca Park,511-942-6763,Orange,8.90
+398,1193,5/9/2018,Fabaceae,599 Pepper Wood Parkway,207-718-4166,Violet,9.57
+399,1622,9/18/2018,Sapindaceae,46891 Lien Crossing,128-627-0057,Khaki,5.29
+400,2251,6/24/2018,Asteraceae,8 Shoshone Plaza,822-878-5684,Teal,7.38
+401,1645,8/26/2018,Thelypteridaceae,673 Daystar Terrace,136-856-4512,Aquamarine,6.77
+402,2533,7/7/2018,Liliaceae,13686 Carey Trail,191-802-6275,Aquamarine,8.25
+403,2556,10/18/2018,Hypnaceae,89 Eastwood Circle,673-946-0404,Green,7.52
+404,1196,7/25/2018,Lamiaceae,6456 Dovetail Terrace,303-281-6563,Green,9.66
+405,2853,7/1/2018,Asteraceae,18987 Utah Parkway,237-807-7708,Turquoise,9.76
+406,2062,6/24/2018,Asteraceae,0958 Westend Trail,628-716-9255,Pink,5.78
+407,1068,5/28/2018,Asteraceae,906 Montana Trail,745-841-6762,Khaki,9.57
+408,1496,5/25/2018,Cactaceae,54085 Dixon Pass,403-148-9922,Blue,5.17
+409,1950,8/14/2018,Campanulaceae,580 Sutherland Circle,439-135-0107,Yellow,5.02
+410,2662,6/17/2018,Rhamnaceae,44483 Continental Court,424-873-2023,Indigo,7.04
+411,2274,6/6/2018,Lamiaceae,737 Texas Trail,417-755-9023,Goldenrod,8.42
+412,1643,6/21/2018,Ulmaceae,7 Corscot Hill,714-663-4903,Green,7.51
+413,1737,10/22/2018,Asteraceae,4 Hanover Way,541-395-4747,Maroon,6.72
+414,2566,10/15/2018,Alismataceae,7442 Oak Road,975-194-1808,Turquoise,5.82
+415,2713,10/4/2018,Asteraceae,5277 Fallview Trail,577-817-7183,Yellow,6.87
+416,1805,9/11/2018,Cladoniaceae,07 Jackson Alley,420-462-4705,Mauv,8.93
+417,2358,8/20/2018,Crassulaceae,30817 American Ash Center,994-980-9021,Blue,9.68
+418,1537,10/30/2018,Asteraceae,308 Schmedeman Pass,441-141-2469,Fuscia,6.20
+419,1709,6/29/2018,Boraginaceae,3 Maryland Point,581-129-0851,Orange,6.28
+420,2053,8/9/2018,Diapensiaceae,692 7th Circle,623-682-6348,Red,9.51
+421,2981,10/15/2018,Vitaceae,79350 Morrow Pass,527-678-8941,Fuscia,8.58
+422,1586,8/10/2018,Buxbaumiaceae,2545 Fallview Road,389-723-2654,Crimson,5.55
+423,1502,5/29/2018,Euphorbiaceae,495 Caliangt Pass,729-494-2290,Khaki,6.71
+424,1213,5/18/2018,Liliaceae,63049 Summer Ridge Plaza,219-781-1496,Pink,9.40
+425,2738,10/26/2018,Fabaceae,660 David Plaza,668-350-4238,Orange,6.36
+426,1238,7/9/2018,Cyperaceae,63 Calypso Lane,653-992-2813,Green,8.79
+427,1551,9/29/2018,Orchidaceae,339 Lunder Parkway,455-339-7212,Khaki,7.33
+428,1533,9/12/2018,Funariaceae,2 6th Drive,545-374-3252,Blue,7.74
+429,1485,10/11/2018,Cyperaceae,41316 Judy Point,938-819-8554,Blue,7.38
+430,2383,6/29/2018,Cyperaceae,08 Lakewood Gardens Alley,970-636-4741,Red,7.81
+431,2234,5/3/2018,Orchidaceae,42395 Knutson Junction,437-491-0487,Red,6.36
+432,1654,6/24/2018,Dryopteridaceae,7 Aberg Hill,317-135-8334,Red,8.55
+433,1002,6/28/2018,Gentianaceae,3069 Bay Street,678-685-8787,Teal,7.39
+434,2762,5/26/2018,Ranunculaceae,2569 Walton Way,696-573-4875,Puce,5.97
+435,2645,6/29/2018,Lamiaceae,8190 Miller Place,208-900-2169,Orange,8.54
+436,1997,9/14/2018,Caliciaceae,88 Paget Place,869-668-5809,Goldenrod,8.12
+437,2626,10/10/2018,Boraginaceae,828 Shelley Junction,544-317-3222,Violet,9.84
+438,1136,7/6/2018,Poaceae,4 Cordelia Drive,371-469-2245,Green,6.88
+439,2184,5/9/2018,Liliaceae,1 Algoma Parkway,877-884-2788,Orange,7.24
+440,1808,9/16/2018,Boraginaceae,12430 Riverside Circle,347-867-6227,Mauv,9.28
+441,2871,6/3/2018,Saxifragaceae,12 Brown Hill,233-496-6031,Aquamarine,6.15
+442,1148,6/19/2018,Polygonaceae,06052 Oakridge Circle,527-472-8436,Goldenrod,6.71
+443,1064,6/17/2018,Asteraceae,8 Manitowish Street,956-592-6298,Crimson,7.41
+444,1565,5/19/2018,Scrophulariaceae,225 Thompson Drive,677-732-0337,Turquoise,6.23
+445,2233,10/13/2018,Polemoniaceae,1406 Declaration Avenue,508-340-8561,Green,5.55
+446,2232,10/6/2018,Scrophulariaceae,9 Coleman Junction,518-754-2896,Pink,9.60
+447,1358,7/6/2018,Cyperaceae,035 Chive Center,976-718-5992,Pink,7.42
+448,1749,7/28/2018,Liliaceae,261 Northridge Street,996-256-3210,Red,7.11
+449,2660,7/12/2018,Caryophyllaceae,75699 Springs Lane,629-664-6085,Pink,8.85
+450,2348,8/10/2018,Liliaceae,024 Nancy Parkway,625-575-0441,Indigo,9.03
+451,1831,10/2/2018,Rosaceae,8 Rowland Way,557-249-0304,Teal,6.46
+452,1210,8/3/2018,Cyperaceae,6 Starling Circle,818-276-4974,Mauv,8.59
+453,2376,7/24/2018,Lamiaceae,2782 Butterfield Crossing,522-451-7069,Mauv,6.53
+454,1202,10/4/2018,Rosaceae,6213 Schiller Drive,188-353-7708,Green,7.20
+455,1232,5/8/2018,Solanaceae,111 Bluestem Circle,464-735-1130,Puce,7.39
+456,1296,9/8/2018,Sphagnaceae,6880 Red Cloud Circle,310-490-8808,Aquamarine,6.17
+457,1492,6/26/2018,Plumbaginaceae,929 Johnson Point,665-336-4683,Turquoise,9.13
+458,1794,9/30/2018,Poaceae,08 Dryden Crossing,560-584-5591,Violet,7.35
+459,1093,8/15/2018,Asteraceae,5 Loftsgordon Pass,425-956-5928,Fuscia,6.99
+460,2969,8/1/2018,Rosaceae,01348 Blaine Pass,644-323-6188,Puce,8.54
+461,1919,8/8/2018,Nyctaginaceae,74 Montana Parkway,292-704-7389,Green,9.92
+462,1584,5/22/2018,Strigulaceae,98099 Mariners Cove Junction,379-131-6735,Green,6.89
+463,2107,9/10/2018,Liliaceae,29604 Dottie Court,453-941-3710,Indigo,5.96
+464,1980,7/24/2018,Rubiaceae,16 Trailsway Park,140-763-2789,Indigo,7.26
+465,1041,10/26/2018,Asteraceae,85669 Badeau Lane,495-132-1898,Yellow,6.42
+466,2759,10/5/2018,Pyrenulaceae,7 Linden Hill,292-987-3813,Violet,9.14
+467,1157,7/4/2018,Polygonaceae,3 Manufacturers Lane,303-326-9106,Khaki,7.65
+468,1199,7/8/2018,Cyperaceae,3 Mccormick Hill,104-406-0597,Mauv,7.34
+469,1189,7/2/2018,Juncaceae,6823 Dunning Avenue,860-129-4507,Green,5.46
+470,1285,7/6/2018,Lauraceae,41 Ludington Court,994-559-6133,Red,7.13
+471,2110,7/22/2018,Rosaceae,1445 Thierer Lane,760-145-4555,Maroon,5.86
+472,2224,6/6/2018,Ericaceae,8 Stang Lane,996-787-0488,Khaki,9.72
+473,2878,7/4/2018,Fabaceae,9 Bayside Way,451-229-3031,Indigo,7.63
+474,2674,7/14/2018,Ranunculaceae,46 Thierer Parkway,779-769-5185,Yellow,5.54
+475,2271,6/18/2018,Malvaceae,2 La Follette Drive,639-569-4741,Green,8.00
+476,2482,7/6/2018,Balsaminaceae,60272 Eggendart Plaza,841-999-7612,Aquamarine,7.73
+477,2232,9/25/2018,Boraginaceae,195 Washington Hill,875-661-8679,Green,9.91
+478,2935,8/1/2018,Rubiaceae,70453 Crest Line Lane,132-492-5653,Goldenrod,6.62
+479,1417,5/22/2018,Asteraceae,2357 Clyde Gallagher Court,599-932-8407,Pink,6.49
+480,1295,6/15/2018,Andreaeaceae,5 Portage Parkway,267-558-2307,Yellow,6.94
+481,1491,6/13/2018,Dioscoreaceae,20 Stone Corner Park,380-665-9158,Puce,6.74
+482,2779,7/11/2018,Asteraceae,936 Meadow Valley Plaza,156-418-4346,Crimson,8.09
+483,1987,5/14/2018,Flacourtiaceae,003 Superior Place,423-566-9933,Fuscia,9.82
+484,2025,5/7/2018,Malvaceae,30 Stone Corner Drive,774-268-8104,Green,9.13
+485,1069,5/13/2018,Cyperaceae,9038 Riverside Parkway,628-214-3127,Yellow,5.65
+486,1243,7/25/2018,Fabaceae,99 Bartelt Terrace,266-441-9216,Aquamarine,7.40
+487,1908,10/30/2018,Polemoniaceae,345 Ohio Pass,588-297-3798,Pink,8.37
+488,1745,10/31/2018,Apiaceae,6250 Anniversary Lane,393-381-7564,Green,6.71
+489,2247,6/2/2018,Lamiaceae,11 Emmet Street,895-644-4641,Indigo,6.31
+490,1225,6/11/2018,Asteraceae,5163 Pankratz Road,887-518-4365,Turquoise,6.53
+491,2171,6/26/2018,Asteraceae,73 Esker Drive,592-524-0310,Yellow,7.35
+492,1470,8/15/2018,Asteraceae,16 Hintze Parkway,182-705-7864,Goldenrod,6.80
+493,2689,7/28/2018,Ebenaceae,0243 Anthes Road,536-257-2271,Teal,9.24
+494,1062,5/25/2018,Papaveraceae,44756 Canary Hill,975-170-0203,Violet,8.82
+495,1348,7/13/2018,Celastraceae,143 Reindahl Road,211-129-7249,Mauv,9.47
+496,1326,10/2/2018,Poaceae,0 Forest Dale Way,301-323-9727,Indigo,5.86
+497,2481,7/28/2018,Poaceae,67 Division Road,939-909-4382,Puce,9.95
+498,2706,9/22/2018,Rosaceae,9 Hanson Plaza,544-266-4369,Fuscia,7.56
+499,2196,10/5/2018,Cyperaceae,14 Linden Parkway,264-818-8435,Crimson,10.00
+500,1469,5/5/2018,Lamiaceae,0 Parkside Alley,957-706-4786,Green,7.39
+501,1355,6/6/2018,Rosaceae,68643 Maple Way,966-237-8881,Puce,5.25
+502,2665,7/23/2018,Ranunculaceae,9854 Canary Trail,560-847-3229,Khaki,6.12
+503,1359,5/11/2018,Pinaceae,60714 Charing Cross Alley,811-330-8694,Pink,5.51
+504,2624,9/12/2018,Ericaceae,0 Talmadge Hill,252-418-5556,Puce,9.97
+505,2460,7/28/2018,Mycocaliciaceae,3215 Boyd Center,262-215-1681,Turquoise,9.87
+506,2946,7/26/2018,Cladoniaceae,8 Amoth Alley,516-338-0859,Crimson,7.10
+507,2776,5/6/2018,Solanaceae,5131 Dexter Road,237-715-2045,Red,5.80
+508,1909,5/9/2018,Bacidiaceae,2 Brickson Park Drive,773-770-4974,Puce,5.78
+509,1864,5/29/2018,Poaceae,76 Westport Trail,804-183-9949,Mauv,8.93
+510,1908,6/30/2018,Campanulaceae,2566 Weeping Birch Plaza,215-567-3452,Indigo,8.45
+511,1441,8/5/2018,Onagraceae,4 Harper Pass,811-987-8795,Khaki,9.35
+512,2020,5/5/2018,Liliaceae,86 Harbort Park,855-967-9459,Khaki,8.91
+513,1611,10/8/2018,Polygonaceae,28 Forest Trail,887-322-7742,Violet,8.55
+514,2372,10/21/2018,Selaginellaceae,51 Larry Plaza,198-369-5887,Puce,6.18
+515,2893,5/30/2018,Asteraceae,5842 Charing Cross Lane,210-452-6040,Yellow,6.70
+516,1536,5/26/2018,Fabaceae,35 Burning Wood Road,942-849-4302,Blue,5.01
+517,2817,8/4/2018,Rutaceae,37832 Ridgeway Court,436-809-0055,Fuscia,5.43
+518,2049,9/6/2018,Fabaceae,3 Shoshone Park,250-519-2178,Orange,7.23
+519,2477,8/6/2018,Fabaceae,50 Service Center,437-288-9653,Aquamarine,9.85
+520,2445,5/26/2018,Myrtaceae,14601 Cardinal Parkway,287-247-8024,Aquamarine,9.32
+521,2565,5/22/2018,Rubiaceae,9 Graedel Plaza,354-170-8477,Goldenrod,6.44
+522,1207,8/18/2018,Scrophulariaceae,2 Judy Place,795-464-7561,Turquoise,7.60
+523,1563,5/5/2018,Cactaceae,29 Lake View Circle,525-204-3224,Mauv,9.41
+524,1777,8/10/2018,Parmeliaceae,260 Waywood Street,569-754-7724,Crimson,9.93
+525,2721,7/10/2018,Taxaceae,2651 Alpine Hill,248-326-5630,Goldenrod,8.95
+526,1268,7/7/2018,Pottiaceae,31 Elmside Alley,672-711-6826,Red,5.96
+527,2102,10/12/2018,Caryophyllaceae,8000 Calypso Terrace,706-389-5892,Blue,9.39
+528,1834,10/21/2018,Asteraceae,54046 Elka Court,745-875-8304,Green,5.77
+529,2303,9/12/2018,Malvaceae,60512 Pennsylvania Pass,140-460-5650,Goldenrod,6.49
+530,1289,6/11/2018,Heliconiaceae,964 Summit Drive,288-549-7392,Fuscia,9.84
+531,2616,10/11/2018,Arthopyreniaceae,488 Oak Drive,426-318-0998,Blue,9.05
+532,1378,10/6/2018,Cyperaceae,1626 Hermina Junction,609-429-5018,Blue,9.14
+533,2310,6/26/2018,Asteraceae,58522 8th Road,103-658-8345,Teal,6.82
+534,2663,10/26/2018,Onagraceae,3343 Donald Junction,347-931-4724,Purple,8.38
+535,1112,9/4/2018,Asteraceae,9187 Buhler Point,825-118-6777,Pink,7.72
+536,2152,10/19/2018,Asteraceae,529 Hazelcrest Park,707-849-3839,Purple,5.04
+537,1206,7/1/2018,Euphorbiaceae,3 Fallview Drive,585-580-2681,Green,7.64
+538,1484,10/3/2018,Rosaceae,352 Walton Lane,191-391-7053,Blue,5.27
+539,1853,5/2/2018,Hydrophyllaceae,16642 Armistice Hill,740-331-8625,Aquamarine,9.38
+540,2078,9/9/2018,Loasaceae,1482 La Follette Place,169-658-7672,Puce,5.77
+541,2272,7/1/2018,Poaceae,92246 Pankratz Point,419-791-2595,Teal,9.23
+542,1537,9/27/2018,Fabaceae,836 Cherokee Way,770-675-8764,Maroon,6.12
+543,2764,9/20/2018,Asteraceae,8 Talmadge Park,381-423-7514,Orange,9.21
+544,1979,7/3/2018,Opegraphaceae,59246 Cherokee Road,132-908-1102,Purple,6.37
+545,1270,8/21/2018,Polygonaceae,819 Crowley Terrace,103-889-6512,Orange,6.83
+546,2047,7/31/2018,Primulaceae,8 Warbler Pass,811-380-2588,Orange,5.56
+547,1491,7/24/2018,Dryopteridaceae,110 Beilfuss Lane,972-271-2875,Teal,8.67
+548,2247,7/1/2018,Asclepiadaceae,7378 Saint Paul Center,184-417-2018,Purple,9.20
+549,1074,7/9/2018,Sarraceniaceae,5998 Vernon Lane,313-500-8078,Yellow,9.06
+550,2080,9/10/2018,Cyperaceae,7 Muir Terrace,185-146-0415,Fuscia,9.72
+551,2056,7/10/2018,Apiaceae,1211 Blaine Way,892-669-6984,Goldenrod,7.61
+552,2608,8/27/2018,Fagaceae,1 Paget Point,556-564-2585,Puce,7.90
+553,1180,10/12/2018,Amblystegiaceae,72179 Glacier Hill Circle,669-692-8616,Mauv,5.42
+554,2858,10/12/2018,Rubiaceae,34 Steensland Street,852-220-6748,Maroon,5.76
+555,2936,8/31/2018,Violaceae,71 Longview Park,727-586-8612,Indigo,6.55
+556,1626,5/27/2018,Fabaceae,171 Moose Terrace,101-581-4591,Red,5.98
+557,1201,10/22/2018,Scrophulariaceae,29 Sycamore Point,863-614-1254,Aquamarine,5.08
+558,1778,5/7/2018,Fabaceae,39933 Pennsylvania Avenue,453-835-7896,Turquoise,8.12
+559,1100,5/20/2018,Asteraceae,6816 Portage Park,763-750-6802,Khaki,9.85
+560,1478,9/2/2018,Myrtaceae,0443 Everett Road,808-563-6889,Pink,8.81
+561,2164,8/13/2018,Poaceae,96937 Welch Pass,322-307-3468,Maroon,5.69
+562,2570,8/23/2018,Fabaceae,2103 Warrior Trail,711-740-5767,Yellow,5.61
+563,1357,6/8/2018,Rutaceae,47 Homewood Street,788-312-7002,Indigo,6.68
+564,1658,9/17/2018,Polygonaceae,9 Hollow Ridge Point,245-190-9148,Khaki,5.47
+565,2475,10/31/2018,Asteraceae,4 Cordelia Parkway,913-946-6704,Pink,8.31
+566,1045,9/16/2018,Hydrophyllaceae,16 Badeau Pass,208-904-9879,Mauv,9.42
+567,2060,9/20/2018,Malvaceae,59 Tennessee Trail,200-305-9240,Violet,5.95
+568,1331,9/13/2018,Lardizabalaceae,95 Schmedeman Parkway,121-141-8449,Khaki,6.04
+569,1116,6/5/2018,Crassulaceae,12754 Gale Avenue,873-825-7156,Teal,7.55
+570,2775,7/1/2018,Scrophulariaceae,23 Vahlen Plaza,907-630-5218,Pink,7.21
+571,1577,10/25/2018,Verbenaceae,229 Bowman Way,634-319-1017,Orange,9.04
+572,2480,8/20/2018,Polygonaceae,46774 Brentwood Road,970-413-0006,Fuscia,9.91
+573,2809,7/20/2018,Parmeliaceae,8 Dawn Lane,244-844-9773,Turquoise,7.36
+574,1013,6/2/2018,Sphagnaceae,40085 American Plaza,393-108-4076,Yellow,9.98
+575,2385,6/27/2018,Poaceae,82 Norway Maple Terrace,605-457-7949,Orange,8.53
+576,2662,9/27/2018,Brassicaceae,6 Commercial Alley,975-576-5701,Teal,7.71
+577,2943,5/27/2018,Asteraceae,4 Vidon Parkway,804-167-0509,Aquamarine,9.63
+578,2132,6/29/2018,Pottiaceae,7463 Shasta Street,562-958-7744,Indigo,7.87
+579,1968,5/15/2018,Umbilicariaceae,1410 Linden Plaza,190-354-5930,Yellow,8.93
+580,1777,10/30/2018,Selaginellaceae,0 Farragut Lane,752-826-8704,Blue,8.25
+581,1179,9/29/2018,Asteraceae,8 Kedzie Pass,314-638-5055,Blue,9.18
+582,1455,8/6/2018,Rubiaceae,30054 Summit Plaza,395-585-4267,Goldenrod,9.30
+583,1414,5/13/2018,Polygalaceae,711 Meadow Ridge Parkway,226-551-1972,Turquoise,5.46
+584,1358,10/20/2018,Hydrophyllaceae,83921 Delladonna Lane,123-594-2884,Crimson,6.99
+585,1848,10/25/2018,Aquifoliaceae,3034 Sheridan Terrace,886-433-1014,Fuscia,8.46
+586,2880,8/2/2018,Pteridaceae,17458 Debs Lane,603-199-9758,Indigo,9.69
+587,1658,5/5/2018,Portulacaceae,08 Fallview Way,924-564-3602,Violet,8.45
+588,1185,8/16/2018,Poaceae,2045 Walton Road,822-492-0584,Khaki,8.38
+589,1328,5/22/2018,Fabaceae,8 Lakewood Terrace,123-583-4939,Indigo,6.07
+590,2009,6/18/2018,Poaceae,86 Linden Lane,938-160-2191,Khaki,9.64
+591,2500,5/31/2018,Rosaceae,0 Bashford Road,389-381-5958,Yellow,6.00
+592,2178,7/30/2018,Lamiaceae,79567 Dovetail Place,657-538-3588,Indigo,5.96
+593,2698,9/29/2018,Lamiaceae,8885 Mockingbird Junction,913-135-0697,Pink,6.12
+594,1233,7/28/2018,Rhizocarpaceae,4716 Anniversary Terrace,459-986-7321,Violet,6.02
+595,1412,9/21/2018,Euphorbiaceae,85005 Elka Plaza,585-550-8911,Indigo,7.52
+596,1389,9/22/2018,Onagraceae,3202 Declaration Place,579-544-7585,Green,5.34
+597,2853,7/4/2018,Rubiaceae,3 Bayside Junction,161-654-2870,Fuscia,5.30
+598,1996,8/11/2018,Caryophyllaceae,80 Troy Crossing,871-842-5213,Orange,7.93
+599,1978,9/11/2018,Oxalidaceae,00 Fulton Park,849-698-1212,Khaki,5.20
+600,2682,10/4/2018,Polygonaceae,00 Swallow Center,469-695-9406,Pink,6.94
+601,1921,9/4/2018,Gentianaceae,7 Mariners Cove Hill,303-559-8863,Turquoise,8.84
+602,2219,8/1/2018,Lecanoraceae,96519 Glendale Avenue,970-377-6088,Mauv,7.91
+603,1422,7/5/2018,Amaranthaceae,055 Walton Drive,557-515-7665,Crimson,8.68
+604,1428,10/23/2018,Poaceae,621 Fordem Way,464-998-7736,Green,7.48
+605,2805,5/11/2018,Clusiaceae,58 Washington Road,512-948-4881,Teal,8.48
+606,1227,7/10/2018,Bignoniaceae,08 Artisan Plaza,253-316-2410,Green,9.49
+607,2823,8/14/2018,Polygonaceae,12176 Waxwing Terrace,889-354-7410,Violet,7.64
+608,1133,5/5/2018,Graphidaceae,852 Trailsway Street,993-243-8186,Green,7.26
+609,2393,5/12/2018,Poaceae,7 Longview Court,487-402-0963,Yellow,6.84
+610,2544,10/14/2018,Zingiberaceae,92 Namekagon Center,625-459-9453,Red,6.72
+611,1004,6/5/2018,Apiaceae,58543 Garrison Crossing,914-523-8936,Fuscia,5.35
+612,1061,9/26/2018,Pottiaceae,322 Farragut Way,697-543-5333,Mauv,8.05
+613,2410,6/27/2018,Acanthaceae,9729 Heath Court,473-340-7112,Blue,7.98
+614,1858,9/7/2018,Iridaceae,661 Kensington Street,363-863-5447,Fuscia,5.94
+615,1619,7/6/2018,Fabaceae,3 Prairie Rose Park,242-893-4689,Mauv,9.32
+616,2379,6/15/2018,Euphorbiaceae,914 Haas Junction,496-708-7602,Puce,9.14
+617,1791,10/11/2018,Scrophulariaceae,125 Clarendon Park,289-620-9964,Violet,6.78
+618,2066,10/31/2018,Liliaceae,3064 Mallory Center,626-718-8009,Pink,8.95
+619,2963,6/19/2018,Malvaceae,6 Straubel Way,214-200-6507,Green,6.25
+620,1077,10/7/2018,Primulaceae,46599 Division Center,223-826-7836,Purple,7.39
+621,1879,5/15/2018,Poaceae,60 Leroy Place,970-217-4006,Aquamarine,7.51
+622,1897,10/6/2018,Asteraceae,85556 Heath Street,489-290-5792,Purple,5.76
+623,2975,9/8/2018,Fabaceae,2 Dorton Plaza,994-543-5160,Fuscia,9.35
+624,2576,5/31/2018,Scrophulariaceae,382 Vernon Junction,713-864-4509,Blue,9.39
+625,2142,5/31/2018,Asteraceae,48592 Commercial Street,988-616-8837,Turquoise,5.67
+626,2164,7/6/2018,Pertusariaceae,44173 Northfield Trail,294-419-2116,Teal,7.17
+627,1542,5/12/2018,Asteraceae,1665 Hovde Place,942-629-5912,Turquoise,8.50
+628,2682,8/6/2018,Ranunculaceae,16069 Golf View Park,493-590-1726,Indigo,5.78
+629,2497,5/17/2018,Asteraceae,622 Reindahl Crossing,311-263-2537,Turquoise,9.87
+630,1133,6/15/2018,Scrophulariaceae,5325 Buhler Circle,513-735-6876,Fuscia,6.72
+631,2185,10/22/2018,Arecaceae,770 Hagan Drive,321-136-1792,Blue,6.24
+632,2213,6/27/2018,Physciaceae,70687 Cascade Drive,502-616-8836,Pink,5.20
+633,2400,7/31/2018,Boraginaceae,567 Talmadge Hill,107-161-4356,Green,7.92
+634,1742,9/8/2018,Crassulaceae,7 Eggendart Pass,917-498-6094,Maroon,6.32
+635,1364,6/18/2018,Tropaeolaceae,577 Basil Trail,928-229-6309,Teal,6.37
+636,1950,9/13/2018,Euphorbiaceae,6660 Corscot Avenue,264-967-8517,Turquoise,9.50
+637,1691,6/23/2018,Rosaceae,3674 Pennsylvania Drive,358-291-0821,Blue,5.57
+638,2311,10/17/2018,Asteraceae,7130 Loomis Hill,608-568-0802,Mauv,9.68
+639,1107,6/1/2018,Fabaceae,1047 Coleman Lane,292-898-1571,Puce,8.60
+640,2902,10/16/2018,Crassulaceae,523 Pierstorff Court,411-897-4902,Puce,5.64
+641,2301,9/15/2018,Rosaceae,1 Blue Bill Park Avenue,463-894-2242,Teal,10.00
+642,2639,5/17/2018,Saxifragaceae,4303 Independence Court,752-545-3816,Orange,9.87
+643,2841,9/5/2018,Cupressaceae,3 Bobwhite Way,546-556-8026,Yellow,9.57
+644,2761,5/8/2018,Asteraceae,81472 Schmedeman Road,542-947-5316,Puce,6.45
+645,1484,5/21/2018,Rosaceae,823 Schlimgen Junction,921-349-0345,Teal,8.00
+646,2587,8/30/2018,Ericaceae,423 Briar Crest Pass,955-595-6303,Indigo,5.11
+647,1807,7/15/2018,Violaceae,0 Eagle Crest Road,963-235-6508,Purple,9.11
+648,1230,7/4/2018,Boraginaceae,80 Weeping Birch Terrace,204-703-1171,Pink,8.41
+649,2603,7/18/2018,Fabaceae,49 Westerfield Parkway,652-243-6538,Orange,7.70
+650,2815,10/4/2018,Polygonaceae,0232 Hoard Road,419-498-6390,Mauv,7.81
+651,2570,8/28/2018,Flacourtiaceae,43 Derek Point,293-214-9673,Blue,6.52
+652,2440,8/8/2018,Arecaceae,8 Jenifer Junction,747-955-1574,Green,8.06
+653,2770,10/20/2018,Asteraceae,6 Hooker Court,789-896-8065,Aquamarine,7.57
+654,1601,6/17/2018,Fabaceae,62882 Huxley Park,259-940-0342,Pink,8.78
+655,2488,6/9/2018,Encalyptaceae,5 Acker Street,944-497-3371,Green,6.29
+656,2314,5/24/2018,Rosaceae,8487 Holy Cross Alley,513-994-9679,Aquamarine,8.43
+657,2519,9/24/2018,Rubiaceae,6105 Schiller Alley,845-519-0475,Teal,6.05
+658,2090,10/16/2018,Lobariaceae,3705 Division Drive,514-354-4063,Red,6.80
+659,2408,5/8/2018,Crassulaceae,914 Farwell Crossing,656-246-6690,Purple,5.84
+660,1313,6/26/2018,Asteraceae,537 Acker Plaza,807-766-0771,Red,7.72
+661,2756,7/24/2018,Scrophulariaceae,781 Washington Center,252-519-5253,Khaki,9.95
+662,2821,7/20/2018,Ulmaceae,16680 Magdeline Hill,664-130-9233,Blue,6.25
+663,1807,8/4/2018,Portulacaceae,119 Dahle Lane,240-915-0973,Orange,9.35
+664,1217,7/21/2018,Dryopteridaceae,77 Oxford Drive,601-142-7393,Teal,5.59
+665,2528,6/13/2018,Cupressaceae,94 Anhalt Alley,250-585-6477,Teal,6.79
+666,2740,7/27/2018,Verrucariaceae,52 Carpenter Center,756-444-5650,Teal,6.89
+667,1696,5/15/2018,Sapindaceae,423 Florence Place,476-154-3902,Indigo,9.62
+668,2703,7/22/2018,Orchidaceae,4014 Thierer Lane,741-710-2707,Indigo,5.43
+669,1755,7/27/2018,Poaceae,739 Arapahoe Way,986-158-1020,Violet,9.30
+670,2821,7/3/2018,Chenopodiaceae,6 Graedel Road,537-775-8338,Puce,6.68
+671,1580,6/6/2018,Primulaceae,3 Darwin Junction,143-489-0146,Turquoise,5.88
+672,2441,7/15/2018,Leskeaceae,28 Warbler Road,701-941-4375,Blue,6.89
+673,2637,5/12/2018,Rutaceae,2473 Valley Edge Drive,910-950-2932,Teal,5.32
+674,1248,7/28/2018,Pertusariaceae,23 Farmco Crossing,533-406-5922,Purple,7.47
+675,2122,7/5/2018,Asteraceae,32 Roth Point,475-892-9615,Pink,8.87
