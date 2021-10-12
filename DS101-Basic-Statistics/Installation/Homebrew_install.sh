@@ -15,7 +15,7 @@ brew install --cask github
 
 #install Python3
 echo "installing python3"
-brew install python3
+brew install python@3.9
 
 #set python/pip from python2 to python3
 echo "setting python and pip in .bashrc"
@@ -100,10 +100,10 @@ brew install julia
 
 # Install R kernelspec
 # change directory to the R folder
-echo "changing directory to R folder"
-cd /Library/Frameworks/R.framework/Versions/4.1
-echo "ensure you're in the right directory"
-pwd
+# echo "changing directory to R folder"
+# cd /Library/Frameworks/R.framework/Versions/4.1
+# echo "ensure you're in the right directory"
+# pwd
 
 # curl a.r
 #echo "curl a.r from github"
@@ -112,11 +112,6 @@ pwd
 # Start R terminal
 #echo "R Terminal start and run script"
 #Rscript a.r
-
-
-
-
-
 
 
 echo "*******************************************************************"
@@ -173,7 +168,7 @@ echo ""
 echo "Wait a minute or so for the installation to complete"
 echo ""
 echo "Exit out of Julia terminal by typing CTRL-D"
-echot ""
+echo ""
 echo "Now in a new terminal (not Julia)test jupyter lab run test by running the command below:"
 echo "jupyter lab"
 echo "ensure you see notebook choices for Python3, Julia and R"

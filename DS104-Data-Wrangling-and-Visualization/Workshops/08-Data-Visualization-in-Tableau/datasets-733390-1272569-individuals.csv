@@ -1,0 +1,896 @@
+animal_id,sex,life_stage,pregnant,with_calf,death_cause,study_site,deploy_on_longitude,deploy_on_latitude,deploy_on_comments,deploy_off_longitude,deploy_off_latitude,deploy_off_type,deploy_off_comments,Date
+HR_151.510,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/31/2019
+GR_C04,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/31/2019
+GR_C03,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/31/2019
+HR_151.805,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/30/2019
+HR_151.760,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/28/2019
+HR_151.720,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/28/2019
+GR_C18,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/25/2019
+KE_car120,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,12/24/2019
+KE_car118,f,NA,NA,NA,Unknown,Kennedy,NA,NA,NA,-122.6404902,55.26054377,dead,NA,12/23/2019
+HR_151.579,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/22/2019
+GR_C13,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/21/2019
+HR_151.744,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/20/2019
+GR_GC13,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/19/2019
+GR_C06,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/18/2019
+HR_151.535,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/18/2019
+HR_151.600,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/18/2019
+GR_C08,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/17/2019
+GR_GC08,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/17/2019
+HR_152.641,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/16/2019
+HR_151.660,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/16/2019
+HR_151.735,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/14/2019
+GR_C20,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/12/2019
+HR_151.550,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/11/2019
+HR_151.775,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/9/2019
+GR_C05,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/8/2019
+HR_151.680,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/8/2019
+GR_C14,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/7/2019
+GR_C07,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/7/2019
+GR_GC17,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/6/2019
+HR_151.620,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/5/2019
+GR_GC07,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/4/2019
+HR_151.499,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/3/2019
+GR_GC15,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/3/2019
+GR_GC22,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/3/2019
+HR_151.785,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/2/2019
+HR_151.570,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,12/1/2019
+GR_CG06,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,12/1/2019
+GR_GC10,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/30/2019
+HR_151.700,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/30/2019
+GR_GC19,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/30/2019
+HR_151.635,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/29/2019
+GR_GC03,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/27/2019
+GR_C16,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/26/2019
+HR_151.589,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/25/2019
+HR_151.801,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/25/2019
+HR_151.749,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/25/2019
+GR_GC14,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/24/2019
+KE_car119,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,11/23/2019
+GR_C19,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/23/2019
+GR_GC09,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/23/2019
+HR_151.739,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/23/2019
+HR_151.711,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/22/2019
+HR_151.649,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/22/2019
+GR_C01,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/20/2019
+GR_GC02,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/19/2019
+HR_151.670,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/18/2019
+HR_151.609,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/17/2019
+HR_151.960,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/17/2019
+HR_151.770,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/17/2019
+HR_151.730,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/17/2019
+GR_C21,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/17/2019
+KE_car121,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,11/17/2019
+GR_GC12,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/16/2019
+GR_GC05,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/16/2019
+GR_C10,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/16/2019
+GR_C11,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/16/2019
+HR_151.519,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/15/2019
+HR_151.690,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/15/2019
+GR_C12,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/14/2019
+GR_GC21,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/14/2019
+GR_C02,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/13/2019
+HR_151.629,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/12/2019
+GR_GC06,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/12/2019
+GR_C15,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/12/2019
+HR_151.000,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/11/2019
+GR_GC23,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/11/2019
+HR_151.780,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/11/2019
+GR_GC04,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/11/2019
+GR_GC11,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/11/2019
+GR_C09,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/10/2019
+HR_151.540,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/10/2019
+GR_C22,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/10/2019
+HR_151.701,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/10/2019
+GR_GC18,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/9/2019
+GR_C17,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/9/2019
+HR_151.641,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/9/2019
+GR_GC01,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/9/2019
+HR_151.790,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/9/2019
+GR_GC16,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/8/2019
+GR_GC20,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,deployment end time set to exclude locations in Fort St John,11/8/2019
+HR_151.559,f,NA,NA,NA,NA,Hart Ranges,NA,NA,NA,NA,NA,unknown,NA,11/8/2019
+GR_C06,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/7/2019
+GR_C04,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/7/2019
+GR_C10,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/6/2019
+GR_C08,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/6/2019
+GR_C02,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/6/2019
+GR_C09,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/6/2019
+GR_C05,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/4/2019
+GR_C12,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/4/2019
+GR_C01,f,NA,NA,NA,NA,Graham,NA,NA,NA,NA,NA,unknown,NA,11/4/2019
+KE_car004,f,NA,NA,NA,Predation - Wolf,Kennedy,-122.3872998,55.19803367,General capture location.,-122.4416668,55.14010822,dead,NA,11/4/2019
+MO_car006,f,NA,NA,NA,Unknown,Moberly,-122.441041,55.8452695,General capture location.,-122.4869026,55.79959912,dead,NA,11/3/2019
+HR_car002,f,NA,NA,NA,NA,Hart Ranges,-122.1123246,54.84585894,General capture location.,NA,NA,other,Not Monitored,11/3/2019
+MO_car005,f,NA,NA,NA,Predation - Wolf,Moberly,-122.4126199,55.6115137,General capture location.,-122.4299303,55.57496066,dead,NA,11/3/2019
+KE_car003,f,NA,NA,NA,Unknown.  Suspected predation,Kennedy,-122.3090656,55.17964289,General capture location.,-122.6507406,55.28844832,dead,NA,11/2/2019
+HR_car001,f,NA,NA,NA,Unknown.  Suspected predation,Hart Ranges,-121.8955665,54.79914462,General capture location.,-122.1519024,54.87308473,dead,NA,11/2/2019
+QU_car008,f,NA,NA,NA,Predation - Grizzly Bear,Quintette,-121.3759404,54.95508317,General capture location.,-121.2507174,54.95871159,dead,NA,11/2/2019
+QU_car007,f,NA,NA,NA,NA,Quintette,-121.5144396,55.01077924,General capture location.,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,11/2/2019
+MO_car010,f,NA,TRUE,NA,NA,Moberly,-122.4283635,55.62057375,General capture location.,NA,NA,removal,Recovered failed collar and replaced with a new one.,11/1/2019
+MO_car009,f,NA,NA,NA,NA,Moberly,-122.4283635,55.62057375,General capture location.,NA,NA,removal,Recovered failed collar and replaced with a new one.,11/1/2019
+KE_car011,f,NA,NA,NA,NA,Kennedy,-122.8276088,55.10060221,General capture location.,NA,NA,removal,Recovered failed GPS collar and replaced with a new one.,11/1/2019
+QU_car014,f,NA,NA,NA,NA,Quintette,-121.0077883,54.93470448,NA,NA,NA,removal,NA,11/1/2019
+QU_car012,f,NA,NA,NA,NA,Quintette,-121.4975209,55.08680268,NA,NA,NA,removal,NA,11/1/2019
+QU_car013,f,NA,NA,NA,NA,Quintette,-121.1354477,54.99173725,NA,NA,NA,other,Lost,10/31/2019
+QU_car015,f,NA,NA,NA,NA,Quintette,-121.6484788,54.84596772,NA,NA,NA,other,Lost,10/31/2019
+HR_car017,f,NA,FALSE,NA,NA,Hart Ranges,-122.0215071,54.73731502,General capture location.,NA,NA,other,Lost,10/31/2019
+HR_car019,f,NA,NA,NA,NA,Hart Ranges,-122.622436,55.25290499,General capture location.,NA,NA,removal,NA,10/31/2019
+KE_car018,f,NA,TRUE,NA,NA,Kennedy,-122.622436,55.25290499,General capture location.,NA,NA,removal,NA,10/31/2019
+HR_car016,f,NA,TRUE,NA,NA,Hart Ranges,-122.1623857,54.68444694,General capture location.,NA,NA,removal,Recovered non-working green GPS collar. Cow very skinny.,10/31/2019
+MO_car020,f,NA,NA,NA,NA,Moberly,-122.4283635,55.62057375,General capture location.,NA,NA,removal,NA,10/31/2019
+BP_car022,m,NA,NA,NA,NA,Burnt Pine,-122.112745,55.3291827,NA,NA,NA,other,Lost,10/31/2019
+MO_car009,f,NA,NA,NA,NA,Moberly,-122.4321849,55.63302764,Replacement for failed GPS collar 151.970.,-122.5931093,55.55748673,dead,NA,10/30/2019
+MO_car021,f,NA,NA,NA,Accidental.  Caught in tree well,Moberly,-122.4982588,55.73641563,NA,-122.4797465,55.79194945,dead,NA,10/29/2019
+BP_car023,f,NA,NA,NA,Unknown.  Suspected wolf predation,Burnt Pine,-122.27706,55.33143354,NA,-122.3520333,55.35056319,dead,NA,10/29/2019
+KE_car011,f,NA,NA,NA,NA,Kennedy,-122.4039453,55.1974871,Replacement for failed GPS collar 151.871.,-122.8737792,55.42793026,dead,NA,10/29/2019
+KE_car024,f,NA,TRUE,TRUE,NA,Kennedy,-122.8176887,55.11430982,Cow with calf. Left antler broke during capture. Fecal sample taken from ground.,NA,NA,removal,NA,10/29/2019
+MO_car010,f,NA,TRUE,NA,NA,Moberly,-122.6244912,55.74097258,Replacement for failed GPS collar 151.980. Fecal sample taken from ground.,NA,NA,removal,NA,10/28/2019
+KE_car025,f,NA,FALSE,TRUE,NA,Kennedy,-122.8158218,55.10778298,Cow with calf.  Relatively young female. Fecal sample taken from caribou.,NA,NA,removal,NA,10/28/2019
+MO_car020,f,NA,NA,NA,NA,Moberly,-122.4745015,55.62222675,Very fat cow. Fecal sample taken from ground.,NA,NA,removal,NA,10/27/2019
+KE_car027,f,NA,NA,NA,Train collision,Kennedy,-122.8175866,55.10919648,Cow - 7 or 8 in group.,-122.8284576,55.10001031,dead,NA,10/27/2019
+KE_car028,f,NA,TRUE,FALSE,Unknown.  Suspected predation,Kennedy,-122.8184636,55.10936852,"2 cows, 1 bull.",-122.2610877,55.18750331,dead,NA,10/27/2019
+KE_car026,m,NA,NA,NA,Predation - Wolf,Kennedy,-122.8372135,55.12425829,BULL.  Relatively young bull. Left antler tine broken.,-122.7517941,55.33195405,dead,NA,10/27/2019
+HR_car029,f,NA,TRUE,NA,NA,Hart Ranges,-121.8693721,54.64064391,7 caribou in group. Ultrasound batteries dead.  Estimated backfat from surgery (min. estimate as Doug didn't want to push scapel to far as potential for nerve damage).,NA,NA,removal,NA,10/27/2019
+HR_car019,f,NA,NA,NA,NA,Hart Ranges,-122.3044319,54.98381808,Captured cow and calf in net. Didn't do backfat surgery as animal seemed to have no fat and protruding bones.,-122.1341847,54.85556096,dead,NA,10/26/2019
+QU_car012,f,NA,NA,NA,NA,Quintette,-121.3860704,55.12647647,"At least 15 animals, saw at least one calf in group. Estimated backfat from surgery. Cow is quite skinny with a big pot belly.",NA,NA,removal,NA,10/25/2019
+HR_car030,f,NA,TRUE,NA,NA,Hart Ranges,-122.1327371,54.85115599,Estimated backfat from surgery.,NA,NA,removal,NA,10/25/2019
+QU_car031,f,NA,TRUE,FALSE,NA,Quintette,-121.259696,54.98549849,Estimated backfat from surgery.  10.0mm minimum estimate as Doug didn't want to insert scalpel too deep.,NA,NA,removal,NA,10/25/2019
+HR_car033,f,NA,TRUE,TRUE,NA,Hart Ranges,-122.1057086,54.70054251,Cow quite skinny. Tons of tracks and alectoria abundant.,NA,NA,other,Not Monitored,10/25/2019
+BP_car032,f,NA,FALSE,TRUE,NA,Burnt Pine,-122.1111803,55.33570437,"About 20 caribou on ridgeline, 1 bull in group.",NA,NA,removal,NA,10/24/2019
+HR_car016,f,NA,TRUE,NA,NA,Hart Ranges,-122.2699003,54.77496809,Recovered non-working green GPS collar. Cow very skinny.,-122.3373969,54.82947471,dead,NA,10/24/2019
+HR_car034,f,NA,NA,TRUE,Unknown.  Suspected predation,Hart Ranges,-121.7687606,54.66469339,"2 cows, 2 yearlings.",-121.9093894,54.66060358,dead,NA,10/24/2019
+QU_car035,f,NA,TRUE,FALSE,Unknown,Quintette,-121.418614,54.91831093,Doug spun blood.,-121.3467766,54.97576635,dead,NA,10/24/2019
+KE_car039,f,NA,TRUE,FALSE,NA,Kennedy,-122.6126612,55.24859698,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,10/24/2019
+QU_car038,f,NA,TRUE,FALSE,Unknown.  Suspected predation,Quintette,-121.5044565,54.91675535,NA,-121.3596321,55.13667472,dead,NA,10/23/2019
+QU_car037,f,NA,TRUE,FALSE,Unknown.  Found 50m from TREND open pit mine.  Area littered with rock from blasts from the mine.,Quintette,-120.9613893,54.87151888,NA,-120.9459692,54.88449017,dead,NA,10/23/2019
+QU_car036,f,NA,TRUE,TRUE,Unknown.  Collar inaccessible and still in field.,Quintette,-120.9613893,54.87151888,NA,-121.0757684,54.8121116,dead,NA,10/23/2019
+QU_car041,f,NA,NA,NA,NA,Quintette,-121.3833312,55.13332455,NA,NA,NA,removal,NA,10/23/2019
+BP_car043,f,NA,NA,NA,NA,Burnt Pine,-122.2005993,55.37099082,NA,NA,NA,removal,NA,10/23/2019
+QU_car040,f,NA,NA,NA,NA,Quintette,-121.3833312,55.13332455,NA,NA,NA,removal,NA,10/23/2019
+KE_car044,f,NA,NA,NA,NA,Kennedy,-122.6136143,55.28654828,NA,NA,NA,removal,NA,10/22/2019
+QU_car042,f,NA,NA,NA,NA,Quintette,-121.3833312,55.13332455,NA,NA,NA,removal,NA,10/22/2019
+QU_car046,f,NA,NA,NA,NA,Quintette,-121.0139327,54.87210202,NA,NA,NA,removal,NA,10/21/2019
+QU_car045,f,NA,NA,NA,NA,Quintette,-121.0139327,54.87210202,NA,NA,NA,removal,NA,10/21/2019
+KE_car047,f,NA,NA,NA,Unknown.  Suspected predation,Kennedy,NA,NA,NA,-122.7988091,55.13353496,dead,NA,10/21/2019
+KE_car048,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,10/21/2019
+KE_car050,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,10/20/2019
+KE_car049,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,10/20/2019
+KE_car051,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,removal,NA,10/20/2019
+MO_car052,f,NA,NA,NA,Unknown,Moberly,-122.4701474,55.88574219,NA,-122.6329781,55.81758294,dead,NA,10/20/2019
+KE_car053,f,NA,NA,NA,NA,Kennedy,-122.3824952,55.47559924,NA,NA,NA,removal,NA,10/20/2019
+NA_car056,f,NA,NA,NA,Unknown,Narraway,-120.4629697,55.10098519,NA,-119.8034758,55.07521916,dead,NA,10/20/2019
+NA_car055,m,NA,NA,NA,Predation - Wolf,Narraway,-120.59541,55.03074459,NA,-120.6386488,55.06577302,dead,NA,10/19/2019
+NA_car054,f,NA,NA,NA,Unknown,Narraway,-120.6073092,55.02907353,NA,-120.704339,54.61526976,dead,NA,10/19/2019
+QU_car060,f,NA,NA,NA,NA,Quintette,-121.0255249,54.84444491,NA,NA,NA,other,Lost,10/19/2019
+QU_car057,f,NA,NA,NA,NA,Quintette,-120.8688407,54.86347588,NA,NA,NA,removal,NA,10/18/2019
+QU_car059,f,NA,NA,NA,NA,Quintette,-121.0272655,54.85090893,NA,NA,NA,removal,NA,10/18/2019
+QU_car058,f,NA,NA,NA,NA,Quintette,-120.8775911,54.86184041,NA,NA,NA,removal,NA,10/18/2019
+KE_car061,f,NA,NA,NA,Unknown.  Suspected wolf (or possibly wolverine) predation,Kennedy,-122.6145703,55.25288041,NA,-122.4380599,55.19950918,dead,NA,10/18/2019
+KE_car065,f,NA,NA,NA,NA,Kennedy,-122.6145703,55.25288041,NA,NA,NA,removal,NA,10/18/2019
+KE_car062,f,NA,NA,NA,NA,Kennedy,-122.6145703,55.25288041,NA,NA,NA,removal,NA,10/18/2019
+KE_car064,f,NA,NA,NA,NA,Kennedy,-122.6145703,55.25288041,NA,NA,NA,removal,NA,10/17/2019
+KE_car063,f,NA,NA,NA,NA,Kennedy,-122.6145703,55.25288041,NA,NA,NA,removal,NA,10/17/2019
+QU_car069,f,NA,NA,NA,NA,Quintette,-121.3869846,55.13725555,NA,NA,NA,removal,NA,10/17/2019
+MO_car066,f,NA,NA,NA,Predation - Wolf,Moberly,-122.5969426,55.7496281,NA,-122.5603005,55.54004001,dead,NA,10/17/2019
+MO_car067,f,NA,NA,NA,NA,Moberly,-122.5995964,55.75340165,NA,NA,NA,removal,NA,10/17/2019
+QU_car070,f,NA,NA,NA,NA,Quintette,-121.340369,55.11393606,NA,NA,NA,removal,NA,10/17/2019
+QU_car068,f,NA,NA,NA,NA,Quintette,-121.9435809,28.13432133,NA,NA,NA,removal,NA,10/17/2019
+QU_car074,f,NA,NA,NA,NA,Quintette,-121.4229523,55.11432311,NA,NA,NA,removal,NA,10/17/2019
+QU_car073,f,NA,NA,NA,NA,Quintette,-121.300636,54.90022551,NA,NA,NA,other,Lost,10/17/2019
+QU_car072,f,NA,NA,NA,Unknown.  Suspected wolf predation,Quintette,-121.3425189,54.9015771,NA,-121.8345539,54.69695327,dead,NA,10/17/2019
+QU_car075,f,NA,NA,NA,NA,Quintette,-121.337448,55.11442649,NA,NA,NA,removal,NA,10/16/2019
+QU_car071,f,NA,NA,NA,NA,Quintette,-121.4283258,55.07449728,NA,NA,NA,removal,NA,10/16/2019
+NA_car077,f,NA,NA,NA,NA,Narraway,-120.5800836,55.07624912,NA,NA,NA,removal,NA,10/16/2019
+NA_car078,f,NA,NA,NA,Predation - Wolf,Narraway,-120.5959428,55.05450426,NA,-120.3153435,55.07700374,dead,NA,10/15/2019
+MO_car080,f,NA,NA,NA,Predation - Unknown predator,Moberly,-122.5795948,55.79987005,NA,-122.4266288,55.78256339,dead,NA,10/15/2019
+MO_car079,f,NA,NA,NA,Predation - Unknown predator,Moberly,-122.7949939,55.86289192,NA,-123.1973489,55.70720032,dead,NA,10/15/2019
+KE_car098,f,NA,NA,NA,NA,Kennedy,-122.5904404,55.23270883,NA,NA,NA,removal,NA,10/15/2019
+KE_car096,f,NA,NA,NA,NA,Kennedy,-122.7896121,55.31367567,NA,NA,NA,removal,NA,10/15/2019
+KE_car095,f,NA,NA,NA,Unknown.  Suspected predation,Kennedy,-122.7896121,55.31367567,NA,-122.5310297,55.2891517,dead,NA,10/15/2019
+KE_car099,f,NA,NA,NA,NA,Kennedy,-122.5904404,55.23270883,NA,NA,NA,removal,NA,10/14/2019
+KE_car097,f,NA,NA,NA,NA,Kennedy,-122.5904404,55.23270883,NA,NA,NA,removal,NA,10/14/2019
+MO_car102,f,15-Dec,NA,FALSE,NA,Moberly,-122.6061069,55.99397469,NA,NA,NA,removal,NA,10/14/2019
+BP_car101,f,5-Mar,NA,NA,Unknown.  Suspected wolf predation,Burnt Pine,-122.3152811,55.42126297,includ. CAR100 (149.801),-122.269084,55.38963877,dead,NA,10/14/2019
+BP_car100,f,5-Mar,NA,FALSE,NA,Burnt Pine,-122.3152811,55.42126297,includ. CAR101 (149.730); *no photos due to temp (-30 C),NA,NA,removal,NA,10/14/2019
+MO_car103,f,3-Feb,NA,FALSE,NA,Moberly,-122.497179,55.86862183,NA,NA,NA,removal,NA,10/13/2019
+MO_car104,f,7-May,NA,FALSE,NA,Moberly,-122.4501234,55.78901711,includ. CAR080  (ATS 148.228),NA,NA,removal,NA,10/13/2019
+QU_car106,f,5-Mar,NA,FALSE,NA,Quintette,-120.9844692,54.92434282,includ. CAR105 and CAR059,NA,NA,removal,NA,10/13/2019
+QU_car105,f,7-May,NA,FALSE,NA,Quintette,-121.0119635,54.93107863,includ. CAR106 and CAR059 (ATS 150.559; with calf; programmed  collar release failed - recaptured and collar retrieved),NA,NA,removal,NA,10/13/2019
+QU_car107,f,10-Aug,NA,FALSE,Predation - Wolf,Quintette,-120.968233,54.87273019,"includ. CAR036, CAR105 and CAR106; retrieved released collar 150.690 (CAR057) from same ridge.",-121.0981002,54.71304269,dead,NA,10/12/2019
+QU_car110,f,10-Aug,NA,FALSE,NA,Quintette,-121.369821,55.14727287,"includ. CAR070, CAR075, and CAR111",NA,NA,removal,NA,10/12/2019
+QU_car112,f,7-May,NA,TRUE,NA,Quintette,-121.3354215,55.117158,includ. CAR007; *2+ calves,NA,NA,removal,NA,10/12/2019
+QU_car114,f,5-Mar,NA,TRUE,NA,Quintette,-121.4930991,55.19721978,includ. CAR071; *1+ calves,NA,NA,removal,NA,10/12/2019
+QU_car111,f,7-May,NA,TRUE,NA,Quintette,-121.369821,55.14727287,"*antlers broken; includ. CAR070, CAR075, and CAR110",NA,NA,removal,NA,10/12/2019
+QU_car113,f,7-May,NA,TRUE,NA,Quintette,-121.3975716,55.12831791,NA,NA,NA,removal,NA,10/11/2019
+QU_car109,f,5-Mar,NA,TRUE,Predation - Wolf,Quintette,-120.9574911,54.84935951,"*bald; group includ. CAR036, CAR105, CAR106, CAR107, and CAR108",-120.8613899,54.92091838,dead,NA,10/11/2019
+MO_car116,f,10-Aug,NA,FALSE,Unknown.  Suspected wolf predation,Moberly,-122.7330221,55.84356276,missing 2 incisors,-122.1238158,55.94576706,dead,NA,10/11/2019
+BP_car115,m,7-May,NA,NA,NA,Burnt Pine,-122.2046044,55.46154303,*mature male; old tear in right ear,NA,NA,removal,NA,10/11/2019
+QU_car126,f,6-Apr,NA,TRUE,NA,Quintette,-120.9981135,54.93588476,includ. CAR 122 (bull collared at Bearhole in Dec 2009),NA,NA,removal,NA,10/11/2019
+QU_car125,f,15-Dec,NA,FALSE,NA,Quintette,-121.3813869,55.15345759,* in 2 groups of 22 + 13; caribou had been previously collared (eartag orange left/no ID number); excellent condition,NA,NA,removal,NA,10/11/2019
+KE_car130,f,7-May,NA,FALSE,NA,Kennedy,-122.5968472,55.20245574,"previously uncollared group; collared CAR, 128, CAR 129, CAR 130",NA,NA,removal,NA,10/11/2019
+KE_car128,f,3-Feb,NA,FALSE,NA,Kennedy,-122.5939569,55.20392887,"previously uncollared group; collared CAR, 128, CAR 129, CAR 130",NA,NA,removal,NA,10/10/2019
+KE_car131,f,15-Dec,NA,FALSE,NA,Kennedy,-122.4901805,55.19733882,includ. CAR121 and CAR 127,NA,NA,removal,NA,10/10/2019
+KE_car129,f,3-Feb,NA,FALSE,Predation - Wolf,Kennedy,-122.5920635,55.20624099,"previously uncollared group; collared CAR, 128, CAR 129, CAR 130; very low body fat",-122.3520599,55.25034948,dead,NA,10/10/2019
+KE_car127,f,3-Feb,NA,FALSE,NA,Kennedy,-122.499344,55.20449387,includ. CAR121 and new collar CAR 131,NA,NA,removal,NA,10/9/2019
+NA_car132,f,5-Mar,NA,FALSE,Predation - Wolf,Narraway,-120.2226574,55.02934921,includ. CAR123 and new collar CAR 133; hair loss on shoulders and flanks resembles winter tick rubbing/no ticks observed,NA,NA,removal,NA,10/9/2019
+NA_car133,f,6-Apr,NA,FALSE,NA,Narraway,-120.2299917,55.06321083,includ. CAR123 and new collar CAR 132,NA,NA,other,Lost,10/9/2019
+NA_car134,f,3-Feb,NA,FALSE,NA,Narraway,-120.2158518,55.09471258,Group includ. CAR132 (with calf).,NA,NA,other,Lost,10/8/2019
+QU_car136,f,6-Apr,NA,FALSE,Unknown,Quintette,-121.34178,55.00183461,"Poor condition, abundant hair breakage, no sign of warbles.",-121.3409496,54.92708982,dead,NA,10/8/2019
+NA_car135,f,5-Mar,NA,FALSE,NA,Narraway,-120.2233712,55.09478544,Group includ. CAR132 (with calf) and CAR 134.,NA,NA,other,Lost,10/7/2019
+QU_car140,f,6-Apr,NA,TRUE,Unknown,Quintette,-120.8727234,54.86135971,Group includ. CAR122 and CAR126.,-120.9557833,54.86864718,dead,NA,10/7/2019
+QU_car138,f,6-Apr,NA,FALSE,NA,Quintette,-120.9595306,54.85339372,NA,NA,NA,removal,Recovered failed collar and replaced with a new one.,10/7/2019
+QU_car146,f,5-Mar,NA,FALSE,NA,Quintette,-121.501847,55.16550381,Group includ. unidentified older collar.,NA,NA,removal,Recovered failed collar and replaced with a new one.,10/7/2019
+QU_car142,f,5-Mar,NA,NA,NA,Quintette,-121.345603,55.12121526,Group includ. CAR125 and new collars CAR141 and CAR143.,NA,NA,other,Lost,10/7/2019
+QU_car143,f,3-Feb,NA,FALSE,NA,Quintette,-121.3456004,55.12127813,"Group includ. CAR125, CAR141, and CAR142.",NA,NA,other,Lost,10/6/2019
+BP_car144,f,5-Mar,NA,FALSE,NA,Burnt Pine,-122.3378226,55.43659136,Group includ. CAR 145; very rich terrestrial lichen supply on eastern lower slopes of Stephenson.,NA,NA,other,Lost,10/6/2019
+QU_car139,f,5-Mar,NA,FALSE,NA,Quintette,-120.9074971,54.86148763,NA,NA,NA,other,Lost,10/6/2019
+QU_car141,f,8-Jun,NA,TRUE,NA,Quintette,-121.3456004,55.12127813,Group includ. CAR125 and new collars CAR142 and CAR143.,NA,NA,other,Lost,10/6/2019
+QU_car137,f,3-Feb,NA,FALSE,NA,Quintette,-120.9621918,54.86580666,"Heavy snowmobile activity in area (alpine, subalpine and below treeline)",NA,NA,removal,Recovered failed collar and replaced with a new one.,10/6/2019
+BP_car145,f,7-May,NA,FALSE,Unknown,Burnt Pine,-122.3378226,55.43659136,Group includ. CAR 144;  snow depth in valley on west side of mtn = 1.3 metres; abundant arboreal lichen on subalpine fir.,NA,NA,dead,NA,10/5/2019
+MO_car149,f,8-Jun,NA,FALSE,Unknown,Moberly,-122.4689794,55.85653501,Group includ. CAR103 (148.519).,-122.5139006,55.85274015,dead,NA,10/5/2019
+MO_car147,f,5-Mar,NA,FALSE,NA,Moberly,-122.9456482,55.88340196,Group includ. CAR104 (148.410).,NA,NA,other,Infometrics,10/5/2019
+MO_car148,f,7-May,NA,FALSE,Predation - Wolf,Moberly,-122.8140168,55.81067319,NA,-122.6399358,55.75019288,dead,NA,10/5/2019
+MO_car151,f,12-Oct,NA,FALSE,Predation - Unknown predator,Moberly,-122.5905719,55.76011096,Group includ. CAR150; teeth worn down to gumline.,-122.5591136,55.82464929,dead,NA,10/5/2019
+QU_car152,f,5-Mar,NA,FALSE,Predation - Unknown predator,Quintette,-121.471121,55.19920204,Group includ. CAR111 (149.689; recaptured to retrieve collar).,-121.3733638,55.09141106,dead,NA,10/5/2019
+MO_car150,f,5-Mar,NA,FALSE,NA,Moberly,-122.5905719,55.76011096,Group includ. CAR151.,NA,NA,removal,NA,10/5/2019
+KE_car153,f,6-Apr,NA,FALSE,Predation - Unknown predator,Kennedy,-122.5716669,55.25750006,NA,-122.360615,55.31908506,dead,NA,10/4/2019
+KE_car154,f,3-Feb,NA,FALSE,NA,Kennedy,-122.4819354,55.19228975,NA,NA,NA,removal,NA,10/4/2019
+KE_car157,f,8-Jun,NA,FALSE,"Accidental, Collar Still in Field, Inaccessible",Kennedy,-122.6124357,55.29278087,NA,-122.50196,55.18155998,dead,NA,10/4/2019
+KE_car156,f,7-May,NA,FALSE,NA,Kennedy,-122.5317064,55.23312662,NA,NA,NA,removal,NA,10/4/2019
+KE_car155,f,7-May,NA,TRUE,NA,Kennedy,-122.473701,55.19611859,NA,NA,NA,removal,NA,10/3/2019
+QU_car158,f,6-Apr,NA,FALSE,Predation - Wolf,Quintette,-121.5281889,55.21495753,Mort recovery deployed on new caribou,-121.5405257,55.17077215,dead,NA,10/3/2019
+MO_car150,f,5-Mar,NA,FALSE,NA,Moberly,-122.4578027,55.86300063,Redeployment of mortality recovery,NA,NA,removal,Recovered failed collar and replaced with a new one.,10/3/2019
+QU_car146,f,5-Mar,NA,FALSE,NA,Quintette,-121.5281889,55.21495753,Recapture - failed Iridium 149.210 removed; replaced with new Iridium.,-121.4395426,55.06053482,dead,NA,10/2/2019
+QU_car137,f,5-Mar,NA,FALSE,NA,Quintette,-121.0191177,54.87348105,Recapture - failed Iridium 149.220 removed; replaced with new Iridium.,NA,NA,removal,Recovered failed collar and replaced with a new one.,10/2/2019
+QU_car159,f,5-Mar,NA,FALSE,NA,Quintette,-121.0076805,54.88920346,NA,NA,NA,removal,Recovered failed collar and replaced with a new one.,10/1/2019
+MO_car161,f,15-Dec,NA,FALSE,NA,Moberly,-122.4742565,55.7780167,NA,NA,NA,other,Lost,10/1/2019
+QU_car166,f,6-Apr,NA,FALSE,Predation - Grizzly,Quintette,-121.4484176,55.04264275,NA,-121.4929111,55.08105672,dead,NA,9/29/2019
+QU_car163,f,6-Apr,NA,FALSE,Collar Still in Field,Quintette,-121.7747958,55.11353443,NA,NA,NA,dead,NA,9/28/2019
+QU_car167,f,6-Apr,NA,FALSE,NA,Quintette,-121.3742375,55.14903049,NA,NA,NA,other,Lost,9/28/2019
+MO_car150,f,6-Apr,NA,FALSE,NA,Moberly,-122.4763382,55.7892214,Recapture - failed Iridium 149.100 removed; replaced with new Iridium.,NA,NA,other,Infometrics,9/28/2019
+SC_car171,f,8-Jun,NA,TRUE,NA,Scott,-123.3417703,55.87166322,"same group as car168, car169 &car170",NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/28/2019
+SC_car170,f,3-Feb,NA,FALSE,Predation - Wolf,Scott,-123.3557102,55.85990702,same group as car168 & car169,-123.6158964,55.90501066,dead,NA,9/27/2019
+SC_car168,f,8-Jun,NA,FALSE,NA,Scott,-123.3544805,55.85995549,NA,NA,NA,other,Infometrics,9/27/2019
+SC_car169,f,10-Aug,NA,FALSE,Collar still in Field,Scott,-123.3554873,55.85998853,same group as car168,NA,NA,dead,NA,9/27/2019
+QU_car138,f,8-Jun,NA,FALSE,NA,Quintette,-120.9754763,54.87250961,Recapture - failed Iridium 149.190 removed; replaced with VHF. No data provided for this deployment.,-120.9372347,54.86655374,dead,NA,9/27/2019
+QU_car173,f,5-Mar,NA,FALSE,Predation - Wolf,Quintette,-121.0243436,54.85236249,NA,-121.4433879,54.79574748,dead,NA,9/27/2019
+QU_car172,f,6-Apr,NA,FALSE,NA,Quintette,-121.0124525,54.83566555,NA,NA,NA,removal,NA,9/26/2019
+QU_car137,f,5-Mar,NA,FALSE,NA,Quintette,-121.0151583,54.86460773,Recapture - failed Iridium 149.340 removed; replaced with VHF. No data provided for this deployment.,-121.4057557,54.883612,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/26/2019
+QU_car175,f,NA,NA,TRUE,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/26/2019
+QU_car159,f,NA,NA,FALSE,NA,Quintette,NA,NA,Removed and replaced Lotek Iridium 149.350,NA,NA,dead,NA,9/25/2019
+NA_car178,f,NA,NA,FALSE,NA,Narraway,NA,NA,including car124 and new collar car179,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/25/2019
+NA_car177,f,NA,NA,FALSE,NA,Narraway,NA,NA,Including Moberly 149.753 and unidentified failed Lotek Iridium,NA,NA,other,Lost,9/25/2019
+NA_car179,f,NA,NA,FALSE,NA,Narraway,NA,NA,including car124 and new collar car178,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/25/2019
+QU_car183,f,NA,NA,NA,Predation - Grizzly,Quintette,NA,NA,NA,-121.3508194,55.11177007,dead,NA,9/25/2019
+QU_car181,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/25/2019
+QU_car180,f,NA,NA,NA,Predation - Grizzly,Quintette,NA,NA,NA,-120.8748657,54.85562225,dead,NA,9/24/2019
+QU_car182,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/24/2019
+KE_car186,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/24/2019
+KE_car187,f,NA,NA,NA,Vehicle Collision,Kennedy,NA,NA,NA,-122.8165356,55.12305172,dead,NA,9/24/2019
+KE_car185,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+KE_car156,f,NA,NA,FALSE,NA,Kennedy,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+KE_car184,f,NA,NA,NA,Unknown,Kennedy,NA,NA,NA,NA,NA,dead,NA,9/23/2019
+KE_car155,f,NA,NA,TRUE,NA,Kennedy,NA,NA,NA,NA,NA,other,Infometrics,9/23/2019
+QU_car188,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+QU_car190,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+QU_car192,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+QU_car189,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/23/2019
+QU_car191,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/22/2019
+QU_car172,f,NA,NA,FALSE,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/22/2019
+QU_car194,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/21/2019
+QU_car197,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/21/2019
+QU_car195,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/21/2019
+QU_car196,f,NA,NA,NA,NA,Quintette,NA,NA,NA,NA,NA,other,the tag remained deployed as of 7/31/2016 when data were sent to be added Movebank,9/20/2019
+KE_car199,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,unknown,NA,9/20/2019
+KE_car200,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,unknown,NA,9/20/2019
+KE_car198,f,NA,NA,NA,NA,Kennedy,NA,NA,NA,NA,NA,unknown,NA,9/20/2019
+,,,,,,,,,,,,,,9/20/2019
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
