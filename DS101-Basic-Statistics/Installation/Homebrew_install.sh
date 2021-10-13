@@ -122,7 +122,7 @@ echo "install R kernelspec for jupyter lab next by following these instructions:
 echo ""
 echo "It's important that these next commands are done from within the version of R that you want to link to Jupyter Lab."
 echo ""
-echo "cd /Library/Frameworks/R.framework/Versions/4.1"
+echo "cd /Library/Frameworks/R.framework/Versions/4.*"
 echo ""
 echo "Check to ensure you are in R directory pwd , Open R and install the necessary packages by running the command below:"
 echo "1. Type R in your terminal"
