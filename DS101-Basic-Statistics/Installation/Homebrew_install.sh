@@ -1,6 +1,12 @@
 #!/bin/bash
 
-# chmod 755 Homebrew_install.sh then ./Homebrew_install.sh
+# Download script
+curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
+
+echo "chmod 755 Homebrew_install.sh"
+
+echo "run command below: "
+echo "./Homebrew_install.sh"
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"
