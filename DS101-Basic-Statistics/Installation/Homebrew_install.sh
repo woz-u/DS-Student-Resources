@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download script
-curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
+# curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
 
 echo "chmod 755 Homebrew_install.sh"
 
