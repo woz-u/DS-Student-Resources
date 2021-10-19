@@ -64,6 +64,8 @@ Upon successful completion of this program, students will be able to:
 6.	Explain what statistical inference is, and how to create confidence intervals
 7.	Demonstrate high-level data exploration
 
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
 ## Lessons:
 
 ### Week 1
@@ -82,6 +84,8 @@ Upon successful completion of this program, students will be able to:
 9.	High Level Data Exploration: Includes data exploration, graphical tools for analysis, boxplot, pie charts, scatterplot, data map, tree map
 10.	Concept Mastery Exam
 
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
 ### Workshops
 
 |Class: DSO101     | Topic presented  |
@@ -92,3 +96,5 @@ Upon successful completion of this program, students will be able to:
 |                  | t-Tests and Chi-Squares (L7)|
 |Week 3 Workshop   | Data Exploration (L9)|
 |                  | Basic Statistics Review (L10)|
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
