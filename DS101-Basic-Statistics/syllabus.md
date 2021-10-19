@@ -19,7 +19,7 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Required Resources: 
-- Ground based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
+- Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
 
 - Online students are required to have a laptop or desktop computer with internet access.  
 
@@ -27,9 +27,9 @@
 
 - Recommended: PC (Windows) or MacBook laptop. 16GB ram, 1TB SSD, Core i7 AMD Rizen or New M1 Pro/Max Chipsets
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady state internet high-bandwidth connection.
+- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
 
-- Quiet place to study and focus on the material and having uninterupted video meetings.
+- Quiet place to study and focus on the material and have uninterrupted video meetings.
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -56,10 +56,10 @@
 
 Upon successful completion of this program, students will be able to:
   
-1.	Use probability rules and Bayes Theorem
+1.	Use probability rules and Bayes' Theorem
 2.	Explain the difference between continuous and categorical variables
 3.	Use common descriptive statistics for both populations and samples
-4.	Use common distributions including Uniform, Normal, z-distribution, t-distribution, F-distribution, Poisson, and Weibul
+4.	Use common distributions including Uniform, Normal, z-distribution, t-distribution, F-distribution, Poisson, and Weibull
 5.	Use the Central Limit Theorem
 6.	Explain what statistical inference is, and how to create confidence intervals
 7.	Demonstrate high-level data exploration
@@ -76,8 +76,8 @@ Upon successful completion of this program, students will be able to:
 ### Week 2
 4.	Common Descriptive Statistics: Includes populations and samples, population parameters and sample statistics, measures of cental tendency, measures of distribution, measures of frequency
 5.	The Normal Distribution and Central Limit Theorem: Includes normal distribution, standard normal distribution, standard normal population, z-score, probability, using the z-score to determine a percentile, parent and child distributions
-6.	Uniform, Binomial, Student’s T-, and F- Distributions: Includes uniform distribution, binomial distribution, t-distribution, f-distribution, calculating effect size, independent t test
-7.	Other Common Distributions: Includes multinomial distributions, poisson distribution, bathtub curve, exponential distribution, chi-square distribution
+6.	Uniform, Binomial, Student’s T-, and F- Distributions: Includes uniform distribution, binomial distribution, t-distribution, f-distribution, calculating effect size, independent t-test
+7.	Other Common Distributions: Includes multinomial distributions, Poisson distribution, bathtub curve, exponential distribution, chi-square distribution
 
 ### Week 3
 8.	Statistical Inference: Includes statistical inference, distribution of x versus the distribution of x-bar, confidence intervals, determining sample size, courtroom analogy
