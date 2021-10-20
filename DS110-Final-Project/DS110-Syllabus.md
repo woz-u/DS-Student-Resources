@@ -1,16 +1,11 @@
-# DS-Student-Resources
-Data Science Student Companion Notebooks and Data Lake
-
-- [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
-- [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
-- [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
-- [DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md)
-- [DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)
-- [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
-- [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
-- [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
-- [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
+|Module                 |Lesson Number|Lesson Name|
+|:---                   |:---:        |:---       |
+|DS110 Final Group Project |1   | [Group Project Week 1  Project Planning](DS110L1.ipynb)  |
+|                       |2   | [Group Project Week 2 Data Wrangling](DS110L2.ipynb)                |
+|                       |3   | [Group Project Week 3 Exploratory Analysis](DS110L3.ipynb)              |
+|                       |4   | [Group Project Week 4 Analyze Data](DS110L4.ipynb)|
+|                       |5   | [Group Project Week 5 Data Visualization and Reporting](DS110L5.ipynb)      |
+|                       |6   | [Group Project Week 6 Presentation Preparation](DS110L6.ipynb)        |  
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  

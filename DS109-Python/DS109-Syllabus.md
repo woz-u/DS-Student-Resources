@@ -1,16 +1,15 @@
-# DS-Student-Resources
-Data Science Student Companion Notebooks and Data Lake
-
-- [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
-- [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
-- [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
-- [DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md)
-- [DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)
-- [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
-- [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
-- [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
-- [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
+|Module                 |Lesson Number|Lesson Name|
+|:---                   |:---:        |:---       |
+|DS109 Programming Foundations in Python  |1   | [Introduction to Python](DS109L1.ipynb)  |
+|                       |2   | [Performing Operations in Python](DS109L2.ipynb)                |
+|                       |3   | [Lists and Loops ](DS109L3.ipynb)              |
+|                       |4   | [Dictionaries ](DS109L4.ipynb)|
+|                       |5   | [Functions](DS109L5.ipynb)      |
+|                       |6   | [Object-Oriented Programming](DS109L6.ipynb)        | 
+|                       |7   | [Standard Library](DS109L7.ipynb)       |
+|                       |8   | [Python for Data Science](DS109L8.ipynb)   | 
+|                       |9   | [NumPy](DS109L9.ipynb)  | 
+|                       |10  | [Final Project ](DS109L10.ipynb)         |
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  

@@ -1,16 +1,16 @@
-# DS-Student-Resources
-Data Science Student Companion Notebooks and Data Lake
+|Module                 |Lesson Number|Lesson Name|
+|:---                   |:---:        |:---       |
+|DS104 Data Wrangling and Visualization  |1   | [Manipulating Columns and Rows ](DS104L1.ipynb)  |
+|                       |2   | [Data Transformations ](DS104L2.ipynb)                |
+|                       |3   | [Recoding Data ](DS104L3.ipynb)              |
+|                       |4   | [Displaying Quantitative Data ](DS104L4.ipynb)|
+|                       |5   | [Displaying Qualitative Data ](DS104L5.ipynb)      |
+|                       |6   | [Tableau ](DS104L6.ipynb)        | 
+|                       |7   | [Infographics ](DS104L7.ipynb)       |
+|                       |8   | [More Complex Visualizations ](DS104L8.ipynb)   | 
+|                       |9   | [Choosing Appropriate Statistical Analyses ](DS104L9.ipynb)  | 
+|                       |10  | [Final Project ](DS104L10.ipynb)         | 
 
-- [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
-- [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
-- [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
-- [DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md)
-- [DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)
-- [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
-- [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
-- [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
-- [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  

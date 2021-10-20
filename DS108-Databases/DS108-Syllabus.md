@@ -1,16 +1,16 @@
-# DS-Student-Resources
-Data Science Student Companion Notebooks and Data Lake
-
-- [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
-- [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
-- [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
-- [DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md)
-- [DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)
-- [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
-- [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
-- [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
-- [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
+|Module                 |Lesson Number|Lesson Name|
+|:---                   |:---:        |:---       |
+|DS108 Databases – SQL  |1   | [Getting Started with SQL](SQL/DS108L1.ipynb)  |
+|                       |2   | [Joins](SQL/DS108L2.ipynb)                |
+|                       |3   | [CRUD in SQL ](SQL/DS108L3.ipynb)              |
+|                       |4   | [Creating Tables](SQL/DS108L4.ipynb)|
+|                       |5   | [Indexes and Projects](SQL/DS108L5.ipynb)      |
+| | |
+|DSO108 Databases - NoSQL |1   | [Getting Started with NoSQL](NoSQL/DS108NoSQLL1.ipynb)        | 
+|                       |2   | [Querying Documents](NoSQL/DS108NoSQLL2.ipynb)       |
+|                       |3   | [Updating Documents](NoSQL/DS108NoSQLL3.ipynb)   | 
+|                       |4   | [Deleting and Indexing Documents](NoSQL/DS108NoSQLL4.ipynb)  | 
+|                       |5  | [Sharding, More Methods, and Project](NoSQL/DS108NoSQLL5.ipynb)         | 
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  

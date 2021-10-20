@@ -4,17 +4,17 @@
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-|                    |     |
-|:---                |:---:|
-|Quarter Credit Hours:| 4.5 |
-|Course Length:      |  60 hours|
-|Prerequisites:      |  None|
-|Proficiency Exam:   |  No|
-|Theory Hours: 	    |30|
-|Laboratory Hours:	 |   30|
-|Externship Hours:	 |   0|
-|Outside Hours:	    |15|
-|Total Contact Hours:	|60|
+|                     |    |
+|:---                 |---:|
+|Quarter Credit Hours:|4.5|
+|Course Length:       |60 hours|
+|Prerequisites:       |None|
+|Proficiency Exam:    |No|
+|Theory Hours: 	      |30|
+|Laboratory Hours:	  |30|
+|Externship Hours:	  |0 |
+|Outside Hours:	      |15|
+|Total Contact Hours: |60|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -23,13 +23,19 @@
 
 - Online students are required to have a laptop or desktop computer with internet access.  
 
-- Minimum: PC (Windows) or MacBook laptop. 8GB ram, 512GB HD, Core i5 / AMD Rizen or  M1 Chipsets
+- Minimum: PC (Windows) or Mac laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
 
-- Recommended: PC (Windows) or MacBook laptop. 16GB ram, 1TB SSD, Core i7 AMD Rizen or New M1 Pro/Max Chipsets
+- Recommended: PC (Windows) or Mac laptop. 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
+
+- Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
 - It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
 
-- Quiet place to study and focus on the material and have uninterrupted video meetings.
+- You are required to have a quiet place to study and be able to focus on the material.
+
+- You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
+
+- You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -88,37 +94,37 @@ Upon successful completion of this program, students will be able to:
 
 ## Workshops
 
-|Class: DS101     | Topic presented  |
-|:---              |:---              |	
-|Week 1 Workshop   | Github and Jupyter Basics (L1)|
-|                  | Probability (L2)|
-|Week 2 Workshop   | The Normal Distribution and z-Scores (L5)|
-|                  | t-Tests and Chi-Squares (L7)|
-|Week 3 Workshop   | Data Exploration (L9)|
-|                  | Basic Statistics Review (L10)|
+|Class: DS101      |Topic presented                       |Lesson|
+|:---              |:---                                  |:---: |
+|Week 1            | Github and Jupyter Basics            | 1    |
+|                  | Probability                          | 2    |
+|Week 2            | The Normal Distribution and z-Scores | 5    |
+|                  | t-Tests and Chi-Squares              | 7    |
+|Week 3            | Data Exploration                     | 9    |
+|                  | Basic Statistics Review              | 10   |
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Points Distribution:
 
-|  |  |
-|:--- |:--- |	
-|L1 Exam | 24 points |
-|L2 Exam | 24 points |
-|L3 Exam | 26 points |
-|L4 Exam | 20 points |
-|L5 Exam | 20 points |
-|L6 Exam | 16 points |
-|L7 Exam | 22 points |
-|L8 Exam | 30 points |
-|L9 Exam | 28 points |
-|Final Exam | 56 points |
+|Exam |Points|
+|:--- |:---  |	
+|L1|24|
+|L2|24|
+|L3|26|
+|L4|20|
+|L5|20|
+|L6|16|
+|L7|22|
+|L8|30|
+|L9|28|
+|Final|56|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Points Total:
 
-|  |  |
+|Type  | Points  |
 |:--- |:--- |	
 |Professionalism, Attendance and Class Participation*: |14 points (5%)| 
 |Exam/Quiz Average: |L1-9 Exam total points: 210 (75%) |

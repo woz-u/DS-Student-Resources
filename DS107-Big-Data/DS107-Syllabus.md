@@ -1,16 +1,15 @@
-# DS-Student-Resources
-Data Science Student Companion Notebooks and Data Lake
-
-- [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
-- [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
-- [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
-- [DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md)
-- [DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)
-- [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
-- [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
-- [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
-- [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
+|Module                 |Lesson Number|Lesson Name|
+|:---                   |:---:        |:---       |
+|DS107 Big Data         |1   | [Introduction to Big Data](DS107L1.ipynb)  |
+|                       |2   | [Getting Started with Hadoop](DS107L2.ipynb)                |
+|                       |3   | [MapReduce, Hive, and Sqoop](DS107L3.ipynb)              |
+|                       |4   | [Pig and HBase](DS107L4.ipynb)|
+|                       |5   | [Spark 2.0 and Zeppelin](DS107L5.ipynb)      |
+|                       |6   | [Working with Real-Time Data](DS107L6.ipynb)        | 
+|                       |7   | [Amazon Web Services](DS107L7.ipynb)       |
+|                       |8   | [DASK](DS107L8.ipynb)   | 
+|                       |9   | [Source Control using Git](DS107L9.ipynb)  | 
+|                       |10  | [Final Project ](DS107L10.ipynb)         | 
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
