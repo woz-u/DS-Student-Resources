@@ -11,7 +11,7 @@ Data Science Student Companion Notebooks and Data Lake
 - [DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)
 - [DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)
 - [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
-- [DS109-Python](DS109-Python/DS109=Syllabus.md)
+- [DS109-Python](DS109-Python/DS109-Syllabus.md)
 - [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
