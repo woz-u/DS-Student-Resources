@@ -1,3 +1,24 @@
+# DSO107 Introduction to Big Data
+
+**Course Description:** The Introduction to Big Data course introduces students to Big Data on a conceptual level, and gives students exposure and practice with several skills and tools currently in use.  These skills will be taught at a manageable level, and then scale up methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data.  Students will learn the foundational concepts of Big Data and will know how to move from Big Data basics to more business specific needs and requirements.
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+|                     |    |
+|:---                 |---:|
+|Quarter Credit Hours:|3|
+|Course Length:       |40 hours|
+|Prerequisites:       |DS102, DS104, DS109|
+|Proficiency Exam:    |No|
+|Theory Hours: 	      |20|
+|Laboratory Hours:	  |20|
+|Externship Hours:	  |0 |
+|Outside Hours:	      |10|
+|Total Contact Hours: |40|
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
 |DS107 Big Data         |1   | [Introduction to Big Data](DS107L1.ipynb)  |
@@ -10,6 +31,8 @@
 |                       |8   | [DASK](DS107L8.ipynb)   | 
 |                       |9   | [Source Control using Git](DS107L9.ipynb)  | 
 |                       |10  | [Final Project ](DS107L10.ipynb)         | 
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
@@ -29,3 +52,85 @@
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
 - You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Educational Objectives:
+Upon successful completion of this course, students will be able to: 
+
+1.	Explain the background and evolution of Big Data
+2.	Use the fundamentals of Hadoop
+3.	Hands on Hadoop experience
+4.	Learn the fundamentals of MapReduce
+5.	Hands on MapReduce experience
+6.	Learn how to scale up to large datasets using available tools
+7.	Learn how Hadoop and MapReduce utilize multiple computing clusters
+8.	Learn about other Hadoop technologies
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Course Outline
+
+Course:
+Week 1
+1.	Introduction: Includes Introduction to Big Data, Python Review, Running Code in the Terminal for Windows Users, Running Code in the Terminal for Mac/Linux Users, Reading from Standard Input, Reading from Files (File IO)
+2.	ETL & MapReduce: Includes ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
+3.	Orchestration: Includes Orchestrations, Streams, Crimes Data, Installing Packages for Windows, Installing Packages for Mac/Linux, Manager Set Up, Worker SetUp, Running the Files, Crime Analysis with MapReduce Using Orchestration, Monitor System Performance, Key Terms
+Week 2
+4.	Distribution: Includes Partitioning Data, Multiple Workers, Distribution, Running the Files, Activity Monitoring, Process Scheduling, Load Balancing, Key Terms
+5.	Amazon Web Service Set Up: Includes Introduction to Spark, Introduction to Amazon Web Service, Accessing Your AWS Educate Starter Account, EC2 Setup, Connecting to EC2, Key Terms
+6.	PySpark Set Up: Includes PySpark Set Up, Installing Anaconda, Configuring Jupyter Notebook, Running Jupyter Notebook, Installing Additional Software, Installing Pip and Packages, Install Spark 
+7.	Using PySpark: Includes Introduction, Windows: How to Reconnect to Your Instance, Mac/Linux: How to Reconnect to Your Instance, Using PySpark, Map(), Mapping a Dataset, ReduceByKey(), Filter(), SortBy(), Sample(), Distinct(), Union(), Key Terms   
+Week 3
+8.	Hadoop: Includes Introduction, What is Hadoop?, Key Terms 
+9.	Big Judgement: Includes Failure Recovery, There’s Always An Exception
+10.	Final Project
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Workshops:
+|Class: DSO107|	Topic presented|
+|:-- |:--|
+|Week 1 Workshop #1| 	What is Big Data? (L1)|
+|Week 1 Workshop #2| 	MapReduce (L2)|
+|Week 2 Workshop #1| 	Orchestration and Distribution (L3, L4)|
+|Week 2 Workshop #2| 	PySpark (L6, L7)|
+|Week 3 Workshop #1| 	Hadoop (L8)|
+|Week 3 Workshop #2| 	Practice Project (L10)|
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Points Distribution:
+|Assignment| Points| Topic|
+|:-- |:-- |:--:|
+|L1 Hands On | 45 points | Review Python fundamentals by searching for stop words and using the strip() function.| 
+|L2 Hands On | 45 points | Utilize MapReduce functions in Python.|
+|L3 Practice Hands On | 0 points | Orchestrate the MapReduce function across multiple workers in Python.| 
+|L4 Practice Hands On | 0 points| Distribute the MapReduce function across multiple workers in Python. |
+|L7 Hands On | 45 points |  Utilize AWS to tap into PySpark and perform data transformations in Spark.|
+|L8 Hands On | 45 points|  Assess the current big data job market.|
+|L9 Practice Hands On | 0 points | Comment the code and utilize try-except to improve functioning in Python.| 
+|L10 Final Project | 200 points |  Orchestrate, distribute, and perform MapReduce on data in Python.|
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Points Total:
+
+- Professionalism, Attendance and Class Participation points 20 (5%) 
+- Assignments/Hands-On/Homework: L1-9 Hands On total points180 (45%)
+- Projects/Competencies/Research: Final Project 200 (50%) 
+- Total points: 400 (100%)
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Final Project:
+With the data given, create one manager and create two workers.  Perform MapReduce to count accidents for each vehicle and what most common action prior to accident.  Lastly, determine which action is most common.
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+### Course Evaluation Strategies (Methodologies):
+- Professionalism, Attendance and Class Participation*	    5%
+- Assignments/Hands-On/Homework	  95%
+- Total	100%
+
+ 
