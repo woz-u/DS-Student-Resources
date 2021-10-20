@@ -100,7 +100,7 @@ L5 Hands On – 45 points – Perform a MANOVA in R
 |L4|0|Practice Hands On * 3|
 |L4|0|Hands On|
 |L5|45|Hands On - Perform a MANOVA in R |
-|L6|?|?|
+|L6|?|still counting the assignments|
 |L7|?|?|
 |L8|?|?|
 |L9|?|?|
