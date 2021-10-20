@@ -7,14 +7,14 @@
 |                    |     |
 |:---                |:---:|
 |Quarter Credit Hours| 4.5 |
-|Course Length:      |  60 hours|
-|Prerequisites:      |  None|
-|Proficiency Exam:   |  No|
-|Theory Hours: 	    |30|
-|Laboratory Hours:	 |   30|
-|Externship Hours:	 |   0|
-|Outside Hours:	    |15|
-|Total Contact Hours:	|60|
+|Course Length:      | 60 hours|
+|Prerequisites:      | None|
+|Proficiency Exam:   | No|
+|Theory Hours: 	     | 30|
+|Laboratory Hours:	 | 30|
+|Externship Hours:	 |  0|
+|Outside Hours:	     | 15|
+|Total Contact Hours:| 60|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -38,6 +38,8 @@
 - You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+## Course Outline:
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
@@ -93,7 +95,7 @@ Upon successful completion of this course, students will be able to:
 
 |Class: DS102      |Topic presented           |Lesson|
 |:---              |:---                      |:---: |
-|Week 1            | Installing R             | 1    |
+|Week 1            | R Language Basics        | 1    |
 |                  | Getting to Know R Studio | 2,3  |
 |Week 2            | Stats and Plots in R     | 5    |
 |                  | Working with Data Frames | 6    |
@@ -105,7 +107,7 @@ Upon successful completion of this course, students will be able to:
 ## Points Distribution:
 |Exam |Points|Activity|
 |:--- |:---  |:---    |	
-|L1|5||
+|L1|5| Exercise simple R fundamentals|
 |L2|0|Calculating with R:  Calculate confidence intervals in R using the qnorm() function|
 |L3|11|Create a function and for loop to compute the diameter of a sphere|
 |L4|0|Compute summary statistics on vectors|
@@ -131,6 +133,6 @@ Upon successful completion of this course, students will be able to:
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Final Project:
-Graph data and calculate correlations, regressions, and t-tests. 
+Graph data, calculate correlations, regressions, and t-tests. 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
