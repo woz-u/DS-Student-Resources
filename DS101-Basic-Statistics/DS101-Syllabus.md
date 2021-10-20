@@ -1,4 +1,4 @@
-## DS101 Basic Statistics
+# DS101 Basic Statistics
 
 **Course Description:** The Basic Statistics course will help students gain a fundamental understanding of statistical concepts that will be used throughout the Data Science program.  Topics covered include probability, data types, common distributions, common descriptive statistics, and statistical inference. 
 
@@ -18,7 +18,7 @@
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-### Required Resources: 
+## Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
 
 - Online students are required to have a laptop or desktop computer with internet access.  
@@ -137,4 +137,4 @@ Upon successful completion of this program, students will be able to:
 
 - Concept mastery exam
 
-
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>

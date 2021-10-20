@@ -1,6 +1,8 @@
 # DS-Student-Resources
 Data Science Student Companion Notebooks and Data Lake
 
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
 - [DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)
 - [DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)
 - [DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)
@@ -11,6 +13,8 @@ Data Science Student Companion Notebooks and Data Lake
 - [DS108-Databases](DS108-Databases/DS108-Syllabus.md)
 - [DS109-Python](DS109-Python/DS109=Syllabus.md)
 - [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Required Resources: 
 - Ground-based students are required to bring a laptop computer (either PC or MacBook) to class every day.  
@@ -30,3 +34,5 @@ Data Science Student Companion Notebooks and Data Lake
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
 - You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
