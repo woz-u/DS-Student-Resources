@@ -1,3 +1,5 @@
+## Course Outline:
+
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
 |DS105 Intermediate Statistics  |1   | [Basic Statistics in Python](DS105L1.ipynb)  |
