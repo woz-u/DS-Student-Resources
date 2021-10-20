@@ -6,7 +6,7 @@
 
 |                    |     |
 |:---                |:---:|
-|Quarter Credit Hours| 4.5 |
+|Quarter Credit Hours:| 4.5 |
 |Course Length:      |  60 hours|
 |Prerequisites:      |  None|
 |Proficiency Exam:   |  No|
@@ -86,11 +86,11 @@ Upon successful completion of this program, students will be able to:
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-### Workshops
+## Workshops
 
-|Class: DSO101     | Topic presented  |
+|Class: DS101     | Topic presented  |
 |:---              |:---              |	
-|Week 1 Workshop   | Mock Data Science Presentation to a Customer (L1)|
+|Week 1 Workshop   | Github and Jupyter Basics (L1)|
 |                  | Probability (L2)|
 |Week 2 Workshop   | The Normal Distribution and z-Scores (L5)|
 |                  | t-Tests and Chi-Squares (L7)|
@@ -98,3 +98,37 @@ Upon successful completion of this program, students will be able to:
 |                  | Basic Statistics Review (L10)|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+## Points Distribution:
+
+|  |  |
+|:--- |:--- |	
+|L1 Exam | 24 points |
+|L2 Exam | 24 points |
+|L3 Exam | 26 points |
+|L4 Exam | 20 points |
+|L5 Exam | 20 points |
+|L6 Exam | 16 points |
+|L7 Exam | 22 points |
+|L8 Exam | 30 points |
+|L9 Exam | 28 points |
+|Final Exam | 56 points |
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+## Points Total:
+
+|  |  |
+|:--- |:--- |	
+|Professionalism, Attendance and Class Participation*: |14 points (5%)| 
+|Exam/Quiz Average: |L1-9 Exam total points: 210 (75%) |
+|Projects/Competencies/Research: |Final total points: 56 (20%)| 
+|Total points: |280 (100%)|
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+## Final Project:
+
+- Concept mastery exam
+
+
