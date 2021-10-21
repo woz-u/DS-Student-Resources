@@ -3,10 +3,16 @@
 # Download script
 # curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
 
+# change permissions so script is executable
 echo "chmod 755 Homebrew_install.sh"
 
 echo "run command below: "
 echo "./Homebrew_install.sh"
+
+# preset up for M1 Mac
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/$USER/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+source ~/.zprofile
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"
@@ -99,6 +105,7 @@ brew install wget
 
 #install julia
 echo "installing Julia"
+echo "if Julia didn't install it's because it's not ready M1 chipset yet"
 brew install julia
 
 # Install R kernelspec
