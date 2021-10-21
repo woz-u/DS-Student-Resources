@@ -9,14 +9,14 @@ echo "chmod 755 Homebrew_install.sh"
 echo "run command below: "
 echo "./Homebrew_install.sh"
 
+#install homebrew
+echo "installing homebrew please enter your password when asked"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 # preset for M1 Mac
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/$USER/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 source ~/.zprofile
-
-#install homebrew
-echo "installing homebrew please enter your password when asked"
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 #install github desktop
 echo "install github desktop"
