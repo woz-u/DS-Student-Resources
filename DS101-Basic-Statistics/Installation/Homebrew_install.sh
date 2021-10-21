@@ -9,7 +9,7 @@ echo "chmod 755 Homebrew_install.sh"
 echo "run command below: "
 echo "./Homebrew_install.sh"
 
-# preset up for M1 Mac
+# preset for M1 Mac
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/$USER/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 source ~/.zprofile
