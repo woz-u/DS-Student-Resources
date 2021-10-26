@@ -9,6 +9,9 @@ echo "chmod 755 Homebrew_install.sh"
 echo "run command below: "
 echo "./Homebrew_install.sh"
 
+echo "install rosetta for Tableau"
+sudo softwareupdate --install-rosetta
+
 #install homebrew
 echo "installing homebrew please enter your password when asked"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
