@@ -29,7 +29,7 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high bandwidth connection.)
 
 - You are required to have a quiet place to study and be able to focus on the material.
 
@@ -63,7 +63,7 @@
 Upon successful completion of this program, students will be able to:
   
 1.	Use probability rules and Bayes' Theorem
-2.	Explain the difference between continuous and categorical variables
+2.	Explain the differences between continuous and categorical variables
 3.	Use common descriptive statistics for both populations and samples
 4.	Use common distributions including Uniform, Normal, z-distribution, t-distribution, F-distribution, Poisson, and Weibull
 5.	Use the Central Limit Theorem
@@ -75,19 +75,19 @@ Upon successful completion of this program, students will be able to:
 ## Lessons:
 
 ### Week 1
-1.	Introduction to Data Science: Includes What is Data Science, Data Science pipeline, Data Science software, Data extraction software, data analysis software, Data visualization and reporting software, Your path through Data Science
-2.	Probability: Includes single event probability, rules of probability, combinations and permutations, calculating combinations, combinations vs permutations, boolean logic, multiple event probability, probability of two events, probability and the Not statements, mutually exclusive versus non-mutually exclusive events probability, probability without replacement, the role of probability in Data Science
-3.	Variable Types: Includes experiential design, addition research design, making sense of data, Recoding from quantitative to categorical, Ordinal variables, quantitative variables
+1.	Introduction to Data Science: What is Data Science, Data Science pipeline, Data Science software, Data extraction software, Data analysis software, Data visualization and reporting software, Your path through Data Science
+2.	Probability: Single event probability, Rules of probability, Combinations and permutations, Calculating combinations, Combinations vs permutations, Boolean logic, Multiple event probability, Probability of two events, Probability and the Not statements, Mutually exclusive versus non-mutually exclusive events probability, Probability without replacement, The role of probability in Data Science
+3.	Variable Types: Experiential design, Addition research design, Making sense of data, Recoding from quantitative to categorical, Ordinal variables, Quantitative variables
 
 ### Week 2
-4.	Common Descriptive Statistics: Includes populations and samples, population parameters and sample statistics, measures of cental tendency, measures of distribution, measures of frequency
-5.	The Normal Distribution and Central Limit Theorem: Includes normal distribution, standard normal distribution, standard normal population, z-score, probability, using the z-score to determine a percentile, parent and child distributions
-6.	Uniform, Binomial, Student’s T-, and F- Distributions: Includes uniform distribution, binomial distribution, t-distribution, f-distribution, calculating effect size, independent t-test
-7.	Other Common Distributions: Includes multinomial distributions, Poisson distribution, bathtub curve, exponential distribution, chi-square distribution
+4.	Common Descriptive Statistics: Populations and samples, Population parameters and sample statistics, Measures of cental tendency, Measures of distribution, Measures of frequency
+5.	The Normal Distribution and Central Limit Theorem: Normal distribution, Standard normal distribution, Standard normal population, Z-score, Probability, Using the z-score to determine a percentile, Parent and child distributions
+6.	Uniform, Binomial, Student’s T-, and F- Distributions: Uniform distribution, Binomial distribution, t-distribution, f-distribution, Calculating effect size, Independent t-test
+7.	Other Common Distributions: Multinomial distributions, Poisson distribution, Bathtub curve, Exponential distribution, Chi-square distribution
 
 ### Week 3
-8.	Statistical Inference: Includes statistical inference, distribution of x versus the distribution of x-bar, confidence intervals, determining sample size, courtroom analogy
-9.	High Level Data Exploration: Includes data exploration, graphical tools for analysis, boxplot, pie charts, scatterplot, data map, tree map
+8.	Statistical Inference: Statistical inference, Distribution of x versus the distribution of x-bar, Confidence intervals, Determining sample size, Courtroom analogy
+9.	High Level Data Exploration: Data exploration, Graphical tools for analysis, Boxplot, Pie charts, Scatterplot, Data map, Tree map
 10.	Concept Mastery Exam
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
