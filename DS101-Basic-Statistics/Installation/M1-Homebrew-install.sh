@@ -111,6 +111,9 @@ echo "installing Julia"
 echo "if Julia didn't install it's because it's not ready M1 chipset yet"
 brew install julia
 
+#sudo change owner for Jupyter lab to run
+sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
+
 # Install R kernelspec
 # change directory to the R folder
 # echo "changing directory to R folder"
@@ -138,9 +141,9 @@ echo ""
 echo "cd /Library/Frameworks/R.framework/Versions/4.*"
 echo ""
 echo "Check to ensure you are in R directory pwd , Open R and install the necessary packages by running the command below:"
-echo "1. Type R in your terminal"
+echo "1. Type sudo R in your terminal"
 echo ""
-echo "R"
+echo "sudo R"
 echo ""
 echo "2. Configure IRkernel from within R by running the command below:"
 echo "install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))"
