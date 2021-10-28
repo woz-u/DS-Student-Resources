@@ -4,14 +4,22 @@
 # curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
 
 # change permissions so script is executable
-echo "chmod 755 Homebrew_install.sh"
+echo "chmod 755 M1-Homebrew-install.sh"
 
 echo "run command below: "
-echo "./Homebrew_install.sh"
+echo "./M1-Homebrew-install.sh"
+
+echo "install rosetta for Tableau"
+sudo softwareupdate --install-rosetta
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# preset for M1 Mac
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/$USER/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+source ~/.zprofile
 
 #install github desktop
 echo "install github desktop"
@@ -23,11 +31,11 @@ brew install python@3.9
 
 #set python/pip from python2 to python3
 echo "setting python and pip in .bashrc"
-echo "alias python=/usr/local/bin/python3" >> ~/.bashrc
-echo "alias pip=/usr/local/bin/pip3" >> ~/.bashrc
+echo "alias python=/opt/homebrew/bin/python3" >> ~/.bashrc
+echo "alias pip=/opt/homebrew/bin/pip3" >> ~/.bashrc
 echo "setting python and pip in .zshrc"
-echo "alias python=/usr/local/bin/python3" >> ~/.zshrc
-echo "alias pip=/usr/local/bin/pip3" >> ~/.zshrc
+echo "alias python=/opt/homebrew/bin/python3" >> ~/.zshrc
+echo "alias pip=/opt/homebrew/bin/pip3" >> ~/.zshrc
 
 #install r
 echo "installing R App"
