@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download script
-# curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
+# curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/M1-Homebrew-install.sh
 
 # change permissions so script is executable
 echo "chmod 755 M1-Homebrew-install.sh"
