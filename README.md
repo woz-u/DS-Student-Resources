@@ -14,7 +14,6 @@ Data Science Student Companion Notebook Series
 - [DS109-Python](DS109-Python/DS109-Syllabus.md)
 - [DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)
 
-test
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
