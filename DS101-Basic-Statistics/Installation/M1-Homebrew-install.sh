@@ -37,6 +37,17 @@ echo "setting python and pip in .zshrc"
 echo "alias python=/opt/homebrew/bin/python3" >> ~/.zshrc
 echo "alias pip=/opt/homebrew/bin/pip3" >> ~/.zshrc
 
+# install scipy separately because it is not working for M1 yet
+brew install openblas
+pip install cython pybind11 pythran numpy
+OPENBLAS=$(brew --prefix openblas) CFLAGS="-falign-functions=8 ${CFLAGS}" pip install --no-use-pep517 scipy==1.7.0
+
+# build and install statsmodels
+git clone git://github.com/statsmodels/statsmodels.git
+python statsmodels/setup.py build
+python statsmodels/setup.py install
+
+
 #install r
 echo "installing R App"
 brew install --cask r
