@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes">
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Washington State Department of Transportation</origin>
+<pubdate>20190102</pubdate>
+<title>Manual Counts Table with Geographic Information - Washington Bicycle and Pedestrian Documentation Project</title>
+<geoform>tabular digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This feature class includes all manual count records that have been collected as part of the Washington Bicycle and Pedestrian Documentation Project beginning in 2008. All count records represent counts taken over a 2 hour period, either 7-9 am or 4-6 pm, denoted by the Time field for each record. There is one point for each record in the table. The Washington State Documentation Project occurs annually in the early fall. Bicycle and pedestrian usage of specific intersections in cities throughout the State are counted and documented, similar to the National Documentation Project. WSDOT and the Cascade Bicycle Club enlist the support of volunteers and other organizations to benchmark the numbers of people bicycling and walking on trails, bike lanes, sidewalks, and other facilites across the state. For more information on the Washington State Bicycle and pedestrian Documentation Project, please visit http://www.wsdot.wa.gov/bike/Count.htmThe primary purpose of this dataset is for use as a single download in the WSDOT Open Data Portal.</abstract>
+<purpose>Count records from the Washington Bicycle and Pedestrian Documentation Project manual count program (2008 - present). Each count is represented as a feature (point) at the location the count was taken.</purpose>
+</descript>
+<status>
+<progress>Complete</progress>
+<update>Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-123.115746</westbc>
+<eastbc>-117.03399</eastbc>
+<northbc>48.95944</northbc>
+<southbc>45.571478</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>manual counts</themekey>
+<themekey>bicycle</themekey>
+<themekey>pedestrian</themekey>
+<themekey>WA</themekey>
+<themekey>WSDOT</themekey>
+<themekey>Washington</themekey>
+<themekey>Transportation</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>transportation</themekey>
+<themekey>society</themekey>
+<themekey>geoscientificInformation</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>For Planning use only. The Washington State Department of Transportation shall not be liable for any activity involving these data with regard to lost profits or savings or any other consequential damages; or the fitness for use of the data for a particular purpose; or the installation of the data, its use, or the results obtained.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Washington State Department of Transportation</cntorg>
+<cntper>Thomas A. Blake</cntper>
+</cntorgp>
+<cntpos>GIS Data Products Supervisor</cntpos>
+<cntaddr>
+<addrtype>mailing</addrtype>
+<address>PO Box 47384</address>
+<city>Olympia</city>
+<state>WA</state>
+<postal>98504-7384</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>360-570-2363</cntvoice>
+<cntemail>blaket@wsdot.wa.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<datacred>WSDOT - Transportation Data &amp; GIS Office</datacred>
+<native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.5.1.7333</native>
+</idinfo>
+<dataqual>
+<lineage>
+<procstep>
+<procdesc>Added 2015 manual count data.</procdesc>
+<procdate>20151101</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Washington State Department of Transportation</cntorg>
+<cntper>Thomas A. Blake</cntper>
+</cntorgp>
+<cntpos>GIS Data Products Supervisor</cntpos>
+<cntvoice>360-570-2363</cntvoice>
+<cntemail>blaket@wsdot.wa.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Added 2016 manual count data.</procdesc>
+<procdate>20170314</procdate>
+</procstep>
+<procstep>
+<procdesc>Added latest year's manual count data.</procdesc>
+<procdate>20180315</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>4765</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp></enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LocationID</attrlabl>
+<attrdef>Unique ID for each maual count location</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>LocationDesc</attrlabl>
+<attrdef>Description of manual count location</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>LocationNote</attrlabl>
+<attrdef>Additional note about the manual count location</attrdef>
+<attrdefs>Washington Bicycle and Pedestrian Documentation Project</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountNote</attrlabl>
+<attrdef>User entered additional note regarding the manual count</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>CityFIPSLongPlaceCode</attrlabl>
+<attrdef>A code that represents a concatenation of the State FIPS 55 Code and the City FIPS 55 Code , administered and maintained by ANSI. These codes originate from the 2000 and 2010 US Census.</attrdef>
+<attrdefs>WSDOT Application - DOTS</attrdefs>
+</attr>
+<attr>
+<attrlabl>CityName</attrlabl>
+<attrdef>The common name of a primarily urban political unit having corporate status and usually powers of self-government established by state charter. City Names are stewarded by Washington State's Office of Financial Management.</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountyFIPSLongPlaceCode</attrlabl>
+<attrdef>A code that is a concatenation of State FIPS Place Code and County FIPS Place Code, administered and maintained by the American National Standards Institute for the federal government assigned to a county within Washington State. The code is based on the 2000 and 2010 US Census.</attrdef>
+<attrdefs>WSDOT Application - DOTS</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountyName</attrlabl>
+<attrdef>The Name of the County as ratified by County constituents in a general election and approved by the Washington State Legislature.</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountTime</attrlabl>
+<attrdef>AM or PM, the period when the count was taken</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountYear</attrlabl>
+<attrdef>The calendar year that the count was taken.</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>CountDate</attrlabl>
+<attrdef>The calendar date that the count was taken</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>WeatherCode</attrlabl>
+<attrdef>Weather code as defined in the National Bicycle and Pedestrian Documentation</attrdef>
+<attrdefs>NBPD</attrdefs>
+<attrdomv>
+<edom>
+<edomv>1</edomv>
+<edomvd>extreme (heavy rain, snow, freezing, very humid, over 95 degrees)</edomvd>
+<edomvds>NBPD</edomvds>
+</edom>
+<edom>
+<edomv>2</edomv>
+<edomvd>poor (32-50 degrees, 90-95 degrees, light rain, wind)</edomvd>
+<edomvds>NBPD</edomvds>
+</edom>
+<edom>
+<edomv>3</edomv>
+<edomvd>acceptable (50-90 degrees, no rain)</edomvd>
+<edomvds>NBPD</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>WeatherNote</attrlabl>
+<attrdef>User entered additional note regarding the weather at time of count</attrdef>
+</attr>
+<attr>
+<attrlabl>HeritageSite</attrlabl>
+<attrdef>Indicator of whether this site is a priority count site</attrdef>
+<attrdefs>WSDOT Bicycle and Pedestrian Documentation Project</attrdefs>
+<attrdomv>
+<edom>
+<edomv>Yes</edomv>
+<edomvd>Heritage Site</edomvd>
+<edomvds>WSDOT Bicycle and Pedestrian Documentation Project</edomvds>
+</edom>
+<edom>
+<edomv>No</edomv>
+<edomvd>Not a Heritage Site</edomvd>
+<edomvds>WSDOT Bicycle and Pedestrian Documentation Project</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Bike_M_N_NH</attrlabl>
+<attrdef>Number of Male Bicyclists in Northbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_N_H</attrlabl>
+<attrdef>Number of Male Bicyclists in Northbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_N_NH</attrlabl>
+<attrdef>Number of Female Bicyclists in Northbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_N_H</attrlabl>
+<attrdef>Number of Female Bicyclists in Northbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_S_NH</attrlabl>
+<attrdef>Number of Male Bicyclists in Southbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_S_H</attrlabl>
+<attrdef>Number of Male Bicyclists in Southbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_S_NH</attrlabl>
+<attrdef>Number of Female Bicyclists in Southbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_S_H</attrlabl>
+<attrdef>Number of Female Bicyclists in Southbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_E_NH</attrlabl>
+<attrdef>Number of Male Bicyclists in Eastbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_E_H</attrlabl>
+<attrdef>Number of Male Bicyclists in Eastbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_E_NH</attrlabl>
+<attrdef>Number of Female Bicyclists in Eastbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_E_H</attrlabl>
+<attrdef>Number of Female Bicyclists in Eastbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_W_NH</attrlabl>
+<attrdef>Number of Male Bicyclists in Westbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_W_H</attrlabl>
+<attrdef>Number of Male Bicyclists in Westbound Direction, with helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_W_NH</attrlabl>
+<attrdef>Number of Female Bicyclists in Westbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_W_H</attrlabl>
+<attrdef>Number of Female Bicyclists in Westbound Direction, no helmet</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_N</attrlabl>
+<attrdef>Subtotal of Male Bicyclists in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_N</attrlabl>
+<attrdef>Subtotal of Female Bicyclists in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_North</attrlabl>
+<attrdef>Subtotal of All Bicyclists in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_S</attrlabl>
+<attrdef>Subtotal of Male Bicyclists in Sorthbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_S</attrlabl>
+<attrdef>Subtotal of Female Bicyclists in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_South</attrlabl>
+<attrdef>Subtotal of All Bicyclists in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_E</attrlabl>
+<attrdef>Subtotal of Male Bicyclists in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_E</attrlabl>
+<attrdef>Subtotal of Female Bicyclists in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_East</attrlabl>
+<attrdef>Subtotal of All Bicyclists in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_M_W</attrlabl>
+<attrdef>Subtotal of Male Bicyclists in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_F_W</attrlabl>
+<attrdef>Subtotal of Female Bicyclists in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_West</attrlabl>
+<attrdef>Subtotal of All Bicyclists in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_Total</attrlabl>
+<attrdef>Total of Bicyclists</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_M_N</attrlabl>
+<attrdef>Number of Male Pedestrians in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_F_N</attrlabl>
+<attrdef>Number of Female Pedestrians in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_North</attrlabl>
+<attrdef>Subtotal of All Pedestrians in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_M_S</attrlabl>
+<attrdef>Number of Male Pedestrians in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_F_S</attrlabl>
+<attrdef>Number of Female Pedestrians in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_South</attrlabl>
+<attrdef>Subtotal of All Pedestrians in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_M_E</attrlabl>
+<attrdef>Number of Male Pedestrians in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_F_E</attrlabl>
+<attrdef>Number of Female Pedestrians in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_East</attrlabl>
+<attrdef>Subtotal of All Pedestrians in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_M_W</attrlabl>
+<attrdef>Number of Male Pedestrians in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_F_W</attrlabl>
+<attrdef>Number of Female Pedestrians in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_West</attrlabl>
+<attrdef>Subtotal of All Pedestrians in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_Total</attrlabl>
+<attrdef>Total of Pedestrians</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Other_N</attrlabl>
+<attrdef>Other Travelers in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Other_S</attrlabl>
+<attrdef>Other Travelers in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Other_E</attrlabl>
+<attrdef>Other Travelers in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Other_W</attrlabl>
+<attrdef>Other Travelers in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Latitude</attrlabl>
+<attrdef>Latitude is a north-south measurement of position on the Earth. It is defined by the angle measured from a horizontal plane located at the Earth's center that is perpendicular to the polar axis. A line connecting all places of the same latitude is termed a parallel.  Measurements of latitude range from equator (0) to 90 North and South from this point.</attrdef>
+</attr>
+<attr>
+<attrlabl>Longitude</attrlabl>
+<attrdef>Longitude is a west-east measurement of position on the Earth. It is defined by the angle measured from a vertical plane running through the polar axis and the prime meridian. A line connecting all places of the same longitude is termed a meridian. Measurements of longitude range from prime meridian (0) to 180 West and East from this point.</attrdef>
+</attr>
+<attr>
+<attrlabl>Other_Total</attrlabl>
+<attrdef>Total of Other Travelers</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_U_N</attrlabl>
+<attrdef>Number of Gender Unknown Bicyclists in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_U_S</attrlabl>
+<attrdef>Number of Gender Unknown Bicyclists in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_U_E</attrlabl>
+<attrdef>Number of Gender Unknown Bicyclists in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Bike_U_W</attrlabl>
+<attrdef>Number of Gender Unknown Bicyclists in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_U_N</attrlabl>
+<attrdef>Number of Gender Unknown Pedestrians in Northbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_U_S</attrlabl>
+<attrdef>Number of Gender Unknown Pedestrians in Southbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_U_E</attrlabl>
+<attrdef>Number of Gender Unknown Pedestrians in Eastbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Ped_U_W</attrlabl>
+<attrdef>Number of Gender Unknown Pedestrians in Westbound Direction</attrdef>
+<attrdefs>WSDOT</attrdefs>
+</attr>
+<attr>
+<attrlabl>Deprecated</attrlabl>
+<attrdef>Indicator of whether this count site has been deprecated</attrdef>
+<attrdefs>WSDOT Bicycle and Pedestrian Documentation Project</attrdefs>
+</attr>
+<attr>
+<attrlabl>StartYear</attrlabl>
+<attrdef>Year of first count at this location</attrdef>
+<attrdefs>WSDOT Bicycle and Pedestrian Documentation Project</attrdefs>
+</attr>
+<attr>
+<attrlabl>TimeSlot</attrlabl>
+<attrdef>Starting in 2017 the Count Time (AM and PM) were divided into First hour and Second hour.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Washington State Department of Transportation, Office of Information Technology</cntorg>
+<cntper>Jordyn Mitchell</cntper>
+</cntorgp>
+<cntpos>GIS Database Administrator</cntpos>
+<cntaddr>
+<addrtype>mailing</addrtype>
+<address>PO Box 47430</address>
+<city>Olympia</city>
+<state>WA</state>
+<postal>98504-7430</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>360-705-7645</cntvoice>
+<cntemail>mitchejo@wsdot.wa.gov</cntemail>
+</cntinfo>
+</distrib>
+<distliab>See access and use constraints information.</distliab>
+<stdorder>
+<fees>none</fees>
+<ordering>Download individual data sets from http://www.wsdot.wa.gov/mapsdata/geodatacatalog/default.htm</ordering>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20181220</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Washington State Department of Transportation</cntorg>
+<cntper>Thomas A. Blake</cntper>
+</cntorgp>
+<cntpos>GIS Data Products Supervisor</cntpos>
+<cntaddr>
+<addrtype>mailing</addrtype>
+<address>PO Box 47384</address>
+<city>Olympia</city>
+<state>WA</state>
+<postal>98504-7384</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>360-570-2363</cntvoice>
+<cntemail>blaket@wsdot.wa.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
