@@ -29,9 +29,9 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means that you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -63,7 +63,7 @@ Upon successful completion of this course, students will be able to:
 1.	Load R onto your PC 
 2.	Load R Studio onto your PC
 3.	Explain the idiosyncrasies of R compared to other languages
-4.	Create a script file to execute complex commands repeatedly
+4.	Create a script file to execute repeated complex commands
 5.	Access a data set
 6.	Use R to manipulate data (filtering, coding, sorting, creating new variables)
 7.	Use “If”, “For”, and “While”
@@ -74,19 +74,19 @@ Upon successful completion of this course, students will be able to:
 
 ## Lessons:
 ### Week 1
-1.	Introduction to R – Includes Getting Started with R, What is R, Installation of R for Windows, Installation of R for Mac/Linux, Initiation as a R Programmer, The R Console, R Script Files, Finding Documentation and Help, and Summary.  
-2.	Calculating with R – Includes Introduction, A Note About Errors, Strings, Arithmetic Operations, Functions, and Summary. 
-3.	Scripts and RStudio – Includes Introduction, Scripts, The For Loop, and Summary. 
+1.	Introduction to R: Getting Started with R, What is R, Installation of R for Windows, Installation of R for Mac/Linux, Initiation as an R Programmer, The R Console, R Script Files, Finding Documentation and Help, and Summary.  
+2.	Calculating with R: Introduction, A Note About Errors, Strings, Arithmetic Operations, Functions, and Summary. 
+3.	Scripts and RStudio: Introduction, Scripts, The For Loop, and Summary. 
 
 ### Week 2
-4.	Vectors and Sample Statistics – Includes Introduction, Vectors, Logical Variables and Vectors, Sample Statistics, and Summary. 
-5.	Statistical Plots – Includes Introduction, Installing ggplot2, Histograms, Box Plots, Normal Probability Plots, and Summary. 
-6.	Data Frames – Includes Introduction, Data Frame Basics, Importing and Exporting Data, Analyzing Data Grouped by Factors, and Summary.  
-7.	Linear Regression – Includes Introduction, Scatter Plots, Correlation, Linear Regression, and Summary.
+4.	Vectors and Sample Statistics: Introduction, Vectors, Logical Variables and Vectors, Sample Statistics, and Summary. 
+5.	Statistical Plots: Introduction, Installing ggplot2, Histograms, Box Plots, Normal Probability Plots, and Summary. 
+6.	Data Frames: Introduction, Data Frame Basics, Importing and Exporting Data, Analyzing Data Grouped by Factors, and Summary.  
+7.	Linear Regression: Introduction, Scatter Plots, Correlation, Linear Regression, and Summary.
 
 ### Week 3
-8.	Confidence Intervals and Hypothesis Tests – Includes Introduction, Confidence Intervals on the Mean, Hypothesis Tests on the Mean, and Summary.
-9.	Data Exploration – Includes Introduction, Looking at the Big Picture, Comparing Countries, A Statistical Summary, and Summary.
+8.	Confidence Intervals and Hypothesis Tests: Introduction, Confidence Intervals on the Mean, Hypothesis Tests on the Mean, and Summary.
+9.	Data Exploration: Introduction, Looking at the Big Picture, Comparing Countries, A Statistical Summary, and Summary.
 10.	Final Project 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
