@@ -1,6 +1,6 @@
 # DS110 Final Project
 
-**Course Description:** The Group Project course combines each part of the program into a group project for the student.  Each student will work together as a team member for the group project, which includes daily scrum meetings to cover tasks and progress while working separately to complete them. The final group project is due at the end of the course.  
+**Course Description:** The Group Project course combines each part of the program into a group project for the student.  Each student will work together as a team member for the group project including daily scrum meetings to cover tasks and progress (while working separately) to complete assigned tasks. The final group project is due at the end of the course.  
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -29,9 +29,9 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -54,7 +54,7 @@
 
 ### In Class Activities-120 Hours
 
-Students will organize into groups, and select areas of interest in which to perform analysis and reporting.
+Students will organize into groups and select areas of interest in which to perform analysis and reporting.
 Students will meet regularly via Slack and Skype to communicate progress, findings, new ideas, and subsequent analytical strategy.
 It is expected that analytical process is documented and put in the summary of the project history. A project report with graphs and techniques will be prepared.
 Students will complete the following steps for the Data Science Program Group Project:
@@ -84,10 +84,10 @@ Students will spend extensive amounts of time working as a group and individuall
 ## Educational Objectives:
 Upon successful completion of this course, students will be able to: 
 
-1.	Develop, practice, and improve your group communication skills.
+1.	Develop, practice, and improve their group communication skills.
 2.	Develop project objectives.
 3.	Apply effective research and organizational skills in preparing information.
-4.	Learn how to successfully and effectively develop your group project.
+4.	Learn how to successfully and effectively develop their group project.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
