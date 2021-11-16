@@ -1,6 +1,6 @@
 # DS105 Intermediate Statistics
 
-Course Description: The Intermediate Statistics course is designed to teach students about hypothesis testing under multiple scenarios.  Students will be able to determine which hypothesis test to utilize and be able to perform that test.  Students will also learn to identify and verify the data requirements for each hypothesis test. 
+Course Description: The Intermediate Statistics course is designed to teach students about hypothesis testing under multiple scenarios.  Students will be able to determine which hypothesis test to utilize and then be able to perform that specific test.  Students will also learn to identify and verify the data requirements for each hypothesis test. 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -29,9 +29,9 @@ Course Description: The Intermediate Statistics course is designed to teach stud
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -62,7 +62,7 @@ Upon successful completion of this course, students will be able to:
 
 1.	Understand Type I and Type II errors
 2.	Use one- and two-sample z-test and t-test
-3.	Use the ANOVA
+3.	Use the ANOVA and MANOVA tests
 4.	Use one and two proportion testing
 5.	Use Chi-square test for dependence
 6.	Determine which test to utilize
@@ -125,6 +125,6 @@ Total points: 400
 
 ## Final Project:
 
-Conduct hypothesis tests on the data supplied. For each test, explain the research taking place, include any graphs that make sense, state the null and alternative hypotheses, include the value of the test statistic, include the p-value, and state the conclusions in terms of the problem presented, not in mathematical terms.  Present results in a manner that will make sense to people that don't have any statistical background but are intelligent people. 
+Conduct hypothesis tests on the data supplied. For each test: explain the research taking place and include any graphs that make sense, state the null and alternative hypotheses and include the value of the test statistic and the p-value, and complete the analysis by stating the conclusions in terms of the problem presented (not in mathematical terms).  Present results in a manner that encourages understanding of the completed processes by people without any statistical background.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
