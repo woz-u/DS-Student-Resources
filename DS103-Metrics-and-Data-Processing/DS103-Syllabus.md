@@ -1,6 +1,6 @@
 # DS103 Metrics and Data Processing
 
-Course Description: The Metrics and Data Processing course will prepare students to be able to create new metrics that directly answer or monitor business questions.  This module will also teach the theory and practice of statistical process control.  Upon completion of this module, students will be equipped to help businesses monitor their processes and know when a process is out-of-control, and needs to be fixed.  
+Course Description: The Metrics and Data Processing course will prepare students to be able to create new metrics that directly answer or monitor business questions.  This module will also teach the theory and practice of statistical process control.  Upon completion of this module, students will be equipped to help businesses monitor their processes and know when a process is out of control and needs to be fixed.  
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -29,7 +29,7 @@ Course Description: The Metrics and Data Processing course will prepare students
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means that you need a steady internet high-bandwidth connection.)
 
 - You are required to have a quiet place to study and be able to focus on the material.
 
@@ -102,7 +102,7 @@ Upon successful completion of this Program, students will be able to:
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Final Project:
-Create three new small data frames and explore the functions of concatenation, merging, and joining the tables.  Create a large data frames that includes HPI data from all 50 states.
+Create three new small data frames and explore the functions of concatenation, merging, and joining the tables.  Create a large data frame that includes HPI data from all 50 states.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
