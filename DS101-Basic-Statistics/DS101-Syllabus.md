@@ -29,9 +29,9 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high bandwidth connection.)
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -80,7 +80,7 @@ Upon successful completion of this program, students will be able to:
 3.	Variable Types: Experiential design, Addition research design, Making sense of data, Recoding from quantitative to categorical, Ordinal variables, Quantitative variables
 
 ### Week 2
-4.	Common Descriptive Statistics: Populations and samples, Population parameters and sample statistics, Measures of cental tendency, Measures of distribution, Measures of frequency
+4.	Common Descriptive Statistics: Populations and samples, Population parameters and sample statistics, Measures of central tendency, Measures of distribution, Measures of frequency
 5.	The Normal Distribution and Central Limit Theorem: Normal distribution, Standard normal distribution, Standard normal population, Z-score, Probability, Using the z-score to determine a percentile, Parent and child distributions
 6.	Uniform, Binomial, Student’s T-, and F- Distributions: Uniform distribution, Binomial distribution, t-distribution, f-distribution, Calculating effect size, Independent t-test
 7.	Other Common Distributions: Multinomial distributions, Poisson distribution, Bathtub curve, Exponential distribution, Chi-square distribution
