@@ -1,6 +1,6 @@
 # DS104 Data Wrangling and Visualization
 
-Course Description: The Data Visualization course is designed to help students understand that the heavy lifting in any analysis happens before the analytical procedure starts. Data wrangling is the process of changing the structure and format of raw data until the data are compatible with sometimes rigid requirements for analysis. Data wrangling also includes a quick sanity check of data quality. Data Visualization will give students an understanding and appreciation of the power in representing data graphically.
+Course Description: The Data Visualization course is designed to help students understand that the vast majority of work in any analysis happens before the analytical procedure starts. Data wrangling is the process of changing the structure and format of raw data until the data is compatible with (sometimes) rigid requirements for analysis. Data wrangling also includes a quick check of data quality. Data Visualization will give students an understanding and appreciation of the power in representing data graphically.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -30,9 +30,9 @@ Course Description: The Data Visualization course is designed to help students u
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is requirement that you are able to download programming resources to your laptop/desktop for this class. (This means that you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -102,6 +102,6 @@ Upon successful completion of this course, students will be able to:
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Final Project:
-Create visualizations using data supplied.  Consider which columns are what kind of data. For instance, the Crash_ID column looks like a number, but it is a categorical variable. 
+Create visualizations using supplied data and consider the type of each data column and its use in the visualization. For instance, the Crash_ID column looks like continuous variable because it is a number, but it is actually a categorical variable. How would this be used appropriately? 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
