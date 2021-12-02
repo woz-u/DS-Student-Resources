@@ -47,7 +47,6 @@ git clone git://github.com/statsmodels/statsmodels.git
 python statsmodels/setup.py build
 python statsmodels/setup.py install
 
-
 #install r
 echo "installing R App"
 brew install --cask r
