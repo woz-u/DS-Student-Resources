@@ -1,6 +1,6 @@
 # DSO107 Introduction to Big Data
 
-**Course Description:** The Introduction to Big Data course introduces students to Big Data on a conceptual level, and gives students exposure and practice with several skills and tools currently in use.  These skills will be taught at a manageable level, and then scale up methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data.  Students will learn the foundational concepts of Big Data and will know how to move from Big Data basics to more business specific needs and requirements.
+**Course Description:** The Introduction to Big Data course introduces students to Big Data on a conceptual level and gives students exposure and practice with several skills and tools currently in use.  These skills will be taught at a manageable level, and then broadening methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data.  Students will learn the foundational concepts of Big Data and will know how to move from Big Data basics to more business-specific needs and requirements.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -45,9 +45,9 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -63,7 +63,7 @@ Upon successful completion of this course, students will be able to:
 3.	Hands on Hadoop experience
 4.	Learn the fundamentals of MapReduce
 5.	Hands on MapReduce experience
-6.	Learn how to scale up to large datasets using available tools
+6.	Learn how to increase skills to large datasets using available tools
 7.	Learn how Hadoop and MapReduce utilize multiple computing clusters
 8.	Learn about other Hadoop technologies
 
@@ -73,17 +73,17 @@ Upon successful completion of this course, students will be able to:
 
 Course:
 Week 1
-1.	Introduction: Includes Introduction to Big Data, Python Review, Running Code in the Terminal for Windows Users, Running Code in the Terminal for Mac/Linux Users, Reading from Standard Input, Reading from Files (File IO)
-2.	ETL & MapReduce: Includes ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
-3.	Orchestration: Includes Orchestrations, Streams, Crimes Data, Installing Packages for Windows, Installing Packages for Mac/Linux, Manager Set Up, Worker SetUp, Running the Files, Crime Analysis with MapReduce Using Orchestration, Monitor System Performance, Key Terms
+1.	Introduction: Introduction to Big Data, Python Review, Running Code in the Terminal for Windows Users, Running Code in the Terminal for Mac/Linux Users, Reading from Standard Input, Reading from Files (File IO)
+2.	ETL & MapReduce: ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
+3.	Orchestration: Orchestrations, Streams, Crimes Data, Installing Packages for Windows, Installing Packages for Mac/Linux, Manager Set Up, Worker Set Up, Running the Files, Crime Analysis with MapReduce Using Orchestration, Monitor System Performance, Key Terms
 Week 2
-4.	Distribution: Includes Partitioning Data, Multiple Workers, Distribution, Running the Files, Activity Monitoring, Process Scheduling, Load Balancing, Key Terms
-5.	Amazon Web Service Set Up: Includes Introduction to Spark, Introduction to Amazon Web Service, Accessing Your AWS Educate Starter Account, EC2 Setup, Connecting to EC2, Key Terms
+4.	Distribution: Partitioning Data, Multiple Workers, Distribution, Running the Files, Activity Monitoring, Process Scheduling, Load Balancing, Key Terms
+5.	Amazon Web Service Set Up: Introduction to Spark, Introduction to Amazon Web Service, Accessing Your AWS Educate Starter Account, EC2 Setup, Connecting to EC2, Key Terms
 6.	PySpark Set Up: Includes PySpark Set Up, Installing Anaconda, Configuring Jupyter Notebook, Running Jupyter Notebook, Installing Additional Software, Installing Pip and Packages, Install Spark 
-7.	Using PySpark: Includes Introduction, Windows: How to Reconnect to Your Instance, Mac/Linux: How to Reconnect to Your Instance, Using PySpark, Map(), Mapping a Dataset, ReduceByKey(), Filter(), SortBy(), Sample(), Distinct(), Union(), Key Terms   
+7.	Using PySpark: Introduction, Windows: How to Reconnect to Your Instance, Mac/Linux: How to Reconnect to Your Instance, Using PySpark, Map(), Mapping a Dataset, ReduceByKey(), Filter(), SortBy(), Sample(), Distinct(), Union(), Key Terms   
 Week 3
-8.	Hadoop: Includes Introduction, What is Hadoop?, Key Terms 
-9.	Big Judgement: Includes Failure Recovery, There’s Always An Exception
+8.	Hadoop: Introduction, What is Hadoop?, Key Terms 
+9.	Big Judgement: Failure Recovery, There’s Always An Exception
 10.	Final Project
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -109,7 +109,7 @@ Week 3
 |L4 Practice Hands On | 0 points| Distribute the MapReduce function across multiple workers in Python. |
 |L7 Hands On | 45 points |  Utilize AWS to tap into PySpark and perform data transformations in Spark.|
 |L8 Hands On | 45 points|  Assess the current big data job market.|
-|L9 Practice Hands On | 0 points | Comment the code and utilize try-except to improve functioning in Python.| 
+|L9 Practice Hands On | 0 points | Comment the code and utilize try/except to improve functioning in Python.| 
 |L10 Final Project | 200 points |  Orchestrate, distribute, and perform MapReduce on data in Python.|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -124,7 +124,7 @@ Week 3
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Final Project:
-With the data given, create one manager and create two workers.  Perform MapReduce to count accidents for each vehicle and what most common action prior to accident.  Lastly, determine which action is most common.
+With the data given, create one manager and create two workers.  Perform MapReduce to count accidents for each vehicle and most common actions prior to accident.  Lastly, determine which action is most common.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 

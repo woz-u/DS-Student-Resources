@@ -1,6 +1,6 @@
 # DS106 Machine Learning and Modeling
 
-**Course Description:** The Machine Learning and Modeling course will introduce students to several commonly used machine learning methods.  Students will learn how to determine the best methods for a given set of data, and how to use common software tools to utilize these methods.
+**Course Description:** The Machine Learning and Modeling course will introduce students to several commonly used machine learning methods.  Students will learn how to determine the best methods for a given set of data and how to use common software tools to utilize these methods.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -45,9 +45,9 @@
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to be able to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
@@ -95,7 +95,7 @@ Upon successful completion of this course, students will be able to:
 ### Final Project:
 Using Python, create a decision tree model of the Titanic dataset from seaborn.  Interpret the confusion matrix and classification report.  
 
-Required to run two different simulations, a Monte Carlo to predict profit of a certain tool, and an expensive piece of equipment that needs to limit inventory.  Create a table with the information requested.
+The student is required to run two different simulations: a Monte Carlo to predict profit of a certain tool, and an expensive piece of equipment that needs to limit inventory.  Create a table with the information requested.
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>

@@ -24,14 +24,14 @@
 Upon successful completion of this course, students will be able to: 
  
 1.	Know basic programming foundations
-2.	Know about algorithms and design patterns
-3.	Know about expressions and Boolean logics
-4.	Know about data types
-5.	Know about object-oriented programming
-6.	Know about data structures
-7.	Know best practices for organizing your code
-8.	Know how to debug your code
-9.	Know how to write reliable and performant code 
+2.	Understand algorithms and design patterns
+3.	Comprehend expressions and Boolean logics
+4.	Recognize data types
+5.	Have knowledge of object-oriented programming
+6.	Be aware of data structures
+7.	Understand best practices for organizing your code
+8.	Be able to debug your code
+9.	Write reliable and performant code 
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -39,17 +39,17 @@ Upon successful completion of this course, students will be able to:
 ### Course Outline
 
 Course:
-1.	Introduction to Python: Includes What is Programming, what is Python, setup, Python interpreter, create a project, variables, data types, comments
-2.	Performing Operations: Includes setup, strings, string concatenation, string operations, boolean data type, operators, arithmetic operators, assignment operators, comparison operators, logical operators, making decisions and controlling flow
-3.	Lists and Loops: Includes lists, tuples, lists and tuples indexing, modifying lists, creating a list from a range of numbers, iterating over a collection, terminating a loop
+1.	Introduction to Python: What is Programming, What is Python, Python Setup, Python Interpreter, Create a Project, Variables, Data Types, Comments
+2.	Performing Operations: Set up, Strings, String Concatenation, String Operations, Boolean Data Type, Operators, Arithmetic Operators, Assignment Operators, Comparison Operators, Logical Operators, Making Decisions and Controlling Flow
+3.	Lists and Loops: Lists, Tuples, List and Tuple Indexing, Modifying Lists, Creating a List From a Range of Numbers, Iterating Over a Collection, Terminating a Loop
 Week 2
-4.	Dictionaries: Includes creating a dictionary, accessing dictionary data, modifying a dictionary, iterating over a dictionary, nested dictionaries
-5.	Functions: Includes What is a function, providing data to a function, return data from a function, local variables and scope, unnamed, anonymous functions, map, filter
-6.	Object Orientated Programming: Includes setup, classes, creating an instance of a class, creating and accessing class properties and methods of a class
-7.	Standard Library: Includes standard library, modules, python standard modules, math module, pip packages, numPy, accessing and modifying files, reading from and writing to files, updating file strings
+4.	Dictionaries: Creating a Dictionary, Accessing Dictionary Data, Modifying a Dictionary, Iterating Over a Dictionary, Nested Dictionaries
+5.	Functions: What is a Function, Providing Data to a Function, Return Data From a Function, Local Variables and Scope, Unnamed and Anonymous Functions, Map, Filter
+6.	Object Orientated Programming: Set up, Classes, Creating an Instance of a Class, Creating and Accessing Class Properties, Methods of a Class
+7.	Standard Library: Standard Library, Modules, Python Standard Modules, Math Module, Pip Packages, NumPy, Accessing and Modifying Files, Reading From and Writing to Files, Updating File Strings
 Week 3
-8.	Inheritance and Polymorphism: Includes Class Inheritance and Polymorphism, Inheritance, Adding Unique Properties and Methods to a Subclass, Overriding Base Class Methods, Instances as Attributes, Polymorphism
-9.	Debugging and Unit Testing: Includes Debugging and Unit Testing in Python, Debugging, Errors in pdb, Common Errors, Testing
+8.	Inheritance and Polymorphism: Class Inheritance and Polymorphism, Inheritance, Adding Unique Properties and Methods to a Subclass, Overriding Base Class Methods, Instances as Attributes, Polymorphism
+9.	Debugging and Unit Testing: Debugging and Unit Testing in Python, Debugging, Errors in pdb, Common Errors, Testing
 10.	Final Project
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
@@ -92,9 +92,9 @@ Week 3
 
 - Professionals: PC (Windows) or Mac. 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
-- It is requirement that you are able to download programming resources to your laptop/desktop for this class. This means you need a steady-state internet high-bandwidth connection.
+- It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high-bandwidth connection.)
 
-- You are required to have a quiet place to study and be able to focus on the material.
+- You are required to have a quiet place to study and to focus on the material.
 
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
 
