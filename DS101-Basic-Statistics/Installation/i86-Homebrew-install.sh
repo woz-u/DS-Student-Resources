@@ -41,10 +41,6 @@ brew install --cask rstudio
 sudo chown -R $(whoami) /usr/local/share/man/man5
 chmod u+w /usr/local/share/man/man5
 
-#install jupyter
-echo "installing Jupyter"
-brew install jupyter
-
 #install jupyter-lab
 echo "installing Jupyter-lab"
 brew install jupyterlab
