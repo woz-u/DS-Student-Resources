@@ -3,7 +3,7 @@
 install.packages("ggplot2")
 library(ggplot2)
 
-frostedflakes = read.csv('../Data/frostedflakes.csv')
+#frostedflakes = read.csv('../Data/frostedflakes.csv')
 
 head(frostedflakes)
 
