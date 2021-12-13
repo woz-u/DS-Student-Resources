@@ -135,9 +135,14 @@ sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
 #echo "R Terminal start and run script"
 #Rscript a.r
 
+#run brew list
+brew list
 
 echo "*******************************************************************"
 echo "Congratulations! Main Data Science applications have been installed"
+echo "Check the brew list above to ensure all applications are installed"
+echo "github, git, python, r, rstudio, jupyterlab, mysqlworkbench, mysql,"
+echo "vscode, tableau-public, speedtest-cli, gpower, wget"
 echo "*******************************************************************"
 echo ""
 echo "install R kernelspec for jupyter lab next by following these instructions:"
