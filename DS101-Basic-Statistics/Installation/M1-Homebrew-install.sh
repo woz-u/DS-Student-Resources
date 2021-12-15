@@ -79,10 +79,10 @@ brew services start mysql
 echo "installing mongosh"
 brew install mongosh
 
-# todo: install mongo
-# brew tap mongodb/brew
-# brew install mongodb-community@4.2
-# brew services start mongodb-community@4.2
+#install mongo
+brew tap mongodb/brew
+brew install mongodb-community
+brew services start mongodb-community
 
 #install vscode
 echo "installing vscode"
