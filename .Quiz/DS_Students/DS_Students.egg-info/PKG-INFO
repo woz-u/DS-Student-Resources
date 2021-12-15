@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: DS-Students
+Version: 0.0.5
+Summary: Python package for DS_Students
+Home-page: UNKNOWN
+Author: Matthew Gerardino
+Author-email: matthewgerardino@gmail.com
+License: UNKNOWN
+Keywords: python,DS_Students
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+Python package for DS-Students to help achieve a better learning experience
+
