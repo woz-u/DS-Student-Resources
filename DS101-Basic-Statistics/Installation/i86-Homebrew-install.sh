@@ -99,6 +99,9 @@ echo "installing Julia"
 echo "if Julia didn't install it's because it's not ready M1 chipset yet"
 brew install julia
 
+#run brew list to get a list of applications installed
+brew list
+
 # Install R kernelspec
 # change directory to the R folder
 # echo "changing directory to R folder"
@@ -117,6 +120,9 @@ brew install julia
 
 echo "*******************************************************************"
 echo "Congratulations! Main Data Science applications have been installed"
+echo "Check the brew list above to ensure all applications are installed"
+echo "github, git, python, r, rstudio, jupyterlab, mysqlworkbench, mysql,"
+echo "vscode, tableau-public, speedtest-cli, gpower, wget, julia"
 echo "*******************************************************************"
 echo ""
 echo "install R kernelspec for jupyter lab next by following these instructions:"
