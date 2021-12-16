@@ -1,29 +1,36 @@
+import pathlib
 from setuptools import setup, find_packages
 
-VERSION = '0.0.5' 
+HERE = pathlib.Path(__file__).parent
+
+VERSION = '0.0.6' 
+PACKAGE_NAME = 'DS_Students'
+AUTHOR = 'Matthew Gerardino'
+AUTHOR_EMAIL = 'matthewgerardino@gmail.com'
+URL = 'https://github.com/woz-u/DS-Student-Resources'
+
+LICENSE = 'MIT License'
 DESCRIPTION = 'Python package for DS_Students'
-LONG_DESCRIPTION = 'Python package for DS-Students to help achieve a better learning experience'
+LONG_DESCRIPTION = (HERE / "README.md").read_text()
+LONG_DESC_TYPE = "text/markdown"
+
+INSTALL_REQUIRES = [
+      'ipywidgets',
+      'ipynb',
+      'ipython'
+]
+
 
 # Setting up
-setup(
-       # the name must match the folder name 'verysimplemodule'
-        name="DS_Students", 
+setup(name=PACKAGE_NAME, 
         version=VERSION,
-        author="Matthew Gerardino",
-        author_email="matthewgerardino@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
-        packages=find_packages(),
-        install_requires=["ipywidgets", "ipynb", "ipython"], # add any additional packages that 
-        # needs to be installed along with your package. Eg: 'caer'
-        
-        keywords=['python', 'DS_Students'],
-        classifiers= [
-            "Development Status :: 3 - Alpha",
-            "Intended Audience :: Education",
-            "Programming Language :: Python :: 2",
-            "Programming Language :: Python :: 3",
-            "Operating System :: MacOS :: MacOS X",
-            "Operating System :: Microsoft :: Windows",
-        ]
-)
+        long_description_content_type=LONG_DESC_TYPE,
+        author=AUTHOR,
+        license=LICENSE,
+        author_email=AUTHOR_EMAIL,
+        url=URL,
+        install_requires=INSTALL_REQUIRES,
+        packages=find_packages()
+        )
