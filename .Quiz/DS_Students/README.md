@@ -1,9 +1,9 @@
-# Python Package for DS-Student-Resources Companion Norebook
+# Python Package for DS-Student-Resources Companion Notebook
 This package was built to help students achieve a better learning experience in the Data Science Program
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-## Curriculum 
+## Data Science Program 
 
 | | 
 |:--|
