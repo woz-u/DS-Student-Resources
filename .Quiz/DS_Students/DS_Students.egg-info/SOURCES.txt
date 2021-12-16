@@ -1,6 +1,0 @@
-setup.py
-DS_Students.egg-info/PKG-INFO
-DS_Students.egg-info/SOURCES.txt
-DS_Students.egg-info/dependency_links.txt
-DS_Students.egg-info/requires.txt
-DS_Students.egg-info/top_level.txt

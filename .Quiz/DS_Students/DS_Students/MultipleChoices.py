@@ -1,4 +1,5 @@
 def MultipleChoice(description, options, correct_answer):
+    """Creates multiple choice functionality"""
     
     import ipywidgets as widgets
     import sys
