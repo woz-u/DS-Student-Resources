@@ -1,1 +1,1 @@
-from MultipleChoices import MultipleChoice
+from .MultipleChoices import MultipleChoice
