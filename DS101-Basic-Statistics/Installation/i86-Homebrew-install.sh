@@ -99,6 +99,10 @@ echo "installing Julia"
 echo "if Julia didn't install it's because it's not ready M1 chipset yet"
 brew install julia
 
+#install node
+echo "installing node"
+brew install node
+
 #run brew list to get a list of applications installed
 brew list
 brew services list
