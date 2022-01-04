@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Download script
-# curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/Homebrew_install.sh
+# Download this script for use with Mac i86 Processor ONLY
+# curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/i86-Homebrew-install.sh
 
 # change permissions so script is executable
-echo "chmod 755 Homebrew_install.sh"
+echo "chmod 755 i86-Homebrew-install.sh"
 
 echo "run command below: "
-echo "./Homebrew_install.sh"
+echo "./i86-Homebrew-install.sh"
 
 #install homebrew
 echo "installing homebrew please enter your password when asked"

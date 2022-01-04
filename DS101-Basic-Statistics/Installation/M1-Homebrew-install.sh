@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Download script
+# Download this script for use with Mac M1 Processor ONLY
 # curl -O https://raw.githubusercontent.com/woz-u/DS-Student-Resources/main/DS101-Basic-Statistics/Installation/M1-Homebrew-install.sh
 
 # change permissions so script is executable
