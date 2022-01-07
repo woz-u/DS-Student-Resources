@@ -60,30 +60,41 @@
 ### Educational Objectives:
 Upon successful completion of this course, students will be able to: 
 
-1.	Explain the background and evolution of Big Data
-2.	Use the fundamentals of Hadoop
-3.	Hands on Hadoop experience
-4.	Learn the fundamentals of MapReduce
-5.	Hands on MapReduce experience
-6.	Learn how to increase skills to large datasets using available tools
-7.	Learn how Hadoop and MapReduce utilize multiple computing clusters
-8.	Learn about other Hadoop technologies
+1. Explain basics of cloud computing
+2. Explain the background and evolution of Big Data
+3. Explain Cloud Economics and Billing
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Course Outline
 
-Course:
-Week 1
-1.	Introduction: Introduction to Big Data, Python Review, Running Code in the Terminal for Windows Users, Running Code in the Terminal for Mac/Linux Users, Reading from Standard Input, Reading from Files (File IO)
+#### Week 1
+##### Lesson 1 Cloud Foundations
+1. Cloud Foundations Overview
+2. What is Big Data?
+3. Introduction to Amazon Academy
+4. Introduction to Cloud Computer Core Concepts
+5. The Advantages of Cloud Computing
+6. Cloud Economics and Billing
+7. Fundamentals of pricing
+8. Total Cost of Ownership
+9. AWS Organizations
+10. AWS Billing and Cost Management
+11. Technical Support
+12. Key Terms
+13. Lesson 1 Exam
+
+##### Lesson 2
 2.	ETL & MapReduce: ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
 3.	Orchestration: Orchestrations, Streams, Crimes Data, Installing Packages for Windows, Installing Packages for Mac/Linux, Manager Set Up, Worker Set Up, Running the Files, Crime Analysis with MapReduce Using Orchestration, Monitor System Performance, Key Terms
-Week 2
+
+#### Week 2
 4.	Distribution: Partitioning Data, Multiple Workers, Distribution, Running the Files, Activity Monitoring, Process Scheduling, Load Balancing, Key Terms
 5.	Amazon Web Service Set Up: Introduction to Spark, Introduction to Amazon Web Service, Accessing Your AWS Educate Starter Account, EC2 Setup, Connecting to EC2, Key Terms
 6.	PySpark Set Up: Includes PySpark Set Up, Installing Anaconda, Configuring Jupyter Notebook, Running Jupyter Notebook, Installing Additional Software, Installing Pip and Packages, Install Spark 
 7.	Using PySpark: Introduction, Windows: How to Reconnect to Your Instance, Mac/Linux: How to Reconnect to Your Instance, Using PySpark, Map(), Mapping a Dataset, ReduceByKey(), Filter(), SortBy(), Sample(), Distinct(), Union(), Key Terms   
-Week 3
+
+#### Week 3
 8.	Hadoop: Introduction, What is Hadoop?, Key Terms 
 9.	Big Judgement: Failure Recovery, There’s Always An Exception
 10.	Final Project
