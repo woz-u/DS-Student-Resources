@@ -46,16 +46,16 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS101 Basic Statistics |1   | [Introduction to Data Science](DS101L1.ipynb) |
-|                       |2   | [Probability  ](DS101L2.ipynb)                |
-|                       |3   | [Variable Types ](DS101L3.ipynb)              |
-|                       |4   | [Common Descriptive Statistics](DS101L4.ipynb)|
-|                       |5   | [The Normal Distribution](DS101L5.ipynb)      |
-|                       |6   | [Statistical Inference](DS101L6.ipynb)        | 
-|                       |7   | [Uniform, Binomial, Student’s T, and F-Distribution](DS101L7.ipynb)|
-|                       |8   | [Other Common Distributions](DS101L8.ipynb)| 
-|                       |9   | [High Level Data Exploration](DS101L9.ipynb)| 
-|                       |10  | [Concept Mastery Exam]()| 
+|DS101 Basic Statistics |1   | [Introduction to Data Science](DS101-L1-Introduction-to-Data-Science.ipynb) |
+|                       |2   | [Probability  ](DS101-L2-Probability.ipynb)                |
+|                       |3   | [Variable Types ](DS101-L3-Variable-Types.ipynb)              |
+|                       |4   | [Common Descriptive Statistics](DS101-L4-Common-Descriptive-Statistics.ipynb)|
+|                       |5   | [The Normal Distribution](DS101-L5-Normal-Distribution.ipynb)      |
+|                       |6   | [Statistical Inference](DS101-L6-Statistical-Inference.ipynb)        | 
+|                       |7   | [Uniform, Binomial, Student’s T, and F-Distribution](DS101-L7-Uniform-Binomial-StudentT-F-Distribution.ipynb)|
+|                       |8   | [Other Common Distributions](DS101-L8-Other Common-Distributions.ipynb)| 
+|                       |9   | [High Level Data Exploration](DS101-L9-High-Level-Data-Exploration.ipynb)| 
+|                       |10  | [Concept Mastery Exam](DS101L10-Skills-Mastery-Exam.ipynb)| 
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
