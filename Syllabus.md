@@ -2,7 +2,7 @@ DSO101 Basic Statistics
 Hours: Theory 30 / Laboratory 30 / Total 60 / Quarter Credits 4.5 / Outside Hours 15 / Prerequisites: None
 The Basic Statistics course will help students gain a fundamental understanding of statistical concepts that will be used throughout the Data Science program. Topics covered include probability, data types, common distributions, common descriptive statistics, and statistical inference.
 
-DSO102 Statistical Programming
+DSO102 Statistical Programming in R
 Hours: Theory 30 / Laboratory 30 / Total 60 / Quarter Credits 4.5 / Outside Hours 15 / Prerequisites: None
 The Statistical Programming course teaches students how to load R and R Studio onto their PC. Students will then learn basic scripting commands, and will be introduced to a vast library of functions to perform various statistical analyses.
 
