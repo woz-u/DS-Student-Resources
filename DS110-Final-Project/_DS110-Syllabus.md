@@ -45,12 +45,12 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS110 Final Group Project |1   | [Group Project Week 1  Project Planning](DS110L1.ipynb)  |
-|                       |2   | [Group Project Week 2 Data Wrangling](DS110L2.ipynb)                |
-|                       |3   | [Group Project Week 3 Exploratory Analysis](DS110L3.ipynb)              |
-|                       |4   | [Group Project Week 4 Analyze Data](DS110L4.ipynb)|
-|                       |5   | [Group Project Week 5 Data Visualization and Reporting](DS110L5.ipynb)      |
-|                       |6   | [Group Project Week 6 Presentation Preparation](DS110L6.ipynb)        |  
+|DS110 Final Group Project |1   | [Group Project Week 1  Project Planning](DS110-L1-W1-Project-Planning.ipynb)  |
+|                       |2   | [Group Project Week 2 Data Wrangling](DS110-L2-W2-Data-Wrangling.ipynb)                |
+|                       |3   | [Group Project Week 3 Exploratory Analysis](DS110-L3-W3-Exploratory-Analysis.ipynb)              |
+|                       |4   | [Group Project Week 4 Analyze Data](DS110-L4-W4-Analyze-Data.ipynb)|
+|                       |5   | [Group Project Week 5 Data Visualization and Reporting](DS110-L5-W5-Data-Viz-and-Reporting.ipynb)      |
+|                       |6   | [Group Project Week 6 Presentation Preparation](DS110-L6-W6-Presentation.ipynb)        |  
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
