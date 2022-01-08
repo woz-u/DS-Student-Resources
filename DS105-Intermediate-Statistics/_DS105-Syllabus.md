@@ -45,16 +45,16 @@ Course Description: The Intermediate Statistics course is designed to teach stud
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS105 Intermediate Statistics  |1   | [Basic Statistics in Python](DS105L1.ipynb)  |
-|                       |2   | [When Data isn’t Normal ](DS105L2.ipynb)                |
-|                       |3   | [Advanced Chi-Squares ](DS105L3.ipynb)              |
-|                       |4   | [Basic ANOVAs ](DS105L4.ipynb)|
-|                       |5   | [Repeated Measures ANOVAs ](DS105L5.ipynb)      |
-|                       |6   | [Mixed Measures ANOVAs](DS105L6.ipynb)        | 
-|                       |7   | [ANCOVAs ](DS105L7.ipynb)       |
-|                       |8   | [MANOVAs](DS105L8.ipynb)   | 
-|                       |9   | [Power Analysis ](DS105L9.ipynb)  | 
-|                       |10  | [Final Project ](DS105L10.ipynb)         | 
+|DS105 Intermediate Statistics  |1   | [Basic Statistics in Python](DS105-L1-Python-Basic-Stats.ipynb)  |
+|                       |2   | [When Data isn’t Normal ](DS105-L2-Normality-and-Transformations.ipynb)                |
+|                       |3   | [Advanced Chi-Squares ](DS105-L3-Chi-Squares.ipynb)              |
+|                       |4   | [Basic ANOVAs ](DS105-L4-Anovas.ipynb)|
+|                       |5   | [Repeated Measures ANOVAs ](DS105-L5-Repeated-Measures-Anovas.ipynb)      |
+|                       |6   | [Mixed Measures ANOVAs](DS105-L6-Mixed-Measures-Anovas.ipynb)        | 
+|                       |7   | [ANCOVAs ](DS105-L7-Ancovas.ipynb)       |
+|                       |8   | [MANOVAs](DS105-L8-Manovas.ipynb)   | 
+|                       |9   | [Power Analysis ](DS105-L9-Power-Analysis.ipynb)  | 
+|                       |10  | [Final Project ](DS105L10-Intermediate-Statistics-Final.ipynb)         | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
