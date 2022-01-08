@@ -20,17 +20,17 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS106 Modeling         |1   | [Modeling with Linear Regression](Modeling/DS106L1.ipynb)  |
-|                       |2   | [Modeling with Logistic Regression ](Modeling/DS106L2.ipynb)                |
-|                       |3   | [Modeling with Non-Linear and Multiple Regression](Modeling/DS106L3.ipynb)              |
-|                       |4   | [Modeling with Step-Wise Regression ](Modeling/DS106L4.ipynb)|
-|                       |5   | [Randomly Generated Data ](Modeling/DS106L5.ipynb)      |
+|DS106 Modeling         |1   | [Modeling with Linear Regression](Modeling/DS106-L1-Modeling-with-linear-regression.ipynb)  |
+|                       |2   | [Modeling with Logistic Regression ](Modeling/DS106-L2-Modeling-with-logistic-regression.ipynb)                |
+|                       |3   | [Modeling with Non-Linear and Multiple Regression](Modeling/DS106-L3-Non-Linear-Modeling.ipynb)              |
+|                       |4   | [Modeling with Step-Wise Regression ](Modeling/DS106-L4-Modeling-with-step-wise-regression.ipynb)|
+|                       |5   | [Randomly Generated Data ](Modeling/DS106-L5-Randomly-Generating-Data.ipynb)      |
 |||
-|DS106 Machine Learning |1   | [Introduction to Machine Learning ](ML/DS106ML1.ipynb)        | 
-|                       |2   | [K-Means and K-Nearest Neighbors ](ML/DS106ML2.ipynb)       |
-|                       |3   | [Decision Trees and Random Forests](ML/DS106ML3.ipynb)   | 
-|                       |4   | [Bayesian Networks](ML/DS106ML4.ipynb)  | 
-|                       |5  | [Natural Language Processing ](ML/DS106ML5.ipynb)         | 
+|DS106 Machine Learning |1   | [Introduction to Machine Learning ](ML/DS106-L1-Intro-to-Machine-Learning.ipynb)        | 
+|                       |2   | [K-Means and K-Nearest Neighbors ](ML/DS106-L2-K-Means-and-K-Nearest-Neighbors.ipynb)       |
+|                       |3   | [Decision Trees and Random Forests](ML/DS106-L3-Decision-Trees-and-Random-Forests.ipynb)   | 
+|                       |4   | [Bayesian Networks](ML/DS106-L4-Bayesian-Networks.ipynb)  | 
+|                       |5  | [Natural Language Processing ](ML/DS106-L5-Natural-Language-Processing.ipynb)         | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
