@@ -45,17 +45,17 @@ Course Description: The Metrics and Data Processing course will prepare students
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS103 Metrics and Data Processing  |1   | [Metrics in the Business World ](DS103L1.ipynb)  |
-|                       |2   | [Statistical Process Control ](DS103L2.ipynb)                |
-|                       |3   | [Process Capability  ](DS103L3.ipynb)              |
-|                       |4   | [Survey Design ](DS103L4.ipynb)|
-|                       |5   | [Reliability and Validity (Principal Components Analysis)](DS103L5.ipynb)      |
+|DS103 Metrics and Data Processing  |1   | [Metrics in the Business World ](DS103-L1-Metrics-In-The-Business-World.ipynb)  |
+|                       |2   | [Statistical Process Control ](DS103-L2-Statistical-Process-Control.ipynb)                |
+|                       |3   | [Process Capability  ](DS103-L3-Process-Capability.ipynb)              |
+|                       |4   | [Survey Design ](DS103-L4-Survey-Design.ipynb)|
+|                       |5   | [Reliability and Validity (Principal Components Analysis)](DS103-L5-Reliability-and-Validity.ipynb)      |
 |||
-|DS103 Project Management|6   | [Introduction to Agile Project Management](DS103L6.ipynb)        | 
-|                       |7   | [Goals of Project Management and Agile](DS103L7.ipynb)       |
-|                       |8   | [Scrum ](DS103L8.ipynb)   | 
-|                       |9   | [Kanban ](DS103L9.ipynb)  | 
-|                       |10  | [Project Planning ](DS103L10.ipynb)         | 
+|DS103 Project Management|6   | [Introduction to Agile Project Management](DS103PM-L1-Introduction-to-Agile-Project-Management.ipynb)        | 
+|                       |7   | [Goals of Project Management and Agile](DS103PM-L2-Goals-of-Project-Management-and-Agile.ipynb)       |
+|                       |8   | [Scrum ](DS103PM-L3-Scrum.ipynb)   | 
+|                       |9   | [Kanban ](DS103PM-L4-Kanban.ipynb)  | 
+|                       |10  | [Project Planning ](DS103PM-L5-Project-Planning.ipynb)         | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
