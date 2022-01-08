@@ -20,17 +20,17 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS108 Databases – SQL  |1   | [Getting Started with SQL](SQL/DS108L1.ipynb)  |
-|                       |2   | [Joins](SQL/DS108L2.ipynb)                |
-|                       |3   | [CRUD in SQL ](SQL/DS108L3.ipynb)              |
-|                       |4   | [Creating Tables](SQL/DS108L4.ipynb)|
-|                       |5   | [Indexes and Projects](SQL/DS108L5.ipynb)      |
+|DS108 Databases – SQL  |1   | [Getting Started with SQL](SQL/DS108-L1-Getting-Started-With-SQL.ipynb)  |
+|                       |2   | [Joins](SQL/DS108-L2-Joins.ipynb)                |
+|                       |3   | [CRUD in SQL ](SQL/DS108-L3-CRUD-in-SQL.ipynb)              |
+|                       |4   | [Creating Tables](SQL/DS108-L4-Creating-Tables.ipynb)|
+|                       |5   | [Indexes and Projects](SQL/DS108-L5-Indexes-and-Project.ipynb)      |
 | | |
-|DSO108 Databases - NoSQL |1   | [Getting Started with NoSQL](NoSQL/DS108NoSQLL1.ipynb)        | 
-|                       |2   | [Querying Documents](NoSQL/DS108NoSQLL2.ipynb)       |
-|                       |3   | [Updating Documents](NoSQL/DS108NoSQLL3.ipynb)   | 
-|                       |4   | [Deleting and Indexing Documents](NoSQL/DS108NoSQLL4.ipynb)  | 
-|                       |5  | [Sharding, More Methods, and Project](NoSQL/DS108NoSQLL5.ipynb)         | 
+|DSO108 Databases - NoSQL |1   | [Getting Started with NoSQL](NoSQL/DS108NoSQL-L1-Getting-Started-With-NoSQL.ipynb)        | 
+|                       |2   | [Querying Documents](NoSQL/DS108NoSQL-L2-Querying-Documents.ipynb)       |
+|                       |3   | [Updating Documents](NoSQL/DS108NoSQL-L3-Updating-Documents.ipynb)   | 
+|                       |4   | [Deleting and Indexing Documents](NoSQL/DS108NoSQL-L4-Deleting-and-Indexing-Documents.ipynb)  | 
+|                       |5  | [Sharding, More Methods, and Project](NoSQL/DS108NoSQL-L5-Sharding-More-Methods-and-Project.ipynb)         | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
