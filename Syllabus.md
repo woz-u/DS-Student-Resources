@@ -44,7 +44,7 @@ The Group Project course combines each part of the program into a group project 
 |:---                 |---:|
 |First 5 taken In Order||
 |[DS101-Basic-Statistics](DS101-Basic-Statistics/_DS101-Syllabus.md)|1|
-|[DS102-Statistical-Programming-in-R](_DS102-Statistical-Programming-in-R/_DS102-Syllabus.md)       |2|
+|[DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/_DS102-Syllabus.md)       |2|
 |[DS108-Databases](DS108-Databases/_DS108-Syllabus.md)      |3|
 |[DS109-Python](DS109-Python/_DS109-Syllabus.md)    |4|
 |[DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/_DS104-Syllabus.md) 	      |5|
