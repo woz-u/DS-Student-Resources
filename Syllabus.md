@@ -43,17 +43,17 @@ The Group Project course combines each part of the program into a group project 
 |                     |    |
 |:---                 |---:|
 |First 5 taken In Order||
-|[DS101-Basic-Statistics](DS101-Basic-Statistics/DS101-Syllabus.md)|1|
-|[DS102-Statistical-Programming-in-R](DS102-Statistical-Programming-in-R/DS102-Syllabus.md)       |2|
-|[DS108-Databases](DS108-Databases/DS108-Syllabus.md)      |3|
-|[DS109-Python](DS109-Python/DS109-Syllabus.md)    |4|
-|[DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/DS104-Syllabus.md) 	      |5|
+|[DS101-Basic-Statistics](DS101-Basic-Statistics/_DS101-Syllabus.md)|1|
+|[DS102-Statistical-Programming-in-R](_DS102-Statistical-Programming-in-R/_DS102-Syllabus.md)       |2|
+|[DS108-Databases](DS108-Databases/_DS108-Syllabus.md)      |3|
+|[DS109-Python](DS109-Python/_DS109-Syllabus.md)    |4|
+|[DS104-Data-Wrangling-and-Visualization](DS104-Data-Wrangling-and-Visualization/_DS104-Syllabus.md) 	      |5|
 |next 4 variable based on semester (Wheel)||
-|[DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/DS105-Syllabus.md)	  |*|
-|[DS106-Machine-Learning](DS106-Machine-Learning/DS106-Syllabus.md)	  |* |
-|[DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/DS103-Syllabus.md)      |*|
-|[DS107-Big-Data](DS107-Big-Data/DS107-Syllabus.md)|*|
+|[DS105-Intermediate-Statistics](DS105-Intermediate-Statistics/_DS105-Syllabus.md)	  |*|
+|[DS106-Machine-Learning](DS106-Machine-Learning/_DS106-Syllabus.md)	  |* |
+|[DS103-Metrics-and-Data-Processing](DS103-Metrics-and-Data-Processing/_DS103-Syllabus.md)      |*|
+|[DS107-Big-Data](DS107-Big-Data/_DS107-Syllabus.md)|*|
 |Last Course||
-|[DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)|10|
+|[DS110-Final-Project](DS110-Final-Project/_DS110-Syllabus.md)|10|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
