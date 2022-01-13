@@ -57,3 +57,78 @@ The Group Project course combines each part of the program into a group project 
 |[DS110-Final-Project](DS110-Final-Project/DS110-Syllabus.md)|10|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
+# Data Science Admissions Questionaire
+
+## Behavioral Questions
+
+1. Do you have 20 hours available and a quiet place to focus on the data science curriculum each week? If So, how many hours will you be able to apply to this program?
+
+2. Are you willing to work independently and problem/puzzle solve?
+
+3. Are you willing to maintain communication with your mentor and commit to a weekly one-on-one meeting for 30 minutes per week?
+
+4. Are you willing to take responsibility for your success in this program: turn in lessons on time, meet deadlines, attend office hours as needed, and make adjustments to your schedule to prioritize the classes? 
+
+5. In the past, how have you solved a problem you didn’t fully understand? What approach did you use?
+
+
+
+## Technical Questions
+
+1. What is the central limit theorem and why is it important?
+
+
+2. What are the two top programming languages utilized in Data Science? Name their strengths and weaknesses
+
+
+3. Solve the following problems:
+
+    a. $ 3 ^ 3 = $ 
+
+    b. $ 10 * 3  / 2 + 5 = $
+
+    c. What is the square root of 9?
+
+    d. $ (2 + 2) / 2 = $
+
+    e. $ 9 + 10 ^ 2= $
+
+    f. What percent of 16 is 4?
+
+4. What would the output be of this simple code?
+
+```python
+a = 9
+b = 21
+print( a + b) 
+```
+
+5. There are two types of variables used in statistics, Categorical and Continuous, name two examples of each variable type.
+
+
+
+6. Please describe these variables and give an example of each of them
+
+```python
+int
+str
+float
+bool
+```
+
+### Requirements
+
+Do you have a viable computer to utilize in the Data Science Program? Check One.
+
+- Minimum: PC (Windows 10/11) or Mac (Big Sur or Monterey) laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
+
+- Recommended: PC (Windows 10/11) or Mac laptop(Big Sur or Monterey). 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
+
+- Professionals: PC (Windows 10/11) or Mac(Big Sur or Monterey). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
+
+
+
+
+______________________________
+Signature of Applicant

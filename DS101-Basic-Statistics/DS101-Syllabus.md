@@ -23,11 +23,11 @@
 
 - Online students are required to have a late model laptop or desktop computer with internet access.  
 
-- Minimum: PC (Windows 10/11) or Mac (Big Sur or newer) laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
+- Minimum: PC (Windows 10/11) or Mac (Big Sur or Monterey) laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
 
-- Recommended: PC (Windows 10/11) or Mac laptop(Big Sur or newer). 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
+- Recommended: PC (Windows 10/11) or Mac laptop(Big Sur or Monterey). 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
 
-- Professionals: PC (Windows 10/11) or Mac(Big Sur or newer). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
+- Professionals: PC (Windows 10/11) or Mac(Big Sur or Monterey). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
 - It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high bandwidth connection.)
 
