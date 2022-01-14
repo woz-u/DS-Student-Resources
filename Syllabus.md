@@ -127,6 +127,10 @@ Do you have a viable computer to utilize in the Data Science Program? Check One.
 
 - Professionals: PC (Windows 10/11) or Mac(Big Sur or Monterey). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 
+<br/>
+<br/>
+<br/>
+
 
 
 
