@@ -1,0 +1,53 @@
+Algorithms
+Back End
+Big Data
+Classification
+Database
+Data Warehouse
+Front End
+Fuzzy Algorithms
+Fuzzy Logic
+Greedy Algorithms
+Machine Learning
+Overfitting
+Regression
+Statistic
+Statistics
+Training
+Testing
+Underfitting
+Artificial Intelligence (AI)
+Business Intelligence (BI)
+Data Analysis
+Data Engineering
+Data Journalism
+Data Science
+Data Visualization
+Quantitiative Analysis
+Correlation
+Mean (Average, Expected Value)
+Median
+Normalize
+Outlier
+Sample
+Standard Deviation
+Statistical Significance
+Summary Statistics
+Time Series
+Residual (Error)
+Variance
+Data Exploration
+Data Mining
+Data Pipelines
+Data Wrangling (Munging)
+ETL (Extract, Transform, Load)
+Web Scraping
+Clustering
+Decision Trees
+Deep Learning
+Feature Engineering
+Feature Selection
+Neural Networks
+Supervised Machine Learning
+Unsupervised Machine Learning
+
