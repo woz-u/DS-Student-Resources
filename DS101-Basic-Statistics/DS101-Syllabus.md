@@ -33,9 +33,9 @@
 
 - You are required to have a quiet place to study and to be able to focus on the material.
 
-- You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
+- **You are required to have uninterrupted weekly 1:1 video meetings with your mentor.**
 
-- You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
+- **You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.**
 
 - Please follow and review each lesson page by page coding examples provided as this will ensure you have a full understanding for your final hands-on assignments.
 
