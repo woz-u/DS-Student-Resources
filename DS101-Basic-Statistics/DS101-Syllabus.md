@@ -111,32 +111,28 @@ Upon successful completion of this program, students will be able to:
 
 |Exam |Points|
 |:--- |:---  |	
-|L1|24|
-|L2|24|
-|L3|26|
-|L4|20|
+|L1|20|
+|L2|20|
+|L3|20|
+|L4|10|
 |L5|20|
-|L6|16|
-|L7|22|
-|L8|30|
-|L9|28|
-|Final|56|
+|L6|20|
+|L7|20|
+|L8|10|
+|L9|20|
+|Final|40|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ## Points Total:
 
 |Type  | Points  |
-|:--- |:--- |	
-|Professionalism, Attendance and Class Participation*: |14 points (5%)| 
-|Exam/Quiz Average: |L1-9 Exam total points: 210 (75%) |
-|Projects/Competencies/Research: |Final total points: 56 (20%)| 
-|Total points: |280 (100%)|
+|:--- |:--- |	 
+|Exam/Quiz Average: |L1-9 Exam total points: 160 (80%) |
+|Concept Mastery Exam: |Final total points: 40 (20%)| 
+|Total points: |200 (100%)|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-## Final Project:
-
-- Concept mastery exam
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
