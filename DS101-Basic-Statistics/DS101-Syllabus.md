@@ -37,7 +37,7 @@
 
 - **You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.**
 
-- Please follow and review each lesson page by page coding examples provided as this will ensure you have a full understanding for your final hands-on assignments.
+- Please follow and review each lesson's coding examples as provided. This will ensure you have a full understanding of concepts needed for your final hands-on assignment.
 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
