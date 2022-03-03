@@ -23,3 +23,6 @@ Data Science Student Companion Notebook Series
 
 
 
+<p style="text-align: center">
+  <img  src="DS101-Basic-Statistics/Media/wordcloud.png" width="600" alt="data science wordcloud">
+</p>
