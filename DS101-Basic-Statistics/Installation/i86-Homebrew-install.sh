@@ -21,13 +21,18 @@ brew install --cask github
 echo "installing python3"
 brew install python@3.9
 
+#symlink python to python3 location
+echo "symlink python to python3"
+ls -l /usr/local/bin/python*
+ln -s -f /usr/local/bin/python3 /usr/local/bin/python
+
 #set python/pip from python2 to python3
-echo "setting python and pip in .bashrc"
-echo "alias python=/usr/local/bin/python3" >> ~/.bashrc
-echo "alias pip=/usr/local/bin/pip3" >> ~/.bashrc
-echo "setting python and pip in .zshrc"
-echo "alias python=/usr/local/bin/python3" >> ~/.zshrc
-echo "alias pip=/usr/local/bin/pip3" >> ~/.zshrc
+#echo "setting python and pip in .bashrc"
+#echo "alias python=/usr/local/bin/python3" >> ~/.bashrc
+#echo "alias pip=/usr/local/bin/pip3" >> ~/.bashrc
+#echo "setting python and pip in .zshrc"
+#echo "alias python=/usr/local/bin/python3" >> ~/.zshrc
+#echo "alias pip=/usr/local/bin/pip3" >> ~/.zshrc
 
 #install r
 echo "installing R App"
