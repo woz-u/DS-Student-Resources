@@ -3,6 +3,12 @@ Data Science Student Companion Notebook Series
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
+<p style="text-align: center">
+  <img  src="DS101-Basic-Statistics/Media/wordcloud.png" width="600" alt="data science wordcloud">
+</p>
+
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
+
 ## Curriculum 
 
 | | 
@@ -23,6 +29,3 @@ Data Science Student Companion Notebook Series
 
 
 
-<p style="text-align: center">
-  <img  src="DS101-Basic-Statistics/Media/wordcloud.png" width="600" alt="data science wordcloud">
-</p>
