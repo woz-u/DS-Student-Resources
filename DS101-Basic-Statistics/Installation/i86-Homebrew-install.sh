@@ -101,12 +101,20 @@ brew install wget
 
 #install julia
 echo "installing Julia"
-echo "if Julia didn't install it's because it's not ready M1 chipset yet"
 brew install julia
 
 #install node
 echo "installing node"
 brew install node
+
+#install ds-students
+pip install ds-students
+
+#upgrade pip
+pip install --upgrade pip
+
+#ensuring jupyterlab installs all it needs
+pip install jupyterlab
 
 #run brew list to get a list of applications installed
 brew list
@@ -168,8 +176,6 @@ echo ""
 echo "Wait a minute or so for the installation to complete"
 echo ""
 echo "Exit out of Julia terminal by typing CTRL-D"
-echo ""
-echo "pip install ds-students"
 echo ""
 echo "Now in a new terminal (not Julia)test jupyter lab run test by running the command below:"
 echo ""
