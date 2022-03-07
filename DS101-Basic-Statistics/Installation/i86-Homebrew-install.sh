@@ -107,6 +107,10 @@ brew install julia
 echo "installing node"
 brew install node
 
+#install AWS Command Line Interface
+echo "installing awscli"
+brew install awscli
+
 #install ds-students
 pip install ds-students
 

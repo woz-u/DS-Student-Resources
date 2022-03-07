@@ -126,6 +126,10 @@ brew install julia
 echo "installing node"
 brew install node
 
+#install AWS Command Line Interface
+echo "installing awscli"
+brew install awscli
+
 #sudo change owner for Jupyter lab to run
 sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
 
