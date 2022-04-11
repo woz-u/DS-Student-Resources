@@ -111,6 +111,10 @@ brew install node
 echo "installing awscli"
 brew install awscli
 
+#install neo4j
+echo "installing neo4j"
+brew install --cask neo4j
+
 #install ds-students
 pip install ds-students
 
