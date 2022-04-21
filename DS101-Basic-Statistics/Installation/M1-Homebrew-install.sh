@@ -130,6 +130,10 @@ brew install node
 echo "installing awscli"
 brew install awscli
 
+#install neo4j
+echo "installing neo4j"
+brew install --cask neo4j
+
 #sudo change owner for Jupyter lab to run
 sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
 

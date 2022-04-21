@@ -53,7 +53,7 @@
 |                       |5   | [The Normal Distribution](DS101-L5-Normal-Distribution.ipynb)      |
 |                       |6   | [Statistical Inference](DS101-L6-Statistical-Inference.ipynb)        | 
 |                       |7   | [Uniform, Binomial, Student’s T, and F-Distribution](DS101-L7-Uniform-Binomial-StudentT-F-Distribution.ipynb)|
-|                       |8   | [Other Common Distributions](DS101-L8-Other Common-Distributions.ipynb)| 
+|                       |8   | [Other Common Distributions](DS101-L8-Other-Common-Distributions.ipynb)| 
 |                       |9   | [High Level Data Exploration](DS101-L9-High-Level-Data-Exploration.ipynb)| 
 |                       |10  | [Concept Mastery Exam](DS101L10-Skills-Mastery-Exam.ipynb)| 
 

@@ -111,14 +111,18 @@ brew install node
 echo "installing awscli"
 brew install awscli
 
+#install neo4j
+echo "installing neo4j"
+brew install --cask neo4j
+
 #install ds-students
-pip install ds-students
+pip3 install ds-students
 
 #upgrade pip
-pip install --upgrade pip
+pip3 install --upgrade pip
 
 #ensuring jupyterlab installs all it needs
-pip install jupyterlab
+#pip install jupyterlab
 
 #run brew list to get a list of applications installed
 brew list
