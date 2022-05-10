@@ -121,8 +121,7 @@ brew install wget
 
 #install julia
 echo "installing Julia"
-echo "if Julia didn't install it's because it's not ready M1 chipset yet"
-brew install julia
+brew install --cask julia
 
 #install node
 echo "installing node"
