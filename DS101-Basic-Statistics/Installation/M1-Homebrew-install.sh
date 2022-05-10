@@ -42,6 +42,8 @@ echo "setting python and pip in .zshrc"
 echo "alias python=/opt/homebrew/bin/python3" >> ~/.zshrc
 echo "alias pip=/opt/homebrew/bin/pip3" >> ~/.zshrc
 
+source ~/.zshrc
+
 # install scipy separately because it is not working for M1 yet
 brew install openblas
 pip install cython pybind11 pythran numpy
