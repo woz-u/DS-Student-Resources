@@ -111,6 +111,10 @@ brew install node
 echo "installing awscli"
 brew install awscli
 
+#install openjdk@11 as it's a neo4j dependency
+echo "installing openjdk@11 for neo4j"
+brew install openjdk@11
+
 #install neo4j
 echo "installing neo4j"
 brew install --cask neo4j
