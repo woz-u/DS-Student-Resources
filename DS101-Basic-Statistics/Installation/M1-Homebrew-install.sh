@@ -42,6 +42,8 @@ echo "setting python and pip in .zshrc"
 echo "alias python=/opt/homebrew/bin/python3" >> ~/.zshrc
 echo "alias pip=/opt/homebrew/bin/pip3" >> ~/.zshrc
 
+source ~/.zshrc
+
 # install scipy separately because it is not working for M1 yet
 brew install openblas
 pip install cython pybind11 pythran numpy
@@ -119,8 +121,7 @@ brew install wget
 
 #install julia
 echo "installing Julia"
-echo "if Julia didn't install it's because it's not ready M1 chipset yet"
-brew install julia
+brew install --cask julia
 
 #install node
 echo "installing node"
@@ -130,12 +131,16 @@ brew install node
 echo "installing awscli"
 brew install awscli
 
+#install openjdk@11 as it's a neo4j dependency
+echo "installing openjdk@11 for neo4j"
+brew install openjdk@11
+
 #install neo4j
 echo "installing neo4j"
 brew install --cask neo4j
 
 #sudo change owner for Jupyter lab to run
-sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
+#sudo chown -R $(whoami) /Users/$USER/Library/Jupyter
 
 #run brew list
 brew list
