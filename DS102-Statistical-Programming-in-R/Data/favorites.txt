@@ -1,0 +1,7 @@
+flavor,number 
+pistachio,6 
+mint chocolate chip,7 
+vanilla,5
+chocolate,10 
+strawberry,2 
+neopolitan,4 
