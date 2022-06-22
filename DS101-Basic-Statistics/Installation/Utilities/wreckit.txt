@@ -8,6 +8,7 @@ Matthew Is Updating
 Joe is editing again
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Marisa is editing this 
 
 
@@ -24,4 +25,7 @@ Its all a plot to destroy you - WAKE UP!!!!!!!!!
 Marcy did this one -  but I didn't break it. 
 =======
 This is a crazy test --Matthew
+>>>>>>> Stashed changes
+=======
+Is this broken yet? Margaret
 >>>>>>> Stashed changes
