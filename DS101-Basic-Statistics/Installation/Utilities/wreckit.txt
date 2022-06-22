@@ -7,4 +7,16 @@ Matthew Is Updating
 
 Joe is editing again
 
+<<<<<<< HEAD
 THIS IS LATRICE, BREAKER OF FILES
+=======
+
+
+
+
+
+
+
+
+Marcy did this one -  but I didn't break it. 
+>>>>>>> 91dc52700263836371d9b97c7ecbbaeba0f455a3
