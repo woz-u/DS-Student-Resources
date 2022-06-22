@@ -7,6 +7,7 @@ Matthew Is Updating
 
 Joe is editing again
 
+<<<<<<< Updated upstream
 Marisa is editing this 
 
 
@@ -16,3 +17,6 @@ Marisa is editing this
 
 
 Marcy did this one -  but I didn't break it. 
+=======
+This is a crazy test --Matthew
+>>>>>>> Stashed changes
