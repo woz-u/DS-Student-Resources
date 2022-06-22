@@ -8,8 +8,13 @@ Matthew Is Updating
 Joe is editing again
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 THIS IS LATRICE, BREAKER OF FILES
 =======
+=======
+<<<<<<< Updated upstream
+Marisa is editing this 
+>>>>>>> d9ab69ad9693317b721c755070ed54cdc71153e8
 
 
 
@@ -18,5 +23,15 @@ THIS IS LATRICE, BREAKER OF FILES
 
 
 
+
+
+
+Its all a plot to destroy you - WAKE UP!!!!!!!!!
 Marcy did this one -  but I didn't break it. 
+<<<<<<< HEAD
 >>>>>>> 91dc52700263836371d9b97c7ecbbaeba0f455a3
+=======
+=======
+This is a crazy test --Matthew
+>>>>>>> Stashed changes
+>>>>>>> d9ab69ad9693317b721c755070ed54cdc71153e8
