@@ -1,6 +1,3 @@
-let's wreck this file
+let's wreck this file (This is known good)
 
-consider 'er wrect
 
-this is so wrong
-lets do the wrong thing now
