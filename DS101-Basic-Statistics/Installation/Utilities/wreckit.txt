@@ -1,33 +1,33 @@
 let's wreck this file (This is known good)
+Joe's edit
 
-Joe is editing
+found out you can resolve the conflicts by simply... editing them out! 
+deleted the <<<< branch thing here the the "conflict" went away -Latrice
 
-
-Matthew Is Updating
-
-Joe is editing again
-
-<<<<<<< Updated upstream
-Marisa is editing this 
-
+######################################
+####🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂####
+####😎😎😎😎😎😎😎😎😎😎😎😎####
+######################################
 
 
+Does a Raetano have trouble with Git? Who knows at this point
+THIS IS AGAIN LATRICE
 
+and then you delete the >>>> branch marker here and it lets you mark as resolved
+=======
 
-
-
-
-
+Whats up fam bam, Julie's branch is here
 
 
 Its all a plot to destroy you - WAKE UP!!!!!!!!!
 Marcy did this one -  but I didn't break it. 
-=======
+
 This is a crazy test --Matthew
->>>>>>> Stashed changes
+
 
 
 
 
 
 Kaiba summons "Latrice, Breaker of Files" in attack mode!
+
