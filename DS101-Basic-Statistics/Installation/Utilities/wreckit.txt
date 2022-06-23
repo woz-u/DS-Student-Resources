@@ -12,4 +12,9 @@ deleted the <<<< branch thing here the the "conflict" went away -Latrice
 
 Does a Raetano have trouble with Git? Who knows at this point
 THIS IS AGAIN LATRICE
+
 and then you delete the >>>> branch marker here and it lets you mark as resolved
+=======
+
+Whats up fam bam, Julie's branch is here
+
