@@ -1,6 +1,10 @@
 let's wreck this file (This is known good)
+<<<<<<< Updated upstream
 Marcy's edit 32
 
+=======
+Marcy's edit 2 
+>>>>>>> Stashed changes
 
 
 Matthew Is Updating
