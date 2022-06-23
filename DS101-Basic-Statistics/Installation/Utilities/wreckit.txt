@@ -1,6 +1,6 @@
 let's wreck this file (This is known good)
+Marcy's edit 32
 
-Joe is editing
 
 
 Matthew Is Updating
@@ -9,7 +9,9 @@ Joe is editing again
 
 <<<<<<< Updated upstream
 Marisa is editing this 
+A SQL query walks into a bar, approaches two tables and says "Can I join you?" 
 
+NOLAN
 
 
 
