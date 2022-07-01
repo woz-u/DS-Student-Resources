@@ -1,0 +1,58 @@
+db.yarnsThree.insertMany([
+    {
+    brand: "Lion Brand", 
+    yarnName: "Thick and Quick", 
+    thickness: "Heavy", 
+    colors: ["Blue", "Orange", "Green", "Red", "Yellow"], 
+    gramsPerSpool: 400,
+    owned: true
+ },
+ {
+    brand: "Lion Brand", 
+    yarnName: "Feels like Butta", 
+    thickness: "Medium", 
+    colors: ["Blue", "Grey", "White", "Pale Green", "Light Blue"], 
+    gramsPerSpool: 250,
+    owned: true
+ },
+ {
+    brand: "Buttercream", 
+    yarnName: "Alpaca", 
+    thickness: "Heavy", 
+    colors: ["Green", "Dark Green", "White", "Red", "Tan"], 
+    gramsPerSpool: 520,
+    owned: true
+ },
+ {
+    yarnName: "Blanket Yarn", 
+    thickness: "Heavy", 
+    colors: ["Grey", "White", "Yellow", "Midnight"], 
+    gramsPerSpool: 327,
+    owned: false
+ }
+    ])
+
+# Query Operators
+db.yarnsThree.find({brand: {$eq: "Lion Brand"}})
+db.yarnsThree.find({brand: {$ne: "Lion Brand"}})
+db.yarnsThree.find({gramsPerSpool: {$gt: 300}})
+db.yarnsThree.find({gramsPerSpool: {$gte: 400}})
+db.yarnsThree.find({gramsPerSpool: {$lt: 400}})
+db.yarnsThree.find({gramsPerSpool: {$lte: 400}})
+db.yarnsThree.find({colors: {$in: ['Blue', 'Grey']}})
+db.yarnsThree.find({colors: {$nin: ['Blue', 'Grey']}})
+
+# Logical Operators
+
+db.yarnsThree.find( { $and: [ { brand: { $eq: "Lion Brand"} }, { colors: { $eq: "Pale Green"} } ] } )
+db.yarnsThree.find( { $or: [ { brand: { $eq: "Lion Brand"} }, { colors: { $eq: "Midnight"} } ] } )
+db.yarnsThree.find( { gramsPerSpool: { $not: {$in: ['Blue', 'Grey']} } } )
+db.yarnsThree.find({$nor: [{brand: {$eq: "Lion Brand"}}, {colors: {$eq: "Midnight"}}]})
+
+# Element Operators
+db.yarnsThree.find({brand: {$exists: true}})
+
+# Array Operators
+
+db.yarnsThree.find({colors: {$all: ["Blue", "Green"]}})
+db.yarnsThree.find({colors: {$size: 4}})

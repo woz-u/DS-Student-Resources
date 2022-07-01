@@ -1,0 +1,58 @@
+
+db.aamilne.insertMany([
+    {
+      name: "Pooh Bear",
+      animal: "bear",
+      location: "hundred acre woods",
+      info: { book: true, saying: "oh bother"}
+    },
+    {
+      name: "Piglet",
+      animal: "pig",
+      location: "hundred acre woods",
+      info: { book: true, saying: "oh dear or dear"}
+    },
+    {
+        name: "Eyeore",
+        animal: "donkey",
+        location: "hundred acre woods",
+        info: { book: true, saying: "thanks for noticing"}
+      },
+      {
+        name: "Christopher Robin",
+        animal: "human",
+        location: "hundred acre woods",
+        info: { book: true, saying: "tut tut it looks like rain"}
+      }
+    ]);
+  
+  // query 2
+  // Database no longer covers what happens in the original books
+  // modified 2, matched 2
+  db.aamilne.updateMany(
+    { "info.book": true },
+    { $set: { location: "hundred acre woods", "info.book": false } }
+  );
+  
+  // query 3
+  // update Christopher Robin
+  db.aamilne.updateOne(
+    { name: "Christopher Robin" },
+    { $set: { location: "school"}}
+  );
+  
+
+  // query 5
+  // remove location field
+  db.aamilne.updateMany({}, { $unset: { location: "" } });
+  
+  // query 6
+  // index on animal for search
+  db.aamilne.createIndex({ animal: 1 });
+
+ 
+  // query 2
+  db.aamilne.updateMany({}, { $rename: { animal: "CharacterAnimal" } });
+  
+  // query 3
+  db.aamilne.updateMany({}, { $rename: { "info.saying": "saying" } });
