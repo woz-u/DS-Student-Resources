@@ -21,16 +21,16 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS107 Big Data         |1   | [Introduction to Big Data](DS107L1.ipynb)  |
-|                       |2   | [Getting Started with Hadoop](DS107L2.ipynb)                |
-|                       |3   | [MapReduce, Hive, and Sqoop](DS107L3.ipynb)              |
-|                       |4   | [Pig and HBase](DS107L4.ipynb)|
-|                       |5   | [Spark 2.0 and Zeppelin](DS107L5.ipynb)      |
-|                       |6   | [Working with Real-Time Data](DS107L6.ipynb)        | 
-|                       |7   | [Amazon Web Services](DS107L7.ipynb)       |
-|                       |8   | [DASK](DS107L8.ipynb)   | 
-|                       |9   | [Source Control using Git](DS107L9.ipynb)  | 
-|                       |10  | [Final Project ](DS107L10.ipynb)         | 
+|DS107 Big Data         |1   | [Big-Data-Overview-and-Introduction-to-AWS](DS107L1.ipynb)  |
+|                       |2   | [AWS-Global-Infrastructure-and-Cloud-Security](DS107L2.ipynb)                |
+|                       |3   | [AWS-Networking-Content-Delivery-Compute](DS107L3.ipynb)              |
+|                       |4   | [AWS-Storage-Databases](DS107L4.ipynb)|
+|                       |5   | [AWS-Cloud-Architectures-Autoscaling-Monitoring](DS107L5.ipynb)      |
+|                       |6   | [Big-Data-Analytics-S3-Athena](DS107L6.ipynb)        | 
+|                       |7   | [Query-Data-S3-Athena-Glue-Analyze-Data-Redshift](DS107L7.ipynb)       |
+|                       |8   | [Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline](DS107L8.ipynb)   | 
+|                       |9   | [Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana- Analyze-IoT-Data-AWS-IoT-Analytics](DS107L9.ipynb)  | 
+|                       |10  | [ADA-Sandbox-Environment](DS107L10.ipynb) | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -83,6 +83,8 @@ Upon successful completion of this course, students will be able to:
 11. Technical Support
 12. Key Terms
 13. Lesson 1 Exam
+
+
 
 ##### Lesson 2
 2.	ETL & MapReduce: ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
