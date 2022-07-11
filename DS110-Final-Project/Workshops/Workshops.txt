@@ -1,0 +1,13 @@
+01-Introduction-to-Final-Project
+02-Finding-Good-Datasets
+03-Git-Hub
+04-Determing-Data-Wrangling-Needs
+Building-a-Beautiful-and-Engaging-Slide-Deck.pdf
+Conceputalizing-Visualizations.pdf
+Exploratory-Data-Analysis-Workshop.pdf
+LinkedIn-Workshop.pdf
+Presentation-Skills.pdf
+Resumes.pdf
+The-Analysis-Cycle.pdf
+To-Infinity-and-Beyond.pdf
+Workshops.txt

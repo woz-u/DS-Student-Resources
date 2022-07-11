@@ -1,0 +1,10 @@
+00-Import-Sakila
+01-Where-Like-and-Order-By
+02-Join-me-for-SQL-Joins
+03-Database-with-a-View
+04-Aggregate-Functions-and-Group-By
+04.5-All-Keyed-Up
+08-Export-to-CSV
+Addressing-Common-Errors-in-SQL.pdf
+Uninstalling-MySQL-Because-of-Connection-Error.pdf
+Workshops.txt

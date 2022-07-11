@@ -1,0 +1,13 @@
+DS108-L1-Getting-Started-SQL.ipynb
+DS108-L1.ipynb
+DS108-L2-JOINS-HOHELPER.ipynb
+DS108-L2-Joins.ipynb
+DS108-L2-Jupyter-Creating-Join-In-MSQL.ipynb
+DSO108-SQL-Helpers.ipynb
+Examples.txt
+Loading-Sakila-Database.ipynb
+Media
+SQL-Tutorial-In-Jupyter.ipynb
+Team-Examples
+Turn-off-SafeUpdate-mode-in-MySQL.ipynb
+readme.md

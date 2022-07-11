@@ -1,0 +1,14 @@
+01-Regression-Theory
+01.5-Regression-in-R
+02-Logistic-Regression-in-R
+03-Stepwise-Regression-in-R
+03.5-Simulating-Data
+04-K-Means-and-K-Nearest-Neighbors
+04.5-KNN
+04.6-Decision-Trees-and-Random-Forests
+05-Improving-Model-Accuracy
+06-Natural-Language-Processing
+Choosing-a-model-Regressor-vs-Classifier
+Linear-Regression-in-Python
+Logistic-Regression-in-Python
+Workshops.txt

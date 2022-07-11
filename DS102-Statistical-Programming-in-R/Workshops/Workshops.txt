@@ -1,0 +1,17 @@
+0.5-Introduction-to-R
+0.6-The-Shape-of-Data-R
+01-Problem-Solving
+01.5-Imposter-Syndrome
+02-Vectors-Functions-and-For-Loops-Oh-My
+03-Manipulating-Vectors
+04-AnatomyGGplot
+05-AnatomyDpylr
+06-tTests
+06.5-Simple-Linear-Regression
+07-DataExplorationR
+08-TerminalTime
+09-FinalProjectR
+Common-Errors-in-R
+DAAG-Basics
+Excel-to-R
+Workshops.txt

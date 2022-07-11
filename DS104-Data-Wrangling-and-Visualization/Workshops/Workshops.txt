@@ -1,0 +1,17 @@
+01-Data-Wrangling-in-R
+02-Data-Wrangling-in-Python
+03-Data-Transformations-in-R
+04-Data-Transformations-in-Python
+05-Data-Recoding-Python
+05.5-Data-Recoding-in-R
+06-Data-Visualization-in-R
+07-Data-Visualization-in-Python
+08-Data-Visualization-in-Tableau
+08.5-Infographics
+09-Choosing-the-Right-Statistic
+09.5-Scenario-Examples-for-Choosing-the-Right-Statistic
+09.6-Scenario-Examples-for-Choosing-the-Right-Statistic-Part-II
+10-Final-Project-in-Tableau
+11-Final-Project-in-Python
+12-Final-Project-in-R
+Workshops.txt

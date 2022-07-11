@@ -1,0 +1,9 @@
+01-Basic-Statistics-in-Python
+02-Advanced-Chi-Squares
+03-One-Way-ANOVAs-in-R
+04-Covariates
+05-Dont-Let-the-Power-Go-to-your-Head
+06-Final-Project
+One-Way-ANOVAs-in-Python
+Various.ipynb
+Workshops.txt

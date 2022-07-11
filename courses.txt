@@ -1,0 +1,13 @@
+DS101-Basic-Statistics
+DS102-Statistical-Programming-in-R
+DS103-Metrics-and-Data-Processing
+DS104-Data-Wrangling-and-Visualization
+DS105-Intermediate-Statistics
+DS106-Machine-Learning
+DS107-Big-Data
+DS108-Databases
+DS109-Python
+DS110-Final-Project
+README.md
+Syllabus.md
+courses.txt

@@ -1,0 +1,9 @@
+05-Be-a-Smooth-Operator
+06-Updating-Indexing-Deleting
+07-Winnie-the-Pooh-and-Databases-Too
+Examples.txt
+Local-Version-MongoDB-Using-PyMongo.ipynb
+Online-Version-MongoDB-Using-PyMongo.ipynb
+PyMongo.ipynb
+Team-Examples
+readme.md

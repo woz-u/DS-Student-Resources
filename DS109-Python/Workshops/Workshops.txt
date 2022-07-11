@@ -1,0 +1,15 @@
+01-Variables-and-Data-Types
+02-If-Else
+03-Lists
+04-Dictionaries
+05-Functions
+06-Coding-with-Class
+07-Standard-Library
+08-Pandas-and-Jupyter-Notebook
+08.5-numpy
+09-Final-Project
+10-Addressing-Common-Errors-in-Python
+11-Python-NLP-Tools-Examples
+12-Importing-in-Python
+13-Virtual-Environments
+Workshops.txt
