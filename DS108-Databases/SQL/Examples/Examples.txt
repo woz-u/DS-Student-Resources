@@ -3,6 +3,8 @@ DS108-L1.ipynb
 DS108-L2-JOINS-HOHELPER.ipynb
 DS108-L2-Joins.ipynb
 DS108-L2-Jupyter-Creating-Join-In-MSQL.ipynb
+DS108-L4-Helper.ipynb
+DS108-L5-Helper.ipynb
 DSO108-SQL-Helpers.ipynb
 Examples.txt
 Loading-Sakila-Database.ipynb
