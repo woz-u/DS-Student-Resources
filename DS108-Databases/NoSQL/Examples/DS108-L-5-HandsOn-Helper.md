@@ -1,19 +1,9 @@
+```java
 // you are working as a data scientist for a veteranarians office and they want to add new clients to the online filing system
 // each pet has a full profile with their name, age, sex, species, and if they are sexually altered and vaccinated, and the owners name
 
 //create a list of the pet clients using the information above, it should have an embedded document of their vaccination records with if they have gotten their original and booster shot for that vaccine
-
-// query 1
-// start the system fresh by dropping all versions of the data base
-db.PetList.drop();
-db.PetList2.drop();
-db.PetList4.drop();
-db.PetList5.drop();
-
-
-//query 2
-// create a list of the clinic's clients
-db.PetList4.insertMany([
+db.PetList5.insertMany([
   {
     name: "Boogie",
     age: 5.2,
@@ -173,9 +163,9 @@ db.PetList4.insertMany([
   },
   {
     name: "Billy Elliot",
-    age: 6,
+    age: "under 1 year",
     sex: "male",
-    species: "Beta Fish",
+    species: "Fish",
     Sxaltered: false,
     vaccinations: { name: "N/A", original:false , booster: false },
     ownerName: "Julie"
@@ -270,50 +260,47 @@ db.PetList4.insertMany([
     ownerName: "Mia"
   }]);
 
-  ////
-
-// query 3
-// the clinic wants to see if they have more male or female clients
-//create an index on the sex of the client
-  db.PetList4.createIndex({ sex: 1 });
-
-
-// query 4
-// creat an index on the ages of the animals
-db.PetList4.createIndex({ age: 1 });
-
-
-// query 5
-//the clinic is hiring a new exotic vet full time! they want to split the client load and give the new vet all the clients under 4, so they can be removed from the system
-// delete all entries for clients under the age of 4
-db.PetList4.deleteMany({ age: { $lt: 4 } });
-
-
-//query 6
-// poor Julie called the clinic today in a fit, her first beta fish passed away last night, she brought it in to run some tests
-// delete the entry for the Beta Fish client
-db.PetList4.deleteOne({ species: "Beta Fish" });
-
-
-// query 7
-// the study of gender in clients is now over! Males won, by a landlslide. delete the index on the sex of the clients
-db.PetList4.dropIndex({ sex: 1 });
-
-
----
-
-## Part 2
-// query 1
-//drop the age index
-db.PetList4.dropIndex({ age: 1 });
+//db.PetList5.drop();
+////
 
 // query 2
-//the clinic wants to alphabetize the client list by owners, please make an index on the ownerName
-db.PetList4.createIndex({ ownerName: 1 });
+//the clinic has adopted a new program to handle vaccination records and is working on moving all the old clients into the system
+//to help they want to use the booster tab to mark old clients that need to be added, 
+//give all old clients in the system a "true" booster marker so the techs are aware
+db.PetList5.updateMany( {"vaccinations.booster": false}, { $set: {"vaccinations.booster": true} });
 
 // query 3
-//Katie called to let the clinic know that she is leaving town with her pet, Pancho. She wanted to thank everyone dearly for the years of care provided.
-// the clinic will miss Katie and Pancho!
-// find Pancho's profile and delete it from the system 
-db.PetList4.findOneAndDelete({ name: "Pancho" });
+// Orlene brought their dog Oliver in for a visit and he has been neutered, the vet would like to update the system to reflect this
+db.PetList5.updateOne( { name: "Oliver" }, { $set: { Sxaltered: true } });
 
+// query 4
+// julie came in today to make sure all her pets were fixed and vaccinated, please update the system to reflect her diligence! 
+db.PetList5.updateOne({ ownerName: "Julie" }, { $set: { Sxaltered: true, "vaccinations.original": true } });
+
+// query 5
+// the clinic now services all species! they will no longer need to check if they have eligble clients, please remove the species field. 
+db.PetList5.updateMany({}, { $unset: { species: "" } });
+// check your work!
+db.PetList5.find({name:"Benny"});
+
+// query 6
+// the clinic wanted to run some metrics on the general age of their clients, please make an index of the ages
+db.PetList5.createIndex({ age: 1 });
+
+
+// part 2
+// a bit of the vet techs have been innapropiately marking general surgerys under the sex altered field and it has made a confusing mess of things
+//the vet wants to name the field something more intuitive
+// rename the sxaltered field to spayneuter to better reflect the specific operation
+db.PetList5.updateMany({}, { $rename: { Sxaltered: "SpayNeuter" } });
+// check your work!
+db.PetList5.find({name:"Tessa"});
+
+// query 3
+// the system seems to confuse the name of the vaccine and the name of the client
+//please rename the vaccine name field to be vaccinegiven and un-nest it from the vaccinations tab
+db.PetList5.updateMany({}, { $rename: { "vaccinations.name": "VaccineGiven" } });
+// check your work!
+db.PetList5.find({name:"Milly-Dilly-Killy"});
+
+```

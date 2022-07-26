@@ -1,8 +1,9 @@
+```java
 // you are working as a data scientist for a veteranarians office and they want to add new clients to the online filing system
 // each pet has a full profile with their name, age, sex, species, and if they are sexually altered and vaccinated, and the owners name
 
-//create a list of the pet clients using the information above, it should have an embedded document of their vaccination records with if they have gotten their original and booster shot for that vaccine
-db.PetList5.insertMany([
+//a list of pet client information has been provided, insert them into the database all at once
+db.PetList2.insertMany([
   {
     name: "Boogie",
     age: 5.2,
@@ -10,7 +11,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Micky"},
+    ownerName: ["Micky", "Joanie"]},
   {
     name: "Benny",
     age: 1.4,
@@ -18,7 +19,7 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Latrice"
+    ownerName: ["Latrice", "Sandra"]
   },
   {
     name: "Fibi",
@@ -27,7 +28,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Julie and Cory"
+    ownerName: ["Julie", "Cory"]
   },
   {
 	  name: "Logan",
@@ -36,7 +37,7 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: true,
     vaccinations: { name: "Something", original: true, booster: false },
-    ownerName:  "Jessenia, Leonardo, Marina, & Lukey"
+    ownerName:  ["Jessenia", "Leonardo", "Marina", "Lukey"]
   },
   {
     name: "Moby",
@@ -45,7 +46,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: false },
-    ownerName: "Mia"
+    ownerName: ["Mia", "Johnny"]
   },
   {
 	  name: "Triton",
@@ -54,7 +55,7 @@ db.PetList5.insertMany([
     species: "Fish",
     Sxaltered: false,
     vaccinations: { name: "None", original: false, booster: false },
-    ownerName: "Jessenia, Leonardo, Marina, & Lukey"
+    ownerName: ["Jessenia", "Leonardo", "Marina", "Lukey"]
   },
   {
 	  name: "Milly-Dilly-Killy",
@@ -63,7 +64,7 @@ db.PetList5.insertMany([
     species: "Fish",
     Sxaltered: false,
     vaccinations: { name: "None", original: false, booster: false },
-    ownerName: "Jessenia, Leonardo, Marina, & Lukey"
+    ownerName: ["Jessenia", "Leonardo", "Marina", "Lukey"]
   },
   {
 	  name: "Smokey",
@@ -72,7 +73,7 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: false,
     vaccinations: { name: "none", original: false, booster: false },
-    ownerName: "Leonardo"
+    ownerName: ["Leonardo"]
   },
   { name: "Molly",
     age: 6.5,
@@ -80,7 +81,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Marcy" },
+    ownerName: ["Marcy"] },
   { 
     name: "Felix",
     age: 15,
@@ -88,28 +89,28 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Max" },
+    ownerName: ["Max"] },
   { name: "Sepp",
     age: 10,
     sex: "male",
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Miles" },
+    ownerName: ["Miles"] },
   { name: "Pancho",
     age: 10,
     sex: "male",
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Katie" },
+    ownerName: ["Katie"] },
   { name: "Ginny",
     age: 5,
     sex: "female",
     species: "Dog",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Marcy"},
+    ownerName: ["Marcy"]},
   {
     name: "Taylor Swift",
     age: 13,
@@ -117,7 +118,7 @@ db.PetList5.insertMany([
     species: "Alpaca",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false , booster: false },
-    ownerName: "Jilian"
+    ownerName: ["Jilian", "Derek"]
   },
   {
 	name: "Tessa",
@@ -126,7 +127,7 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: false,
     vaccinations: { name: "Gorgeousitis", original: "Beautifullitis", booster: true },
-    ownerName: "Marisa and not Joe"
+    ownerName: ["Marisa", "not Joe"]
  },
  { name: "Aloysius",
     age: 12.7,
@@ -134,14 +135,14 @@ db.PetList5.insertMany([
     species: "Cat",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Max" }, 
+    ownerName: ["Max"] }, 
  { name: "Ajax",
     age: 2.7,
     sex: "male",
     species: "Cat",
     Sxaltered: true,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Max" },
+    ownerName: ["Max", "Ruby"] },
   {
     name: "Thunderstruck",
     age: 4,
@@ -149,7 +150,7 @@ db.PetList5.insertMany([
     species: "Alpaca",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false , booster: false },
-    ownerName: "Jilian"
+    ownerName: ["Jilian", "Derek"]
   },
   {
     name: "Macon the Bacon",
@@ -158,7 +159,7 @@ db.PetList5.insertMany([
     species: "Alpaca",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false , booster: false },
-    ownerName: "Jilian"
+    ownerName: ["Jilian"]
   },
   {
     name: "Billy Elliot",
@@ -167,7 +168,7 @@ db.PetList5.insertMany([
     species: "Fish",
     Sxaltered: false,
     vaccinations: { name: "N/A", original:false , booster: false },
-    ownerName: "Julie"
+    ownerName: ["Julie"]
   },
   {
 	name: "Richard",
@@ -176,7 +177,7 @@ db.PetList5.insertMany([
     species: "Chicken",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Marcy"
+    ownerName: ["Marcy"]
   },
   {
 	name: "Lucy",
@@ -185,7 +186,7 @@ db.PetList5.insertMany([
     species: "Chicken",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Marcy"
+    ownerName: ["Marcy", "Tomas"]
   },
   {
 	name: "Pau3",
@@ -194,7 +195,7 @@ db.PetList5.insertMany([
     species: "Chicken",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Marcy"
+    ownerName: ["Marcy"]
   },
   {
 	name: "Mother Clucker",
@@ -203,7 +204,7 @@ db.PetList5.insertMany([
     species: "Chicken",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Marcy"
+    ownerName: ["Marcy"]
   },
   {
 	name: "Nugget",
@@ -212,7 +213,7 @@ db.PetList5.insertMany([
     species: "Chicken",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Marcy" },
+    ownerName: ["Marcy"] },
  {
     name: "Brandy",
     age: 16,
@@ -220,7 +221,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: false,
     vaccinations: { name: "Rabies", original: true, booster: true },
-    ownerName: "Orlene and Jessenia"
+    ownerName: ["Orlene", "Jessenia"]
   },
   {
     name: "Pork Rind",
@@ -229,7 +230,7 @@ db.PetList5.insertMany([
     species: "Swine",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Jilian"
+    ownerName: ["Jilian"]
   },
   {
     name: "Motty",
@@ -238,7 +239,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Orlene and Jessenia"
+    ownerName: ["Orlene", "Jessenia"]
   },
   {
     name: "Oliver",
@@ -247,7 +248,7 @@ db.PetList5.insertMany([
     species: "Dog",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Orlene"
+    ownerName: ["Orlene"]
   },
   {
     name: "Sully",
@@ -256,48 +257,59 @@ db.PetList5.insertMany([
     species: "Bird",
     Sxaltered: false,
     vaccinations: { name: "N/A", original: false, booster: false },
-    ownerName: "Mia"
+    ownerName: ["Mia"]
   }]);
 
-//db.PetList5.drop();
-////
+//db.PetList2.drop()
+
+///
+
+
+// query 1
+
+// tomorrow starts senior pet appreciation month! the clinic wants to send out a disounted visit for annual check ups to all the owners with senior pets
+  // make a list of pets older than 6 years old
+  db.PetList2.find({ age : {$gt: 6} });
+
 
 // query 2
-//the clinic has adopted a new program to handle vaccination records and is working on moving all the old clients into the system
-//to help they want to use the booster tab to mark old clients that need to be added, 
-//give all old clients in the system a "true" booster marker so the techs are aware
-db.PetList5.updateMany( {"vaccinations.booster": false}, { $set: {"vaccinations.booster": true} });
+// the vet did a home check on Jilian's farm today and wondered if she makes up a majority of clients at the clinic, to test this, look up all owners that arent Jilian 
+db.PetList2.find({ ownerName: { $ne: ["Jilian"] } });
+
 
 // query 3
-// Orlene brought their dog Oliver in for a visit and he has been neutered, the vet would like to update the system to reflect this
-db.PetList5.updateOne( { name: "Oliver" }, { $set: { Sxaltered: true } });
+
+ // A customer Marcy has come in and needs to admit her animal, she cannot remember the name of this pet because they all look the same but they are all in the system, 
+  // make a list of all the pets Marcy has so we can scan them for microchips
+  db.PetList2.find({ ownerName : {$eq: ["Marcy"]} });
+
+
 
 // query 4
-// julie came in today to make sure all her pets were fixed and vaccinated, please update the system to reflect her diligence! 
-db.PetList5.updateOne({ ownerName: "Julie" }, { $set: { Sxaltered: true, "vaccinations.original": true } });
+// the techs have a bet going about the most common client species the clinic sees, Gordie says its Dogs but Samuel knows there has to be more other species than that! 
+// they have come to you for the official information, find all the species in the clinic that aren't dogs.
+db.PetList2.find({ species: { $ne: "Dog" } });
+
 
 // query 5
-// the clinic now services all species! they will no longer need to check if they have eligble clients, please remove the species field. 
-db.PetList5.updateMany({}, { $unset: { species: "" } });
-// check your work!
-db.PetList5.find({name:"Benny"});
+
+  // the clinic is having a free neuter day for all pets under 7! there is a policy clause that states animals must be at least two years old to qualify for free neuter
+  // find all the clients that are older than two but younger than 7 and not altered.
+  db.PetList2.find( { $and: [{ age: { $gt: 2 } } , { age: { $lt: 7 } }, {Sxaltered: false}]});
+
+
 
 // query 6
-// the clinic wanted to run some metrics on the general age of their clients, please make an index of the ages
-db.PetList5.createIndex({ age: 1 });
+
+// The clinic is having a special deal on livestock treatments next week! The vet has asked for a list all animals that count as livestock so we can send out emails about the event. 
+  // make a list of all the Swine, Chicken, Alpaca and produce a list that shows the owner name only
+  db.PetList2.find( { $or: [{ species: "Alpaca" }, { species: "Chicken" }, { species: "Swine"}] }, { ownerName: 1 });
+
 
 
 // part 2
-// a bit of the vet techs have been innapropiately marking general surgerys under the sex altered field and it has made a confusing mess of things
-//the vet wants to name the field something more intuitive
-// rename the sxaltered field to spayneuter to better reflect the specific operation
-db.PetList5.updateMany({}, { $rename: { Sxaltered: "SpayNeuter" } });
-// check your work!
-db.PetList5.find({name:"Tessa"});
+// the clinic has some client owners with livestock as well as housepets but we want to double check. the vet can remember off hand that Jilian, Marcy and Mia have exotic animals and some dogs, but nothing else
+// make a list of the clients older than 4, that are not dogs, under the three owners
+db.PetList2.find( { $and: [ {age: {$gt:4} }, {species: {$ne:"Dog"}}, {ownerName: {$in: ["Marcy", "Jilian", "Mia"] } } ] } );
 
-// query 3
-// the system seems to confuse the name of the vaccine and the name of the client
-//please rename the vaccine name field to be vaccinegiven and un-nest it from the vaccinations tab
-db.PetList5.updateMany({}, { $rename: { "vaccinations.name": "VaccineGiven" } });
-// check your work!
-db.PetList5.find({name:"Milly-Dilly-Killy"});
+```
