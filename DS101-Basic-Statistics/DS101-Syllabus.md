@@ -111,16 +111,16 @@ Upon successful completion of this program, students will be able to:
 
 |Exam |Points|
 |:--- |:---  |	
-|L1|20|
-|L2|20|
-|L3|20|
-|L4|10|
-|L5|20|
-|L6|20|
-|L7|20|
-|L8|10|
-|L9|20|
-|Final|40|
+|L1|19|
+|L2|18|
+|L3|9|
+|L4|6|
+|L5|13|
+|L6|17|
+|L7|19|
+|L8|0|
+|L9|12|
+|Final|28|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -128,9 +128,9 @@ Upon successful completion of this program, students will be able to:
 
 |Type  | Points  |
 |:--- |:--- |	 
-|Exam/Quiz Average: |L1-9 Exam total points: 160 (80%) |
-|Concept Mastery Exam: |Final total points: 40 (20%)| 
-|Total points: |200 (100%)|
+|Exam/Quiz Average: |L1-9 Exam total points: 113 (80%) |
+|Concept Mastery Exam: |Final total points: 28 (20%)| 
+|Total points: |141 (100%)|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
