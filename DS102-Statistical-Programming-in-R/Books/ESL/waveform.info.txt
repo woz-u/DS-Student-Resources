@@ -1,0 +1,5 @@
+The waveform model are described  on page 402 in the book,
+and we provide here S code for generating waveform data.
+
+We also provide an instance of 300 training observations and 500 test
+observations.

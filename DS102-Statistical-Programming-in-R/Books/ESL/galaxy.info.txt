@@ -1,0 +1,31 @@
+Radial Velocity of Galaxy NGC7531
+
+SUMMARY:
+       The galaxy data frame records the  radial  velocity  of  a
+       spiral  galaxy  measured  at 323 points in the area of sky
+       which it covers.  All the measurements  lie  within  seven
+       slots  crossing at the origin.  The positions of the meas-
+       urements given by four variables (columns).
+
+DATA DESCRIPTION:
+east.west:     the east-west coordinate.  The origin,  (0,0),  is
+       near  the  center of the galaxy, east is negative, west is
+       positive.
+north.south:   the north-south coordinate.  The origin, (0,0), is
+       near the center of the galaxy, south is negative, north is
+       positive.
+angle:    degrees of counter-clockwise rotation from the horizon-
+       tal of the slot within which the observation lies.
+radial.position:    signed  distance  from  origin;  negative  if
+       east-west coordinate is negative.
+velocity:   radial velocity measured in km/sec.
+
+SOURCE:
+       Buta, R. (1987)  The  Structure  and  Dynamics  of  Ringed
+       Galaxies,  III:  Surface  Photometry and Kinematics of the
+       Ringed Nonbarred Spiral NGC7531.    The  Astrophysical  J.
+       Supplement Ser. Vol. 64, pp. 1--37.
+
+         John M. Chambers and Trevor J. Hastie, (eds.)  Statistical
+       Models in S, Wadsworth and Brooks, Pacific Grove, CA 1992,
+       pg. 352.

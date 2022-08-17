@@ -1,0 +1,6 @@
+Signature data used in Section 14.5
+
+The three signatures represented in Figure 14.26 of the text.
+These signatures have been "time warped" so that there is a correspndence between 
+the points on each.
+

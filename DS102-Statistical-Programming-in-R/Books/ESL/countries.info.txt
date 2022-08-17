@@ -1,0 +1,6 @@
+Countries preference data (chap 14)
+
+Countries:
+
+BEL,BRA,CHI,CUB,EGY,FRA,IND,ISR,USA,USS,YUG,ZAI
+

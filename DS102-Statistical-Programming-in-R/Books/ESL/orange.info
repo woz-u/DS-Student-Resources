@@ -1,0 +1,15 @@
+These simulation data are described on the revised page 384-5 of the
+book. See the errata file for a revised version if your book is not
+the fourth or later printing.
+
+There are 50 x four datasets - training and test data for the four
+dimensional problem, and training and test data for the 10
+dimensional problem.
+
+These come in four files. 
+For example, orange4.train is a 5000 x 5 matrix consisting of 
+fifty datasets of size 100 x 5. The first column is the -1/1 output,
+the remaining four are the inputs.
+
+orange4.test is 50000 x 5, since for each training set of size 100,
+there is a test set of size 1000. Hence it has 50 test sets.
