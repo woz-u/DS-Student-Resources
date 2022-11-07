@@ -369,35 +369,8 @@ There are a variety of similarities between traditional IT and AWS Cloud Computi
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: Core Cloud Quiz
+start-activity: DS107L1.4 Core Cloud Concepts Quiz
 ```
-
-
-```python
-try:
-    display(L1P4Q1, L1P4Q2, L1P4Q3, L1P4Q4, L1P4Q5)
-except:
-    pass
-```
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 1. Cloud computing is the on-demand deliver…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 2. Cloud computing enables you to think of …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 3. Which cloud service model/s are availabl…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 4. Which of these can be utilized as cloud …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 5. Can almost anything done with traditiona…
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
@@ -490,55 +463,9 @@ How would you like to scale your capability and go global in minutes? With cloud
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: The Advantages of Cloud Computing Quiz
+start-activity: DS107L1.5 Advantages of Cloud Computing Quiz
 ```
 
-
-```python
-try:
-    display(L1P5Q1, L1P5Q2, L1P5Q3, L1P5Q4, L1P5Q5, L1P5Q6, L1P5Q7, L1P5Q8, L1P5Q9, L1P5Q10)
-except:
-    pass
-```
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 1. What are the advantages of cloud computi…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 2. What is the pricing model that enables A…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 3. Which of these is NOT a cloud computing …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 4. True or False? AWS owns and maintains th…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 5. Which of these is NOT a benefit of cloud…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 6. Which is NOT a benefit of AWS Cloud comp…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 7. Which of the following is a compute serv…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 8. True or False?, Cloud computing provides…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 9. Economies of scale result from _________…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 10. Which of these are ways to access AWS c…
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
@@ -954,55 +881,11 @@ AWS Support offers four support plans:
 - [Case studies and research](http://aws.amazon.com/economics/) 
 - [Additional pricing exercises](https://dx1572sre29wk.cloudfront.net/cost/) 
 
-## Review and Practice <a class="anchor" id="DS107L1_page_2_quiz"></a>
+## Review and Practice <a class="anchor" id="DS107L1_page_11_quiz"></a>
 
-
-```python
-try:
-    display(L1P11Q1, L1P11Q2, L1P11Q3, L1P11Q4, L1P11Q5, L1P11Q6, L1P11Q7, L1P11Q8, L1P11Q9, L1P11Q10)
-except:
-    pass
-
+```c-lms
+start-activity: DS107L1.11 Cloud Technical Support Quiz
 ```
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 1. For certain services like Amazon Elastic…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 2. Where can a customer go to get more deta…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 3. True or false? To receive the discounted…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 4. There is no charge for which of the foll…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 5. What are the four support plans offered …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 6. What AWS tool lets you explore AWS servi…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 7. As AWS grows, the cost of doing business…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 8. True or false? AWS offers some services …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 9. When are free data transfers applicable …
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 10. True or false? Unlimited services are a…
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
@@ -1168,11 +1051,8 @@ Below is a list and short description of the important keywords learned in this 
 
 # Lesson 1 Exam Preparation
 
-Below is an exam preparation to review the recently covered material. Please feel free to refer to your notes, curriculum or companion notebooks since you don't have to memorize everything in the real world - as long as you know where to find information!
+Below is an exam preparation to review the recently covered material and quizzes. Please feel free to refer to your notes, curriculum or companion notebooks since you don't have to memorize everything in the real world - as long as you know where to find information!
 
-
-
-
-```python
-#TODO: embed study exam question for these areas
+```c-lms
+start-activity: DS107L1.13 Exam
 ```
