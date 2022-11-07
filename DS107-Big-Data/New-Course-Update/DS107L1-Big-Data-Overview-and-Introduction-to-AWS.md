@@ -135,7 +135,7 @@ The properties of big data are all denoted with a V. There are the main 3 Vs of 
 
 3.  **Velocity** refers to the speed of data generation and storage. This typically ties into the "real-time" rate of data transmission.  With large-scale or global companies that are dealing with transactional or monitoring data, the velocity can be incredibly fast.  For instance, **[at the end of 2021 there were a half a billion Tweets being sent per day](https://startupbonsai.com/twitter-statistics/)**. 
 
-In addition, as big data has gotten more popular, other Vs have been added.  Consider also noting: 
+In addition, as big data has become more popular, other Vs have been added.  Consider also noting: 
 
 4. **Veracity:** How trustworthy the data is. As data is coming in, is it likely to create discrepancies on your cluster? Are you likely to have duplicate records? What happens in the case of computer failure?
 
@@ -165,43 +165,8 @@ Note that your workplace may or may not actually physically own the computers in
 Below you will find a quiz to review the recently covered material. 
 
 ```c-lms
-start-activity: Introduction to Big Data Quiz
+start-activity: DS107L1.2 Introduction to Big Data Analytics Quiz
 ```
-
-
-```python
-#pip install ds-students to use the quizes
-try:
-    from DS_Students import MC 
-except:
-    !pip install DS_Students
-    from DS_Students import MC
-from ipynb.fs.full.DS107Questions import *
-
-try:
-    display(L1P2Q1, L1P2Q2, L1P2Q3, L1P2Q4, L1P2Q5)
-except:
-    pass
-```
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m1. True or False? Big data is when you reach…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 2. Which of the following is not one of the…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 3. Which dimension of big data represents t…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 4. What is a group of computers harnessed t…
-
-
-
-    VBox(children=(Output(outputs=({'name': 'stdout', 'text': '\x1b[1m 5. What is responsible for controlling the …
 
 
 ### Welcome to the Cloud
