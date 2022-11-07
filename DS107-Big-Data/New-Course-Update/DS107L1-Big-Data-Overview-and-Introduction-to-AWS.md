@@ -19,7 +19,7 @@
     * [Page 11 - Technical Support](#DS107L1_page_11)
         * [Quiz](#DS107L1_page_11_quiz)
     * [Page 12 - Key Terms](#DS107L1_page_12)
-    * [Page 13 - Lesson 1 Exam Preparation](#DS107L1_page_13)
+    * [Page 13 - Lesson 1 Exam](#DS107L1_page_13)
     
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
@@ -1049,9 +1049,9 @@ Below is a list and short description of the important keywords learned in this 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 
-# Lesson 1 Exam Preparation
+# Lesson 1 Exam 
 
-Below is an exam preparation to review the recently covered material and quizzes. Please feel free to refer to your notes, curriculum or companion notebooks since you don't have to memorize everything in the real world - as long as you know where to find information!
+Review recently covered material and quizzes. Please feel free to refer to your notes, curriculum or companion notebooks since you don't have to memorize everything in the real world - as long as you know where to find information!
 
 ```c-lms
 start-activity: DS107L1.13 Exam
