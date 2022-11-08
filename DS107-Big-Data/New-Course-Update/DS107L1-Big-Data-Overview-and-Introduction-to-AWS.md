@@ -48,7 +48,7 @@ The concept of big data is more than just the collection and analysis of the dat
 
 
 
-Big data refers to both the storage and analysis of large collections of data. For perspective, in the year 2010, **[Volume of data/information created, captured, copied, and consumed worldwide from 2010 to 2025(in zettabytes)](https://www.statista.com/statistics/871513/worldwide-data-created/)** 2 zeetabytes was generated but in 2025 there will be 181 zettabytes. 
+Big data refers to both the storage and analysis of large collections of data. For perspective, in the year 2010, **[Volume of data/information created, captured, copied, and consumed worldwide from 2010 to 2025(in zettabytes)](https://www.statista.com/statistics/871513/worldwide-data-created/)** 2 zettabytes was generated but in 2025 there will be 181 zettabytes. 
 
 
 ![A laptop labeled Master Manager has one vertical and two horizontal lines in between connects six laptops, three in row one and three in row two.](Media/GlobalData.png)
