@@ -7,13 +7,16 @@
     * [Page 2 - Why AWS Glue?](#DS107L7_page_2)
     * [Page 3 - AWS Glue Use Cases](#DS107L7_page_3)
     * [Page 4 - AWS Glue Features](#DS107L7_page_4)
+        * [AWS Glue Quiz](#DS107L7.4_quiz)
     * [Page 5 - Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue](#DS107L7_page_5)
     * [Page 6 - Amazon Redshift](#DS107L7_page_6)
     * [Page 7 - Amazon Redshift Use Cases](#DS107L7_page_7)
     * [Page 8 - Amazon Redshift Features](#DS107L7_page_8)
     * [Page 9 - Getting Started with Amazon Redshift](#DS107L7_page_9)
+        * [Amazon Redshft Quiz](#DS107L7.9_quiz)
     * [Page 10 - Data Analytics Lab 4 - Analyze Data with Amazon Redshift ](#DS107L7_page_10)
-    * [Page 11 - Key Terms](#DS107L7_page_11)    
+    * [Page 11 - Key Terms](#DS107L7_page_11)
+    * [Page 12 - Lesson 7 Exam](#DS107L7_page_12)       
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -259,6 +262,14 @@ __Define workflows for ETL and integration activities__ – Define workflows for
 
 Read more about AWS Glue in the [AWS Glue Documentation](https://docs.aws.amazon.com/glue/index.html)
 
+## Review and Practice <a class="anchor" id="DS107L7.4_quiz"></a>
+
+Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
+
+```c-lms
+start-activity: DS107L7.4 AWS GLue Quiz
+```
+
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 # Page 5 - Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue
@@ -462,8 +473,15 @@ Find out more what’s [new](https://aws.amazon.com/redshift/whats-new/).
 
 Visit [Amazon Redshift Documentation](https://docs.aws.amazon.com/redshift/index.html) for more detailed product information.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Review and Practice <a class="anchor" id="DS107L7.9_quiz"></a>
 
+Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
+
+```c-lms
+start-activity: DS107L7.9 Amazon RedShift Quiz
+```
+
+<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 # Page 9 - Getting Started with Amazon Redshift<a class="anchor" id="DS107L7_page_9"></a>
 
 [Back to Top](#DS107L7_toc)
@@ -561,51 +579,10 @@ Below is a list and short description of the important keywords learned in this 
 
 ---
 
-## Key Command Line Code
+<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-<table class="table table-striped">
-    <tr>
-        <th>Keyword</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>wget</td>
-        <td>Allows you to pick up data or packages from a website.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>mkdir</td>
-        <td>Makes a directory. </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>cd</td>
-        <td>Changes a directory.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>sudo</td>
-        <td>Stands for "super user do." It allows you to do things with a different permission level that you might not be able to otherwise.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>vi</td>
-        <td>Brings up the visual interface, or a text editor accessed through the command prompt. When inside the vi, type i to insert code, and :wq! :x or :x! to exit.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>-version</td>
-        <td>Tells you the version of a program you are running or have installed.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>install</td>
-        <td>Installs software.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>update</td>
-        <td>Updates software.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>pip install</td>
-        <td>Installs packages for Python.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>tar</td>
-        <td>Unzips files.</td>
-    </tr>
-</table>
+# Page 12 - Lesson 7 Exam<a class="anchor" id="DS107L7_page_12"></a>
+
+[Back to Top](#DS107L7_toc)
+
+<hr style="height:10px;border-width:0;color:gray;background-color:gray">
