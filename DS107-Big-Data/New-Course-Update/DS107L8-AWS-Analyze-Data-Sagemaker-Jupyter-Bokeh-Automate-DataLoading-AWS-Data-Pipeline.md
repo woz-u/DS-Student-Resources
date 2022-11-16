@@ -831,49 +831,141 @@ Below is a list and short description of the important keywords learned in this 
         <th>Description</th>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>DASK</td>
-        <td>A Python library used for parallel processing.</td>
+        <td style="font-weight: bold;" nowrap>Project Jupyter </td>
+        <td>Open-source software, open-standards, and services for interactive computing across dozens of programming languages.</td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>High-level Collections</td>
-        <td>Functions for using datasets.</td>
+        <td style="font-weight: bold;" nowrap>Jupyter Notebook</td>
+        <td>A web application: a browser-based tool for interactive authoring of documents which combine explanatory text, mathematics, computations and their rich media output.</td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>Low-level Schedulers</td>
-        <td>Functions for parallel processing. </td>
+        <td style="font-weight: bold;" nowrap>JupyterLab</td>
+        <td>JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. </td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>Thread</td>
-        <td>One process that will work simultaneously with another task(s).</td>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker</td>
+        <td>Build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows.</td>
+    </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Automatic Model Tuning </td>
+        <td>(also known as hyperparameter tuning or hyperparameter optimization) finds the best version of your machine learning (ML) model by running multiple training jobs on your dataset using your specified algorithm and hyperparameter ranges.</td>
+    </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Autopilot</td>
+        <td>Automatically create machine learning models with full visibility.</td>
+    </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Canvas</td>
+        <td>Generate accurate ML predictions - no code required</td>
+    </tr>
+        </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Clarify</td>
+        <td>Amazon SageMaker Clarify provides machine learning developers with greater visibility into their training data and models so they can identify and limit bias and explain predictions.</td>
+    </tr>
+        </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Data Wrangler</td>
+        <td>The fastest and easiest way to prepare data for machine learning</td>
+    </tr>
+        </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Debugger</td>
+        <td>Optimize ML models with real-time monitoring of training metrics and system resources
+    </td>
+    </tr>
+        </tr>
+       <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Model Deployment</td>
+        <td>Deploy and manage machine learning (ML) models for inference</td>
+    </tr>
+           <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Edge</td>
+        <td>Operate machine learning (ML) models running on edge devices</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Feature Store</td>
+        <td>Fully managed service for machine learning features</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Data Labeling</td>
+        <td>Create high-quality datasets for training machine learning models</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Ground Truth Plus</td>
+        <td>Create high-quality training datasets without having to build labeling applications or manage labeling workforces on your own</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker JumpStart</td>
+        <td>Built-in algorithms and pre-built machine learning (ML) solutions that you can deploy with just a few clicks</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Model Monitor</td>
+        <td>Keep machine learning models accurate over time</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Notebooks</td>
+        <td>Fully managed notebooks (Powered by Jupyter) for exploring data and building ML models</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Studio Notebooks</td>
+        <td>Quick start, collaborative notebooks that integrate with purpose-built ML tools in SageMaker and other AWS services for your end-to-end ML development, from preparing data at peta-byte scale using Spark on Amazon EMR, to training and debugging models, tracking experiments, deploying and monitoring models and managing pipelines</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Pipelines</td>
+        <td>you can create ML workflows with an easy-to-use Python SDK, and then visualize and manage your workflow using Amazon SageMaker Studio</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>RStudio on Amazon SageMaker</td>
+        <td>Fully-managed RStudio integrated development environment (IDE) for data science and machine learning</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Studio Lab</td>
+        <td>Amazon SageMaker Studio Lab is a free machine learning (ML) development environment that provides the compute, storage (up to 15GB), and security—all at no cost—for anyone to learn and experiment with ML.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Amazon SageMaker Studio</td>
+        <td>Amazon SageMaker Studio is an integrated development environment (IDE) that provides a single, web-based visual interface where you can access purpose-built tools to perform all machine learning (ML) development steps, from preparing data to building, training, and deploying your ML models, improving data science team productivity by up to 10x.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>AAmazon SageMaker Model Training</td>
+        <td>Amazon SageMaker Model Training reduces the time and cost to train and tune machine learning (ML) models at scale without the need to manage infrastructure.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Bokah</td>
+        <td>Bokeh is a Python library for creating interactive visualizations for modern web browsers.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>AWS Data Pipeline</td>
+        <td>Easily automate the movement and transformation of data.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>AWS Management Console</td>
+        <td>Provides a web interface that you can use to access AWS Data Pipeline.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>AWS Command Line Interface (AWS CLI)</td>
+        <td>Provides commands for a broad set of AWS services, including AWS Data Pipeline, and is supported on Windows, macOS, and Linux.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>AWS SDKs</td>
+        <td>Provides language-specific APIs and takes care of many of the connection details, such as calculating signatures, handling request retries, and error handling.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>Query API</td>
+        <td>Provides low-level APIs that you call using HTTPS requests.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>JDBC</td>
+        <td>Java DataBase Connector</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;" nowrap>ODBC</td>
+        <td>Microsoft Open Database Connectivity</td>
     </tr>
 </table>
 
 ---
-
-## DASK Functions
-
-<table class="table table-striped">
-    <tr>
-        <th>Keyword</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>Client()</td>
-        <td>Sets up distributed processing for Python.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>.dtypes()</td>
-        <td>Retrieves the data types in your DASK dataframe.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>.compute()</td>
-        <td>Converts a DASK dataframe to a pandas dataframe.</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;" nowrap>.persist()</td>
-        <td>Places data in memory for faster processing.</td>
-    </tr>
-</table>
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
