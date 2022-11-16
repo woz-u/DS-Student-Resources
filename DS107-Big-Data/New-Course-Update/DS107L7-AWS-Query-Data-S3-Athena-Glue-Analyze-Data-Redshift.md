@@ -556,24 +556,24 @@ Below is a list and short description of the important keywords learned in this 
         <th>Description</th>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>AWS</td>
-        <td>Amazon Web Services; a cloud services platform.</td>
+        <td style="font-weight: bold;" nowrap>AWS Glue</td>
+        <td>is a serverless data integration service that makes it easy for analytics users to discover, prepare, move, and integrate data from multiple sources.</td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>EC2</td>
-        <td>Elastic Compute Cloud; a virtual computer to which you can connect remotely.</td>
+        <td style="font-weight: bold;" nowrap>AWS Glue Data Catalog</td>
+        <td>You can use the Data Catalog to quickly discover and search multiple AWS datasets without moving the data. Once the data is cataloged, it is immediately available for search and query using Amazon Athena, Amazon EMR, and Amazon Redshift Spectrum.</td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>PuTTY</td>
-        <td>A program that allows Windows machines to securely connect to a virtual machine.</td>
+        <td style="font-weight: bold;" nowrap>AWS ETL Jobs</td>
+        <td>AWS Glue Studio makes it easier to visually create, run, and monitor AWS Glue Extract Transfer and Load (ETL) jobs.</td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>.ppk file</td>
-        <td>A PuTTY private key file.</td>
+        <td style="font-weight: bold;" nowrap>AWS Glue DataBrew</td>
+        <td>you can explore and experiment with data directly from your data lake, data warehouses, and databases, including Amazon S3, Amazon Redshift, AWS Lake Formation, Amazon Aurora, and Amazon Relational Database Service (RDS). </td>
     </tr>
     <tr>
-        <td style="font-weight: bold;" nowrap>.pem file</td>
-        <td>The security key type for Mac / Linux machines.</td>
+        <td style="font-weight: bold;" nowrap>Amazon Redshift</td>
+        <td>uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.</td>
     </tr>
 </table>
 
