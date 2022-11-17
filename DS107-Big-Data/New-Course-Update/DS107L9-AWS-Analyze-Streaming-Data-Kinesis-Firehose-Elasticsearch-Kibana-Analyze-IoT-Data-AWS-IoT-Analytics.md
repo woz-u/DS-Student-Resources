@@ -152,7 +152,7 @@ Easily store and analyze data for comprehensive visibility into your system perf
 
 Learn more about » [log analytics](https://aws.amazon.com/log-analytics/) 
 
-#### Manage security and event information (SIEM)
+#### Security information and event management (SIEM)
 Centralize and analyze logs from disparate applications and systems across your network for real-time threat detection and incident management.
 
 #### Enable seamless, personalized search
@@ -473,7 +473,7 @@ With AWS IoT Analytics, companies can build applications that constantly monitor
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L9.4  Analyze IoT Data with AWS IoT Analytics Quiz
+start-activity: DS107L9.7  Analyze IoT Data with AWS IoT Analytics Quiz
 ```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
