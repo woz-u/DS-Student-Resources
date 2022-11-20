@@ -21,16 +21,16 @@
 
 |Module                 |Lesson Number|Lesson Name|
 |:---                   |:---:        |:---       |
-|DS107 Big Data         |1   | [Big-Data-Overview-and-Introduction-to-AWS](DS107L1.ipynb)  |
-|                       |2   | [AWS-Global-Infrastructure-and-Cloud-Security](DS107L2.ipynb)                |
-|                       |3   | [AWS-Networking-Content-Delivery-Compute](DS107L3.ipynb)              |
-|                       |4   | [AWS-Storage-Databases](DS107L4.ipynb)|
-|                       |5   | [AWS-Cloud-Architectures-Autoscaling-Monitoring](DS107L5.ipynb)      |
-|                       |6   | [Big-Data-Analytics-S3-Athena](DS107L6.ipynb)        | 
-|                       |7   | [Query-Data-S3-Athena-Glue-Analyze-Data-Redshift](DS107L7.ipynb)       |
-|                       |8   | [Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline](DS107L8.ipynb)   | 
-|                       |9   | [Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana- Analyze-IoT-Data-AWS-IoT-Analytics](DS107L9.ipynb)  | 
-|                       |10  | [ADA-Sandbox-Environment](DS107L10.ipynb) | 
+|DS107 Big Data         |1   | [L1-Big-Data-Overview-and-Introduction-to-AWS](L1-Big-Data-Overview-and-Introduction-to-AWS.md)  |
+|                       |2   | [L2-AWS-Global-Infrastructure-and-Cloud-Security](L2-AWS-Global-Infrastructure-and-Cloud-Security.md)                |
+|                       |3   | [L3-AWS-Networking-Content-Delivery-Compute](L3-AWS-Networking-Content-Delivery-Compute.md)              |
+|                       |4   | [L4-AWS-Storage-Databases](L4-AWS-Storage-Databases.md)|
+|                       |5   | [L5-AWS-Cloud-Architectures-Autoscaling-Monitoring](L5-AWS-Cloud-Architectures-Autoscaling-Monitoring.md)      |
+|                       |6   | [L6-AWS-Big-Data-Analytics-S3-Athena](L6-AWS-Big-Data-Analytics-S3-Athena.md)        | 
+|                       |7   | [L7-AWS-Query-Data-S3-Athena-Glue-Analyze-Data-Redshift](L7-AWS-Query-Data-S3-Athena-Glue-Analyze-Data-Redshift.md)       |
+|                       |8   | [L8-AWS-Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline](L8-AWS-Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline.md)   | 
+|                       |9   | [L9-AWS-Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana-Analyze-IoT-Data-AWS-IoT-Analytics](L9-AWS-Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana-Analyze-IoT-Data-AWS-IoT-Analytics.md)  | 
+|                       |10  | [L10-Capstone-Project](L10-Capstone-Project.md) | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 

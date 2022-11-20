@@ -1,8 +1,8 @@
 ```c-lms
-course-code: DSO107
+course-code: DSO107-AWS
 course-icon: big_data
-course-name: Introduction to Big Data
-unit-order: DS Big Data
+course-name: Big Data Analytics - AWS
+unit-order: DS Big Data Analytics - AWS
 credit-hours: 40
 ```
 
@@ -16,12 +16,13 @@ video-url-mp4-360: https://player.vimeo.com/external/293988242.sd.mp4?s=d0255ddc
 ```
 
 # Description
-The Introduction to Big Data course introduces students to Big Data on a conceptual level and gives students exposure and practice with several skills and tools currently in use. These skills are taught at a manageable level. Scale-up methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data. Students will learn the foundational concepts of Big Data and will know how to move from Big Data basics to more business-specific needs and requirements.
+The Big Data course introduces students to Big Data on a conceptual level and gives students exposure and practice with several skills and tools currently in use. These skills are taught at a manageable level. Scale-up methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data using cloud capabilities. Students will learn the foundational cloud and analysis of Big Data and will know how to apply Big Data Analytics to more business-specific needs and requirements.
 
 
 # Objectives
 * Explain the background and evolution of Big Data
-* Learn the fundamentals of MapReduce
-* Hands on MapReduce experience
-* Learn how to scale up to large datasets using available tools
-* Learn how Hadoop and MapReduce utilize multiple computing clusters
+* Learn the fundamentals of Cloud Computing on Amazon Web Services (AWS)
+* Hands on Cloud Computing with Amazon Web Services (AWS)
+* Learn how to scale up to large datasets using available Cloud Computer resources on Amazon Web Services (AWS)
+* Learn the fundamentals of Big Data Analytics on Amazon Web Services (AWS)
+* Learn how to utilize multiple Amazon Web Services to conduct Big Data Analytics on large data sets and apply to business.
