@@ -1,51 +1,11 @@
 ```c-lms
+activity-name: Big Data Analytics - AWS
 topic: Big Data Overview and Introduction to Amazon Web Services
 ```
 
-# Big Data Analytics L1 : Big Data Overview and Introduction to Amazon Web Services
-
-### Table of Contents <a class="anchor" id="DS107L1_toc"></a>
-
-* [Table of Contents](#DS107L1_toc)
-    * [Page 1 - Module Overview](#DS107L1_page_1)
-    * [Page 2 - What is Big Data?](#DS107L1_page_2)
-        * [Quiz](#DS107L1_page_2_quiz)
-    * [Page 3 - Introduction to Amazon Academy](#DS107L1_page_3)
-    * [Page 4 - Introduction to Cloud Computer Core Concepts](#DS107L1_page_4)
-        * [Quiz](#DS107L1_page_4_quiz)
-    * [Page 5 - The Advantages of Cloud Computing](#DS107L1_page_5)
-        * [Quiz](#DS107L1_page_5_quiz)
-    * [Page 6 - Cloud Economics and Billing](#DS107L1_page_6)
-    * [Page 7 - Fundamentals of pricing](#DS107L1_page_7)
-    * [Page 8 - Total Cost of Ownership](#DS107L1_page_8)
-    * [Page 9 - AWS Organizations](#DS107L1_page_9)
-    * [Page 10 - AWS Billing and Cost Management](#DS107L1_page_10)
-    * [Page 11 - Technical Support](#DS107L1_page_11)
-        * [Quiz](#DS107L1_page_11_quiz)
-    * [Page 12 - Key Terms](#DS107L1_page_12)
-    * [Page 13 - Lesson 1 Exam](#DS107L1_page_13)
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-```c-lms
-topic: Module Overview
-```
-
-# Page 1 - Module Overview<a class="anchor" id="DS107L1_page_1"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+# Big Data Overview and Introduction to Amazon Web Services
 
 
-```python
-#from IPython.display import VimeoVideo
-## Tutorial Video Name: Introduction to Big Data
-#VimeoVideo('251886621', width=720, height=480)
-```
-
-The transcript for the above overview video **[is located here](https://repo.exeterlms.com/documents/V2/DataScience/Video-Transcripts/DSO107L01overview.zip)**.
 
 # Module Overview
 
@@ -86,15 +46,6 @@ In this lesson, you will get an introduction to cloud foundations, big data and 
 ```c-lms
 topic: What is Big Data?
 ```
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 2 - What is Big Data?<a class="anchor" id="DS107L1_page_2"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
 
 # What is Big Data?
 
@@ -187,14 +138,6 @@ In the next several lessons you will learn foundational cloud concepts that will
 topic: Introduction to Amazon Academy
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 3 - Introduction to Amazon Academy<a class="anchor" id="DS107L1_page_3"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
 # What is Amazon Web Service (AWS)?
 
 [What is AWS?](https://youtu.be/a9__D53WsUs)
@@ -262,9 +205,8 @@ AWS Academy is a program Amazon offers that will allow you to obtain an AWS acco
 ## Check Email for AWS Academy Application Process
 You should receive an email from AWS Academy Support providing a link to complete the `AWS Academy application process`.   **If you did not receive an email, please inform your mentor right away**.
 
-<p style="text-align: center">
-  <img  src="Media/AWSAcademy.png" width="600" alt="AWS Academy email invite">
-</p>
+## Complete the AWS Academy Application Process
+![AWS Academy email invite](Media/AWSAcademy.png)
 
 ---
 
@@ -274,11 +216,6 @@ topic: Introduction to Cloud Computer Core Concepts
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 4 - Introduction to Cloud Computer Core Concepts<a class="anchor" id="DS107L1_page_4"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 # Introduction to Cloud Computer Core Concepts
 
@@ -298,9 +235,8 @@ After completing this module, you should be able to:
 - Recognize the main AWS service categories and core services
 - Review the AWS Cloud Adoption Framework (AWS CAF)
 
-<p style="text-align: center">
-  <img  src="Media/aws-logo.png" width="400" alt="Logo of AWS">
-</p>
+![AWS logo](Media/aws-logo.png)
+
 
 <div class="panel panel-success">
     <div class="panel-heading">
@@ -325,9 +261,8 @@ Cloud computing is the on-demand delivery of compute power, database, storage, a
 
 Cloud computing enables you to stop thinking of your infrastructure as hardware, and instead think of (and use) it as software. 
 
-<p style="text-align: center">
-  <img  src="Media/IaS.png" width="800" alt="Infrastructure as Software">
-</p>
+![Infrastructure as Software](Media/IaS.png)
+
 
 #### Traditional computing model: 
 Infrastructure as hardware
@@ -353,9 +288,7 @@ There are three main types of cloud service models each giving more or less cont
 - PaaS Platform as a Service
 - SaaS Software as a Service
 
-<p style="text-align: center">
-  <img  src="Media/CloudServiceModels.png" width="600" alt="Cloud Service Models">
-</p>
+![Cloud Service Models](Media/CloudServiceModels.png)
 
 ---
 
@@ -368,9 +301,8 @@ Generally there are three different types of cloud computing deployment models:
 - On Premise (Private cloud)
 
 
-<p style="text-align: center">
-  <img  src="Media/CloudComputingDeploymentModels.png" width="600" alt="Cloud Computing Deployment Models">
-</p>
+![Cloud Computing Deployment Models](Media/CloudComputingDeploymentModels.png)
+
 
 ---
 
@@ -378,9 +310,7 @@ Generally there are three different types of cloud computing deployment models:
 
 There are a variety of similarities between traditional IT and AWS Cloud Computing. Take a look at the below graphic and see if you can spot some of the similarities. Don't fear the graphic we'll explain more as you progress into the lessons.
 
-<p style="text-align: center">
-  <img  src="Media/Similarities-between-AWS-and-traditional-IT.png" width="600" alt="Similarities between AWS and traditional IT">
-</p>
+![Similarities between AWS and traditional IT](Media/Similarities-between-AWS-and-traditional-IT.png)
 
 ## Review and Practice <a class="anchor" id="DS107L1_page_4_quiz"></a>
 
@@ -394,15 +324,6 @@ start-activity: DS107L1.4 Core Cloud Concepts Quiz
 topic: The Advantages of Cloud Computing
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 5 - The Advantages of Cloud Computing<a class="anchor" id="DS107L1_page_5"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
 # The Advantages of Cloud Computing
 
 
@@ -411,9 +332,8 @@ topic: The Advantages of Cloud Computing
 Instead of having upfront capital costs for data center equipment, operations and services you can scale on demand with pay as you go services and infrastructure.
 
 
-<p style="text-align: center">
-  <img  src="Media/Capital-Variable-Expense.png" width="600" alt="trade capital for variable expense">
-</p>
+![trade capital for variable expense](Media/Capital-Variable-Expense.png)
+
 
 ---
 
@@ -421,9 +341,9 @@ Instead of having upfront capital costs for data center equipment, operations an
 
 Because of aggregate usage from all customers, AWS can achieve higher economies of scale and pass savings on to customers.
 
-<p style="text-align: center">
-  <img  src="Media/Economies-Scale.png" width="600" alt="economies of scale">
-</p>
+
+![economies of scale](Media/Economies-Scale.png)
+
 
 ---
 
@@ -431,9 +351,8 @@ Because of aggregate usage from all customers, AWS can achieve higher economies 
 
 Technology is rapidly changing and it's difficult to keep a data center up to date with the latest technology. Procurement of hardware and software is often difficult and takes time. Increasing capacity in the cloud or testing out new software hardware technologies can be rapidly prototyped. 
 
-<p style="text-align: center">
-  <img  src="Media/Guessing-Capacity.png" width="600" alt="Guessing Capacity">
-</p>
+
+![Guessing Capacity](Media/Guessing-Capacity.png)
 
 ---
 
@@ -444,9 +363,8 @@ Cloud computing can assist in the organization being faster for technology adopt
 ---
 
 
-<p style="text-align: center">
-  <img  src="Media/Speed-Agility.png" width="600" alt="Speed and Agility">
-</p>
+![Speed and Agility](Media/Speed-Agility.png)
+
 
 ## Maintaining Data Centers is Costly
 
@@ -462,9 +380,7 @@ Running your own data center can have a variety of costs associated with them:
 8. The list goes on...
 
 
-<p style="text-align: center">
-  <img  src="Media/Data-Center-Cost.png" width="600" alt="Data Center">
-</p>
+![Data Center](Media/Data-Center-Cost.png)
 
 ---
 
@@ -473,9 +389,8 @@ Running your own data center can have a variety of costs associated with them:
 How would you like to scale your capability and go global in minutes? With cloud computing it is much simpler and cost effective to enable scalability worldwide.
 
 
-<p style="text-align: center">
-  <img  src="Media/Go-Global.png" width="600" alt="Go Global">
-</p>
+![Go Global](Media/Go-Global.png)
+
 
 ---
 
@@ -491,15 +406,7 @@ start-activity: DS107L1.5 Advantages of Cloud Computing Quiz
 topic: Cloud Economics and Billing
 ```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 6 - Cloud Economics and Billing<a class="anchor" id="DS107L1_page_6"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+# Cloud Economics and Billing
 
 Follow along with [AWS Academy](https://awsacademy.instructure.com) Cloud Foundations Module 2 - Cloud Economics and Billing.
 
@@ -534,15 +441,7 @@ Usage Reports
 topic: Fundamentals of pricing
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - Fundamentals of pricing<a class="anchor" id="DS107L1_page_7"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+## Fundamentals of pricing
 ## AWS Pricing Model
 
 ### Three fundamental drivers of cost with AWS
@@ -565,9 +464,9 @@ some exceptions)
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Pricing-Model.png" width="600" alt="AWS Pricing Model">
-</p>
+
+![AWS Pricing Model](Media/AWS-Pricing-Model.png)
+
 
 ---
 
@@ -585,9 +484,8 @@ some exceptions)
         
 ---
         
-<p style="text-align: center">
-  <img  src="Media/Pay-less.png" width="600" alt="Pay for what you use">
-</p>
+
+![Pay for what you use](Media/Pay-less.png)
 
 ---
         
@@ -603,9 +501,8 @@ some exceptions)
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/Use-more.png" width="600" alt="Pay less by using more">
-</p>
+
+![Pay less by using more](Media/Use-more.png)
 
 ---
 
@@ -625,9 +522,9 @@ AWS Free Tier:
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Free-Tier.png" width="600" alt="AWS Free Tier">
-</p>
+
+![AWS Free Tier](Media/AWS-Free-Tier.png)
+
 
 ---
 
@@ -654,14 +551,7 @@ There is no charge for:
 topic: Total Cost of Ownership
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 8 - Total Cost of Ownership<a class="anchor" id="DS107L1_page_8"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Total Cost of Ownership
 
 ## On-premises versus cloud
 
@@ -671,9 +561,10 @@ Total Cost of Ownership (TCO) is the financial estimate to help identify direct 
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/On-premise-vs-cloud.png" width="600" alt="On-premise-vs-cloud">
-</p>
+
+![On-premise-vs-cloud](Media/On-premise-vs-cloud.png)
+
+
 
 ---
 
@@ -681,9 +572,8 @@ Total Cost of Ownership (TCO) is the financial estimate to help identify direct 
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/TCO-Considerations.png" width="600" alt="TCO Considerations">
-</p>
+
+![TCO Considerations](Media/TCO-Considerations.png)
 
 ---
 
@@ -693,9 +583,8 @@ You could save up to 96 percent a year by moving your infrastructure to AWS. You
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/TCO-prem-vs-cloud.png" width="600" alt="On-premises versus in-cloud">
-</p>
+
+![On-premises versus in-cloud](Media/TCO-prem-vs-cloud.png)
 
 ---
 
@@ -711,9 +600,7 @@ Use the [AWS Pricing Calculator](https://calculator.aws/#/) to:
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Pricing-Calculator.png" width="600" alt="AWS Pricing Calculator">
-</p>
+![AWS Pricing Calculator](Media/AWS-Pricing-Calculator.png)
 
 ## Additional benefit considerations
 
@@ -737,13 +624,6 @@ Use the [AWS Pricing Calculator](https://calculator.aws/#/) to:
 topic: AWS Organizations
 ```
 
-# Page 9 - AWS Organizations<a class="anchor" id="DS107L1_page_9"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
 ## Introduction to AWS Organizations
 
 [AWS Organizations](https://aws.amazon.com/organizations/) 
@@ -756,21 +636,14 @@ In addition, AWS Organizations is integrated with other AWS services so you can 
 
 ## AWS Organizations Graph
 
-
-<p style="text-align: center">
-  <img  src="Media/AWS-Org-Graph.png" width="600" alt="AWS Organizations Graph">
-</p>
+![AWS Organizations Graph](Media/AWS-Org-Graph.png)
 
 OU = Organizational Units
 
 ---
 
 ## Key features and benefits
-
-<p style="text-align: center">
-  <img  src="Media/AWS-Orgs.png" width="600" alt="AWS Organizations">
-</p>
-
+![AWS Organizations](Media/AWS-Orgs.png)
 ---
 
 ## Security with AWS Organizations
@@ -790,9 +663,8 @@ OU = Organizational Units
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Case-Severity.png" width="600" alt="AWS Guidance">
-</p>
+
+![AWS Guidance](Media/AWS-Case-Severity.png)
 
 ---
 
@@ -800,9 +672,7 @@ OU = Organizational Units
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Orgs-Limits.png" width="600" alt="AWS Organizations Limits">
-</p>
+![AWS Organizations Limits](Media/AWS-Orgs-Limits.png)
 
 ---
 
@@ -815,9 +685,8 @@ OU = Organizational Units
 3. Software development kits (SDKs)
 4. HTTPS Query application programming interfaces (API)
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Orgs-Access.png" width="600" alt="AWS Organizations Access">
-</p>
+
+![AWS Organizations Access](Media/AWS-Orgs-Access.png)
 
 ---
 
@@ -825,22 +694,12 @@ OU = Organizational Units
 topic: AWS Billing and Cost Management
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Introduction to AWS Billing and Cost Management
 
-# Page 10 - AWS Billing and Cost Management<a class="anchor" id="DS107L1_page_10"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-## Introducing AWS Billing and Cost Management
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Billing-Dashboard.png" width="600" alt="AWS Billing Dashboard">
-</p>
+![AWS Billing Dashboard](Media/AWS-Billing-Dashboard.png)
 
 ---
 
@@ -848,10 +707,7 @@ topic: AWS Billing and Cost Management
 
 ---
 
-<p style="text-align: center">
-  <img  src="Media/AWS-Billing-Tools.png" width="600" alt="AWS Billing Tools">
-</p>
-
+![AWS Billing Tools](Media/AWS-Billing-Tools.png)
 
 ---
 
@@ -859,16 +715,8 @@ topic: AWS Billing and Cost Management
 topic: Technical Support
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Introduction to Technical Support
 
-# Page 11 - Technical Support<a class="anchor" id="DS107L1_page_11"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-## AWS support
 
 ---
 Provide unique combination of tools and expertise:
@@ -879,9 +727,12 @@ Provide unique combination of tools and expertise:
 - Production use of AWS
 - Business-critical use of AWS
 
+---
+
 <p style="text-align: center">
-  <img  src="Media/AWS-Support.png" width="200" alt="AWS Support">
+  <img  src="Media/AWS-Support.png" width="200" alt="AWS Guidance">
 </p>
+
 
 
 ---
@@ -912,7 +763,7 @@ AWS Support offers four support plans:
 ## Case severity and response times
 
 <p style="text-align: center">
-  <img  src="Media/AWS-Case-Severity.png" width="600" alt="AWS Case severity">
+  <img  src="Media/AWS-Case-Severity.png" width="800" alt="AWS Case severity">
 </p>
 
 ## Additional Resourcess
@@ -930,17 +781,7 @@ start-activity: DS107L1.11 Cloud Technical Support Quiz
 ```c-lms
 topic: Key Terms
 ```
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 12 - Key Terms<a class="anchor" id="DS107L1_page_12"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-# Key Terms
+## Key Terms
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. Great Work!
 
@@ -1086,15 +927,6 @@ Below is a list and short description of the important keywords learned in this 
 ```c-lms
 topic: Lesson 1 Exam
 ```
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 13 - Lesson 1 Exam<a class="anchor" id="DS107L1_page_13"></a>
-
-[Back to Top](#DS107L1_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
 
 # Lesson 1 Exam 
 
