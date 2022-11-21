@@ -1,4 +1,8 @@
-# DS107 Big Data L1 : Big Data Overview and Introduction to Amazon Web Services
+```c-lms
+topic: Big Data Overview and Introduction to Amazon Web Services
+```
+
+# Big Data Analytics L1 : Big Data Overview and Introduction to Amazon Web Services
 
 ### Table of Contents <a class="anchor" id="DS107L1_toc"></a>
 
@@ -23,6 +27,10 @@
     
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
+
+```c-lms
+topic: Module Overview
+```
 
 # Page 1 - Module Overview<a class="anchor" id="DS107L1_page_1"></a>
 
@@ -75,7 +83,9 @@ Understand:
 
 In this lesson, you will get an introduction to cloud foundations, big data and the Amazon Web Service (AWS) ecosystem.
 
-
+```c-lms
+topic: What is Big Data?
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -173,6 +183,10 @@ start-activity: DS107L1.2 Introduction to Big Data Analytics Quiz
 
 In the next several lessons you will learn foundational cloud concepts that will help you enable your Big Data Analytics journey. So sit back, relax and enjoy your journey.
 
+```c-lms
+topic: Introduction to Amazon Academy
+```
+
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 # Page 3 - Introduction to Amazon Academy<a class="anchor" id="DS107L1_page_3"></a>
@@ -253,6 +267,10 @@ You should receive an email from AWS Academy Support providing a link to complet
 </p>
 
 ---
+
+```c-lms
+topic: Introduction to Cloud Computer Core Concepts
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -372,6 +390,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L1.4 Core Cloud Concepts Quiz
 ```
 
+```c-lms
+topic: The Advantages of Cloud Computing
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -466,6 +487,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L1.5 Advantages of Cloud Computing Quiz
 ```
 
+```c-lms
+topic: Cloud Economics and Billing
+```
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
@@ -505,6 +529,10 @@ Usage Reports
 - Identify the various AWS technical support plans and features
 
 ---
+
+```c-lms
+topic: Fundamentals of pricing
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -622,6 +650,10 @@ There is no charge for:
 - No long-term contracts are required.
 - Some services are free, but the other AWS services that they provision might not be free.
 
+```c-lms
+topic: Total Cost of Ownership
+```
+
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 # Page 8 - Total Cost of Ownership<a class="anchor" id="DS107L1_page_8"></a>
@@ -700,6 +732,10 @@ Use the [AWS Pricing Calculator](https://calculator.aws/#/) to:
 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
+
+```c-lms
+topic: AWS Organizations
+```
 
 # Page 9 - AWS Organizations<a class="anchor" id="DS107L1_page_9"></a>
 
@@ -785,7 +821,9 @@ OU = Organizational Units
 
 ---
 
-
+```c-lms
+topic: AWS Billing and Cost Management
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -817,6 +855,9 @@ OU = Organizational Units
 
 ---
 
+```c-lms
+topic: Technical Support
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -886,7 +927,9 @@ AWS Support offers four support plans:
 ```c-lms
 start-activity: DS107L1.11 Cloud Technical Support Quiz
 ```
-
+```c-lms
+topic: Key Terms
+```
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
@@ -1040,9 +1083,13 @@ Below is a list and short description of the important keywords learned in this 
     </tr>    
 </table>
 
+```c-lms
+topic: Lesson 1 Exam
+```
+
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 13 - Lesson 1 Exam Preparation<a class="anchor" id="DS107L1_page_13"></a>
+# Page 13 - Lesson 1 Exam<a class="anchor" id="DS107L1_page_13"></a>
 
 [Back to Top](#DS107L1_toc)
 
