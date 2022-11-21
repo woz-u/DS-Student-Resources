@@ -1,24 +1,13 @@
-# DS107 Big Data L9: AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
+```c-lms
+activity-name: AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
+topic: Amazon Kinesis Data Firehose
+```
 
-### Table of Contents <a class="anchor" id="DS107L9_toc"></a>
+# AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
 
-* [Table of Contents](#DS107L9_toc)
-    * [Page 1 - Amazon Kinesis Data Firehose](#DS107L9_page_1)
-    * [Page 2 - Amazon Elasticsearch OpenSearch Service](#DS107L9_page_2)
-    * [Page 3 - Kibana](#DS107L9_page_3)
-    * [Page 4 - Streaming Data](#DS107L9_page_4)
-      * [Kinesis Elasticsearch OpenSearch Kibana Streaming Data Quiz](#DS107L9.4_quiz)
-    * [Page 5 - Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana](#DS107L9_page_5)
-    * [Page 6 - AWS Internet of Things (IoT)](#DS107L9_page_6)
-    * [Page 7 - AWS IoT Analytics](#DS107L9_page_7)
-      * [Analyze IoT Data with AWS IoT Analytics Quiz](#DS107L9.7_quiz)
-    * [Page 8 - Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics](#DS107L9_page_8)
-    * [Page 9 - Key Terms](#DS107L9_page_9)
-    * [Page 10 - Lesson 9 Exam](#DS107L9_page_10)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 1 - Amazon Kinesis Data Firehose<a class="anchor" id="DS107L9_page_1"></a>
+# Amazon Kinesis Data Firehose<a class="anchor" id="DS107L9_page_1"></a>
 
 [Back to Top](#DS107L9_toc)
 

@@ -1,48 +1,11 @@
-# DS107 Big Data L2: AWS Global Infrastructure and Cloud Security
+```c-lms
+activity-name: AWS Global Infrastructure and Cloud Security
+topic: Introduction
+```
 
-### Table of Contents <a class="anchor" id="DS107L2_toc"></a>
+# AWS Global Infrastructure and Cloud Security
 
-* [Table of Contents](#DS107L2_toc)
-    * [Page 1 - AWS Global Infrastructure Overview](#DS107L2_page_1)
-    * [Page 2 - AWS Regions](#DS107L2_page_2)
-    * [Page 3 - AWS GovCloud (US)](#DS107L2_page_3)
-    * [Page 4 - AWS Availability Zones](#DS107L2_page_4)
-    * [Page 5 - AWS Data Centers](#DS107L2_page_5)
-    * [Page 6 - Amazon CloudFront](#DS107L2_page_6)
-        * [Global Infrastructure Quiz](#DS107L2.6_quiz)
-    * [Page 7 - AWS Services and Service Categories](#DS107L2_page_7)
-    * [Page 8 - AWS Storage](#DS107L2_page_8)
-    * [Page 9 - AWS Compute](#DS107L2_page_9)
-    * [Page 10 - AWS Database Services](#DS107L2_page_10)
-    * [Page 11 - AWS Networking and Content Delivery](#DS107L2_page_11)
-    * [Page 12 - AWS Security, Identity, and Compliance](#DS107L2_page_12)
-    * [Page 13 - AWS Cost Management](#DS107L2_page_13)
-    * [Page 14 - AWS Management and Governance](#DS107L2_page_14)
-        * [AWS Management and Governance Quiz](#DS107L2.14_quiz)
-    * [Page 15 - AWS Cloud Security and Shared Security Model](#DS107L2_page_15)
-        * [AWS Cloud Security Quiz](#DS107L2.15_quiz)
-    * [Page 16 - AWS Identity and Access Management (IAM)](#DS107L2_page_16)
-        * [AWS IAM Quiz](#DS107L2.16_quiz)
-    * [Page 17 - AWS Organizations](#DS107L2_page_17)
-    * [Page 18 - AWS Key Management Service (AWS KMS)](#DS107L2_page_18)
-    * [Page 19 - Amazon Cognito](#DS107L2_page_19)
-    * [Page 20 - AWS Shield](#DS107L2_page_20)
-    * [Page 21 - Securing Data on AWS](#DS107L2_page_21)
-    * [Page 22 - Ensuring Compliance](#DS107L2_page_22)
-        * [Ensuring Compliance Quiz](#DS107L2.22_quiz)
-    * [Page 23 - Lesson Summary](#DS107L2_page_23)
-    * [Page 24 - Key Terms](#DS107L2_page_24)
-    * [Page 25 - Complete AWS Academy Lab and Exam 2](#DS107L2_page_25)
 
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - AWS Global Infrastructure Overview <a class="anchor" id="DS107L2_page_1"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 
 ```python

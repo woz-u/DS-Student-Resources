@@ -1,31 +1,12 @@
-# DS107 Big Data L6: AWS Big Data Analytics S3 & Athena
+```c-lms
+activity-name: AWS Big Data Analytics S3 Athena
+topic: Overview of this Module
+```
 
-### Table of Contents <a class="anchor" id="DS107L6_toc"></a>
+# AWS Big Data Analytics S3 & Athena
 
-* [Table of Contents](#DS107L6_toc)
-    * [Page 1 - Overview](#DS107L6_page_1)
-    * [Page 2 - Amazon Simple Storage Service (Amazon S3)](#DS107L6_page_2)
-    * [Page 3 - Amazon S3 Features](#DS107L6_page_3)
-    * [Page 4 - Amazon S3 Storage Classes](#DS107L6_page_4)
-    * [Page 5 - Amazon S3 Security and Access Management](#DS107L6_page_5)
-      * [Amazon S3 Quiz](#DS107L6.6_quiz)
-    * [Page 6 - Data Analytics Lab 1 Amazon S3](#DS107L6_page_6)
-    * [Page 7 - Amazon Athena](#DS107L6_page_7)
-    * [Page 8 - Amazon Athena features](#DS107L6_page_8)
-    * [Page 9 - Amazon Athena Getting Started](#DS107L6_page_9)
-    * [Page 10 - Data Analytics Lab 2 Athena](#DS107L6_page_10)
-      * [Amazon Athena Quiz](#DS107L6.10_quiz)
-    * [Page 11 - Lesson 6 Exam](#DS107L6_page_11)
-   
-    
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - Overview of this Module<a class="anchor" id="DS107L6_page_1"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Overview of this Module
 
 In this lesson we will be learning about Amazon Simple Storage Service (Amazon S3) and Amazon Athena. Amazon S3 is an object storage service offering scalability, data availability, security, and performance. Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL.
 

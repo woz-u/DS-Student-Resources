@@ -1,30 +1,13 @@
-# DS107 Big Data L7: Query Data S3 Athena Glue Analyze Data Redshift
+```c-lms
+activity-name: AWS Query Data S3 Athena Glue Analyze Data Redshift
+topic: What is AWS Glue?
+```
 
-### Table of Contents <a class="anchor" id="DS107L7_toc"></a>
+# Query Data S3 Athena Glue Analyze Data Redshift
 
-* [Table of Contents](#DS107L7_toc)
-    * [Page 1 - What is AWS Glue?](#DS107L7_page_1)
-    * [Page 2 - Why AWS Glue?](#DS107L7_page_2)
-    * [Page 3 - AWS Glue Use Cases](#DS107L7_page_3)
-    * [Page 4 - AWS Glue Features](#DS107L7_page_4)
-        * [AWS Glue Quiz](#DS107L7.4_quiz)
-    * [Page 5 - Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue](#DS107L7_page_5)
-    * [Page 6 - Amazon Redshift](#DS107L7_page_6)
-    * [Page 7 - Amazon Redshift Use Cases](#DS107L7_page_7)
-    * [Page 8 - Amazon Redshift Features](#DS107L7_page_8)
-    * [Page 9 - Getting Started with Amazon Redshift](#DS107L7_page_9)
-        * [Amazon Redshft Quiz](#DS107L7.9_quiz)
-    * [Page 10 - Data Analytics Lab 4 - Analyze Data with Amazon Redshift ](#DS107L7_page_10)
-    * [Page 11 - Key Terms](#DS107L7_page_11)
-    * [Page 12 - Lesson 7 Exam](#DS107L7_page_12)       
+## What is AWS Glue?
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - What is AWS Glue?<a class="anchor" id="DS107L7_page_1"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+AWS Glue is a fully managed ETL (Extract, Transform, Load) service that makes it easy for customers to prepare and load their data for analytics. AWS Glue is serverless, so there is no infrastructure to manage, and you pay only for the resources you use.
 
 AWS Glue is a serverless data integration service that makes it easy for analytics users to discover, prepare, move, and integrate data from multiple sources. You can use it for analytics, machine learning, and application development. It also includes additional productivity and data ops tooling for authoring, running jobs, and implementing business workflows. You can doing several things with AWS Glue: You can run ETL jobs as new data arrives; you can catalog your data to quickly discover and search multiple AWS datasets without moving the data; you can use no-code ETL jobs using AWS Glue Studio which makes it easier to visually create, run, and monitor AWS Glue ETL jobs; and you can utilize AWS Glue DataBrew, where you can explore and experiment with data directly from your data lake.
 

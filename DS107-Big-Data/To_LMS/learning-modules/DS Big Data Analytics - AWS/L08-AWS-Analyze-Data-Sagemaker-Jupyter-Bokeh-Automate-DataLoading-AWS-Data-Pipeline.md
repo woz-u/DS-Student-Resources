@@ -1,26 +1,11 @@
-# DS107 Big Data L8: Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
+```c-lms
+activity-name: AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
+topic: The Jupyter Project: Jupyter Notebook and JupyterLab
+```
 
-### Table of Contents <a class="anchor" id="DS107L8_toc"></a>
+# Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
 
-* [Table of Contents](#DS107L8_toc)
-    * [Page 1 - The Jupyter Project: Jupyter Notebook and JupyterLab](#DS107L8_page_1)
-    * [Page 2 - Amazon SageMaker](#DS107L8_page_2)
-    * [Page 3 - Bokeh and other Visualization Packages](#DS107L8_page_3)
-      * [Jupyter SageMaker Bokeh Quiz](#DS107L8.3_quiz)
-    * [Page 4 - Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh](#DS107L8_page_4)
-    * [Page 5 - Amazon Data Pipeline](#DS107L8_page_5)
-    * [Page 6 - Configuring connections in Amazon Redshift](#DS107L8_page_6)
-    * [Page 7 - Querying a Database in AWS Redshift](#DS107L8_page_7)
-      * [Data Pipeline Query Redshift Quiz](#DS107L8.7_quiz)
-    * [Page 8 - Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline ](#DS107L8_page_8)
-    * [Page 9 - Key Terms](#DS107L8_page_9)
-    * [Page 10 - Lesson 8 Exam](#DS107L8_page_10)
-
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - The Jupyter Project: Jupyter Notebook and JupyterLab<a class="anchor" id="DS107L8_page_1"></a>
+# The Jupyter Project: Jupyter Notebook and JupyterLab<a class="anchor" id="DS107L8_page_1"></a>
 
 [Back to Top](#DS107L8_toc)
 

@@ -1,38 +1,10 @@
-# DS107 Big Data L5: AWS Cloud Architectures Autoscaling and Monitoring
+```c-lms
+activity-name: AWS Cloud Architectures Autoscaling and Monitoring
+topic: Overview of Cloud Architecture
+```
 
-### Table of Contents <a class="anchor" id="DS107L5_toc"></a>
+# AWS Cloud Architectures Autoscaling and Monitoring
 
-* [Table of Contents](#DS107L5_toc)
-    * [Page 1 - Overview of Cloud Architecture](#DS107L5_page_1)
-    * [Page 2 - AWS Well-Architected Framework Design Principles](#DS107L5_page_2)
-    * [Page 3 - Operational Excellence](#DS107L5_page_3)
-    * [Page 4 - Security](#DS107L5_page_4)
-    * [Page 5 - Reliability](#DS107L5_page_5)
-    * [Page 6 - Performance Efficiency](#DS107L5_page_6)
-    * [Page 7 - Cost Optimization](#DS107L5_page_7)
-    * [Page 8 - Reliability & High Availability](#DS107L5_page_8)
-    * [Page 9 - AWS Trusted Advisor](#DS107L5_page_9)
-    * [Page 10 - Summary of Cloud Architecture](#DS107L5_page_10)
-        * [Cloud Architecture Quiz](#DS107L5.10_quiz)
-    * [Page 11 - Overview of Autoscaling and Monitoring](#DS107L5_page_11)
-    * [Page 12 - Elastic Load Balancing](#DS107L5_page_12)
-    * [Page 13 - Amazon CloudWatch](#DS107L5_page_13)
-    * [Page 14 - Amazon EC2 Auto Scaling](#DS107L5_page_14)
-    * [Page 15 - Summary of Autoscaling and Monitoring](#DS107L5_page_15)
-        * [Autoscaling and Monitoring Quiz](#DS107L5.15_quiz)
-    * [Page 16 - Lab 6 - Scale & Load Balance your Architecture ](#DS107L5_page_16)
-    * [Page 17 - Key Terms](#DS107L5_page_17)
-    * [Page 18 - AWS Cloud Foundations Certification Resources](#DS107L5_page_18)
-    * [Page 19 - Lesson 5 Exam](#DS107L5_page_19)
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - Overview of Cloud Architecture<a class="anchor" id="DS107L5_page_1"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 <p style="text-align: center">
   <img  src="Media/AWS-Well-Architected-Framework.png" width="600" alt="AWS-Well-Architected-Framework">

@@ -1,40 +1,9 @@
-# DS107 Big Data L4: AWS Storage and Databases
-
-### Table of Contents <a class="anchor" id="DS107L4_toc"></a>
-
-* [Table of Contents](#DS107L4_toc)
-    * [Page 1 - AWS Storage Services](#DS107L4_page_1)
-    * [Page 2 - Amazon Elastic Block Store (Amazon EBS)](#DS107L4_page_2)
-    * [Page 3 - Assignment : Lab 4 - Working with EBS](#DS107L4_page_3)
-      * [AWS EBS Quiz](#DS107L4.3_quiz)
-    * [Page 4 - Amazon Simple Storage Service (Amazon S3)](#DS107L4_page_4)
-      * [AWS S3 Quiz](#DS107L4.4_quiz)
-    * [Page 5 - Elastic File System (EFS)](#DS107L4_page_5)
-      * [AWS EFS Quiz](#DS107L4.5_quiz)
-    * [Page 6 - AWS S3 Glacier](#DS107L4_page_6)
-    * [Page 7 - Amazon Databases](#DS107L4_page_7)
-    * [Page 8 - Amazon Relational Database Service (RDS)](#DS107L4_page_8)
-        * [AWS RDS Quiz](#DS107L4.8_quiz)
-    * [Page 9 - Lab 5 - Build a Database Server](#DS107L4_page_9)
-    * [Page 10 - Amazon DynamoDB](#DS107L4_page_10)
-    * [Page 11 - Amazon Redshift](#DS107L4_page_11)
-    * [Page 12 - Amazon Aurora](#DS107L4_page_12)
-    * [Page 13 - Amazon Database Summary](#DS107L4_page_13)
-      * [AWS Database Quiz](#DS107L4.13_quiz)
-    * [Page 14 - Key Terms](#DS107L4_page_14)
-    * [Page 15 - Lesson 4 Exam](#DS107L4_page_15)
+```c-lms
+activity-name: AWS Storage and Databases
+topic: AWS Storage Services
+```
 
     
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - AWS Storage Services<a class="anchor" id="DS107L4_page_1"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
 ## AWS Storage Services module overview
 
 This module covers AWS Storage Services.

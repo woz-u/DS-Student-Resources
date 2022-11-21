@@ -1,39 +1,10 @@
-# DS107 Big Data L3 : AWS Networking Content Delivery and Compute
 
-### Table of Contents <a class="anchor" id="DS107L3_toc"></a>
+```c-lms
+activity-name: AWS Networking Content Delivery and Compute
+topic: Overview of this Module
+```
 
-* [Table of Contents](#DS107L3_toc)
-    * [Page 1 - Overview](#DS107L3_page_1)
-    * [Page 2 - Networking Basics](#DS107L3_page_2)
-    * [Page 3 - Amazon VPC](#DS107L3_page_3)
-    * [Page 4 - VPC Networking](#DS107L3_page_4)
-      * [AWS Networking Quiz](#DS107L3.4_quiz)
-    * [Page 5 - VPC Security](#DS107L3_page_5)
-    * [Page 6 - Amazon Route 53](#DS107L3_page_6)
-    * [Page 7 - Amazon CloudFront](#DS107L3_page_7)
-    * [Page 8 - AWS Networking and Content Delivery Summary](#DS107L3_page_8)
-    * [Page 9 - Complete Assignment : Lab 2 - Build your VPC and Launch a Web Server](#DS107L3_page_9)
-      * [AWS Content Delivery Quiz](#DS107L3.9_quiz)
-    * [Page 10 - AWS Compute Overview](#DS107L3_page_10)
-    * [Page 11 - AWS Compute Services Overview](#DS107L3_page_11)
-      * [AWS Compute Overview Quiz](#DS107L3.11_quiz)
-    * [Page 12 - Amazon Elastic Compute Cloud (Amazon EC2) Part 1](#DS107L3_page_12)
-    * [Page 13 - Amazon Elastic Compute Cloud (Amazon EC2) Part 2](#DS107L3_page_13)
-    * [Page 14 - Amazon Elastic Compute Cloud (Amazon EC2) Part 3](#DS107L3_page_14)
-      * [AWS Compute Quiz](#DS107L3.14_quiz)
-    * [Page 15 - Key Terms](#DS107L3_page_15)
-    * [Page 16 - Complete Assignment : Lab 3 - Introduction to Amazon EC2](#DS107L3_page_16)
-      * [AWS Networking Content Delivery and Compute Exam](#DS107L3.17_exam)
-
-    
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 1 - Overview of this Module<a class="anchor" id="DS107L3_page_1"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+# AWS Networking Content Delivery and Compute
 
 ## Topics
 

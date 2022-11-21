@@ -1,7 +1,7 @@
 ```c-lms
 course-code: DSO107-AWS
 course-icon: big_data
-course-name: Big Data Analytics - AWS
+course-name: DS Big Data Analytics - AWS
 unit-order: DS Big Data Analytics - AWS
 credit-hours: 40
 ```
