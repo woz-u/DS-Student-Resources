@@ -1,11 +1,9 @@
 ```c-lms
-activity-name: AWS Global Infrastructure and Cloud Security
+activity-name: L2 AWS Global Infrastructure and Cloud Security
 topic: Introduction
 ```
 
 # AWS Global Infrastructure and Cloud Security
-
-
 
 
 ```python
@@ -49,15 +47,10 @@ You should be completing AWS Academy Cloud Foundations Course Module 3 and utili
 
 [AWS Global Infrastructure Map](https://aws.amazon.com/about-aws/global-infrastructure/#AWS_Global_Infrastructure_Map)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 2 - AWS Regions<a class="anchor" id="DS107L2_page_2"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+```c-lms
+topic: AWS Regions
+```
 ## AWS Regions
 
 AWS has the concept of a Region, which is a physical location around the world where we cluster data centers. We call each group of logical data centers an Availability Zone. Each AWS Region consists of multiple, isolated, and physically separate AZs within a geographic area. Unlike other cloud providers, who often define a region as a single data center, the multiple AZ design of every AWS Region offers advantages for customers. Each AZ has independent power, cooling, and physical security and is connected via redundant, ultra-low-latency networks. AWS customers focused on high availability can design their applications to run in multiple AZs to achieve even greater fault-tolerance. AWS infrastructure Regions meet the highest levels of security, compliance, and data protection.
@@ -78,6 +71,8 @@ Reference: [AWS Regions and Zones](https://docs.aws.amazon.com/AWSEC2/latest/Use
   <img  src="Media/AWS-Region-Features.png" width="600" alt="AWS Region Features">
 </p>
 
+![](Media/AWS-Region-Features.png)
+
 ## Features
 
 - Elasticity and Scalability
@@ -92,14 +87,11 @@ Reference: [AWS Regions and Zones](https://docs.aws.amazon.com/AWSEC2/latest/Use
     - No human intervention
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS GovCloud (US)
+```
 
-# Page 3 - AWS GovCloud (US)<a class="anchor" id="DS107L2_page_3"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## AWS GovCloud (US)
 
 AWS GovCloud (US) gives government customers and their partners the flexibility to architect secure cloud solutions that comply with the FedRAMP High baseline; the DOJ’s Criminal Justice Information Systems (CJIS) Security Policy; U.S. International Traffic in Arms Regulations (ITAR); Export Administration Regulations (EAR); Department of Defense (DoD) Cloud Computing Security Requirements Guide (SRG) for Impact Levels 2, 4 and 5; FIPS 140-2; IRS-1075; and other compliance regimes.
 
@@ -111,7 +103,7 @@ Reference: [AWS GovCloud (US)](https://aws.amazon.com/govcloud-us/?whats-new-ess
 
 
 <p style="text-align: center">
-  <img  src="Media/AWS-Select-Region.png" width="600" alt="Cloud Service Models">
+  <img  src="Media/AWS-Select-Region.png" width="1000" alt="Cloud Service Models">
 </p>
 
 
@@ -119,14 +111,13 @@ Reference: [AWS GovCloud (US)](https://aws.amazon.com/govcloud-us/?whats-new-ess
 
 Use Cloudping to determine speed of internet to various AWS Regions [Cloudping](https://www.cloudping.info/)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 4 - AWS Availability Zones <a class="anchor" id="DS107L2_page_3"></a>
 
-[Back to Top](#DS107L2_toc)
+```c-lms
+topic: AWS Availability Zones 
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## AWS Availability Zones
 
 An Availability Zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity in an AWS Region. AZs give customers the ability to operate production applications and databases that are more highly available, fault tolerant, and scalable than would be possible from a single data center. All AZs in an AWS Region are interconnected with high-bandwidth, low-latency networking, over fully redundant, dedicated metro fiber providing high-throughput, low-latency networking between AZs. All traffic between AZs is encrypted. The network performance is sufficient to accomplish synchronous replication between AZs. AZs make partitioning applications for high availability easy. If an application is partitioned across AZs, companies are better isolated and protected from issues such as power outages, lightning strikes, tornadoes, earthquakes, and more. AZs are physically separated by a meaningful distance, many kilometers, from any other AZ, although all are within 100 km (60 miles) of each other.
 
@@ -141,17 +132,15 @@ An Availability Zone (AZ) is one or more discrete data centers with redundant po
 
 
 <p style="text-align: center">
-  <img  src="Media/AWS-AZs.png" width="400" alt="AZs">
+  <img  src="Media/AWS-AZs.png" width="600" alt="AZs">
 </p>
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Data Centers 
+```
 
-# Page 5 - AWS Data Centers<a class="anchor" id="DS107L2_page_4"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## AWS Data Centers
 
 
 <p style="text-align: center">
@@ -173,12 +162,9 @@ AWS pioneered cloud computing in 2006, creating cloud infrastructure that allows
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 6 - Amazon CloudFront<a class="anchor" id="DS107L2_page_6"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon CloudFront
+```
 
 ## Amazon CloudFront
 
@@ -240,19 +226,16 @@ Edge locations: Shanghai China (1); Shenzhen China (1); Zhongwei, China (1); Bei
 
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
+
 ```c-lms
-start-activity: DS107L2.6 Global Infrastructure Quiz
+start-activity: DS107L2.6 AWS Global Infrastructure Quiz
 ```
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 7 - AWS Services and Service Categories<a class="anchor" id="DS107L2_page_7"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Services and Service Categories
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Foundational-Services.png" width="1000" alt="AWS Data Center">
@@ -271,14 +254,9 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
   <img  src="Media/AWS-Stack.png" width="1000" alt="AWS Data Center">
 </p>
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 8 - AWS Storage<a class="anchor" id="DS107L2_page_8"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Storage Services
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Storage.png" width="600" alt="AWS Data Center">
@@ -300,14 +278,11 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 - [AWS Storage Gateway](https://aws.amazon.com/storagegateway/?hp=tile&so-exp=below) Hybrid storage integration
 - [CloudEndure](https://aws.amazon.com/cloudendure-disaster-recovery/?hp=tile&so-exp=below) Disaster Recovery Highly automated disaster recovery
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 9 - AWS Compute<a class="anchor" id="DS107L2_page_9"></a>
 
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Compute
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Compute.png" width="600" alt="AWS Data Center">
@@ -332,13 +307,10 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 - [AWS Wavelength](https://aws.amazon.com/wavelength/?hp=tile&so-exp=below) Deliver ultra-low latency applications for 5G devices
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/?hp=tile&so-exp=below) Build a hybrid cloud without custom hardware
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 10 - AWS Database Services<a class="anchor" id="DS107L2_page_10"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Database Services
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Databases.png" width="600" alt="AWS Data Center">
@@ -359,13 +331,10 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 - [Amazon RDS on VMware](https://aws.amazon.com/rds/vmware/?hp=tile&so-exp=below) Automate on-premises database management
 - [AWS Database Migration Service](https://aws.amazon.com/dms/?hp=tile&so-exp=below) Migrate databases with minimal downtime
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 11 - AWS Networking and Content Delivery<a class="anchor" id="DS107L2_page_11"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Networking and Content Delivery
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Networking-Content-Delivery.png" width="600" alt="AWS Data Center">
@@ -387,13 +356,9 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 - [AWS Cloud Map](https://aws.amazon.com/cloud-map/?hp=tile&so-exp=below) Service discovery for cloud resources
 - [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/?hp=tile&so-exp=below) Improve application availability and performance
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 12 - AWS Security, Identity, and Compliance<a class="anchor" id="DS107L2_page_12"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Security, Identity, and Compliance
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-IAM.png" width="600" alt="AWS Data Center">
@@ -423,14 +388,9 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 - [AWS Single Sign-On](https://aws.amazon.com/single-sign-on/?hp=tile&so-exp=below) Cloud single sign-on (SSO) service
 - [AWS WAF](https://aws.amazon.com/waf/?hp=tile&so-exp=below) Filter malicious web traffic
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 13 - AWS Cost Management<a class="anchor" id="DS107L2_page_13"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Cost Management
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Cost.png" width="600" alt="AWS Data Center">
@@ -447,11 +407,9 @@ We can even see the larger AWS Stack as we we've broken them out by operational 
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 14 - AWS Management and Governance<a class="anchor" id="DS107L2_page_14"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Management and Governance
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Management-Governance.png" width="600" alt="AWS Data Center">
@@ -491,13 +449,9 @@ start-activity: DS107L2.14 AWS Management and Governance Quiz
 ```
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 15 - AWS Cloud Security<a class="anchor" id="DS107L2_page_15"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Cloud Security
+```
 
 After completing this section you should be able to:
 
@@ -568,15 +522,9 @@ start-activity: DS107L2.15 AWS Cloud Security Quiz
 
 
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 16 - AWS Identity and Access Management (IAM)<a class="anchor" id="DS107L2_page_16"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Identity and Access Management (IAM)
+```
 
 IAM is one of the first services you will use in AWS.
 
@@ -748,15 +696,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L2.16 AWS IAM Quiz
 ```
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 17 - AWS Organizations<a class="anchor" id="DS107L2_page_17"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Organizations
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Organizations.png" width="140" alt="AWS IAM">
@@ -778,13 +720,10 @@ start-activity: DS107L2.16 AWS IAM Quiz
     - However, SCP never grants permissions.
     - Instead, SCPs specify the maximum permissions for an organization.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 18 - AWS Key Management Service (AWS KMS)<a class="anchor" id="DS107L2_page_18"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Key Management Service (AWS KMS)
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-KMS.png" width="160" alt="AWS IAM">
@@ -796,13 +735,9 @@ AWS Key Management Services (AWS KMS) features:
 - Integrates with CloudTrail to log all key usage.
 - Uses hardware security modules (HSMs) that are validated by Federal Information Processing Standards (FIPS) 140-2 to protect keys.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 19 - Amazon Cognito<a class="anchor" id="DS107L2_page_19"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Cognito
+```
 
 <p style="text-align: center">
   <img  src="Media/Amazon-Cognito.png" width="140" alt="AWS IAM">
@@ -813,13 +748,9 @@ Amazon Cognito features:
 - Scales to millions of users.
 - Supports sign-in with social identity partners, such as Facebook, Google, and Amazon; and enterprise identity providers, such as Microsoft Active Directory via Security Assertion Markup Language (SAML) 2.0.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 20 - AWS Shield<a class="anchor" id="DS107L2_page_20"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Shield
+```
 
 
 <p style="text-align: center">
@@ -834,15 +765,9 @@ AWS Shield features:
 - AWS Shield Advanced is an optional paid service
 - Used to minimize application downtime and latency
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 21 - Securing Data on AWS<a class="anchor" id="DS107L2_page_21"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Securing Data on AWS
+```
 
 ## Encryption of data at rest
 
@@ -885,14 +810,9 @@ AWS Shield features:
     - [Access Control Lists (ACLs)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html): A legacy access control mechanism
     - [AWS Trusted Advisor bucket permissions check](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html): A free feature
     
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 22 - Ensuring Compliance<a class="anchor" id="DS107L2_page_22"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Ensuring Compliance
+```
 
 ## AWS Compliance Programs
 
@@ -944,14 +864,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L2.22 Ensuring Compliance Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Lesson Summary
+```
 
-# Page 23 - Lesson Summary<a class="anchor" id="DS107L2_page_23"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Lesson Summary
 In this lesson you learned how to:
 
 - Identify the difference between AWS Regions, Availability Zones, and Edge locations
@@ -965,13 +882,10 @@ In this lesson you learned how to:
 - Recognize how to secure AWS data
 - Recognize AWS compliance programs
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 24 - Key Terms<a class="anchor" id="DS107L2_page_24"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Key Terms
+```
+## Key Terms
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. 
 
@@ -1172,34 +1086,18 @@ Below is a list and short description of the important keywords learned in this 
     </tr>
 </table>
 
+```c-lms
+topic: Complete AWS Academy Cloud Foundations Lab 1 and Exam 2
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 25 - Complete AWS Academy Cloud Foundations Lab 1 and Exam 2<a class="anchor" id="DS107L2_page_25"></a>
-
-[Back to Top](#DS107L2_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 - Lab 1 - Introduction to AWS IAM
 
-Some exam questions are based on this lab activity.
-
 [Watch this workshop if you need guidance!](https://vimeo.com/758819595)
 
-```python
-from IPython.display import VimeoVideo
-## Tutorial Video Name: Lab 1 - Introduction to AWS IAM Workshop
-VimeoVideo('758819595', width=720, height=480)
-```
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/758819595"
-    frameborder="0"
-    allowfullscreen
 
-></iframe>
+
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/758819595?h=b9792f4d41&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 1 - Introduction to AWS IAM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms

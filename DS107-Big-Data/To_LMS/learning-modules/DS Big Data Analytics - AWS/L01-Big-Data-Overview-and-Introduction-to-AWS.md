@@ -1,10 +1,18 @@
 ```c-lms
-activity-name: Big Data Overview and Introduction to Amazon Web Services (AWS)
+activity-name: L1 Big Data Overview and Introduction to Amazon Web Services (AWS)
 topic: Big Data Overview
 ```
 
 # Big Data Overview and Introduction to Amazon Web Services
 
+<div class="panel panel-success">
+    <div class="panel-heading">
+        <h3 class="panel-title">Additional Info!</h3>
+    </div>
+    <div class="panel-body">
+        <p>All images and references not separately referenced are provided by Amazon Web Services, Inc. 2022., <a href="https://aws.amazon.com/"> aws.amazon.com </a></p>
+    </div>
+</div>
 
 
 # Module Overview
@@ -20,6 +28,8 @@ Big data refers to both the storage and analysis of large collections of data. F
 
 
 ![A laptop labeled Master Manager has one vertical and two horizontal lines in between connects six laptops, three in row one and three in row two.](Media/GlobalData.png)
+
+Image provided by [Statista](https://www.statista.com/statistics/871513/worldwide-data-created/)
 
 
 This trend is going to continue to increase exponentially as computing becomes cheaper. In this module, you will learn how to process large datasets using cloud computing, and how cloud computing works to distribute computation to multiple computers for better performance, and how to prevent and recover from errors. By the end of this module, you should be able to:
@@ -117,7 +127,7 @@ When you're harnessing multiple computers to do one job, altogether those comput
 Note that your workplace may or may not actually physically own the computers in the cluster. There are many services out there that allow you to rent out clusters.  This then becomes an endeavor in *virtual machines* as well.  For instance, depending on the processing needs of your data, you may be renting anywhere from a small partition on just one of the small silver boxes below to several silver boxes (each a computer). 
 
 
-![AWS Data Center](Media/AWS-DC.png)
+![AWS Data Center](Media/AWS-Data-Center.png)
 
 ---
 

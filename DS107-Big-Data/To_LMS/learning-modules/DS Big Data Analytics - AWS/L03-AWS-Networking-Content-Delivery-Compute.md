@@ -1,6 +1,6 @@
 
 ```c-lms
-activity-name: AWS Networking Content Delivery and Compute
+activity-name: L3 AWS Networking Content Delivery and Compute
 topic: Overview of this Module
 ```
 
@@ -40,15 +40,10 @@ topic: Overview of this Module
 - Identify the fundamentals Amazon Route 53 
 - Recognize the benefits of CloudFront
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 2 - Networking Basics<a class="anchor" id="DS107L3_page_2"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+```c-lms
+topic: Networking Basics
+```
 ## Networking Basics
 
 <p style="text-align: center">
@@ -82,14 +77,9 @@ A common method to describe networks and groups of IP address is called Classles
 
 The Open System Interconnection (OSI) Model is a conceptual model that is used to explain data as it travels over a network and which layer the computer may receive it at. It consists of seven layers and shows the various common protocols and addresses that are used to send and receive data at each layer. For example, hubs and switches operate at layer 2 where a router will operate at layer 3. The OSI model is used to demonstrate and understand how communication takes place on a simple network as well as the cloud and Internet.  
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 3 - Amazon Virtual Private Cloud (VPC)<a class="anchor" id="DS107L3_page_3"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Virtual Private Cloud (VPC)
+```
 
 ## Amazon Virtual Private Cloud (VPC)
 
@@ -184,16 +174,9 @@ Example: A VPC with an IPv4 CIDR block 10.0.0.0/16 has 65,536 total IP addresses
 - By default, every route table contains a local route for communication within the VPC.
 - Each subnet must be associated with a route table.
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - VPC Networking<a class="anchor" id="DS107L3_page_4"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: VPC Networking
+```
 
 ## VPC Networking
 
@@ -301,23 +284,19 @@ Consider how you might connect hundreds of VPCs together. Each VPC pair will req
   <img  src="Media/AWS-Transit-Gateway.png" width="800" alt="Amazon VPC">
 </p>
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+
 
 ## Review and Practice <a class="anchor" id="DS107L3.4_quiz"></a>
 
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L3.4 Networking Quiz
+start-activity: DS107L3.4 AWS Networking Quiz
 ```
 
-# Page 5 - VPC Security<a class="anchor" id="DS107L3_page_5"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+```c-lms
+topic: VPC Security
+```
 ## VPC Security
 
 You can build security into your VPC architecture in several ways so that you have complete control over incoming and outgoing traffic. There are two firewall options you can use to secure your VPC.
@@ -366,14 +345,10 @@ You can build security into your VPC architecture in several ways so that you ha
 </p> 
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 6 - Amazon Route 53<a class="anchor" id="DS107L3_page_6"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Route 53
+```
 
 ## Amazon Route 53
 
@@ -409,15 +384,9 @@ DNS Resolution is the process of translating an internal name to the correspondi
 </p>
 
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - Amazon CloudFront<a class="anchor" id="DS107L3_page_7"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon CloudFront
+```
 
 ## Amazon CloudFront
 
@@ -453,15 +422,9 @@ Basically Route 53 determines the customers location, and it responds with the I
 </p>
 
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 8 - AWS Networking and Content Delivery Summary<a class="anchor" id="DS107L3_page_8"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Networking and Content Delivery Summary
+```
 
 ## AWS Networking and Content Delivery Summary
 
@@ -476,14 +439,9 @@ In this module you learned how to:
 - Identify the fundamentals Amazon Route 53
 - Recognize the benefits of CloudFront
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 9 - Complete Assignment : Lab 2 - Build your VPC and Launch a Web Server<a class="anchor" id="DS107L3_page_9"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Complete Assignment : Lab 2 - Build your VPC and Launch a Web Server
+```
 ## Complete Lab 2 Assignment on AWS Academy
 
 - Take exam on LMS after you complete [Lab 2 - Build your VPC and Launch a Web Server](https://vimeo.com/759286185) Watch the workshop to assist you.
@@ -517,13 +475,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L3.9 AWS Content Delivery Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 10 - AWS Compute Overview<a class="anchor" id="DS107L3_page_10"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS Compute Overview
+```
 
 Topics:
 - Compute services overview
@@ -554,14 +508,9 @@ After completing this module, you should be able to:
 - Demonstrate when to use AWS Lambda.
 - Identify how to run containerized applications in a cluster of managed servers.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 11 - Compute Services Overview<a class="anchor" id="DS107L3_page_11"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Compute Services Overview
+```
 ## AWS Compute Services Overview
 
 <p style="text-align: center">
@@ -614,14 +563,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L3.11 Compute Overview Quiz
 ```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 12 - Amazon Elastic Compute Cloud (Amazon EC2) Part 1<a class="anchor" id="DS107L3_page_12"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Elastic Compute Cloud (Amazon EC2) Part 1
+```
 
 ## Amazon Elastic Compute Cloud (Amazon EC2) 
 
@@ -718,11 +662,10 @@ Instance types vary in several ways, including CPU type, CPU or core count, stor
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 13 - Amazon Elastic Compute Cloud (Amazon EC2) Part 2<a class="anchor" id="DS107L3_page_13"></a>
 
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Elastic Compute Cloud (Amazon EC2) Part 2
+```
 
 #### 3. Network Settings
 
@@ -775,13 +718,9 @@ data on the Instance Store root volume is still available.
 </p>
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 14 - Amazon Elastic Compute Cloud (Amazon EC2) Part 3<a class="anchor" id="DS107L3_page_14"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Elastic Compute Cloud (Amazon EC2) Part 3
+```
 
 In part 3, we discuss tagging, security groups, key pairs, the AWS CLI, and essential information about running insances and instance lifecycle.  
 
@@ -857,14 +796,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L3.14 Compute Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 15 - Key Terms<a class="anchor" id="DS107L3_page_15"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Key Terms
+```
 
 # Key Terms
 
@@ -1032,13 +966,9 @@ Below is a list and short description of the important keywords learned in this 
 
 ---
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 16 - Complete Assignment : Lab 3 - Introduction to Amazon EC2 and Lesson 3 Exam<a class="anchor" id="DS107L3_page_16"></a>
-
-[Back to Top](#DS107L3_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Complete Assignment : Lab 3 - Introduction to Amazon EC2 and Lesson 3 Exam
+```
 
 ## Complete Lab 3 Assignment on AWS Academy
 
