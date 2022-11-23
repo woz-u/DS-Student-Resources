@@ -45,16 +45,11 @@ After completing the first half of this module module, you should be able to:
 - Differentiate between Amazon EBS, Amazon S3, Amazon EFS, and Amazon S3 Glacier
 
 
+```c-lms
+topic: Amazon Elastic Block Store (Amazon EBS)
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 2 - Amazon Elastic Block Store (Amazon EBS)- <a class="anchor" id="DS107L4_page_2"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon Elastic Block Store (Amazon EBS)
 
 <p style="text-align: center">
   <img  src="Media/Amazon-EBS.png" width="100" alt="Amazon EBS">
@@ -75,14 +70,9 @@ One critical difference between storage types is whether they offer block-level 
 ### Watch the Console Demonstrations - EBS
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 3 - Assignment : Lab 4 - Working with EBS<a class="anchor" id="DS107L4_page_3"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Assignment : Lab 4 - Working with EBS
+```
 
 ## Complete Assignment : Lab 4 - Working with EBS
 
@@ -117,14 +107,10 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L4.3 AWS EBS Quiz 
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - Amazon Simple Storage Service (Amazon S3)<a class="anchor" id="DS107L4.3_quiz"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Simple Storage Service (Amazon S3)
+```
+## Amazon Simple Storage Service (Amazon S3)
 
 <p style="text-align: center">
   <img  src="Media/Amazon-S3.png" width="100" alt="Amazon EBS">
@@ -213,14 +199,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L4.4 AWS S3 Quiz 
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Elastic File System (EFS)
+```
 
-# Page 5 - Amazon Elastic File System (EFS)<a class="anchor" id="DS107L4_page_5"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon Elastic File System (EFS)
 
 <p style="text-align: center">
   <img  src="Media/Amazon-EFS-Icon.png" width="100" alt="Amazon EFS Icon">
@@ -272,13 +255,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L4.5 AWS EFS Quiz 
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: AWS S3 Glacier
+```
 
-# Page 6 - AWS S3 Glacier<a class="anchor" id="DS107L4_page_6"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## AWS S3 Glacier
 
 <p style="text-align: center">
   <img  src="Media/Amazon-S3-Glacier-Icon.png" width="100" alt="Amazon S3 Glacier Icon">
@@ -352,13 +333,10 @@ By default, only you can access your data. There are two different layers of sec
 
 ### Watch the Console Demonstrations - Glacier
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - Amazon Databases<a class="anchor" id="DS107L4_page_7"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Databases
+```
+## Amazon Databases
 
 <p style="text-align: center">
   <img  src="Media/AWS-Databases.png" width="600" alt="AWS Data Center">
@@ -377,8 +355,8 @@ By default, only you can access your data. There are two different layers of sec
 Amazon RDS console
 Amazon DynamoDB console
 
-### Lab
-Lab 5: Build a RDS DB server and interact with your DB with your application
+### Watch the Console Demonstrations - Databases
+
 
 ### Activity
 Database case study
@@ -404,14 +382,11 @@ After completing this module you should be able to:
 - Explain Amazon Aurora
 - Perform tasks in RDS, such as launching, configuring, and interacting with an application
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Relational Database Service (RDS)
+```
 
-# Page 8 - Amazon Relational Database Service (RDS)<a class="anchor" id="DS107L4_page_8"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon Relational Database Service (RDS)
 
 AWS solutions typically fall into one of two categories, either unmanaged or managed services.
 
@@ -578,14 +553,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L4.8 AWS RDS Quiz 
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 9 - Lab 5 - Build a Database Server<a class="anchor" id="DS107L4_page_9"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Activity Lab 5 - Build a Database Server
+```
 
 ## Follow directions on AWS Academy
 
@@ -613,16 +583,11 @@ VimeoVideo('760024987', width=720, height=480)
 ></iframe>
 
 
+```c-lms
+topic: Amazon DynamoDB
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 10 - Amazon DynamoDB<a class="anchor" id="DS107L4_page_10"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon DynamoDB
 
 With DynamoDB with transition from relational databases to non-relational databases. Let's review the differences between these two types of databases. A relational database works with structured data that is organized by tables records and columns. You can think of tables like a spreadsheet with the rows being the records and the columns being the fields. Relational databases create relationships between tables so you can pull data from multiple tables with queries. Relational databases use structured query language, which is a programming language for interacting with the database. A non-relational database is any database that doesn't follow the relational model. Non-relational databases work with lists of key-value pairs. Look at the two examples of data in the diagram below. 
 
@@ -661,13 +626,11 @@ When you create a table in addition to the table name, you must specify a primar
 
 ### Watch the Console Demonstration - DynamoDB
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Redshift
+```
 
-# Page 11 - Amazon Redshift<a class="anchor" id="DS107L4_page_11"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Redshift
 
 
 <p style="text-align: center">
@@ -717,15 +680,11 @@ Amazon Redshift is already compatible with the BI tools that you already know an
     - Add analytic functionality to applications
     - Reduce hardware and software costs
     
+```c-lms
+topic: Amazon Aurora
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 12 - Amazon Aurora<a class="anchor" id="DS107L4_page_12"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Aurora
 
 
 <p style="text-align: center">
@@ -763,18 +722,16 @@ There are several reasons why you may want to choose Amazon Aurora over other op
 
 Amazon Aurora is designed for instant crash recovery if your primary database becomes unhealthy. After a databse crash, Amazon Aurora does not need to replay the redo log from the last database checkpoint, instead it peforms this on every read operation.  This reduces the restart time after a database crash to less than 60 seconds in most cases. The Aurora architecture removes the buffer cache from the database process, that's why the buffer is available immediately after a restart. This means you do not need to throttle access after a crash while you wait for cache to repopulate. 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Databases Summary
+```
 
-# Page 13 - Amazon Databases Summary<a class="anchor" id="DS107L4_page_13"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Databases Summary
 
 
 In summary, you learned how to:
 - Explain Amazon Relational Database Service (Amazon RDS)
-- Indentify the functionality in Amazon RDS
+- Identify the functionality in Amazon RDS
 - Explain Amazon DynamoDB
 - Identify the functionality in Amazon DynamoDB
 - Explain Amazon Redshift
@@ -790,13 +747,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L4.13 AWS Database Quiz 
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Key Terms
+```
 
-# Page 14 - Key Terms<a class="anchor" id="DS107L4_page_14"></a>
-
-[Back to Top](#DS107L4_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Key Terms
 
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. 
@@ -888,13 +843,13 @@ Below is a list and short description of the important keywords learned in this 
 
 ---
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 15 - Lesson 4 Exam<a class="anchor" id="DS107L4_page_15"></a>
 
-[Back to Top](#DS107L4_toc)
+```c-lms
+topic: Lesson 4 Exam
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Lesson 4 Exam
 
 
 ```c-lms

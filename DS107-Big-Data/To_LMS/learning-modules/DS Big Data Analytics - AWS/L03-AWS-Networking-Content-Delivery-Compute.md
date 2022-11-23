@@ -1,6 +1,6 @@
 
 ```c-lms
-activity-name: L3 AWS Networking Content Delivery and Compute
+activity-name: AWS Networking Content Delivery and Compute
 topic: Overview of this Module
 ```
 

@@ -1,5 +1,5 @@
 ```c-lms
-activity-name: L2 AWS Global Infrastructure and Cloud Security
+activity-name: AWS Global Infrastructure and Cloud Security
 topic: Introduction
 ```
 

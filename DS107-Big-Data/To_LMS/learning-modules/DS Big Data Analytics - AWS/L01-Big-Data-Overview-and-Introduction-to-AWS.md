@@ -1,9 +1,9 @@
 ```c-lms
-activity-name: L1 Big Data Overview and Introduction to Amazon Web Services (AWS)
+activity-name: Big Data Overview and Introduction to Amazon Web Services (AWS)
 topic: Big Data Overview
 ```
 
-# Big Data Overview and Introduction to Amazon Web Services
+## Big Data Overview and Introduction to Amazon Web Services
 
 <div class="panel panel-success">
     <div class="panel-heading">
@@ -15,7 +15,7 @@ topic: Big Data Overview
 </div>
 
 
-# Module Overview
+## Module Overview
 
 ## Big Data
 As society becomes increasingly digital, the amount of data being created and collected is growing and accelerating significantly. Analyzing this ever-growing data with traditional tools is a challenge. Innovation is required to bridge the gap between the data being generated and the data that can be analyzed effectively.
@@ -57,7 +57,7 @@ In this lesson, you will get an introduction to cloud foundations, big data and 
 topic: What is Big Data?
 ```
 
-# What is Big Data?
+## What is Big Data?
 
 Data is usually categorized as "big" when you can no longer process it efficiently on one computer.  However, the parameters for this will differ by both dataset and computer setup.  There is no one cutoff that allows someone to say "my data is big;" there is no set number of columns or rows that will push you over the edge into "big data" territory.  You could have a relatively small number of records (rows), but have a lot of columns.  You could have data that are images, audio, or text that is space and processing intensive.  You could have a relatively small set of variables in key-pair format that is updated incredibly frequently.  All of these may or may not be instances of big data, based on their particular ramifications AND based on the computer you're using.  A ten year old system running an Intel i5 processor is going to be able to handle much less data than a brand-new computer with a solid state hard drive and an Intel i9 or Mac M1 Max processor.
 
@@ -227,11 +227,11 @@ topic: Introduction to Cloud Computer Core Concepts
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 
-# Introduction to Cloud Computer Core Concepts
+## Introduction to Cloud Computer Core Concepts
 
 Follow along with [AWS Academy](https://awsacademy.instructure.com) Cloud Foundations Module 1 - Cloud Concepts Overview.
 
-# Introduction to Amazon Web Services
+## Introduction to Amazon Web Services
 
 ## What is AWS?
 
@@ -334,7 +334,7 @@ start-activity: DS107L1.4 Core Cloud Concepts Quiz
 topic: The Advantages of Cloud Computing
 ```
 
-# The Advantages of Cloud Computing
+## The Advantages of Cloud Computing
 
 
 ## Trade Capital for Variable Expense
