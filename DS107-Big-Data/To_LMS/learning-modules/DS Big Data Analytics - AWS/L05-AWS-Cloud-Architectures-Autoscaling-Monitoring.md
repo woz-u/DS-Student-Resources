@@ -12,16 +12,12 @@ topic: Overview of Cloud Architecture
 
 Architecture is the art and science of designing and building large structures. Large systems require architects to manage their size and complexity. What do cloud architects do? Cloud architects engage with decision makers to identify the business goal and the capabilities that need improvement. They ensure alignment between technology deliverables of a solution and the business goals. They work with delivery teams that are implementing the solution to ensure that the technology features are appropriate. The AWS Well-Architected Framework is a guide that is designed to help you build the most secure, high-performing, resilient and efficient infrastructure possible for your cloud applications and workloads. It provides a set of foundational questions and the best practices that can help you evaluate and implement your cloud architectures. AWS developed the Well-Architected Framework after reviewing thousands of customer architectures on AWS. 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 2 - AWS Well-Architected Framework Design Principles<a class="anchor" id="DS107L5_page_2"></a>
+```c-lms
+topic: AWS Well-Architected Framework Design Principles
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-### The AWS Well-Architected Framework
+## The AWS Well-Architected Framework
 - A guide for designing architectures that are
     - Secure
     - High-performing
@@ -38,14 +34,11 @@ The AWS Well-Architected Framework is organized into 5 pillars. Each pillar incl
 
 [AWS Well-Architected Framework Design Principles](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Operational Excellence
+```
 
-# Page 3 - Operational Excellence<a class="anchor" id="DS107L5_page_3"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Operational Excellence
 
 <p style="text-align: center">
   <img  src="Media/AWS-Operational-Excellence-Pillar.png" width="200" alt="AWS-Operational-Excellence">
