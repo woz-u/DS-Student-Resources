@@ -73,14 +73,10 @@ topic: Operational Excellence
 
 [Operational Excellence Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - Security<a class="anchor" id="DS107L5_page_4"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Security
+```
+## Security
 
 <p style="text-align: center">
   <img  src="Media/AWS-Five-Pillars-Security.png" width="200" alt="AWS-Five-Pillars-Security">
@@ -115,14 +111,9 @@ topic: Operational Excellence
 
 [Security Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 5 - Reliability<a class="anchor" id="DS107L5_page_5"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Reliability
+```
 
 <p style="text-align: center">
   <img  src="Media/AWS-Five-Pillars-Reliability.png" width="200" alt="AWS-Five-Pillars-Reliability">
@@ -157,14 +148,10 @@ topic: Operational Excellence
 
 [Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 6 - Performance Efficiency<a class="anchor" id="DS107L5_page_6"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Performance Efficiency
+```
+## Performance Efficiency
 
 <p style="text-align: center">
   <img  src="Media/AWS-Five-Pillars-Performance-Efficiency.png" width="200" alt="AWS-Five-Pillars-Performance-Efficiency">
@@ -198,14 +185,12 @@ topic: Operational Excellence
 
 [Performance Efficiency Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 7 - Cost Optimization<a class="anchor" id="DS107L5_page_7"></a>
+```c-lms
+topic: Cost Optimization
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Cost Optimization
 
 <p style="text-align: center">
   <img  src="Media/AWS-Five-Pillars-Cost-Optimization.png" width="200" alt="AWS-Five-Pillars-Cost-Optimization">
@@ -240,14 +225,11 @@ topic: Operational Excellence
 
 [Cost Optimization Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Reliability & High Availability
+```
 
-# Page 8 - Reliability & High Availability<a class="anchor" id="DS107L5_page_8"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Reliability & High Availability
 
 _"Everything fails all of the time" ~ Werner Vogels, Amazon CTO_
 
@@ -295,16 +277,10 @@ The table above contains examples of types of applications that are common at ea
   <img  src="Media/AWS-Factors-That-Influence-Availability.png" width="600" alt="AWS-Factors-That-Influence-Availability">
 </p>
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 9 - AWS Trusted Advisor<a class="anchor" id="DS107L5_page_9"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Trusted Advisor
+```
+## AWS Trusted Advisor
 
 <p style="text-align: center">
   <img  src="Media/AWS-Trusted-Advisor-Icon.png" width="200" alt="AWS-Trusted-Advisor-Icon">
@@ -328,13 +304,12 @@ AWS Trusted Advisor
 
 It is important to reiterate that AWS Trusted Advisor is a tool that you can use to review your AWS environment as soon as you start implementing your architectures. You don't need to wait until you have a fully built production-ready environment.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 10 - Summary of Cloud Architecture<a class="anchor" id="DS107L5_page_10"></a>
+```c-lms
+topic: Summary of Cloud Architecture
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Summary of Cloud Architecture
 
 In Summary, in the past several sections you learned how to:
 - Describe the AWS Well-Architected Framework, including five pillars
@@ -343,7 +318,6 @@ In Summary, in the past several sections you learned how to:
 - Identify how AWS Trusted Advisor helps customers
 - Interpret AWS Trusted Advisor recommendations
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 ## Review and Practice <a class="anchor" id="DS107L5.10_quiz"></a>
 
@@ -353,12 +327,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L5.10 Cloud Architecture Quiz
 ```
 
-# Page 11 - Overview of Autoscaling and Monitoring<a class="anchor" id="DS107L5_page_11"></a>
+```c-lms
+topic: Overview of Autoscaling and Monitoring
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Overview of Autoscaling and Monitoring
 ## Topics
 - Elastic Load Balancing 
 - Amazon CloudWatch
@@ -380,13 +353,12 @@ After completing this next section, you should be able to:
 - Identify how Amazon CloudWatch enables you to monitor AWS resources and applications in real-time 
 - Perform scaling and load balancing tasks to improve and architecture
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 12 -  Elastic Load Balancing<a class="anchor" id="DS107L5_page_12"></a>
+```c-lms
+topic: Elastic Load Balancing
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Elastic Load Balancing
 
 <p style="text-align: center">
   <img  src="Media/Amazon-Load-Balancer-Icon.png" width="200" alt="Amazon-Load-Balancer-Icon">
@@ -431,13 +403,12 @@ There are a few ways you can monitor your load balancers, analyze traffic patter
 - [Access logs](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html): Capture detailed information about requests sent to your load balancer. 
 - [AWS CloudTrail logs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-log-file-examples.html): Capture the who, what, when and where of API interactions in AWS services.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 13 - Amazon CloudWatch<a class="anchor" id="DS107L5_page_13"></a>
+```c-lms
+topic: Amazon CloudWatch
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon CloudWatch
 
 <p style="text-align: center">
   <img  src="Media/Amazon-CloudWatch-Icon.png" width="200" alt="Amazon-CloudWatch-Icon">
@@ -510,13 +481,12 @@ When you create an alarm based on a static threshold, you choose a CloudWatch me
 
 [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 14 - Amazon EC2 Auto Scaling<a class="anchor" id="DS107L5_page_14"></a>
+```c-lms
+topic: Amazon EC2 Auto Scaling
+```
 
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon EC2 Auto Scaling  
 
 <p style="text-align: center">
   <img  src="Media/Amazon-EC2-Auto-Scaling-Icon.png" width="200" alt="Amazon-EC2-Auto-Scaling-Icon">
@@ -590,13 +560,11 @@ So far you've learned about:
 
 AWS Scaling is a separate service that monitors your applications. It automatically adjusts capacity to maintain steady predictable performance at the lowest possible cost. The service provides a simple, powerful user interface that enables you to build up scaling plans for resources such as Amazon EC2 instances, spot fleets, Amazon ECS, Amazon DynamoDB tables and indexes, and Amazon Aurora replicas.  If you're already using Amazon EC2 Auto Scaling to dynamically scale your EC2 instances, you can now use it with AWS Auto Scaling to scale additional resources for other AWS services. 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Summary of Autoscaling and Monitoring
+```
 
-# Page 15 - Summary of Autoscaling and Monitoring<a class="anchor" id="DS107L5_page_15"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Summary of Autoscaling and Monitoring
 
 In summary, you learned how to:
 - Indicate how to distribute traffic Across Amazon Elastic Compute Cloud (EC2) instances using Elastic Load Balancing
@@ -612,14 +580,10 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L5.15 Autoscaling and Monitoring Quiz
 ```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 16 - Lab 6 - Scale & Load Balance your Architecture <a class="anchor" id="DS107L5_page_16"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Lab 6 - Scale & Load Balance your Architecture
+```
+## Lab 6 - Scale & Load Balance your Architecture
 
 Complete [Lab 6](https://vimeo.com/760089019) on AWS Academy, then complete Exam 5 on the LMS
 
@@ -645,17 +609,11 @@ VimeoVideo('760089019', width=720, height=480)
 ></iframe>
 
 
+```c-lms
+topic: Key Terms
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 17 - Key Terms<a class="anchor" id="DS107L5_page_17"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+## Key Terms
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. Great Work!
 
@@ -703,15 +661,11 @@ Below is a list and short description of the important keywords learned in this 
     
 </table>
 
+```c-lms
+topic: AWS Cloud Foundations Certification Resources
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 18 - AWS Cloud Foundations Certification Resources<a class="anchor" id="DS107L5_page_18"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## AWS Cloud Foundations Certification Resources
 
 Certification Resources
 Preparation
@@ -732,13 +686,9 @@ This course will have helped you to prepare for the AWS Certified Cloud Practiti
     - Answers to common certification questions are in the [Certification FAQs](https://www.aws.training/Support?src=training-faqs#certification)
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 19 - Lesson 5 Exam <a class="anchor" id="DS107L5_page_19"></a>
-
-[Back to Top](#DS107L5_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Lesson 5 Exam
+```
 
 ```c-lms
 start-activity: DS107L5.19 Lesson 5 Exam 
