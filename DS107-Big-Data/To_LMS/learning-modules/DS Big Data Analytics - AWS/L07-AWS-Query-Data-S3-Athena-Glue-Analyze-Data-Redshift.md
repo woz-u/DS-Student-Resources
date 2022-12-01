@@ -57,6 +57,11 @@ With AWS Glue DataBrew, you can explore and experiment with data directly from y
 
 See [Getting Started with AWS Glue](https://aws.amazon.com/glue/getting-started/)
 
+
+```c-lms
+topic: Why AWS Glue?
+```
+
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 # Page 2 - Why AWS Glue?<a class="anchor" id="DS107L7_page_2"></a>

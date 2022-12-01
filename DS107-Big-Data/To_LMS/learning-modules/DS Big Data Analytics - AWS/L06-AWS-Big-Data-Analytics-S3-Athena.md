@@ -10,16 +10,11 @@ topic: Overview of this Module
 
 In this lesson we will be learning about Amazon Simple Storage Service (Amazon S3) and Amazon Athena. Amazon S3 is an object storage service offering scalability, data availability, security, and performance. Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL.
 
+```c-lms
+topic: Amazon Simple Storage Service (Amazon S3)
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 2 - Amazon Simple Storage Service (Amazon S3)<a class="anchor" id="DS107L6_page_2"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon Simple Storage Service (Amazon S3)
 
 __Amazon Simple Storage Service (Amazon S3)__ is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements.
 
@@ -29,14 +24,12 @@ __Amazon Simple Storage Service (Amazon S3)__ is an object storage service offer
 
 [Amazon S3 Docs](https://docs.aws.amazon.com/s3/index.html?id=docs_gateway#lang/en_us)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 3 - Amazon S3 Features<a class="anchor" id="DS107L6_page_3"></a>
+```c-lms
+topic: Amazon S3 Features
+```
 
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon S3 Features
 
 Amazon S3 has various features you can use to organize and manage your data in ways that support specific use cases, enable cost efficiencies, enforce security, and meet compliance requirements. Data is stored as objects within resources called “buckets”, and a single object can be up to 5 terabytes in size. S3 features include capabilities to append metadata tags to objects, move and store data across the S3 Storage Classes, configure and enforce data access controls, secure data against unauthorized users, run big data analytics, monitor data at the object and bucket levels, and view storage usage and activity trends across your organization. Objects can be accessed through S3 Access Points or directly through the bucket hostname.
 
@@ -142,15 +135,11 @@ Any request for S3 storage is strongly consistent. After a successful write of a
 
 Learn more about S3 [Strong Consistency](https://aws.amazon.com/s3/consistency/)
 
+```c-lms
+topic: Amazon S3 Storage Classes
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - Amazon S3 Storage Classes<a class="anchor" id="DS107L6_page_4"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon S3 Storage Classes
 
 
 <p style="text-align: center">
@@ -301,14 +290,11 @@ Amazon S3 on Outposts delivers object storage to your on-premises AWS Outposts e
 *** S3 Intelligent-Tiering first byte latency for frequent and infrequent access tier is milliseconds access time, and the archive access and deep archive access tiers first byte latency is minutes or hours.
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon S3 Security and Access Management
+```
 
-# Page 5 - Amazon S3 Security and Access Management<a class="anchor" id="DS107L6_page_5"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Amazon S3 Security and Access Management
 
 Store your data in __Amazon S3__ and secure it from unauthorized access with encryption features and access management tools. S3 is the only object storage service that allows you to block public access to all of your objects at the bucket or the account level with S3 Block Public Access. S3 maintains compliance programs, such as PCI-DSS, HIPAA/HITECH, FedRAMP, EU Data Protection Directive, and FISMA, to help you meet regulatory requirements. AWS also supports numerous auditing capabilities to monitor access requests to your S3 resources.
 
@@ -384,15 +370,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L6.6 Amazon S3 Quiz
 ```
 
+```c-lms
+topic: Data Analytics Lab 1 Amazon S3
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 6 - Data Analytics Lab 1 Amazon S3<a class="anchor" id="DS107L6_page_6"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Data Analytics Lab 1 Amazon S3
 
 This module presents an introduction to Amazon Simple Storage Service (Amazon S3). The course begins with Amazon S3 because it is an easy way to start working with the AWS Management Console. Also, because Amazon S3 is used throughout the course, you must know how to create Amazon S3 buckets and load data for subsequent labs.
 
@@ -469,16 +451,9 @@ VimeoVideo('760371371', width=720, height=480)
 ></iframe>
 
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - Amazon Athena<a class="anchor" id="DS107L6_page_7"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Athena
+```
 
 ## Amazon Athena
 Start querying data instantly. Get results in seconds. Pay only for the queries you run.
@@ -518,16 +493,9 @@ With Amazon Athena, you don't have to worry about having enough compute resource
   <img  src="Media/Amazon-Athena-How-It-Works.png" width="800" alt="Amazon-S3-Lab">
 </p>
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 8 - Amazon Athena features<a class="anchor" id="DS107L6_page_8"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Athena features
+```
 
 ## Amazon Athena features
 
@@ -573,14 +541,10 @@ Athena provides connectors for enterprise data sources including Amazon DynamoDB
 
 You can invoke your SageMaker Machine Learning models in an Athena SQL query to run inference. The ability to use ML models in SQL queries makes complex tasks such anomaly detection, customer cohort analysis and sales predictions as simple as writing a SQL query. Athena makes it easy for anyone with SQL experience to run ML models deployed on Amazon SageMaker.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 9 - Amazon Athena Getting Started<a class="anchor" id="DS107L6_page_9"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon Athena Getting Started
+```
 
 [Read the Guide](https://docs.aws.amazon.com/athena/latest/ug/getting-started.html)
 - [What's new with Athena](https://youtu.be/k9kHVj1dxaA)
@@ -653,17 +617,9 @@ YouTubeVideo('6rzxgDUrofE', width=720, height=480)
 
 ></iframe>
 
-
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 10 - Lab 2 Athena<a class="anchor" id="DS107L6_page_10"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Data Analytics Lab 2 Athena
+```
 
 ## Lab 2 Introduction
 Lab 2 introduces you to Amazon Athena, which is the first analysis service that is covered in the course. You can use Amazon Athena to query structured, unstructured, and semi-structured data. Amazon Athena integrates with AWS Glue, which is covered in Lab 3.
@@ -752,14 +708,10 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L6.10 Amazon Athena Quiz
 ```
 
+```c-lms
+topic: Lesson 6 Exam
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 11 - Lesson 6 Exam<a class="anchor" id="DS107L6_page_11"></a>
-
-[Back to Top](#DS107L6_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
 ```c-lms
 start-activity: DS107L6.11 Lesson 6 Exam
