@@ -5,14 +5,6 @@ topic: Amazon Kinesis Data Firehose
 
 # AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
 
-
-
-# Amazon Kinesis Data Firehose<a class="anchor" id="DS107L9_page_1"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
 ## Amazon Kinesis Data Firehose
 Reliably load real-time streams into data lakes, warehouses, and analytics services
 
@@ -79,14 +71,10 @@ For Splunk destinations, streaming data is delivered to Splunk, and it can optio
   <img  src="Media/Amazon-Splunk-Destinations-Streaming-Data.png" width="800" alt="Amazon-OpenSearch-Destinations-Streaming-Data">
 </p>
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 2 - Amazon OpenSearch Service<a class="anchor" id="DS107L9_page_2"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Amazon OpenSearch Service
+```
 ## Amazon OpenSearch Service
 Securely unlock real-time search, monitoring, and analysis of business and operational data
 
@@ -153,14 +141,11 @@ Learn more about » [observability](https://aws.amazon.com/opensearch-service/fe
 
 ### Watch the [OpenSearch playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukdBBUx1LHR8yPNQa5ZTuWYd)
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 3 - Kibana<a class="anchor" id="DS107L9_page_3"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: Kibana
+```
+## Kibana
 
 <p style="text-align: left">
   <img  src="Media/Kibana-Icon.png" width="200" alt="Kibana-Icon">
@@ -207,13 +192,10 @@ Take the relevance capabilities of a search engine, combine them with [graph exp
   <img  src="Media/Kibana5.png" width="800" alt="Kibana5">
 </p>
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - Streaming Data<a class="anchor" id="DS107L9_page_4"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Streaming Data
+```
+## Streaming Data
 
 
 ## What is streaming data?
@@ -259,16 +241,14 @@ In addition, you can run other streaming data platforms such as – Apache Flume
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L9.4  Kinesis Elasticsearch OpenSearch Kibana Streaming Data Quiz
+start-activity: DS107L9.4 Kinesis Elasticsearch OpenSearch Kibana Streaming Data Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana
+``` 
 
-# Page 5 - Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana<a class="anchor" id="DS107L9_page_5"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana
 
 
 
@@ -296,17 +276,12 @@ VimeoVideo('762741810', width=720, height=480)
 
 
 
+```c-lms
+topic: AWS Internet of Things (IoT)
+``` 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## AWS Internet of Things (IoT)
 
-# Page 6 - AWS Internet of Things (IoT)<a class="anchor" id="DS107L9_page_6"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-## AWS IoT
 Unlock your IoT data and accelerate business growth
 
 AWS offers Internet of Things (IoT) services and solutions to connect and manage billions of devices. Collect, store, and analyze IoT data for industrial, consumer, commercial, and automotive workloads.
@@ -393,16 +368,11 @@ YouTubeVideo('GEnZX2_mFMM', width=720, height=480)
 ></iframe>
 
 
+```c-lms
+topic: AWS IoT Analytics
+``` 
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - AWS IoT Analytics<a class="anchor" id="DS107L9_page_7"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## AWS IoT Analytics
 
 ## [AWS IoT Analytics](https://aws.amazon.com/iot-analytics/)
 Analytics for IoT devices
@@ -462,16 +432,14 @@ With AWS IoT Analytics, companies can build applications that constantly monitor
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L9.7  Analyze IoT Data with AWS IoT Analytics Quiz
+start-activity: DS107L9.7 Analyze IoT Data with AWS IoT Analytics Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics
+``` 
 
-# Page 8 - Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics<a class="anchor" id="DS107L9_page_8"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics
 
 
 
@@ -496,18 +464,11 @@ VimeoVideo('762759934', width=720, height=480)
 ></iframe>
 
 
+```c-lms
+topic: Key Terms
+``` 
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 9 - Key Terms<a class="anchor" id="DS107L9_page_9"></a>
-
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-# Key Terms
+## Key Terms
 
 Below, is a list and short description of the central keywords you have learned in this lesson. Please read through and go back and review any concepts you don't understand fully. Great Work!
 
@@ -560,17 +521,12 @@ Below, is a list and short description of the central keywords you have learned 
     
 </table>
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Lesson 9 Exam
+``` 
 
-# Page 10 - Lesson 9 Exam <a class="anchor" id="DS107L9_page_10"></a>
+## Lesson 9 Exam
 
-[Back to Top](#DS107L9_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-## Review and Practice <a class="anchor" id="DS107L9.10_exam"></a>
-
-Below you will find an exam, review the recently covered material. Exam is graded.
 
 ```c-lms
 start-activity: DS107L9.10 Lesson 9 Exam
