@@ -62,13 +62,7 @@ See [Getting Started with AWS Glue](https://aws.amazon.com/glue/getting-started/
 topic: Why AWS Glue?
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 2 - Why AWS Glue?<a class="anchor" id="DS107L7_page_2"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Why AWS Glue?
 
 Preparing your data to obtain quality results is the first step in an analytics or ML project. AWS Glue is a serverless data integration service that makes data preparation simpler, faster, and cheaper. You can discover and connect to over 70 diverse data sources, manage your data in a centralized data catalog, and visually create, run, and monitor ETL pipelines to load data into your data lakes.
 
@@ -168,14 +162,11 @@ YouTubeVideo('qNojanBn1NY', width=720, height=480)
 
 
 
+```c-lms
+topic: AWS Glue Use Cases
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 3 - AWS Glue Use Cases<a class="anchor" id="DS107L7_page_3"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## AWS Glue Use Cases
 
 ## Simplify ETL pipeline development
 
@@ -193,16 +184,11 @@ Using AWS Glue interactive sessions, data engineers can interactively explore an
 
 More easily support various data processing frameworks, such as ETL and ELT, and various workloads, including batch, micro-batch, and streaming.
 
+```c-lms
+topic: AWS Glue Features
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 4 - AWS Glue Features<a class="anchor" id="DS107L7_page_4"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## AWS Glue Features
 
 AWS Glue features fall into three major categories:
 
@@ -258,14 +244,9 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L7.4 AWS GLue Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 5 - Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue
-<a class="anchor" id="DS107L7_page_5"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 3 
+```
 
 
 ```python
@@ -289,15 +270,11 @@ VimeoVideo('762068599', width=720, height=480)
 ></iframe>
 
 
+```c-lms
+topic: Amazon Redshift
+```
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 6 - Amazon Redshift<a class="anchor" id="DS107L7_page_6"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Redshift
 
 Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale.
 
@@ -328,16 +305,11 @@ YouTubeVideo('lWwFJV_9PoE', width=720, height=480)
 
 ></iframe>
 
+```c-lms
+topic: Amazon Redshift Use Cases
+```
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 7 - Amazon Redshift Use Cases<a class="anchor" id="DS107L7_page_7"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Redshift Use Cases
 
 ## Improve financial and demand forecasts
 
@@ -355,13 +327,11 @@ Build insight-driven reports and dashboards using Amazon QuickSight, Tableau, Mi
 
 Get simplified data access, ingest, and egress from numerous programming languages and platforms without configuring drivers and managing database connections.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon Redshift Features
+```
 
-# Page 8 -  Amazon Redshift Features<a class="anchor" id="DS107L7_page_8"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Amazon Redshift Features
 
 ## Easy analytics for everyone
 
@@ -461,6 +431,7 @@ Find out more what’s [new](https://aws.amazon.com/redshift/whats-new/).
 
 Visit [Amazon Redshift Documentation](https://docs.aws.amazon.com/redshift/index.html) for more detailed product information.
 
+
 ## Review and Practice <a class="anchor" id="DS107L7.9_quiz"></a>
 
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
@@ -469,12 +440,13 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L7.9 Amazon RedShift Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-# Page 9 - Getting Started with Amazon Redshift<a class="anchor" id="DS107L7_page_9"></a>
+```c-lms
+topic: Getting Started with Amazon Redshift
+```
 
-[Back to Top](#DS107L7_toc)
+## Getting Started with Amazon Redshift
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+
 
 ## Trying Redshift
 AWS account required: Step through the [Getting Started tutorial](http://docs.aws.amazon.com/redshift/latest/gsg/welcome.html) and use the free trial to create and provision your first cluster, then load and query sample data in minutes.
@@ -493,14 +465,11 @@ Before you start, you can also [experience Amazon Redshift through an interactiv
 5. Check out [business intelligence (BI)](https://aws.amazon.com/redshift/partners/#business-intelligence-partners) and [data integration (ETL)](https://aws.amazon.com/redshift/partners/#etl-partners) vendors that have certified Amazon Redshift for use with their tools.
 
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 4 
+```
 
-# Page 10 - Data Analytics Lab 4 - Analyze Data with Amazon Redshift
-<a class="anchor" id="DS107L7_page_10"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Data Analytics Lab 4
 
 
 ```python
@@ -523,18 +492,11 @@ VimeoVideo('762346055', width=720, height=480)
 
 ></iframe>
 
+```c-lms
+topic: Key Terms
+```
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 11 - Key Terms<a class="anchor" id="DS107L7_page_11"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Key Terms
+## Key Terms
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. Great Work!
 
@@ -567,10 +529,10 @@ Below is a list and short description of the important keywords learned in this 
 
 ---
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Lesson 7 Exam
+```
 
-# Page 12 - Lesson 7 Exam<a class="anchor" id="DS107L7_page_12"></a>
-
-[Back to Top](#DS107L7_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+start-activity: DS107L7.12 Lesson 7 Exam
+```
