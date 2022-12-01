@@ -7,15 +7,6 @@ topic: The Jupyter Project: Jupyter Notebook and JupyterLab
 
 # The Jupyter Project: Jupyter Notebook and JupyterLab<a class="anchor" id="DS107L8_page_1"></a>
 
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-## Jupyter Project
-
-<p style="text-align: center">
-  <img  src="Media/Jupyter.png" width="800" alt="Self-service Data Preparation">
-</p>
 
 ***
  
@@ -128,15 +119,9 @@ VimeoVideo('574898381', width=720, height=480)
 ></iframe>
 
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 2 - Amazon SageMaker<a class="anchor" id="DS107L8_page_2"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Amazon SageMaker
+```
 
 
 Build, train, and deploy machine learning (ML) models for any use case with fully managed infrastructure, tools, and workflows
@@ -526,13 +511,9 @@ Amazon SageMaker Model Training reduces the time and cost to train and tune mach
 
 <hr style="height:10px;border-width:0;color:gray;background-color:gray">
 
-# Page 3 - Bokeh and other Visualization Packages<a class="anchor" id="DS107L8_page_3"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+```c-lms
+topic: Bokeh and other Visualization Packages
+```
 ## Bokah
 
 <p style="text-align: left">
@@ -618,15 +599,11 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L8.3 Jupyter SageMaker Bokeh Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh
+```
 
-# Page 4 - Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh<a class="anchor" id="DS107L8_page_4"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
+## Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh
 
 ```python
 #https://vimeo.com/762405184
@@ -649,16 +626,9 @@ VimeoVideo('762405184', width=720, height=480)
 ></iframe>
 
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 5 - Amazon Data Pipeline<a class="anchor" id="DS107L8_page_5"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+```c-lms
+topic: AWS Data Pipeline
+```
 
 ## AWS Data Pipeline
 Easily automate the movement and transformation of data.
@@ -697,15 +667,11 @@ __AWS SDKs__ — Provides language-specific APIs and takes care of many of the c
 __Query API__ — Provides low-level APIs that you call using HTTPS requests. Using the Query API is the most direct way to access AWS Data Pipeline, but it requires that your application handle low-level details such as generating the hash to sign the request, and error handling. For more information, see the [AWS Data Pipeline API Reference](https://docs.aws.amazon.com/datapipeline/latest/APIReference/).
 
 
+```c-lms
+topic: Configuring connections in Amazon Redshift
+```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 6 - Configuring connections in Amazon Redshift<a class="anchor" id="DS107L8_page_6"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
+## Configuring connections in Amazon Redshift
 
 In the following section, you can find how to configure JDBC, Python, and ODBC connections to connect to your cluster from SQL client tools. This section describes how to set up JDBC, Python, and ODBC connections. It also describes how to use Secure Sockets Layer (SSL) and server certificates to encrypt communication between the client and server.
 
@@ -732,13 +698,11 @@ To find the connection string for a cluster:
 
 3. The JDBC URL and ODBC URL connection strings are available, along with additional details, in the General information section. Each string is based on the AWS Region where the cluster runs. Click the icon next to the appropriate connection string to copy it.
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Querying a Database in AWS Redshift
+```
 
-# Page 7 - Querying a Database in AWS Redshift<a class="anchor" id="DS107L8_page_7"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+## Querying a Database in AWS Redshift
 
 
 To query databases hosted by your Amazon Redshift cluster, you have two options:
@@ -764,13 +728,10 @@ Below you will find a quiz to review the recently covered material. Quizzes are 
 start-activity: DS107L8.7 Data Pipeline Query Redshift Quiz
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 8 - Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline <a class="anchor" id="DS107L8_page_8"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+```c-lms
+topic: Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipelinet
+```
+## Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline
 
 
 
@@ -795,18 +756,10 @@ VimeoVideo('762463685', width=720, height=480)
 ></iframe>
 
 
-
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 9 - Key Terms<a class="anchor" id="DS107L8_page_9"></a>
-
-[Back to Top](#DS107L8_toc)
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-
-# Key Terms
+```c-lms
+topic: Key Terms
+```
+## Key Terms
 
 Below is a list and short description of the important keywords learned in this lesson. Please read through and go back and review any concepts you do not fully understand. Great Work!
 
@@ -950,22 +903,19 @@ Below is a list and short description of the important keywords learned in this 
     </tr>
 </table>
 
+
+
+
 ---
 
-
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
-
-# Page 10 - Lesson 8 Exam<a class="anchor" id="DS107L8_page_10"></a>
-
-[Back to Top](#DS107L8_toc)
-
-## Review and Practice <a class="anchor" id="DS107L8.7_quiz"></a>
-
-Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
+```c-lms
+topic: Lesson 8 Exam
+```
+## Lesson 8 Exam
 
 ```c-lms
 start-activity: DS107L8.10 Lesson 8 Exam
 ```
 
-<hr style="height:10px;border-width:0;color:gray;background-color:gray">
+
 
