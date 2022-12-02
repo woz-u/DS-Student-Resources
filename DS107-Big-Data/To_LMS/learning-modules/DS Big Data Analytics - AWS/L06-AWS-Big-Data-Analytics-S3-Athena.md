@@ -428,7 +428,7 @@ Watch the below [Lab 1 Video](https://vimeo.com/760371371) that showcases how to
 
 
 
-
+<!--
 
 ```python
 #https://vimeo.com/760371371
@@ -436,19 +436,12 @@ from IPython.display import VimeoVideo
 ## Tutorial Video Name: Lab 1 Store Data in Amazon S3
 VimeoVideo('760371371', width=720, height=480)
 ```
+-->
+
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/760371371?h=efb1f0e77a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 1 - Storing Data in Amazon S3"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/760371371"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
 
 
 ```c-lms
@@ -551,15 +544,15 @@ topic: Amazon Athena Getting Started
 - [Athena Deep Dive](https://youtu.be/tzoXRRCVmIQ)
 - [Perfomance updates for Athena](https://youtu.be/6rzxgDUrofE)
 
-
+<!--
 ```python
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Athena
 YouTubeVideo('k9kHVj1dxaA', width=720, height=480)
 ```
+-->
 
-
-
+## What's new with Athena
 
 
 <iframe
@@ -573,17 +566,17 @@ YouTubeVideo('k9kHVj1dxaA', width=720, height=480)
 
 
 
-
+<!--
 
 ```python
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Athena
 YouTubeVideo('tzoXRRCVmIQ', width=720, height=480)
 ```
+-->
 
 
-
-
+## Athena Deep Dive
 
 <iframe
     width="720"
@@ -597,16 +590,16 @@ YouTubeVideo('tzoXRRCVmIQ', width=720, height=480)
 
 
 
-
+<!--
 ```python
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Athena
 YouTubeVideo('6rzxgDUrofE', width=720, height=480)
 ```
+-->
 
 
-
-
+## Perfomance updates for Athena
 
 <iframe
     width="720"
@@ -682,23 +675,16 @@ CREATE EXTERNAL TABLE IF NOT EXISTS taxidata.yellow (
 
 The rest of the lab should work fine.
 
-
+<!--
 ```python
 #https://vimeo.com/761946208
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: 
 VimeoVideo('761946208', width=720, height=480)
 ```
+-->
 
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/761946208"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/761946208?h=45a43fdd34&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 2 - Query Data in Amazon Athena"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Review and Practice <a class="anchor" id="DS107L6.10_quiz"></a>
 

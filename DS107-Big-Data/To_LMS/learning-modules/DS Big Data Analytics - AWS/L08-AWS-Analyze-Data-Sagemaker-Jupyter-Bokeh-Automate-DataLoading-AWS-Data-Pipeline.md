@@ -73,14 +73,14 @@ JupyterLab enables you to work with documents and activities such as Jupyter not
 
 
 
-
+<!--
 ```python
 #https://youtu.be/A5YyoCKxEOU
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: JupyterLab
 YouTubeVideo('A5YyoCKxEOU', width=720, height=480)
 ```
-
+-->
 
 
 
@@ -91,32 +91,25 @@ YouTubeVideo('A5YyoCKxEOU', width=720, height=480)
     src="https://www.youtube.com/embed/A5YyoCKxEOU"
     frameborder="0"
     allowfullscreen
-
 ></iframe>
 
 
 
 
-
+<!--
 ```python
 #https://vimeo.com/574898381
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Working with Jupyter
 VimeoVideo('574898381', width=720, height=480)
 ```
+-->
 
 
 
 
 
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/574898381"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/574898381?h=b5115cc915&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Jupyter-Basics.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms
@@ -380,14 +373,14 @@ Stand-alone fully-managed Jupyter Notebook instances in the Amazon SageMaker con
   <img  src="Media/Amazon-SageMaker-Studio-Instances.png" width="800" alt="Amazon-SageMaker-Studio-Instances">
 </p>
 
-
+<!--
 ```python
 #https://youtu.be/78bij26G-8M
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: SageMaker Studio Notebooks
 YouTubeVideo('78bij26G-8M', width=720, height=480)
 ```
-
+-->
 
 
 
@@ -398,7 +391,6 @@ YouTubeVideo('78bij26G-8M', width=720, height=480)
     src="https://www.youtube.com/embed/78bij26G-8M"
     frameborder="0"
     allowfullscreen
-
 ></iframe>
 
 
@@ -443,14 +435,14 @@ Amazon SageMaker Studio Lab is a free machine learning (ML) development environm
 </p>
 
 
-
+<!--
 ```python
 #https://youtu.be/k2nVIvHB1dk
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: SageMaker Studio Lab
 YouTubeVideo('k2nVIvHB1dk', width=720, height=480)
 ```
-
+-->
 
 
 
@@ -461,7 +453,6 @@ YouTubeVideo('k2nVIvHB1dk', width=720, height=480)
     src="https://www.youtube.com/embed/k2nVIvHB1dk"
     frameborder="0"
     allowfullscreen
-
 ></iframe>
 
 
@@ -476,13 +467,14 @@ Amazon SageMaker Studio is an integrated development environment (IDE) that prov
   <img  src="Media/Amazon-SageMaker-Studio.png" width="800" alt="Amazon-SageMaker-Studio">
 </p>
 
-
+<!--
 ```python
 #https://youtu.be/jSrg1BgQzRo
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: SageMaker Studio Lab
 YouTubeVideo('jSrg1BgQzRo', width=720, height=480)
 ```
+-->
 
 
 
@@ -605,25 +597,19 @@ topic: Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebo
 
 ## Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh
 
+<!--
 ```python
 #https://vimeo.com/762405184
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh 
 VimeoVideo('762405184', width=720, height=480)
 ```
+-->
 
 
 
 
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762405184"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762405184?h=a37f6fb2cf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 5 - Analyze Data with Amazon SageMaker, Jupyter Notebooks, and Bokeh"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms
@@ -734,26 +720,18 @@ topic: Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipelinet
 ## Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline
 
 
-
+<!--
 ```python
 #https://vimeo.com/762463685
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline
 VimeoVideo('762463685', width=720, height=480)
 ```
+-->
 
 
 
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762463685"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762463685?h=1589584ade&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 6 - Automate Loading Data with AWS Data Pipeline"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms

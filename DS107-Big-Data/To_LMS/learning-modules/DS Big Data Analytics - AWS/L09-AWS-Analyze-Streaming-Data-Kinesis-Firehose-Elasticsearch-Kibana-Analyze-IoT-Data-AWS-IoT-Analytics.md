@@ -84,6 +84,7 @@ Amazon OpenSearch Service makes it easy for you to perform interactive log analy
   <img  src="Media/Amazon-OpenSearch-Service.png" width="800" alt="Amazon-OpenSearch-Service">
 </p>
 
+<!--
 
 ```python
 #https://youtu.be/cZHB7KBubWs
@@ -91,9 +92,7 @@ from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Amazon OpenSearch Service
 YouTubeVideo('cZHB7KBubWs', width=720, height=480)
 ```
-
-
-
+-->
 
 
 <iframe
@@ -102,7 +101,6 @@ YouTubeVideo('cZHB7KBubWs', width=720, height=480)
     src="https://www.youtube.com/embed/cZHB7KBubWs"
     frameborder="0"
     allowfullscreen
-
 ></iframe>
 
 
@@ -252,25 +250,15 @@ topic: Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Fi
 
 
 
-```python
+<!--
 #https://vimeo.com/762741810
 from IPython.display import VimeoVideo
 # Tutorial Video Name: Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana
 VimeoVideo('762741810', width=720, height=480)
-```
+-->
 
 
-
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762741810"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762741810?h=05b978d09e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 7 - Analyze Streaming Data with Amazon Kinesis Data Firehose, Amazon Elasticsearch Service, and Kibana"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
@@ -346,15 +334,14 @@ Learn how to build simple IoT applications with reference hardware and step-by-s
 Get hands-on with IoT
 AWS IoT EduKit makes it easy for developers—from students to experienced professionals—to receive hands-on experience building end-to-end IoT applications by combining a reference hardware kit with a set of easy to follow educational tutorials and example code.
 
-
+<!--
 ```python
 #https://youtu.be/GEnZX2_mFMM
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Amazon OpenSearch Service
 YouTubeVideo('GEnZX2_mFMM', width=720, height=480)
 ```
-
-
+-->
 
 
 
@@ -364,7 +351,6 @@ YouTubeVideo('GEnZX2_mFMM', width=720, height=480)
     src="https://www.youtube.com/embed/GEnZX2_mFMM"
     frameborder="0"
     allowfullscreen
-
 ></iframe>
 
 
@@ -443,25 +429,14 @@ topic: Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics
 
 
 
-```python
+<!--
 #https://vimeo.com/762759934
 from IPython.display import VimeoVideo
 # Tutorial Video Name: Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics
-VimeoVideo('762759934', width=720, height=480)
-```
+VimeoVideo('762759934', width=720, height=480) -->
 
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762759934?h=12daac44f4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 8 - Analyze IoT Data with AWS IoT Analytics"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762759934"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
 
 
 ```c-lms

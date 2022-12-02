@@ -587,26 +587,17 @@ topic: Lab 6 - Scale & Load Balance your Architecture
 
 Complete [Lab 6](https://vimeo.com/760089019) on AWS Academy, then complete Exam 5 on the LMS
 
-
+<!--
 ```python
 #https://vimeo.com/760089019
 from IPython.display import VimeoVideo
 ## Tutorial Video Name:  Lab 6 - Scale & Load Balance your Architecture
 VimeoVideo('760089019', width=720, height=480)
 ```
+-->
 
 
-
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/760089019"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/760089019?h=811dc65188&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 6 - Scale and Load Balance Your Architecture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms

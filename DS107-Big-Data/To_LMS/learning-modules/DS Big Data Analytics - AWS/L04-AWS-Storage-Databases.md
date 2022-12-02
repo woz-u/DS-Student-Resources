@@ -78,25 +78,16 @@ topic: Assignment : Lab 4 - Working with EBS
 
 Complete [Lab 4](https://vimeo.com/759723371) and complete Exam 4 in the LMS.
 
-
+<!--
 ```python
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Lab 4 - Working with EBS
 VimeoVideo('759723371', width=720, height=480)
 ```
+-->
 
 
-
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/759723371"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/759723371?h=bb8e68fe50&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 4 - Working with EBS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ## Review and Practice <a class="anchor" id="DS107L4.3_quiz"></a>
@@ -561,26 +552,18 @@ topic: Activity Lab 5 - Build a Database Server
 
 Complete [Lab 5](https://vimeo.com/760024987) and then complete Exam 5 on the LMS
 
-
+<!--
 ```python
 # https://vimeo.com/760024987
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Lab 5 - Build a Database Server
 VimeoVideo('760024987', width=720, height=480)
 ```
+-->
 
 
 
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/760024987"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/760024987?h=c5982533e4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 5 - Build a Database Server"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms

@@ -69,12 +69,13 @@ Preparing your data to obtain quality results is the first step in an analytics 
 [AWS Glue Overview](https://youtu.be/u14iVEc-C6E)
 
 
+<!-- 
 ```python
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: AWS Glue
 YouTubeVideo('u14iVEc-C6E', width=720, height=480)
 ```
-
+-->
 
 
 
@@ -90,7 +91,7 @@ YouTubeVideo('u14iVEc-C6E', width=720, height=480)
 
 
 
-
+<!--
 
 ```python
 #https://youtu.be/qgWMfNSN9f4
@@ -98,9 +99,9 @@ from IPython.display import YouTubeVideo
 ## Tutorial Video Name: What is AWS Glue
 YouTubeVideo('qgWMfNSN9f4', width=720, height=480)
 ```
+-->
 
-
-
+## What is AWS Glue?
 
 
 <iframe
@@ -114,7 +115,7 @@ YouTubeVideo('qgWMfNSN9f4', width=720, height=480)
 
 
 
-
+<!--
 
 ```python
 #https://youtu.be/z3HeHlWg88M
@@ -122,10 +123,11 @@ from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Getting started with AWS Glue ETL
 YouTubeVideo('z3HeHlWg88M', width=720, height=480)
 ```
+-->
 
 
 
-
+## Getting started with AWS Glue ETL
 
 <iframe
     width="720"
@@ -138,7 +140,7 @@ YouTubeVideo('z3HeHlWg88M', width=720, height=480)
 
 
 
-
+<!--
 
 ```python
 #https://youtu.be/qNojanBn1NY
@@ -146,9 +148,10 @@ from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Getting started with AWS Glue Data Catalog
 YouTubeVideo('qNojanBn1NY', width=720, height=480)
 ```
+-->
 
 
-
+## Getting started with AWS Glue Data Catalog
 
 
 <iframe
@@ -248,26 +251,19 @@ start-activity: DS107L7.4 AWS GLue Quiz
 topic: Data Analytics Lab 3 
 ```
 
-
+<!--
 ```python
 #https://vimeo.com/762068599
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue
 VimeoVideo('762068599', width=720, height=480)
 ```
+-->
 
 
 
 
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762068599"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762068599?h=46402ae197&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 3 - Query Data in Amazon S3 with Amazon Athena and AWS Glue"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ```c-lms
@@ -284,14 +280,14 @@ Amazon Redshift uses SQL to analyze structured and semi-structured data across d
 
 Tens of thousands of customers today rely on Amazon Redshift to analyze exabytes of data and run complex analytical queries, making it the most widely used cloud data warehouse. Run and scale analytics in seconds on all your data without having to manage your data warehouse infrastructure.
 
-
+<!--
 ```python
 #https://youtu.be/lWwFJV_9PoE
 from IPython.display import YouTubeVideo
 ## Tutorial Video Name: Introduction of data warehousing with Amazon Redshift
 YouTubeVideo('lWwFJV_9PoE', width=720, height=480)
 ```
-
+-->
 
 
 
@@ -469,8 +465,9 @@ Before you start, you can also [experience Amazon Redshift through an interactiv
 topic: Data Analytics Lab 4 
 ```
 
-## Data Analytics Lab 4
+## Data Analytics Lab 4 Analyze Data with Amazon Redshift
 
+<!--
 
 ```python
 #https://vimeo.com/762346055
@@ -478,19 +475,12 @@ from IPython.display import VimeoVideo
 ## Tutorial Video Name: Data Analytics Lab 4 - Analyze Data with Amazon Redshift 
 VimeoVideo('762346055', width=720, height=480)
 ```
+-->
 
 
 
 
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/762346055"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/762346055?h=e2a4ac080b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Data Analytics Lab 4 - Analyze Data with Amazon Redshift"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ```c-lms
 topic: Key Terms

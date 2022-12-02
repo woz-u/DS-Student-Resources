@@ -446,25 +446,15 @@ topic: Complete Assignment : Lab 2 - Build your VPC and Launch a Web Server
 
 - Take exam on LMS after you complete [Lab 2 - Build your VPC and Launch a Web Server](https://vimeo.com/759286185) Watch the workshop to assist you.
 
-
+<!--
 ```python
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Lab 2 - Build your VPC and Launch a Web Server
 VimeoVideo('759286185', width=720, height=480)
 ```
+-->
 
-
-
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/759286185"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/759286185?h=b991e19389&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 2 - Build your VPC and Launch a Web Server"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 ## Review and Practice <a class="anchor" id="DS107L3.9_quiz"></a>
@@ -560,7 +550,7 @@ topic: Compute Services Overview
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L3.11 Compute Overview Quiz
+start-activity: DS107L3.11 AWS Compute Overview Quiz
 ```
 
 ```c-lms
@@ -793,7 +783,7 @@ A public IP address is an IPv4 address reachable from the Internet. Each instanc
 Below you will find a quiz to review the recently covered material. Quizzes are _not_ graded.
 
 ```c-lms
-start-activity: DS107L3.14 Compute Quiz
+start-activity: DS107L3.14 AWS Compute Quiz
 ```
 
 ```c-lms
@@ -974,25 +964,17 @@ topic: Complete Assignment : Lab 3 - Introduction to Amazon EC2 and Lesson 3 Exa
 
 - Take exam on LMS after you complete [Lab 3](https://vimeo.com/759654039)
 
-
+<!--
 ```python
 from IPython.display import VimeoVideo
 ## Tutorial Video Name: Lab 3 - Introduction to Amazon EC2
 VimeoVideo('759654039', width=720, height=480)
 ```
+-->
 
 
 
-
-
-<iframe
-    width="720"
-    height="480"
-    src="https://player.vimeo.com/video/759654039"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+<div style="padding:56.66% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/759654039?h=79e8ebbcc6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lab 3 - Introduction to Amazon EC2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
