@@ -251,6 +251,15 @@ start-activity: DS107L7.4 AWS GLue Quiz
 topic: Data Analytics Lab 3 
 ```
 
+<div class="panel panel-success">
+    <div class="panel-heading">
+        <h3 class="panel-title">Hint!</h3>
+    </div>
+    <div class="panel-body">
+        <p>Ensure you complete and annotate the challenge questions for answering questions in Lesson 10 final exam <b><a href="https://vimeo.com/762068599"> recorded live workshop</a></b>  for this lab.</p>
+    </div>
+</div>
+
 <!--
 ```python
 #https://vimeo.com/762068599

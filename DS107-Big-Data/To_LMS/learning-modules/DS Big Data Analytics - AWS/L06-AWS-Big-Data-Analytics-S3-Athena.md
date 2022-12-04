@@ -614,6 +614,15 @@ YouTubeVideo('6rzxgDUrofE', width=720, height=480)
 topic: Data Analytics Lab 2 Athena
 ```
 
+<div class="panel panel-success">
+    <div class="panel-heading">
+        <h3 class="panel-title">Hint!</h3>
+    </div>
+    <div class="panel-body">
+        <p>Ensure you complete and annotate the challenge questions for answering questions in Lesson 10 final exam <b><a href="https://vimeo.com/761946208"> recorded live workshop</a></b>  for this lab.</p>
+    </div>
+</div>
+
 ## Lab 2 Introduction
 Lab 2 introduces you to Amazon Athena, which is the first analysis service that is covered in the course. You can use Amazon Athena to query structured, unstructured, and semi-structured data. Amazon Athena integrates with AWS Glue, which is covered in Lab 3.
 
