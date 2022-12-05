@@ -1,6 +1,6 @@
-# DSO107 Introduction to Big Data
+# DS Big Data Analytics - AWS
 
-**Course Description:** The Introduction to Big Data course introduces students to Big Data on a conceptual level and gives students exposure and practice with several skills and tools currently in use.  These skills will be taught at a manageable level, and then broadening methods will be used to help students grasp the meaning and popularity of analyzing substantial amounts of data.  Students will learn the foundational concepts of Big Data and will know how to move from Big Data basics to more business-specific needs and requirements.
+**Course Description:** The Big Data Analytics - AWS course introduces students to Big Data at a hands-on level and gives students exposure and practice with several skills and tools currently in use on Amazon Web Services (AWS).  These skills start with learning cloud foundations, and then broadening methods will be used to help students analyze substantial amounts of data utilizing AWS.  The course helps learners develop skills with AWS services that are critical for conducting analysis of big data problems. The course consists of a series of labs that supports data engineering, data analysis, or data science.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -9,7 +9,7 @@
 |Quarter Credit Hours:|3|
 |Course Length:       |40 hours|
 |Prerequisites:       |DS102, DS104, DS109|
-|Proficiency Exam:    |No|
+|Proficiency Exam:    |Yes|
 |Theory Hours: 	      |20|
 |Laboratory Hours:	  |20|
 |Externship Hours:	  |0 |
@@ -19,22 +19,22 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 
-|Module                 |Lesson Number|Lesson Name|
-|:---                   |:---:        |:---       |
-|DS107 Big Data         |1   | [L1-Big-Data-Overview-and-Introduction-to-AWS](L1-Big-Data-Overview-and-Introduction-to-AWS.md)  |
-|                       |2   | [L2-AWS-Global-Infrastructure-and-Cloud-Security](L2-AWS-Global-Infrastructure-and-Cloud-Security.md)                |
-|                       |3   | [L3-AWS-Networking-Content-Delivery-Compute](L3-AWS-Networking-Content-Delivery-Compute.md)              |
-|                       |4   | [L4-AWS-Storage-Databases](L4-AWS-Storage-Databases.md)|
-|                       |5   | [L5-AWS-Cloud-Architectures-Autoscaling-Monitoring](L5-AWS-Cloud-Architectures-Autoscaling-Monitoring.md)      |
-|                       |6   | [L6-AWS-Big-Data-Analytics-S3-Athena](L6-AWS-Big-Data-Analytics-S3-Athena.md)        | 
-|                       |7   | [L7-AWS-Query-Data-S3-Athena-Glue-Analyze-Data-Redshift](L7-AWS-Query-Data-S3-Athena-Glue-Analyze-Data-Redshift.md)       |
-|                       |8   | [L8-AWS-Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline](L8-AWS-Analyze-Data-Sagemaker-Jupyter-Bokeh-Automate-DataLoading-AWS-Data-Pipeline.md)   | 
-|                       |9   | [L9-AWS-Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana-Analyze-IoT-Data-AWS-IoT-Analytics](L9-AWS-Analyze-Streaming-Data-Kinesis-Firehose-Elasticsearch-Kibana-Analyze-IoT-Data-AWS-IoT-Analytics.md)  | 
-|                       |10  | [L10-Capstone-Project](L10-Capstone-Project.md) | 
+|Lesson Number|Lesson Name|
+|:---:        |:---       |
+|1   | Big Data Overview and Introduction to AWS |
+|2   | AWS Global Infrastructure and Cloud Security             |
+|3   | AWS Networking Content Delivery and Compute            |
+|4   | AWS Storage and Databases|
+|5   | AWS Cloud Architectures Autoscaling and Monitoring    |
+|6   | AWS Big Data Analytics S3 Athena       | 
+|7   | AWS Query Data S3 Athena Glue Analyze Data Redshift      |
+|8   | AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline  | 
+|9   | AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics | 
+|10  | Data Analytics Final Exam | 
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-## Required Resources: 
+### Required Resources: 
 - Ground-based students are required to bring a late model laptop computer (either PC or MacBook) to class every day.  
 
 - Online students are required to have a late model laptop or desktop computer with internet access.  
@@ -69,77 +69,191 @@ Upon successful completion of this course, students will be able to:
 ### Course Outline
 
 #### Week 1
-##### Lesson 1 Cloud Foundations
-1. Cloud Foundations Overview
-2. What is Big Data?
-3. Introduction to Amazon Academy
-4. Introduction to Cloud Computer Core Concepts
-5. The Advantages of Cloud Computing
-6. Cloud Economics and Billing
-7. Fundamentals of pricing
-8. Total Cost of Ownership
-9. AWS Organizations
-10. AWS Billing and Cost Management
-11. Technical Support
-12. Key Terms
-13. Lesson 1 Exam
+### Lesson 1 Big Data Overview and Introduction to AWS
+- Define different types of cloud computing
+- Describe six advantages of cloud computing
+- Recognize the main AWS service categories and core services
+- Review the AWS Cloud Adoption Framework (AWS CAF)
+- Explain the AWS pricing philosophy•Recognize fundamental pricing characteristics•Indicate the elements of total cost of ownership
+- Discuss the results of the AWS Pricing Calculator
+- Identify how to set up an organizational structure that simplifies billing and account visibility to review cost data.
+- Identify the functionality in the AWS Billing Dashboard•Describe how to use AWS Bills, AWS Cost Explorer, AWS Budgets, and AWS Cost and Usage Reports
+- Identify the various AWS technical support plans and features
 
 
 
-##### Lesson 2
-2.	ETL & MapReduce: ETL & Map Reduce, Reading in Data, Reading in CSVs, Errors, MapReduce, Overall Goal, Create a Reduce File, Run the Map and Reduce Files Together, Counting the Types of Arrests, Key Terms
-3.	Orchestration: Orchestrations, Streams, Crimes Data, Installing Packages for Windows, Installing Packages for Mac/Linux, Manager Set Up, Worker Set Up, Running the Files, Crime Analysis with MapReduce Using Orchestration, Monitor System Performance, Key Terms
+## Lesson 2 AWS Global Infrastructure and Cloud Security
+- Recognize the shared security model
+- Identify the responsibility of the customer and AWS
+- Recognize IAM users, groups and roles
+- Describe different types of security credentials in iAM
+- Identify the steps to securing a new AWS Account
+- Explore IAM users and groups
+- Recognize how to secure AWS data
+- Recognize AWS compliance programs
+- Identify the difference between AWS Regions, Availability Zones, and Edge locations
+- Identify the various AWS Services and Service Categories
+- Recognize the shared security model
+- Identify the responsibility of the customer and AWS
+- Recognize IAM users, groups, and roles
+- Describe the different types of security credentials in IAM
+- Identify the steps in securing a new AWS account
+- Explore IAM users and groups
+- Recognize how to secure AWS data
+- Recognize AWS compliance programs
 
-#### Week 2
-4.	Distribution: Partitioning Data, Multiple Workers, Distribution, Running the Files, Activity Monitoring, Process Scheduling, Load Balancing, Key Terms
-5.	Amazon Web Service Set Up: Introduction to Spark, Introduction to Amazon Web Service, Accessing Your AWS Educate Starter Account, EC2 Setup, Connecting to EC2, Key Terms
-6.	PySpark Set Up: Includes PySpark Set Up, Installing Anaconda, Configuring Jupyter Notebook, Running Jupyter Notebook, Installing Additional Software, Installing Pip and Packages, Install Spark 
-7.	Using PySpark: Introduction, Windows: How to Reconnect to Your Instance, Mac/Linux: How to Reconnect to Your Instance, Using PySpark, Map(), Mapping a Dataset, ReduceByKey(), Filter(), SortBy(), Sample(), Distinct(), Union(), Key Terms   
+## Lesson 3 AWS Networking Content Delivery and Compute
+- Recognize the basics of networking
+- Describe virtual networking in the cloud with Amazon VPC
+- Label a network diagram
+- Design a basic VPC architecture
+- Indicate the steps to build a VPC
+- Identify security groups
+- Create your own VPC and add additional components to it to produce a customized network
+- Identify the fundamentals of Amazon Route 53
+- Recognize the benefits of Amazon CloudFront
+- Provide an overview of different AWS compute services in the cloud
+- Demonstrate why to use Amazon Elastic Compute Cloud (Amazon EC2)
+- Identify the functionality in the EC2 console
+- Perform basic functions in EC2 to build a virtual computing environment
+- Identify EC2 cost optimization elements
+- Demonstrate when to use AWS Elastic Beanstalk
+- Demonstrate when to use AWS Lambda
+- Identify how to run containerized applications in a cluster of managed servers
 
-#### Week 3
-8.	Hadoop: Introduction, What is Hadoop?, Key Terms 
-9.	Big Judgement: Failure Recovery, There’s Always An Exception
-10.	Final Project
+### Week 2
+## Lesson 4 AWS Storage and Databases
+- Identify the different types of storage
+- Explain Amazon S3
+- Identify the functionality in Amazon S3
+- Explain Amazon EBS•Identify the functionality in Amazon EBS
+- Perform functions in Amazon EBS to build an Amazon EC2 storage solution
+- Explain Amazon EFS
+- Identify the functionality in Amazon EFS
+- Explain Amazon S3 Glacier
+- Identify the functionality in Amazon S3 Glacier
+- Differentiate between Amazon EBS, Amazon S3, Amazon EFS, and Amazon S3 Glacier
+- Amazon Relational Database Service (Amazon RDS)
+- Amazon DynamoDB
+- Amazon Redshift
+- Amazon Aurora
+
+
+### Lesson 5 AWS Cloud Architectures Autoscaling and Monitoring
+- Describe the AWS Well-Architected Framework, including the six pillars
+- Identify the design principles of the AWS Well-Architected - Framework
+- Explain the importance of reliability and high availability
+- Identify how AWS Trusted Advisor helps customers
+- Interpret AWS Trusted Advisor recommendations
+- Indicate how to distribute traffic across Amazon Elastic Compute Cloud (Amazon EC2) instances by using Elastic Load Balancing
+- Identify how Amazon CloudWatch enables you to monitor AWS resources and applications in real time
+- Explain how Amazon EC2 Auto Scaling launches and releases servers in response to workload changes
+- Perform scaling and load balancing tasks to improve an architecture
+
+### Lesson 6 AWS Big Data Analytics S3 Athena
+- Describe the role of the Amazon S3 service in big data solutions.
+- Explain how AWS Identity and Access Management (IAM) controls access to Amazon S3.
+- Create an S3 bucket.
+- Load data into an S3 bucket.
+- Query resources in Amazon S3.
+- Access Amazon Athena in the AWS Management Console.
+- Create an Amazon Athena database.
+- Create a table in Amazon Athena.
+- Optimize an Amazon Athena database.
+- Run moderately complex queries with Amazon Athena.
+
+### Week 3
+
+### Lesson 7 AWS Query Data S3 Athena Glue Analyze Data Redshift
+- Access AWS Glue in the AWS Management Console.
+- Create a crawler with AWS Glue.
+- Create a database and table with AWS Glue.
+- Query data in Amazon S3 with Amazon Athena and AWS Glue.
+- Access Amazon Redshift in the AWS Management Console.
+- Create an Amazon Redshift cluster.
+- Load data from Amazon S3 into Amazon Redshift.
+- Query data in Amazon Redshift.
+
+### Lesson 8 AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
+- Describe Jupyter notebooks and the Bokeh visualization package.
+- Create a Jupyter notebook with Amazon SageMaker.
+- Import data into a Jupyter notebook.
+- Create a presentation with a Jupyter notebook.
+- Visualize data with the open-source Bokeh Python package.
+- Access AWS Data Pipeline in the AWS Management Console.
+- Create a data pipeline.
+- Load data from Amazon S3 into Amazon Redshift with a data pipeline.
+- Troubleshoot a data pipeline.
+- Export data from Amazon Redshift to a Jupyter notebook.
+
+### Lesson 9 AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
+- Access Amazon Kinesis Data Firehose and Amazon Elasticsearch Service (Amazon ES) in the AWS Management Console.
+- Create a Kinesis Data Firehose delivery stream.
+- Integrate a Kinesis Data Firehose delivery stream with Amazon ES.
+- Build visualizations with Kibana.
+- Access the AWS IoT Analytics Service in the AWS Management Console
+- Create an AWS IoT Analytics channel
+- Create an AWS IoT Analytics data store
+- Create an AWS IoT Analytics pipeline
+- Create an AWS IoT Core rule
+- Query an AWS IoT Analytics data store
+
+### Lesson 10 Final Exam
+- Final Exam
+
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Workshops:
-|Class: DSO107|	Topic presented|
-|:-- |:--|
-|Week 1 Workshop #1| 	What is Big Data? (L1)|
-|Week 1 Workshop #2| 	MapReduce (L2)|
-|Week 2 Workshop #1| 	Orchestration and Distribution (L3, L4)|
-|Week 2 Workshop #2| 	PySpark (L6, L7)|
-|Week 3 Workshop #1| 	Hadoop (L8)|
-|Week 3 Workshop #2| 	Practice Project (L10)|
+Class: DSO107-AWS Cloud Foundation (CF), Data Analytics (DA)
+ Workshop |Topic presented| Lesson |
+|:---  |:--|:---:|
+|CF Lab #1| Introduction to AWS IAM |L2|
+|CF Lab #2| Build a VPC and Webserver|L3|
+|CF Lab #3| Introduction to Amazon EC2|L3|
+|CF Lab #4| Working with EBS|L4|
+|CF Lab #5| Build a Database Server|L4|
+|CF Lab #6| Scale & Load Balance your Architecture|L5|
+|DA Lab #1| Store data in Amazon S3|L6  |
+|DA Lab #2| Query Data in Amazon Athena |L6 |
+|DA Lab #3| Query data in Amazon S3 with Amazon Athena and AWS Glue |L7 |
+|DA Lab #4| Analyze Data with Amazon Redshift| L7|
+|DA Lab #5| Analyze Data with Amazon Sagemaker, Jupyter Notebooks and Bokeh |L8 |
+|DA Lab #6| Automate Loading Data with the AWS Data Pipeline |L8 |
+|DA Lab #7| Analyze Streaming Data with Amazon Kinesis Firehose, Amazon Elasticsearch and Kibana |L9|
+|DA Lab #8|Analyze IoT Data with AWS IoT Analytics |L9 |
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Points Distribution:
 |Assignment| Points| Topic|
-|:-- |:-- |:--:|
-|L1 Hands On | 45 points | Review Python fundamentals by searching for stop words and using the strip() function.| 
-|L2 Hands On | 45 points | Utilize MapReduce functions in Python.|
-|L3 Practice Hands On | 0 points | Orchestrate the MapReduce function across multiple workers in Python.| 
-|L4 Practice Hands On | 0 points| Distribute the MapReduce function across multiple workers in Python. |
-|L7 Hands On | 45 points |  Utilize AWS to tap into PySpark and perform data transformations in Spark.|
-|L8 Hands On | 45 points|  Assess the current big data job market.|
-|L9 Practice Hands On | 0 points | Comment the code and utilize try/except to improve functioning in Python.| 
-|L10 Final Project | 200 points |  Orchestrate, distribute, and perform MapReduce on data in Python.|
+|:-- |:-- |:---|
+|Participation|5 points| Participation in laboratory activities|
+|L1 Exam | 8 points | Big Data Overview and Introduction to AWS| 
+|L2 Exam | 8 points | AWS Global Infrastructure and Cloud Security|
+|L3 Exam | 8 points | AWS Networking Content Delivery and Compute| 
+|L4 Exam | 8 points | AWS Storage and Databases |
+|L5 Exam | 8 points | AWS Cloud Architectures Autoscaling and Monitoring|
+|L6 Exam | 8 points | AWS Big Data Analytics S3 Athena|
+|L7 Exam | 8 points | AWS Query Data S3 Athena Glue Analyze Data Redshift | 
+|L8 Exam | 8 points | AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline|
+|L9 Exam | 8 points | AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics|
+|L10 Exam | 23 points | Data Analytics Final Exam|
+|Total|100 points|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Points Total:
 
-- Professionalism, Attendance and Class Participation points 20 (5%) 
-- Assignments/Hands-On/Homework: L1-9 Hands On total points180 (45%)
-- Projects/Competencies/Research: Final Project 200 (50%) 
-- Total points: 400 (100%)
+- Professionalism, Attendance and Class Participation points 5 (5%) 
+- Quizzes/Hands-On Labs: L1-9 Hands On total points 72 (72%)
+- Complete challenge labs and Final Exam 22 (23%) 
+- Total points: 100 (100%)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
-### Final Project:
-With the data given, create one manager and create two workers.  Perform MapReduce to count accidents for each vehicle and most common actions prior to accident.  Lastly, determine which action is most common.
+### Final Exam:
+Students complete the challenges in each Data Analytics Lab to be able to answer Final Exam questions
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
