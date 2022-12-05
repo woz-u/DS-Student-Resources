@@ -72,7 +72,7 @@ Reference: [AWS Regions and Zones](https://docs.aws.amazon.com/AWSEC2/latest/Use
   <img  src="Media/AWS-Region-Features.png" width="600" alt="AWS Region Features">
 </p>
 
-![](Media/AWS-Region-Features.png)
+
 
 ## Features
 

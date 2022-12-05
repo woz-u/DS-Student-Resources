@@ -1,27 +1,27 @@
 # DS Big Data Analytics - AWS
 
-**Course Description:** The Big Data Analytics - AWS course introduces students to Big Data at a hands-on level and gives students exposure and practice with several skills and tools currently in use on Amazon Web Services (AWS).  These skills start with learning cloud foundations, and then broadening methods will be used to help students analyze substantial amounts of data utilizing AWS.  The course helps learners develop skills with AWS services that are critical for conducting analysis of big data problems. The course consists of a series of labs that supports data engineering, data analysis, or data science.
+**Course Description:** The Big Data Analytics - AWS course introduces students to Big Data at a hands-on level and gives students exposure and practice with several skills and tools currently in use on Amazon Web Services (AWS).  These skills start with learning cloud foundations, and then broadening methods will be used to help students analyze substantial amounts of data utilizing AWS.  The course helps learners develop skills with AWS services that are critical for conducting analysis of big data problems. The course consists of a series of labs that supports data engineering, data analysis, and data science.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 |                     |    |
 |:---                 |---:|
 |Quarter Credit Hours:|3|
-|Course Length:       |40 hours|
-|Prerequisites:       |DS102, DS104, DS109|
+|Course Length:       |60 hours|
+|Prerequisites:       |DS102, DS104, DS108, DS109|
 |Proficiency Exam:    |Yes|
 |Theory Hours: 	      |20|
 |Laboratory Hours:	  |20|
 |Externship Hours:	  |0 |
 |Outside Hours:	      |10|
-|Total Contact Hours: |40|
+|Total Contact Hours: |10|
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 
 |Lesson Number|Lesson Name|
 |:---:        |:---       |
-|1   | Big Data Overview and Introduction to AWS |
+|1   | Big Data Overview and Introduction to Amazon Web Services (AWS) |
 |2   | AWS Global Infrastructure and Cloud Security             |
 |3   | AWS Networking Content Delivery and Compute            |
 |4   | AWS Storage and Databases|
@@ -35,25 +35,17 @@
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 ### Required Resources: 
-- Ground-based students are required to bring a late model laptop computer (either PC or MacBook) to class every day.  
+- Students are required to have a late model laptop or desktop computer with internet access.  
+    - Minimum: PC (Windows 10/11) or Mac (Big Sur or newer) laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
 
-- Online students are required to have a late model laptop or desktop computer with internet access.  
+    - Recommended: PC (Windows 10/11) or Mac laptop(Big Sur or newer). 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
 
-- Minimum: PC (Windows 10/11) or Mac (Big Sur or newer) laptop. 8GB ram, 512GB HD, Intel Core i5,  AMD Ryzen 5, or Apple Intel or M1 Chipsets.
-
-- Recommended: PC (Windows 10/11) or Mac laptop(Big Sur or newer). 16GB ram, 1TB SSD, Intel Core i7, AMD Ryzen 7, or Apple M1/M1 Pro Chipsets.
-
-- Professionals: PC (Windows 10/11) or Mac(Big Sur or newer). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
-
+    - Professionals: PC (Windows 10/11) or Mac(Big Sur or newer). 32-64 GB ram, 2-8TB SSD, Intel Core i9, AMD Ryzen 9/Threadripper, or Apple M1 Max Chipsets.
 - It is a requirement that you are able to download programming resources to your laptop/desktop for this class. (This means you need a steady internet high bandwidth connection.)
-
 - You are required to have a quiet place to study and to be able to focus on the material.
-
 - You are required to have uninterrupted weekly 1:1 video meetings with your mentor.
-
 - You are required to log into the Learning Management System (LMS) daily for at least 20 minutes.
-
-- Please follow and review each lesson page by page coding examples provided as this will ensure you have a full understanding for your final hands-on assignments.
+- This course is required to have AWS Academy access. You should receive an email invite.  If you do not receive an email invite, please contact your course contact.
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
@@ -139,7 +131,8 @@ Upon successful completion of this course, students will be able to:
 - Identify the different types of storage
 - Explain Amazon S3
 - Identify the functionality in Amazon S3
-- Explain Amazon EBS•Identify the functionality in Amazon EBS
+- Explain Amazon EBS
+- Identify the functionality in Amazon EBS
 - Perform functions in Amazon EBS to build an Amazon EC2 storage solution
 - Explain Amazon EFS
 - Identify the functionality in Amazon EFS
@@ -260,7 +253,7 @@ Class: DSO107-AWS Cloud Foundation (CF), Data Analytics (DA)
 
 - Professionalism, Attendance and Class Participation points 5 (5%) 
 - Quizzes/Hands-On Labs: L1-9 Hands On total points 72 (72%)
-- Complete challenge labs and Final Exam 22 (23%) 
+- Complete challenge labs and Final Exam 23 (23%) 
 - Total points: 100 (100%)
 
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
