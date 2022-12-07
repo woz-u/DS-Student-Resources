@@ -1,5 +1,5 @@
 ```c-lms
-activity-name: AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
+activity-name: AWS Analyze Streaming Data with Kinesis Firehose, Analyze IoT Data & Analytics
 topic: Amazon Kinesis Data Firehose
 ```
 

@@ -1,5 +1,5 @@
 ```c-lms
-activity-name: Big Data Overview and Introduction to Amazon Web Services (AWS)
+activity-name: Big Data Overview and Introduction to Amazon Web Services (AWS) 
 topic: Big Data Overview
 ```
 

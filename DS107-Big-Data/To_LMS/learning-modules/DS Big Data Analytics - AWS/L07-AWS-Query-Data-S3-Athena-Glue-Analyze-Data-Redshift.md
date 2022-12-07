@@ -1,5 +1,5 @@
 ```c-lms
-activity-name: AWS Query Data S3 Athena Glue Analyze Data Redshift
+activity-name: AWS Query Data with Athena and Glue, in Amazon Data Redshift and S3
 topic: What is AWS Glue?
 ```
 

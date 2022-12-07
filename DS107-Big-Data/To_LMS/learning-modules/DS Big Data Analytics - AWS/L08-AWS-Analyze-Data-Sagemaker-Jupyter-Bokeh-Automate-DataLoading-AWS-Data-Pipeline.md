@@ -1,5 +1,5 @@
 ```c-lms
-activity-name: AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
+activity-name: AWS Analyze Data using Sagemaker and Automate Data Loading Data Pipeline
 topic: The Jupyter Project: Jupyter Notebook and JupyterLab
 ```
 
