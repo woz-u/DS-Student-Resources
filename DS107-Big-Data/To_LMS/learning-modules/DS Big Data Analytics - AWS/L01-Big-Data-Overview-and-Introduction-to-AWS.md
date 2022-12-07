@@ -3,6 +3,8 @@ activity-name: Big Data Overview and Introduction to Amazon Web Services (AWS)
 topic: Big Data Overview
 ```
 
+<iframe src="https://player.vimeo.com/video/778931015?h=e6443add1f" width="640" height="363" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Big Data Overview and Introduction to Amazon Web Services
 
 <div class="panel panel-success">
