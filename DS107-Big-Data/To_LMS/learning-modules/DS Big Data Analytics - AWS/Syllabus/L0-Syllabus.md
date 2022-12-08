@@ -156,7 +156,7 @@ Upon successful completion of this course, students will be able to:
 - Explain how Amazon EC2 Auto Scaling launches and releases servers in response to workload changes
 - Perform scaling and load balancing tasks to improve an architecture
 
-### Lesson 6 AWS Big Data Analytics S3 Athena
+### Lesson 6 AWS Big Data Analytics S3 & Athena
 - Describe the role of the Amazon S3 service in big data solutions.
 - Explain how AWS Identity and Access Management (IAM) controls access to Amazon S3.
 - Create an S3 bucket.
@@ -170,7 +170,7 @@ Upon successful completion of this course, students will be able to:
 
 ### Week 3
 
-### Lesson 7 AWS Query Data S3 Athena Glue Analyze Data Redshift
+### Lesson 7 AWS Query Data with Athena and Glue, in Amazon Data Redshift and S3
 - Access AWS Glue in the AWS Management Console.
 - Create a crawler with AWS Glue.
 - Create a database and table with AWS Glue.
@@ -180,7 +180,7 @@ Upon successful completion of this course, students will be able to:
 - Load data from Amazon S3 into Amazon Redshift.
 - Query data in Amazon Redshift.
 
-### Lesson 8 AWS Analyze Data Sagemaker Jupyter Bokeh Automate Data Loading Data Pipeline
+### Lesson 8 AWS Analyze Data using Sagemaker and Automate Data Loading Data Pipeline
 - Describe Jupyter notebooks and the Bokeh visualization package.
 - Create a Jupyter notebook with Amazon SageMaker.
 - Import data into a Jupyter notebook.
@@ -192,7 +192,7 @@ Upon successful completion of this course, students will be able to:
 - Troubleshoot a data pipeline.
 - Export data from Amazon Redshift to a Jupyter notebook.
 
-### Lesson 9 AWS Analyze Streaming Data Kinesis Firehose OpenSearch Kibana Analyze IoT Data & Analytics
+### Lesson 9 AWS Analyze Streaming Data with Kinesis Firehose, Analyze IoT Data & Analytics
 - Access Amazon Kinesis Data Firehose and Amazon Elasticsearch Service (Amazon ES) in the AWS Management Console.
 - Create a Kinesis Data Firehose delivery stream.
 - Integrate a Kinesis Data Firehose delivery stream with Amazon ES.
