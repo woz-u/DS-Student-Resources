@@ -1,0 +1,706 @@
+﻿ID,Mentor,Total Minutes,Program,Start Date,Language,Campus,Grade,LMS Course
+198502203,"Herrera, Matthew",807,BELHAVEN-SWD.v2,5/23/2022,C#,Belhaven,#N/A,CSC135
+427334800,"Misner, Marcy",104,BELHAVEN-DS,3/21/2022,0,Belhaven,#N/A,CSC166C
+955319035,"Villanueva, Linda",-,BELHAVEN-SWD.v2,5/3/2021,Javascript,Belhaven,#N/A,-
+465305991,"Wheeless, Kyle",-,BELHAVEN-SWD.v2,5/3/2021,Javascript,Belhaven,#N/A,-
+303143246,"Smith, Joseph",-,BELHAVEN-SWD.v2,5/3/2021,Javascript,Belhaven,#N/A,-
+986840682,"Raetano, Joseph",-,BELHAVEN-DS,6/15/2020,0,Belhaven,#N/A,-
+862789677,"Villanueva, Linda",-,BELHAVEN-SWD.v2,8/24/2020,C#,Belhaven,#N/A,-
+620321084,"Boucher, Julie",35,BELHAVEN-DS,8/22/2022,0,Belhaven,#N/A,BELDSO
+339999808,"Boucher, Julie",0,BELHAVEN-DS,8/22/2022,0,Belhaven,#N/A,BELDSO
+625519676,"Dedmon, Lauren",1580,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+770997181,"Saleh, Mohamad",1918,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+868822604,"Puckett, Latrice",2185,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+302175763,"Raetano, Marisa",3106,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO109
+234194575,"Dedmon, Lauren",2086,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+597626030,"Saleh, Mohamad",356,EA-DSO,6/28/2021,0,Entity Academy,#N/A,DSO110
+517540208,"Puckett, Latrice",1555,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+291027952,"Misner, Marcy",1431,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+623232589,"Raetano, Marisa",483,EA-DSO,3/15/2021,0,Entity Academy,#N/A,DSO109
+438776304,"Puckett, Latrice",237,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+791502780,"Golden, Brian",2179,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+890521290,"Dedmon, Lauren",710,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+817195883,"Puckett, Latrice",2270,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+654871539,"Villanueva, Linda",3305,EA-SWD,5/30/2022,0,Entity Academy,#N/A,SWD102-JS-21
+849566224,"Saleh, Mohamad",1221,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+374471263,"Raetano, Marisa",2413,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+567324513,"Raetano, Marisa",556,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO109
+139822683,"Panos, Maria",2466,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+643267750,"Misner, Marcy",4399,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+493276431,"Dedmon, Lauren",1857,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+276977569,"Panos, Maria",1437,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO108C
+960005874,"Puckett, Latrice",2615,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+387748836,"Puckett, Latrice",454,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+477569675,"Raetano, Marisa",434,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO109
+807789893,"Saleh, Mohamad",1232,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+145933596,"Panos, Maria",4420,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+262809473,"Saleh, Mohamad",1784,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO110
+283882000,"Raetano, Marisa",4648,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+702328660,"Golden, Brian",1227,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+564123390,"Puckett, Latrice",6208,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+396400892,"Golden, Brian",1223,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+235221370,"Saleh, Mohamad",333,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO110
+723837840,"Puckett, Latrice",1598,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+597782713,"Misner, Marcy",2366,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO109
+854141578,"Panos, Maria",643,EA-DSO,8/9/2021,0,Entity Academy,#N/A,DSO103C
+954921650,"Misner, Marcy",3810,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO104C
+685803707,"Dedmon, Lauren",862,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+547328684,"Dedmon, Lauren",3373,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+291515252,"Saleh, Mohamad",3072,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO110
+779984929,"Saleh, Mohamad",759,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+116480120,"Golden, Brian",1180,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+735080253,"Dedmon, Lauren",1038,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO106C
+172443395,"Raetano, Marisa",934,EA-DSO,4/26/2021,0,Entity Academy,#N/A,DSO103C
+537161414,"Golden, Brian",1514,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+763477048,"Dedmon, Lauren",1252,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+198835169,"Misner, Marcy",5752,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+697053345,"Dedmon, Lauren",2566,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+484112900,"Dedmon, Lauren",2947,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+817450460,"Villanueva, Linda",402,EA-SWD,1/17/2022,0,Entity Academy,#N/A,SWD106C
+513918533,"Misner, Marcy",2142,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+256121255,"Panos, Maria",638,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO105C
+356627699,"Puckett, Latrice",3564,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+946628334,"Villanueva, Linda",229,EA-SWD,4/18/2022,0,Entity Academy,#N/A,SWD102-JS-21
+289680910,"Dedmon, Lauren",477,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO104C
+977173287,"Boucher, Julie",1285,EA-DSO,8/9/2021,0,Entity Academy,#N/A,DSO105C
+427142620,"Golden, Brian",896,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+788903611,"Puckett, Latrice",1735,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+883464424,"Puckett, Latrice",1108,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+387794498,"Panos, Maria",1689,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+477708967,"Golden, Brian",808,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+807830831,"Dedmon, Lauren",3109,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+652931842,"Puckett, Latrice",2757,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+508829492,"Puckett, Latrice",2188,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+942301576,"Dedmon, Lauren",2897,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+284009611,"Saleh, Mohamad",407,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+772175366,"Wheeless, Kyle",129,EA-SWD,10/11/2021,0,Entity Academy,#N/A,SWD109C
+302612150,"Villanueva, Linda",3913,EA-SWD,7/11/2022,0,Entity Academy,#N/A,SWD100C
+794599038,"Raetano, Marisa",2301,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+420305281,"Misner, Marcy",355,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+157410875,"Saleh, Mohamad",478,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO110
+659649700,"Villanueva, Linda",3179,EA-SWD,7/11/2022,0,Entity Academy,#N/A,SWD100C
+855374929,"Misner, Marcy",2836,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+685816868,"Saleh, Mohamad",789,EA-DSO,3/15/2021,0,Entity Academy,#N/A,DSO110
+780228086,"Dedmon, Lauren",1458,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+384394776,"Puckett, Latrice",1393,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO109
+117967647,"Saleh, Mohamad",1023,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+735856864,"Dedmon, Lauren",1380,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+334903507,"Raetano, Marisa",3798,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+939388007,"Puckett, Latrice",1895,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+439072967,"Raetano, Marisa",2143,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+676297785,"Dedmon, Lauren",1371,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+557798201,"Saleh, Mohamad",289,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+289812448,"Saleh, Mohamad",1051,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+778018865,"Saleh, Mohamad",368,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+109337681,"Puckett, Latrice",1290,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+209399140,"Saleh, Mohamad",804,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+568403760,"Saleh, Mohamad",101,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO110
+308696201,"Raetano, Marisa",1996,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+899922184,"Saleh, Mohamad",474,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+400888862,"Golden, Brian",3502,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+141247607,"Panos, Maria",1064,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+645563123,"Dedmon, Lauren",1013,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+861558303,"Saleh, Mohamad",979,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO110
+365417128,"Misner, Marcy",2204,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+692474514,"Misner, Marcy",151,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO104C
+884252342,"Villanueva, Linda",2838,EA-SWD,7/11/2022,0,Entity Academy,#N/A,SWD100C
+124465550,"Dedmon, Lauren",1015,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+813431471,"Villanueva, Linda",2459,EA-SWD,5/30/2022,0,Entity Academy,#N/A,SWD102-JS-21
+912684889,"Golden, Brian",3216,EA-CSO,6/20/2022,0,Entity Academy,#N/A,CSO101
+773405350,"Panos, Maria",1133,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO105C
+973590312,"Misner, Marcy",2023,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+302635303,"Villanueva, Linda",3132,EA-SWD,3/28/2022,0,Entity Academy,#N/A,SWD103C-RT
+896050641,"Misner, Marcy",3141,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+157515096,"Panos, Maria",5215,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO101C
+166239906,"Raetano, Marisa",2652,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+757916950,"Misner, Marcy",1871,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+984926465,"Raetano, Marisa",957,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO105C
+578443947,"Saleh, Mohamad",1518,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+803278386,"Misner, Marcy",2027,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+910133100,"Dedmon, Lauren",2088,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+406476623,"Dedmon, Lauren",1570,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+144338465,"Panos, Maria",479,EA-DSO,3/15/2021,0,Entity Academy,#N/A,DSO103C
+736996667,"Puckett, Latrice",1670,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+615572437,"Dedmon, Lauren",2384,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+173122530,"Lorenzo, Jessenia",1658,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO105C
+677827069,"Saleh, Mohamad",1218,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+370988278,"Boucher, Julie",3352,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+105251848,"Panos, Maria",1201,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+557977496,"Misner, Marcy",1395,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO108C
+228007067,"Golden, Brian",2459,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+656930110,"Saleh, Mohamad",871,EA-DSO,7/19/2021,0,Entity Academy,#N/A,DSO110
+753435334,"Saleh, Mohamad",881,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+447599696,"Misner, Marcy",2206,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+544866165,"Saleh, Mohamad",1134,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+798973042,"Panos, Maria",3794,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+902202189,"Puckett, Latrice",3988,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+401126597,"Puckett, Latrice",2006,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+645721206,"Panos, Maria",3349,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+885516821,"Panos, Maria",1270,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+125633363,"Golden, Brian",1150,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+994378274,"Misner, Marcy",1536,EA-DSO,4/18/2022,0,Entity Academy,#N/A,DSO104C
+585708115,"Golden, Brian",1211,EA-CSO,6/20/2022,0,Entity Academy,#N/A,CSO101
+848012630,"Dedmon, Lauren",2395,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+179120818,"Raetano, Marisa",1278,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO103C
+285116621,"Saleh, Mohamad",498,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+108487640,"Dedmon, Lauren",1765,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO109
+725815350,"Dedmon, Lauren",3751,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+825301162,"Dedmon, Lauren",1504,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+429350188,"Puckett, Latrice",2043,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+275730919,"Puckett, Latrice",1709,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+549509770,"Golden, Brian",2544,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+474836056,"Misner, Marcy",4355,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+221144866,"Saleh, Mohamad",304,EA-DSO,9/20/2021,0,Entity Academy,#N/A,DSO110
+580750650,"Saleh, Mohamad",515,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+316149270,"Panos, Maria",1397,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO109
+506433792,"Golden, Brian",1263,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+246948662,"Panos, Maria",2019,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+616281353,"Saleh, Mohamad",104,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+745890093,"Saleh, Mohamad",734,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+281876252,"Panos, Maria",652,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO103C
+867984067,"Golden, Brian",343,EA-CSO,6/20/2022,0,Entity Academy,#N/A,CSO101
+106136272,"Villanueva, Linda",2569,EA-SWD,6/20/2022,0,Entity Academy,#N/A,SWD100C
+463858698,"Misner, Marcy",2030,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+792488018,"Raetano, Marisa",2687,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+392016494,"Puckett, Latrice",1170,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+589607619,"Saleh, Mohamad",459,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+375459743,"Puckett, Latrice",783,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+310384910,"Dedmon, Lauren",2136,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO104C
+496885301,"Puckett, Latrice",3841,EA-DSO,4/26/2021,0,Entity Academy,#N/A,DSO105C
+341426252,"Saleh, Mohamad",190,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+171478667,"Panos, Maria",3751,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+694549460,"Puckett, Latrice",325,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO105C
+512598021,"Golden, Brian",3994,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+741185484,"Misner, Marcy",2284,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+267737290,"Panos, Maria",2045,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+444631821,"Dedmon, Lauren",649,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+775672136,"Raetano, Marisa",2643,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+872516236,"Panos, Maria",5529,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+235780512,"Saleh, Mohamad",858,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+825905455,"Misner, Marcy",3073,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+326831371,"Puckett, Latrice",2462,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+932402805,"Villanueva, Linda",2951,EA-SWD,7/11/2022,0,Entity Academy,#N/A,SWD100C
+429566318,"Saleh, Mohamad",741,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO110
+169173055,"Herrera, Matthew",853,EA-SWD,1/17/2022,0,Entity Academy,#N/A,SWD106C
+668538821,"Puckett, Latrice",1009,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+476904191,"Panos, Maria",3517,EA-DSO,10/11/2021,0,Entity Academy,#N/A,DSO105C
+145342690,"Panos, Maria",288,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO103C
+746097408,"Panos, Maria",7331,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO104C
+770784328,"Saleh, Mohamad",536,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+201755178,"Puckett, Latrice",2758,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO108C
+323040360,"Golden, Brian",2143,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+272429362,"Misner, Marcy",1662,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+115429914,"Dedmon, Lauren",1496,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+833058276,"Panos, Maria",2093,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+935189139,"Panos, Maria",1443,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+459064127,"Puckett, Latrice",1240,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+198131896,"Dedmon, Lauren",994,EA-DSO,5/30/2022,0,Entity Academy,#N/A,DSO102C
+790293537,"Saleh, Mohamad",555,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+587254919,"Misner, Marcy",2511,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+412256780,"Dedmon, Lauren",1670,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO104C
+147803467,"Misner, Marcy",3889,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO105C
+632170990,"Lorenzo, Jessenia",591,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO105C
+849141041,"Panos, Maria",1779,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+355861100,"Misner, Marcy",2253,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+288751143,"Smith, Joseph",1758,EA-SWD,12/13/2021,0,Entity Academy,#N/A,SWD106C
+207118584,"Golden, Brian",486,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+566533262,"Saleh, Mohamad",1304,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+237984517,"Puckett, Latrice",2692,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO105C
+923984545,"Golden, Brian",2473,EA-CSO,6/20/2022,0,Entity Academy,#N/A,CSO101
+158172584,"Raetano, Marisa",4525,EA-DSO,6/7/2021,0,Entity Academy,#N/A,DSO105C
+169726690,"Misner, Marcy",2086,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+455746021,"Lorenzo, Jessenia",131,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO105C
+713601337,"Saleh, Mohamad",1253,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+582683116,"Golden, Brian",2329,EA-CSO,6/20/2022,0,Entity Academy,#N/A,CSO101
+738551045,"Puckett, Latrice",1539,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+836280460,"Puckett, Latrice",2176,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO103C
+172313789,"Saleh, Mohamad",79,EA-DSO,6/7/2021,0,Entity Academy,#N/A,DSO110
+674325071,"Panos, Maria",1018,EA-DSO,6/20/2022,0,Entity Academy,#N/A,DSO102C
+727975837,"Raetano, Marisa",199,EA-DSO,8/9/2021,0,Entity Academy,#N/A,DSO103C
+158570534,"Saleh, Mohamad",393,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+788328506,"Puckett, Latrice",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+791575464,"Saleh, Mohamad",1521,EA-DSO,11/22/2021,0,Entity Academy,#N/A,DSO110
+753199918,"Golden, Brian",775,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+705228139,"Saleh, Mohamad",374,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+107318358,"Saleh, Mohamad",613,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO110
+744438638,"Golden, Brian",813,EA-CSO,7/11/2022,0,Entity Academy,#N/A,CSO100
+624663960,"Panos, Maria",626,EA-DSO,5/9/2022,0,Entity Academy,#N/A,DSO109
+341197389,"Puckett, Latrice",1286,EA-DSO,2/7/2022,0,Entity Academy,#N/A,DSO105C
+434481098,"Panos, Maria",120,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO102C
+913456323,"Misner, Marcy",993,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO103C
+265108116,"Misner, Marcy",369,EA-DSO,12/13/2021,0,Entity Academy,#N/A,DSO106C
+299322122,"Villanueva, Linda",398,EA-SWD,7/11/2022,0,Entity Academy,#N/A,SWD100C
+979088605,"Puckett, Latrice",349,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO105C
+535279270,"Smith, Joseph",-,EA-SWD,6/20/2022,0,Entity Academy,#N/A,-
+411822974,"Misner, Marcy",660,EA-DSO,7/11/2022,0,Entity Academy,#N/A,DSO101C
+540400263,"Dedmon, Lauren",0,EA-DSO,1/17/2022,0,Entity Academy,#N/A,DSO109
+896739453,"Panos, Maria",654,EA-DSO,3/28/2022,0,Entity Academy,#N/A,DSO108C
+723506929,"Dedmon, Lauren",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+666985736,"Raetano, Marisa",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+751902604,"Misner, Marcy",-,EA-DSO,8/30/2021,0,Entity Academy,#N/A,-
+520187835,"Smith, Joseph",-,EA-SWD,5/9/2022,Javascript,Entity Academy,#N/A,-
+930539285,"Panos, Maria",-,EA-DSO,6/20/2022,0,Entity Academy,#N/A,-
+186120178,"Misner, Marcy",0,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO104C
+436609685,"Raetano, Marisa",-,EA-DSO,3/28/2022,0,Entity Academy,#N/A,-
+804562142,"Dedmon, Lauren",-,EA-DSO,3/28/2022,0,Entity Academy,#N/A,-
+893035049,"Misner, Marcy",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+395378100,"Dickson, Jilian",-,EA-DSO,5/9/2022,0,Entity Academy,#N/A,-
+278228400,"Dickson, Jilian",-,EA-DSO,5/9/2022,0,Entity Academy,#N/A,-
+942156328,"Misner, Marcy",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+471904420,"Dedmon, Lauren",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+721803063,"Dedmon, Lauren",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+311463472,"Dedmon, Lauren",-,EA-DSO,3/28/2022,0,Entity Academy,#N/A,-
+436850818,"Dedmon, Lauren",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+356550764,"Puckett, Latrice",-,EA-DSO,11/1/2021,0,Entity Academy,#N/A,-
+746925720,"Misner, Marcy",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+355165170,"Puckett, Latrice",-,EA-DSO,11/1/2021,0,Entity Academy,#N/A,-
+774165252,"Lorenzo, Jessenia",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+758104464,"Misner, Marcy",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+940669874,"Dickson, Jilian",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+628995851,"Saleh, Mohamad",215,EA-DSO,11/1/2021,0,Entity Academy,#N/A,DSO110
+560502568,"Dickson, Jilian",-,EA-DSO,10/11/2021,0,Entity Academy,#N/A,-
+839727956,"Raetano, Marisa",-,EA-DSO,5/17/2021,0,Entity Academy,#N/A,-
+121865010,"Dedmon, Lauren",-,EA-DSO,9/20/2021,0,Entity Academy,#N/A,-
+408723990,"Villanueva, Linda",-,EA-SWD,3/28/2022,0,Entity Academy,#N/A,-
+858300230,"Herrera, Matthew",-,EA-SWD,1/17/2022,Javascript,Entity Academy,#N/A,-
+697906670,"Raetano, Marisa",-,EA-DSO,3/28/2022,0,Entity Academy,#N/A,-
+913614282,"Dickson, Jilian",-,EA-DSO,9/20/2021,0,Entity Academy,#N/A,-
+386293100,"Dedmon, Lauren",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+668574694,"Misner, Marcy",-,EA-DSO,3/28/2022,0,Entity Academy,#N/A,-
+350760330,"Puckett, Latrice",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+836648499,"Draper, Hilary",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+235339190,"Draper, Hilary",-,EA-DSO,6/7/2021,0,Entity Academy,#N/A,-
+402805454,"Draper, Hilary",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+796131794,"Puckett, Latrice",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+331989613,"Villanueva, Linda",-,EA-SWD,11/1/2021,0,Entity Academy,#N/A,-
+221495728,"Draper, Hilary",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+651544785,"Dickson, Jilian",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+987070354,"Dickson, Jilian",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+689228500,"Dickson, Jilian",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+427046706,"Draper, Hilary",-,EA-DSO,3/15/2021,0,Entity Academy,#N/A,-
+324341998,"Draper, Hilary",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+177887623,"Villanueva, Linda",-,EA-SWD,12/13/2021,0,Entity Academy,#N/A,-
+982740078,"Puckett, Latrice",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+865276210,"Villanueva, Linda",-,EA-SWD,1/17/2022,0,Entity Academy,#N/A,-
+259152567,"Dickson, Jilian",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+120900024,"Draper, Hilary",-,EA-DSO,8/30/2021,0,Entity Academy,#N/A,-
+399291885,"Puckett, Latrice",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+513432933,"Dickson, Jilian",-,EA-DSO,2/28/2022,0,Entity Academy,#N/A,-
+430658045,"Misner, Marcy",-,EA-DSO,2/7/2022,0,Entity Academy,#N/A,-
+389456275,"Draper, Hilary",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+620356478,"Raetano, Marisa",-,EA-DSO,6/7/2021,0,Entity Academy,#N/A,-
+633723686,"Draper, Hilary",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+670182671,"Draper, Hilary",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+973199027,"Draper, Hilary",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+634978226,"Lorenzo, Jessenia",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+510768079,"Misner, Marcy",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+923235985,"Draper, Hilary",-,EA-DSO,7/19/2021,0,Entity Academy,#N/A,-
+645871940,"Draper, Hilary",-,EA-DSO,1/17/2022,0,Entity Academy,#N/A,-
+303687941,"Puckett, Latrice",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+595045044,"Draper, Hilary",-,EA-DSO,6/28/2021,0,Entity Academy,#N/A,-
+367743590,"Draper, Hilary",-,EA-DSO,12/13/2021,0,Entity Academy,#N/A,-
+845425913,"Dedmon, Lauren",1804,EA-DSO,2/28/2022,0,Entity Academy,#N/A,DSO101C
+273183638,"Draper, Hilary",-,EA-DSO,10/11/2021,0,Entity Academy,#N/A,-
+107024720,"Draper, Hilary",-,EA-DSO,7/19/2021,0,Entity Academy,#N/A,-
+295881017,"Puckett, Latrice",-,EA-DSO,11/1/2021,0,Entity Academy,#N/A,-
+572474456,"Puckett, Latrice",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+480726221,"Draper, Hilary",-,EA-DSO,11/1/2021,0,Entity Academy,#N/A,-
+924530406,"Dickson, Jilian",-,EA-DSO,8/30/2021,0,Entity Academy,#N/A,-
+835441224,"Boucher, Julie",-,EA-DSO,10/11/2021,0,Entity Academy,#N/A,-
+373747473,"Panos, Maria",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+319158124,"Villanueva, Linda",-,EA-SWD,11/22/2021,0,Entity Academy,#N/A,-
+216591580,"Villanueva, Linda",-,EA-SWD,11/1/2021,0,Entity Academy,#N/A,-
+703709390,"Lorenzo, Jessenia",-,EA-DSO,10/11/2021,0,Entity Academy,#N/A,-
+283716800,"Villanueva, Linda",-,EA-SWD,11/1/2021,0,Entity Academy,#N/A,-
+742872231,"Dedmon, Lauren",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+820536062,"Misner, Marcy",-,EA-DSO,9/20/2021,0,Entity Academy,#N/A,-
+250683704,"Misner, Marcy",-,EA-DSO,11/1/2021,0,Entity Academy,#N/A,-
+450429699,"Lorenzo, Jessenia",-,EA-DSO,11/22/2021,0,Entity Academy,#N/A,-
+909642166,"Draper, Hilary",-,EA-DSO,8/9/2021,0,Entity Academy,#N/A,-
+673217599,"Dedmon, Lauren",-,EA-DSO,6/28/2021,0,Entity Academy,#N/A,-
+471463880,"Draper, Hilary",-,EA-DSO,6/7/2021,0,Entity Academy,#N/A,-
+954918316,"Dickson, Jilian",-,EA-DSO,8/9/2021,0,Entity Academy,#N/A,-
+223196337,"Lorenzo, Jessenia",-,EA-DSO,8/9/2021,0,Entity Academy,#N/A,-
+666772645,"Dickson, Jilian",-,EA-DSO,7/19/2021,0,Entity Academy,#N/A,-
+604246626,"Dickson, Jilian",-,EA-DSO,4/5/2021,0,Entity Academy,#N/A,-
+202482845,"Puckett, Latrice",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+611409621,"Dedmon, Lauren",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+333213253,"Dedmon, Lauren",30,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+557072594,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+946243101,"Dedmon, Lauren",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+874223075,"Dedmon, Lauren",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+827045279,"Villanueva, Linda",0,EA-SWD,8/1/2022,0,Entity Academy,#N/A,ENTSWDO33
+860289720,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+100122283,"Golden, Brian",39,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTSWDO33
+990671649,"Villanueva, Linda",23,EA-SWD,8/1/2022,0,Entity Academy,#N/A,ENTSWDO33
+739452812,"Panos, Maria",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+488196057,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+216489493,"Panos, Maria",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+404330444,"Golden, Brian",22,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+346590526,"Golden, Brian",129,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+675132376,"Dedmon, Lauren",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+587669418,"Misner, Marcy",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+523334702,"Villanueva, Linda",0,EA-SWD,8/1/2022,0,Entity Academy,#N/A,ENTSWDO33
+374710727,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+209154475,"Villanueva, Linda",18,EA-SWD,8/1/2022,0,Entity Academy,#N/A,ENTSWDO33
+140926550,"Misner, Marcy",77,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+238572550,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+860514073,"Raetano, Marisa",120,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+627264382,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+235302147,"Puckett, Latrice",22,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+528181666,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+473298121,"Panos, Maria",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+803270980,"Golden, Brian",147,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+624078760,"Golden, Brian",0,EA-CSO,8/22/2022,0,Entity Academy,#N/A,ENTCSO33
+763985860,"Panos, Maria",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+227664872,"Panos, Maria",64,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+271690244,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+946803205,"Manzano, Shaun",37,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+434231712,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+479343567,"Golden, Brian",52,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+410839200,"Raetano, Marisa",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+264803649,"Misner, Marcy",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+443967739,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+489772774,"Panos, Maria",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+939599561,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+280881096,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+389636040,"Panos, Maria",50,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+715801046,"Dedmon, Lauren",76,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+235381478,"Panos, Maria",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+687556371,"Manzano, Shaun",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+407019580,"Puckett, Latrice",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+161570179,"Golden, Brian",0,EA-CSO,8/22/2022,0,Entity Academy,#N/A,ENTCSO33
+754050532,"Panos, Maria",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+707656410,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+837544098,"Dedmon, Lauren",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+966670817,"Dedmon, Lauren",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+295396064,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+319874610,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+945360378,"Raetano, Marisa",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+703168530,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+957392764,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+192213671,"Puckett, Latrice",0,EA-DSO,8/22/2022,0,Entity Academy,#N/A,ENTDSO33
+910676225,"Raetano, Marisa",115,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+951552933,"Puckett, Latrice",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+143521543,"Golden, Brian",0,EA-CSO,8/22/2022,0,Entity Academy,#N/A,ENTCSO33
+535795040,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+254818557,"Golden, Brian",0,EA-CSO,8/1/2022,0,Entity Academy,#N/A,ENTCSO33
+467963720,"Dedmon, Lauren",26,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+508215675,"Misner, Marcy",0,EA-DSO,8/1/2022,0,Entity Academy,#N/A,ENTDSO33
+117798174,"Stout, Timothy",1743,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+700030600,"Manzano, Shaun",2538,CYS,7/11/2022,0,Online,#N/A,CSO100
+430675056,"Stout, Timothy",2495,CYS,6/20/2022,0,Online,#N/A,CSO101
+131573777,"Wheeless, Kyle",48,SWD,8/30/2021,Javascript,Online,#N/A,SWD109C
+926975370,"Herrera, Matthew",1309,SWD,2/28/2022,Javascript,Online,#N/A,SWD106C
+944520820,"Stout, Timothy",3910,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+872763990,"Smith, Joseph",1592,SWD,4/18/2022,Javascript,Online,#N/A,SWD103C-AN
+962076947,"Smith, Joseph",2699,SWD-Entity,6/20/2022,Javascript,Online,#N/A,SWD101C
+979355610,"Raetano, Marisa",2739,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+139918979,"Lorenzo, Jessenia",1317,DS,5/9/2022,0,Online,#N/A,DSO109
+508325927,"Hernandez, Ricky",1609,MAD04Y21,7/11/2022,0,Online,#N/A,MDO100
+342743069,"Stout, Timothy",1414,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+144585288,"Boucher, Julie",2630,DS-Entity,5/9/2022,0,Online,#N/A,DSO109
+248334970,"Lethco, Nikolas",1879,DS-Entity,6/20/2022,0,Online,#N/A,DSO102C
+667854031,"Stout, Timothy",797,CYS,4/18/2022,0,Online,#N/A,CSO102
+136118030,"Smith, Joseph",2170,SWD-Entity,1/17/2022,Javascript,Online,#N/A,SWD104C-JS
+635168300,"Webster, Robert",1549,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+393953500,"Smith, Joseph",2055,SWD,2/28/2022,Javascript,Online,#N/A,SWD106C
+782189260,"Raetano, Marisa",337,DS-Entity,2/7/2022,0,Online,#N/A,DSO109
+924777700,"Villanueva, Linda",3539,SWD-Entity,6/20/2022,Javascript,Online,#N/A,SWD101C
+514866593,"Webster, Robert",4716,SWD-Entity,7/11/2022,Javascript,Online,#N/A,SWD100C
+870253665,"Manzano, Shaun",817,CYS,11/22/2021,0,Online,#N/A,CSO110
+147442238,"Webster, Robert",2677,SWD,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+801165023,"Villanueva, Linda",1151,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+401675010,"Boucher, Julie",3118,DS-Entity,4/18/2022,0,Online,#N/A,DSO104C
+356052174,"Manzano, Shaun",142,CYS,12/13/2021,0,Online,#N/A,CSO110
+151604487,"Boucher, Julie",1574,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+922063871,"Boucher, Julie",563,DS,3/28/2022,0,Online,#N/A,DSO105C
+947789419,"Stout, Timothy",3429,CYS,5/9/2022,0,Online,#N/A,CSO102
+490537439,"Stout, Timothy",1156,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+692224781,"Herrera, Matthew",1790,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+829831453,"Lethco, Nikolas",1031,DS,6/20/2022,0,Online,#N/A,DSO102C
+597199821,"Manzano, Shaun",1857,CYS,2/28/2022,0,Online,#N/A,CSO106
+760634595,"Raetano, Joseph",966,DS-Entity,11/22/2021,0,Online,#N/A,DSO110
+715595015,"Smith, Joseph",954,SWD,3/28/2022,Javascript,Online,#N/A,SWD103C-RT
+499042022,"Lethco, Nikolas",1877,DS,5/30/2022,0,Online,#N/A,DSO108C
+785786650,"Lethco, Nikolas",1557,DS-Entity,5/9/2022,0,Online,#N/A,DSO108C
+366371604,"Boucher, Julie",2467,DS-Entity,5/30/2022,0,Online,#N/A,DSO108C
+503823859,"Manzano, Shaun",1142,CYS,11/22/2021,0,Online,#N/A,CSO110
+295542362,"Herrera, Matthew",3547,SWD,5/9/2022,Javascript,Online,#N/A,SWD105C
+970760503,"Bowman, William",816,CYS-Entity,3/28/2022,0,Online,#N/A,CSO104
+750361702,"Stout, Timothy",1895,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+911058426,"Lorenzo, Jessenia",873,DS-Entity,3/28/2022,0,Online,#N/A,DSO104C
+854435979,"Lorenzo, Jessenia",1772,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+236152450,"Herrera, Matthew",68,SWD,2/7/2022,Java,Online,#N/A,SWD103C-AN
+189355050,"Stout, Timothy",2712,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+976656546,"Bowman, William",1099,CYS,4/18/2022,Javascript,Online,#N/A,CSO104
+161678562,"Raetano, Joseph",697,DS,11/1/2021,0,Online,#N/A,DSO110
+534414828,"Lethco, Nikolas",4149,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+306648928,"Lorenzo, Jessenia",4792,DS-Entity,5/9/2022,0,Online,#N/A,DSO109
+505889216,"Stout, Timothy",1632,CYS,6/20/2022,0,Online,#N/A,CSO101
+860276031,"Lorenzo, Jessenia",649,DS-Entity,3/28/2022,0,Online,#N/A,DSO108C
+545669515,"Manzano, Shaun",488,CYS,11/22/2021,0,Online,#N/A,CSO110
+892003049,"Herrera, Matthew",1223,SWD,3/28/2022,Javascript,Online,#N/A,SWD103C-AN
+284346638,"Wheeless, Kyle",1088,SWD,11/22/2021,Javascript,Online,#N/A,SWD109C
+812229450,"Stout, Timothy",3073,CYS,6/20/2022,0,Online,#N/A,CSO101
+448793115,"Stout, Timothy",4708,CYS,3/28/2022,0,Online,#N/A,CSO104
+767068000,"Webster, Robert",4717,SWD-Entity,5/30/2022,Java,Online,#N/A,SWD102C-JV
+719976236,"Boucher, Julie",2607,DS-Entity,5/30/2022,0,Online,#N/A,DSO108C
+303543464,"Bowman, William",4652,CYS,5/9/2022,0,Online,#N/A,CSO103
+741598073,"Herrera, Matthew",1081,SWD,6/20/2022,Javascript,Online,#N/A,SWD101C
+931822378,"Lorenzo, Jessenia",1441,DS-Entity,2/28/2022,0,Online,#N/A,DSO105C
+641491140,"Lethco, Nikolas",2783,DS-Entity,6/20/2022,0,Online,#N/A,DSO102C
+863091787,"Boucher, Julie",1617,DS-Entity,5/9/2022,0,Online,#N/A,DSO109
+747418346,"Webster, Robert",3732,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+523763347,"Boucher, Julie",1791,DS-Entity,2/28/2022,0,Online,#N/A,DSO105C
+340578992,"Smith, Joseph",3461,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+297886700,"Bowman, William",2282,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+127865382,"Villanueva, Linda",874,SWD,1/17/2022,Javascript,Online,#N/A,SWD105C
+365716790,"Villanueva, Linda",1686,SWD,3/28/2022,Javascript,Online,#N/A,SWD103C-RT
+175597023,"Wheeless, Kyle",509,SWD-Entity,11/22/2021,Javascript,Online,#N/A,SWD109C
+304851670,"Herrera, Matthew",2542,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+293958781,"Stout, Timothy",1391,CYS,6/20/2022,0,Online,#N/A,CSO101
+309965701,"Bowman, William",1951,CYS,5/9/2022,0,Online,#N/A,CSO103
+508199122,"Butler, Joshua",397,SWD,12/13/2021,Javascript,Online,#N/A,SWD109C
+889254446,"Lorenzo, Jessenia",342,DS-Entity,3/28/2022,0,Online,#N/A,DSO109
+970253807,"Butler, Joshua",235,SWD,10/11/2021,Javascript,Online,#N/A,SWD109C
+409472540,"Smith, Joseph",743,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+142582395,"Raetano, Joseph",937,DS,11/22/2021,0,Online,#N/A,DSO110
+909977986,"Raetano, Marisa",2247,DS-Entity,3/28/2022,0,Online,#N/A,DSO109
+272296748,"Herrera, Matthew",1225,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+800427936,"Bowman, William",963,CYS-Entity,1/17/2022,0,Online,#N/A,CSO106
+257729955,"Bowman, William",760,CYS,3/28/2022,0,Online,#N/A,CSO104
+975493395,"Lorenzo, Jessenia",2003,DS-Entity,2/28/2022,0,Online,#N/A,DSO105C
+898061445,"Smith, Joseph",1432,SWD,5/9/2022,Javascript,Online,#N/A,SWD105C
+914723833,"Stout, Timothy",2317,CYS,7/11/2022,0,Online,#N/A,CSO100
+393541598,"Webster, Robert",2621,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+132182363,"Lorenzo, Jessenia",761,DS-Entity,5/9/2022,0,Online,#N/A,DSO108C
+911168300,"Lorenzo, Jessenia",843,DS-Entity,2/28/2022,0,Online,#N/A,DSO109
+291082868,"Stout, Timothy",1529,CYS,4/18/2022,0,Online,#N/A,CSO104
+788592925,"Boucher, Julie",2248,DS-Entity,4/18/2022,0,Online,#N/A,DSO104C
+280320182,"Stout, Timothy",1427,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+474631190,"Boucher, Julie",2139,DS,4/18/2022,0,Online,#N/A,DSO104C
+776269630,"Stout, Timothy",1820,CYS,3/28/2022,0,Online,#N/A,CSO104
+406167489,"Stout, Timothy",874,CYS,7/11/2022,0,Online,#N/A,CSO100
+713445082,"Lorenzo, Jessenia",2166,DS-Entity,4/18/2022,0,Online,#N/A,DSO104C
+921812248,"Villanueva, Linda",5106,SWD,5/9/2022,Java,Online,#N/A,SWD105C
+622802567,"Stout, Timothy",3397,CYS,6/20/2022,0,Online,#N/A,CSO101
+748478313,"Smith, Joseph",2450,SWD,6/20/2022,Javascript,Online,#N/A,SWD101C
+464579603,"Manzano, Shaun",2114,CYS,1/17/2022,0,Online,#N/A,CSO106
+956774377,"Villanueva, Linda",480,SWD-Entity,1/17/2022,Javascript,Online,#N/A,SWD106C
+914104389,"Stout, Timothy",1869,CYS,6/20/2022,0,Online,#N/A,CSO101
+472724388,"Stout, Timothy",2729,CYS,6/20/2022,0,Online,#N/A,CSO101
+405129286,"Stout, Timothy",3673,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+196131533,"Wheeless, Kyle",1191,SWD,11/22/2021,Java,Online,#N/A,SWD109C
+325230667,"Wheeless, Kyle",695,SWD-Entity,11/1/2021,Javascript,Online,#N/A,SWD109C
+549541249,"Butler, Joshua",272,SWD,12/13/2021,Javascript,Online,#N/A,SWD109C
+688348423,"Smith, Joseph",1887,SWD,3/28/2022,Javascript,Online,#N/A,SWD103C-RT
+447883786,"Raetano, Joseph",721,DS-Entity,11/22/2021,0,Online,#N/A,DSO110
+232129262,"Butler, Joshua",1034,SWD,11/22/2021,Javascript,Online,#N/A,SWD109C
+834052740,"Herrera, Matthew",1878,SWD,5/9/2022,Javascript,Online,#N/A,SWD105C
+568976975,"Webster, Robert",3191,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+736100825,"Bowman, William",2518,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+333516984,"Lorenzo, Jessenia",2342,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+875553300,"Lorenzo, Jessenia",1819,DS-Entity,2/7/2022,0,Online,#N/A,DSO104C
+403903563,"Smith, Joseph",667,SWD,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+309862330,"Webster, Robert",830,SWD-Entity,5/30/2022,Java,Online,#N/A,SWD102C-JV
+630118190,"Herrera, Matthew",1447,SWD-Entity,3/28/2022,Javascript,Online,#N/A,SWD103C-RT
+153223489,"Webster, Robert",1794,SWD,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+103544337,"Stout, Timothy",3036,CYS,6/20/2022,0,Online,#N/A,CSO101
+680155057,"Manzano, Shaun",390,CYS,11/22/2021,0,Online,#N/A,CSO110
+272263920,"Lethco, Nikolas",2729,DS-Entity,5/30/2022,0,Online,#N/A,DSO108C
+215564080,"Raetano, Joseph",312,DS-Entity,9/20/2021,0,Online,#N/A,DSO110
+884686849,"Stout, Timothy",1051,CYS,4/18/2022,0,Online,#N/A,CSO104
+405229573,"Manzano, Shaun",1247,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+539876773,"Raetano, Marisa",5425,DS-Entity,4/18/2022,0,Online,#N/A,DSO104C
+919281126,"Manzano, Shaun",185,CYS-Entity,2/7/2022,0,Online,#N/A,CSO106
+891191163,"Boucher, Julie",1926,DS,1/17/2022,0,Online,#N/A,DSO105C
+990200746,"Boucher, Julie",1641,DS-Entity,9/20/2021,0,Online,#N/A,DSO103C
+232883028,"Stout, Timothy",2658,CYS,6/20/2022,0,Online,#N/A,CSO101
+728394730,"Delgado Medina, Mailing",347,SWD,9/20/2021,Javascript,Online,#N/A,SWD108-18
+174132751,"Lethco, Nikolas",1969,DS-Entity,6/20/2022,0,Online,#N/A,DSO102C
+121001615,"Webster, Robert",3150,SWD,6/20/2022,Java,Online,#N/A,SWD101C
+622747439,"Villanueva, Linda",1339,SWD-Entity,12/13/2021,Javascript,Online,#N/A,SWD106C
+308657613,"Lorenzo, Jessenia",1252,DS-Entity,4/18/2022,0,Online,#N/A,DSO104C
+507508214,"Herrera, Matthew",994,SWD,5/9/2022,Javascript,Online,#N/A,SWD101C
+503569006,"Boucher, Julie",1208,DS-Entity,5/9/2022,0,Online,#N/A,DSO102C
+593153975,"Smith, Joseph",4384,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+185514042,"Webster, Robert",3743,SWD,7/11/2022,Java,Online,#N/A,SWD100C
+300642524,"Stout, Timothy",592,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+104229515,"Villanueva, Linda",1715,SWD,1/17/2022,Javascript,Online,#N/A,SWD106C
+314485908,"Boucher, Julie",576,DS,4/18/2022,0,Online,#N/A,DSO108C
+853702182,"Stout, Timothy",2272,CYS,4/18/2022,0,Online,#N/A,CSO104
+258796846,"Lethco, Nikolas",3318,DS,6/20/2022,0,Online,#N/A,DSO102C
+399508198,"Smith, Joseph",2772,SWD,6/20/2022,Javascript,Online,#N/A,SWD101C
+202047413,"Butler, Joshua",730,SWD,11/1/2021,Javascript,Online,#N/A,SWD109C
+306591872,"Herrera, Matthew",3905,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+205136000,"Herrera, Matthew",336,SWD-Entity,4/18/2022,Javascript,Online,#N/A,SWD102-JS-21
+745356158,"Herrera, Matthew",350,SWD,3/28/2022,Javascript,Online,#N/A,SWD103C-RT
+676027548,"Lorenzo, Jessenia",2083,DS-Entity,2/28/2022,0,Online,#N/A,DSO105C
+952671689,"Lethco, Nikolas",4038,DS-Entity,5/30/2022,0,Online,#N/A,DSO108C
+999938049,"Boucher, Julie",6102,DS,1/17/2022,0,Online,#N/A,DSO105C
+133258026,"Smith, Joseph",2033,SWD,4/18/2022,Javascript,Online,#N/A,SWD105C
+164864195,"Stout, Timothy",2875,CYS,5/30/2022,0,Online,#N/A,CSO102
+574671989,"Manzano, Shaun",2006,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+281395131,"Butler, Joshua",356,SWD,9/20/2021,Javascript,Online,#N/A,SWD109C
+223365181,"Manzano, Shaun",1321,CYS,2/7/2022,0,Online,#N/A,CSO106
+935793584,"Raetano, Joseph",211,DS-Entity,11/1/2021,0,Online,#N/A,DSO110
+847798635,"Lethco, Nikolas",831,DS-Entity,5/30/2022,0,Online,#N/A,DSO102C
+850210337,"Lorenzo, Jessenia",1636,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+365617289,"Bowman, William",795,CYS,2/7/2022,0,Online,#N/A,CSO106
+336149342,"Bowman, William",1540,CYS,1/17/2022,0,Online,#N/A,CSO106
+309198102,"Bowman, William",3914,CYS,2/28/2022,0,Online,#N/A,CSO106
+614136410,"Boucher, Julie",6720,DS-Entity,11/1/2021,0,Online,#N/A,DSO106C
+808932838,"Webster, Robert",471,SWD,7/11/2022,Javascript,Online,#N/A,SWD100C
+142123933,"Bowman, William",1348,CYS,5/30/2022,0,Online,#N/A,CSO102
+732285354,"Lorenzo, Jessenia",5797,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+272186030,"Smith, Joseph",1426,SWD,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+397871729,"Smith, Joseph",1609,SWD,6/20/2022,Java,Online,#N/A,SWD101C
+200588080,"Stout, Timothy",2702,CYS,7/11/2022,0,Online,#N/A,CSO100
+572759773,"Raetano, Joseph",1226,DS-Entity,11/22/2021,0,Online,#N/A,DSO110
+532212104,"Lorenzo, Jessenia",606,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+453505870,"Smith, Joseph",2952,SWD,4/18/2022,Java,Online,#N/A,SWD103C-RT
+934725794,"Raetano, Marisa",1109,DS-Entity,2/7/2022,0,Online,#N/A,DSO105C
+758374341,"Stout, Timothy",5648,CYS-Entity,4/18/2022,0,Online,#N/A,CSO104
+796523672,"Herrera, Matthew",1863,SWD-Entity,5/9/2022,Javascript,Online,#N/A,SWD105C
+382049508,"Lorenzo, Jessenia",1883,DS,2/28/2022,0,Online,#N/A,DSO105C
+924628660,"Boucher, Julie",4244,DS,2/28/2022,0,Online,#N/A,DSO105C
+797937454,"Stout, Timothy",1005,CYS,3/28/2022,0,Online,#N/A,CSO104
+132069780,"Butler, Joshua",552,SWD-Entity,12/13/2021,Javascript,Online,#N/A,SWD109C
+683718300,"Villanueva, Linda",524,SWD,1/17/2022,Javascript,Online,#N/A,SWD105C
+590452203,"Lorenzo, Jessenia",3634,DS-Entity,11/1/2021,0,Online,#N/A,DSO105C
+162356041,"Bowman, William",1113,CYS,5/9/2022,0,Online,#N/A,CSO103
+124431490,"Herrera, Matthew",3799,SWD,2/7/2022,Javascript,Online,#N/A,SWD106C
+389388213,"Golden, Brian",2068,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+980964577,"Bowman, William",2076,CYS,2/7/2022,0,Online,#N/A,CSO106
+338960690,"Herrera, Matthew",2021,SWD,1/17/2022,Java,Online,#N/A,SWD106C
+943817340,"Webster, Robert",2434,SWD-Entity,6/20/2022,Java,Online,#N/A,SWD101C
+720669821,"Raetano, Joseph",244,DS-Entity,11/1/2021,0,Online,#N/A,DSO110
+484368457,"Butler, Joshua",344,SWD-Entity,11/1/2021,Javascript,Online,#N/A,SWD109C
+912732915,"Raetano, Marisa",762,DS-Entity,2/7/2022,0,Online,#N/A,DSO105C
+801888354,"Lethco, Nikolas",3577,DS,7/11/2022,0,Online,#N/A,DSO101C
+420943001,"Boucher, Julie",281,DS,3/28/2022,0,Online,#N/A,DSO108C
+269704216,"Herrera, Matthew",2509,SWD-Entity,2/7/2022,Javascript,Online,#N/A,SWD103C-RT
+143530032,"Lethco, Nikolas",5308,DS-Entity,6/20/2022,0,Online,#N/A,DSO102C
+988748039,"Stout, Timothy",1369,CYS-Entity,5/30/2022,0,Online,#N/A,CSO102
+604329643,"Lethco, Nikolas",2467,DS-Entity,6/20/2022,0,Online,#N/A,DSO102C
+531318897,"Villanueva, Linda",1696,SWD,2/7/2022,Javascript,Online,#N/A,SWD104C-JS
+134934382,"Butler, Joshua",687,SWD,11/1/2021,Javascript,Online,#N/A,SWD109C
+453341337,"Bowman, William",896,CYS,11/1/2021,0,Online,#N/A,CSO106
+445825266,"Stout, Timothy",1637,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+890283970,"Raetano, Joseph",890,DS-Entity,5/9/2022,0,Online,#N/A,DSO110
+177846303,"Raetano, Marisa",2257,DS-Entity,3/28/2022,0,Online,#N/A,DSO105C
+561762360,"Stout, Timothy",2907,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+662010739,"Boucher, Julie",1030,DS-Entity,5/30/2022,0,Online,#N/A,DSO102C
+233308954,"Boucher, Julie",3845,DS,7/11/2022,0,Online,#N/A,DSO101C
+515017787,"Butler, Joshua",342,SWD,11/22/2021,Javascript,Online,#N/A,SWD109C
+870268040,"Smith, Joseph",2564,SWD-Entity,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+702630297,"Boucher, Julie",4883,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+385286986,"Herrera, Matthew",2088,SWD,2/28/2022,Javascript,Online,#N/A,SWD106C
+769139544,"Stout, Timothy",1532,CYS,7/11/2022,0,Online,#N/A,CSO100
+291198006,"Boucher, Julie",852,DS-Entity,8/9/2021,0,Online,#N/A,DSO103C
+406676013,"Herrera, Matthew",2286,SWD,6/20/2022,Javascript,Online,#N/A,SWD101C
+922174398,"Lethco, Nikolas",2272,DS,7/11/2022,0,Online,#N/A,DSO101C
+986016660,"Bowman, William",2163,CYS,4/18/2022,0,Online,#N/A,CSO104
+988180769,"Herrera, Matthew",2333,SWD,5/9/2022,Javascript,Online,#N/A,SWD105C
+174207302,"Lorenzo, Jessenia",1200,DS,3/28/2022,0,Online,#N/A,DSO108C
+134123317,"Boucher, Julie",2359,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+653556597,"Villanueva, Linda",401,SWD,9/20/2021,Javascript,Online,#N/A,SWD106C
+141691908,"Stout, Timothy",1198,CYS-Entity,5/30/2022,0,Online,#N/A,CSO101
+118275478,"Smith, Joseph",993,SWD-Entity,7/11/2022,Javascript,Online,#N/A,SWD100C
+346535640,"Herrera, Matthew",3557,SWD-Entity,6/20/2022,Java,Online,#N/A,SWD101C
+108933383,"Stout, Timothy",3080,CYS,6/20/2022,0,Online,#N/A,CSO101
+521765442,"Smith, Joseph",2337,SWD-Entity,7/11/2022,Javascript,Online,#N/A,SWD100C
+185768579,"Stout, Timothy",1351,CYS,4/18/2022,0,Online,#N/A,CSO104
+599068357,"Stout, Timothy",1137,CYS,7/11/2022,0,Online,#N/A,CSO100
+512166619,"Webster, Robert",4908,SWD-Entity,6/20/2022,Java,Online,#N/A,SWD101C
+381847354,"Lethco, Nikolas",4956,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+924335454,"Smith, Joseph",772,SWD,4/18/2022,Javascript,Online,#N/A,SWD103C-RT
+797896409,"Herrera, Matthew",4400,SWD,6/20/2022,Javascript,Online,#N/A,SWD101C
+202418452,"Boucher, Julie",1623,DS,2/28/2022,0,Online,#N/A,DSO105C
+110007738,"Smith, Joseph",438,SWD,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+640401357,"Herrera, Matthew",529,SWD,5/9/2022,Javascript,Online,#N/A,SWD101C
+419216290,"Bowman, William",3189,CYS,3/28/2022,0,Online,#N/A,CSO104
+426473983,"Smith, Joseph",1713,SWD-Entity,5/30/2022,Javascript,Online,#N/A,SWD102-JS-21
+800052033,"Herrera, Matthew",961,SWD,2/28/2022,Javascript,Online,#N/A,SWD106C
+720339778,"Lorenzo, Jessenia",2384,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+947270184,"Stout, Timothy",3469,CYS-Entity,6/20/2022,0,Online,#N/A,CSO101
+110449903,"Boucher, Julie",1786,DS-Entity,1/17/2022,0,Online,#N/A,DSO105C
+152222335,"Stout, Timothy",3043,CYS,7/11/2022,0,Online,#N/A,CSO100
+952241709,"Stout, Timothy",1731,CYS,4/18/2022,0,Online,#N/A,CSO104
+127256001,"Bowman, William",1961,CYS-Entity,7/11/2022,0,Online,#N/A,CSO100
+643631522,"Raetano, Joseph",0,DS-Entity,12/13/2021,0,Online,#N/A,DSO110
+623241768,"Herrera, Matthew",183,SWD,5/9/2022,Javascript,Online,#N/A,SWD105C
+899161620,"Raetano, Joseph",481,DS-Entity,12/13/2021,0,Online,#N/A,DSO110
+587731703,"Manzano, Shaun",331,CYS,11/22/2021,0,Online,#N/A,CSO110
+128665245,"Boucher, Julie",353,DS-Entity,12/13/2021,0,Online,#N/A,DSO103C
+644656921,"Raetano, Marisa",88,DS-Entity,5/9/2022,0,Online,#N/A,DSO102C
+944024713,"Raetano, Joseph",729,DS,10/11/2021,0,Online,#N/A,DSO110
+844908991,"Boucher, Julie",467,DS-Entity,12/13/2021,0,Online,#N/A,DSO107C
+433080201,"Wheeless, Kyle",273,SWD,10/11/2021,Java,Online,#N/A,SWD109C
+645268610,"Raetano, Joseph",249,DS-Entity,11/1/2021,0,Online,#N/A,DSO110
+718449501,"Butler, Joshua",411,SWD,11/1/2021,Java,Online,#N/A,SWD109C
+455727501,"Lorenzo, Jessenia",799,DS-Entity,7/11/2022,0,Online,#N/A,DSO101C
+779110360,"Stout, Timothy",33,CYS,5/30/2022,0,Online,#N/A,CSO101
+909741087,"Bowman, William",813,CYS,5/9/2022,0,Online,#N/A,CSO101
+706811366,"Hernandez, Ricky",-,MAD04Y21,4/18/2022,Java,Online,#N/A,-
+510196098,"Herrera, Matthew",-,SWD-Entity,3/28/2022,Javascript,Online,#N/A,-
+680009690,"Lorenzo, Jessenia",0,DS-Entity,2/7/2022,0,Online,#N/A,DSO104C
+812421740,"Raetano, Marisa",-,DS-Entity,2/28/2022,0,Online,#N/A,-
+228742442,"Lorenzo, Jessenia",-,DS-Entity,1/17/2022,0,Online,#N/A,-
+894095290,"Smith, Joseph",0,SWD-Entity,8/1/2022,Javascript,Online,#N/A,SWD100C
+622771676,"Webster, Robert",30,SWD-Entity,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+235614622,"Golden, Brian",69,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+639857912,"Bowman, William",185,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+230917353,"Lorenzo, Jessenia",299,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+836999300,"Golden, Brian",185,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+139350061,"Webster, Robert",166,SWD,8/1/2022,Java,Online,#N/A,WOZFSWO33
+494031987,"Golden, Brian",217,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+864468125,"Golden, Brian",161,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+932992228,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+477706839,"Lorenzo, Jessenia",40,DS,8/1/2022,0,Online,#N/A,WOZDSO33
+720032709,"Bowman, William",18,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+289532730,"Bowman, William",341,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+129443540,"Bowman, William",0,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+458171581,"Boucher, Julie",100,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+342411204,"Smith, Joseph",112,SWD-Entity,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+384101362,"Herrera, Matthew",0,SWD-Entity,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+878625684,"Boucher, Julie",36,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+950637196,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+864372986,"Bowman, William",104,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+560563740,"Golden, Brian",42,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+685452055,"Golden, Brian",200,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+596613710,"Lorenzo, Jessenia",54,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+508931424,"Boucher, Julie",54,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+482199284,"Golden, Brian",67,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+563111276,"Webster, Robert",126,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+170000109,"Bowman, William",66,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+456518963,"Smith, Joseph",55,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+267392820,"Golden, Brian",39,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+724614700,"Lorenzo, Jessenia",45,DS,8/1/2022,0,Online,#N/A,WOZDSO33
+430735128,"Lorenzo, Jessenia",87,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+120919171,"Lorenzo, Jessenia",188,DS,8/1/2022,0,Online,#N/A,WOZDSO33
+119623307,"Bowman, William",290,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+219577304,"Boucher, Julie",78,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+701413908,"Webster, Robert",0,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+779486380,"Bowman, William",107,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+892408453,"Bowman, William",0,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+424325024,"Bowman, William",52,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+435710724,"Webster, Robert",0,SWD,8/1/2022,DotNet,Online,#N/A,WOZFSWO33
+200938973,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+992859160,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+809053382,"Herrera, Matthew",78,SWD-Entity,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+279504355,"Bowman, William",71,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+672425651,"Boucher, Julie",119,DS,8/1/2022,0,Online,#N/A,WOZDSO33
+481476720,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+599684770,"Smith, Joseph",21,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+713087822,"Golden, Brian",29,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+480973344,"Bowman, William",120,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+311519143,"Webster, Robert",0,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+195428421,"Lorenzo, Jessenia",42,DS,8/1/2022,0,Online,#N/A,WOZDSO33
+136368560,"Webster, Robert",75,SWD,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+293038885,"Bowman, William",0,CYS-Entity,8/1/2022,0,Online,#N/A,WOZCSO33
+551858455,"Lorenzo, Jessenia",122,DS-Entity,8/1/2022,0,Online,#N/A,WOZDSO33
+385949881,"Golden, Brian",0,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
+517025557,"Webster, Robert",133,SWD-Entity,8/1/2022,Javascript,Online,#N/A,WOZFSWO33
+854159032,"Bowman, William",99,CYS,8/1/2022,0,Online,#N/A,WOZCSO33
