@@ -109,7 +109,8 @@ brew install --cask tableau-public
 
 #install speedtest
 echo "installing speedtest"
-brew install speedtest-cli
+brew tap teamookla/speedtest
+brew install speedtest
 
 #install G*Power
 echo "installing G*Power"
