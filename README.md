@@ -30,5 +30,5 @@ Data Science Student Companion Notebook Series
 
 ## Curriculum Datasets
 
-[ds-datasets.csv](ds-datasets.csv)
-[ds-jupyter-notebooks.csv](ds-jupyter-notebooks.csv)
+- [ds-datasets.csv](ds-datasets.csv)
+- [ds-jupyter-notebooks.csv](ds-jupyter-notebooks.csv)
