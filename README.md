@@ -28,4 +28,6 @@ Data Science Student Companion Notebook Series
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"/>
 
 
+## Curriculum Datasets
 
+[ds-datasets.csv](ds-datasets.csv)
