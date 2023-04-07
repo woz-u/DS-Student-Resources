@@ -1,6 +1,6 @@
 filename,path,extension,size,mime_type,modified_date
 ds-video-catalog.csv,ds-video-catalog.csv,csv,58324,text/csv,2023-04-06 12:55:17
-ds-datasets.csv,ds-datasets.csv,csv,70369,text/csv,2023-04-06 08:52:39
+ds-datasets.csv,ds-datasets.csv,csv,62323,text/csv,2023-04-06 12:56:08
 ds-jupyter-notebooks.csv,ds-jupyter-notebooks.csv,csv,96083,text/csv,2023-04-06 12:54:27
 DS-Students.csv,DS108-Databases/NoSQL/Data/DS-Students.csv,csv,12452,text/csv,2021-11-18 13:17:16
 addresses.csv,DS108-Databases/SQL/Workshops/Week-2/08-Export-to-CSV/addresses.csv,csv,52009,text/csv,2021-12-03 16:18:53
@@ -193,8 +193,6 @@ combined5.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/com
 file1.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/SourceFiles/file1.csv,csv,83,text/csv,2023-01-17 15:43:24
 file2.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/SourceFiles/file2.csv,csv,174,text/csv,2023-01-17 15:46:27
 medical_raw_data.csv,DS104-Data-Wrangling-and-Visualization/Examples/Data_Cleaning_and_PCA_Example/medical_raw_data.csv,csv,2091357,text/csv,2022-07-17 18:42:38
-datasets.csv,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/datasets.csv,csv,191,text/csv,2023-04-05 17:29:26
-datacatalog.csv,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/datacatalog.csv,csv,3353,text/csv,2023-04-05 18:33:52
 breakfast.csv,DS104-Data-Wrangling-and-Visualization/Data/breakfast.csv,csv,44516,text/csv,2021-09-20 18:07:11
 L3P1.csv,DS104-Data-Wrangling-and-Visualization/Data/L3P1.csv,csv,171,text/csv,2021-10-25 07:47:51
 museums.csv,DS104-Data-Wrangling-and-Visualization/Data/museums.csv,csv,6817303,text/csv,2019-09-20 09:54:26
