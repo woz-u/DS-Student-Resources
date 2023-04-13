@@ -33,7 +33,6 @@ brew install --cask github
 echo "installing Jupyter-lab"
 brew install jupyterlab
 
-
 #symlink python to python3 location
 #echo "symlink python to python3"
 #ls -l /usr/local/bin/python*

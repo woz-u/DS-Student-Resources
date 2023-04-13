@@ -21,6 +21,10 @@ brew install --cask github
 #echo "installing python3"
 #brew install python@3.9
 
+#install jupyter-lab
+echo "installing Jupyter-lab"
+brew install jupyterlab
+
 #symlink python to python3 location
 echo "symlink python to python3"
 ls -l /usr/local/bin/python*
@@ -45,10 +49,6 @@ brew install --cask rstudio
 # chown and chmod man pages
 sudo chown -R $(whoami) /usr/local/share/man/man5
 chmod u+w /usr/local/share/man/man5
-
-#install jupyter-lab
-echo "installing Jupyter-lab"
-brew install jupyterlab
 
 #install mysqlworkbench
 echo "install mysqlworkbench"
