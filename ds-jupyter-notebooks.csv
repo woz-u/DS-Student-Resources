@@ -1,7 +1,7 @@
 filename,path,size,modified_date
-DS-Notebook-Catalog.ipynb,DS-Notebook-Catalog.ipynb,8376,2023-04-07 10:40:14
-DS-Data-Catalog.ipynb,DS-Data-Catalog.ipynb,10053,2023-04-07 10:40:51
-DS-Video-Catalog.ipynb,DS-Video-Catalog.ipynb,3750,2023-04-06 12:56:19
+DS-Notebook-Catalog.ipynb,DS-Notebook-Catalog.ipynb,8238,2023-05-15 17:38:18
+DS-Data-Catalog.ipynb,DS-Data-Catalog.ipynb,10076,2023-05-04 16:16:38
+DS-Video-Catalog.ipynb,DS-Video-Catalog.ipynb,3781,2023-04-07 10:55:58
 DS108Questions.ipynb,DS108-Databases/DS108Questions.ipynb,3810,2021-12-27 09:18:13
 DS108NoSQL-L3-Updating-Documents.ipynb,DS108-Databases/NoSQL/DS108NoSQL-L3-Updating-Documents.ipynb,40601,2023-01-13 15:40:22
 DS108NoSQL-L4-Deleting-and-Indexing-Documents.ipynb,DS108-Databases/NoSQL/DS108NoSQL-L4-Deleting-and-Indexing-Documents.ipynb,30187,2023-01-13 15:41:53
@@ -42,7 +42,7 @@ DS108ADVQuestions.ipynb,DS108-Databases/SQL/Advanced SQL lessons/DS108ADVQuestio
 mentor-student.ipynb,DS108-Databases/SQL/Data/mentor-student/mentor-student.ipynb,2814,2021-10-08 17:36:23
 DS102-L9-Data-Exploration.ipynb,DS102-Statistical-Programming-in-R/DS102-L9-Data-Exploration.ipynb,95233,2023-01-03 19:03:44
 DS102L10-Final-Project.ipynb,DS102-Statistical-Programming-in-R/DS102L10-Final-Project.ipynb,8843,2023-01-13 12:38:35
-DS102-L2-Intro-to-R.ipynb,DS102-Statistical-Programming-in-R/DS102-L2-Intro-to-R.ipynb,48317,2023-01-13 12:33:13
+DS102-L2-Intro-to-R.ipynb,DS102-Statistical-Programming-in-R/DS102-L2-Intro-to-R.ipynb,48385,2023-05-09 17:15:57
 DS102-L6-Data-Frames.ipynb,DS102-Statistical-Programming-in-R/DS102-L6-Data-Frames.ipynb,75882,2023-01-13 12:36:40
 DS102-L8-Linear-Regression.ipynb,DS102-Statistical-Programming-in-R/DS102-L8-Linear-Regression.ipynb,84733,2023-01-03 19:03:22
 DS102-L4-Vectors-and-Sample-Statistics.ipynb,DS102-Statistical-Programming-in-R/DS102-L4-Vectors-and-Sample-Statistics.ipynb,48169,2023-01-13 12:35:23
@@ -66,7 +66,7 @@ ggplot.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-2/04-AnatomyGGplo
 Excel-to-R.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/Excel-to-R/Excel-to-R.ipynb,38295,2022-07-12 08:32:36
 2-The-Shape-of-Data.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/B-The-Shape-of-Data-R/2-The-Shape-of-Data.ipynb,1536003,2023-01-04 10:25:50
 Vectors-Functions-For-Loops.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/02-Vectors-Functions-and-For-Loops-Oh-My/Vectors-Functions-For-Loops.ipynb,90689,2022-08-11 16:13:48
-1-Introduction-to-R.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/A-Introduction-to-R/1-Introduction-to-R.ipynb,185600,2023-01-04 10:25:14
+1-Introduction-to-R.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/A-Introduction-to-R/1-Introduction-to-R.ipynb,185606,2023-05-04 16:15:51
 The-R-Base-Stats-and-Graphics-Packages.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/C-Base-Stats-Graphics-Packages-R/The-R-Base-Stats-and-Graphics-Packages.ipynb,180827,2023-02-01 20:05:48
 Problem-Solving-and-Critical-Thinking.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/01-Problem-Solving/Problem-Solving-and-Critical-Thinking.ipynb,3137,2022-05-28 07:59:35
 Problem-Solving-with-Polya.ipynb,DS102-Statistical-Programming-in-R/Workshops/Week-1/01-Problem-Solving/Problem-Solving-with-Polya.ipynb,3530,2022-05-26 14:31:53
@@ -131,7 +131,7 @@ DS105-L7-Ancovas.ipynb,DS105-Intermediate-Statistics/DS105-L7-Ancovas.ipynb,4427
 DS105-L9-Power-Analysis.ipynb,DS105-Intermediate-Statistics/DS105-L9-Power-Analysis.ipynb,49150,2023-01-13 14:00:33
 DS105Questions.ipynb,DS105-Intermediate-Statistics/DS105Questions.ipynb,97675,2021-12-30 16:40:03
 DS105-L8-Manovas.ipynb,DS105-Intermediate-Statistics/DS105-L8-Manovas.ipynb,27906,2023-01-13 14:00:33
-DS105-L4-Anovas.ipynb,DS105-Intermediate-Statistics/DS105-L4-Anovas.ipynb,81899,2023-01-13 13:56:32
+DS105-L4-Anovas.ipynb,DS105-Intermediate-Statistics/DS105-L4-Anovas.ipynb,81899,2023-04-21 12:43:10
 DS105-L2-Normality-and-Transformations.ipynb,DS105-Intermediate-Statistics/DS105-L2-Normality-and-Transformations.ipynb,51984,2023-01-13 13:54:32
 DS105-L6-Mixed-Measures-Anovas.ipynb,DS105-Intermediate-Statistics/DS105-L6-Mixed-Measures-Anovas.ipynb,22536,2023-01-13 13:58:32
 DS105L10-Intermediate-Statistics-Final.ipynb,DS105-Intermediate-Statistics/DS105L10-Intermediate-Statistics-Final.ipynb,7585,2023-01-13 14:12:46
@@ -142,13 +142,13 @@ One-Way-ANOVAs-in-Python.ipynb,DS105-Intermediate-Statistics/Workshops/Week-2/On
 Advanced-Chi-Squares-in-R.ipynb,DS105-Intermediate-Statistics/Workshops/Week-1/02-Advanced-Chi-Squares/Advanced-Chi-Squares-in-R.ipynb,22542,2022-10-20 21:09:58
 Basic-Statistics-Python.ipynb,DS105-Intermediate-Statistics/Workshops/Week-1/01-Basic-Statistics-in-Python/Basic-Statistics-Python.ipynb,100295,2022-10-20 21:09:41
 One-Way-ANOVA-in-R.ipynb,DS105-Intermediate-Statistics/Workshops/Week-1/03-One-Way-ANOVAs-in-R/One-Way-ANOVA-in-R.ipynb,232282,2022-10-20 21:10:15
-DS105-Change-Log.ipynb,DS105-Intermediate-Statistics/Errata/DS105-Change-Log.ipynb,2402,2023-01-25 13:40:08
+DS105-Change-Log.ipynb,DS105-Intermediate-Statistics/Errata/DS105-Change-Log.ipynb,2599,2023-04-21 12:43:10
 Summary-Digest-Intermediate-Statistics.ipynb,DS105-Intermediate-Statistics/Examples/Summary-Digest-Intermediate-Statistics.ipynb,23877,2023-01-19 08:23:02
 DS105-L5-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L5-R.ipynb,188691,2022-05-16 21:57:05
 DS105-L2-BoxCox-Transformations-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L2-BoxCox-Transformations-P.ipynb,23153,2022-05-02 20:24:50
 DS105-L1-PY-Examples.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L1-PY-Examples.ipynb,141911,2022-10-11 17:29:50
 DS105-L6-All-Pages-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L6-All-Pages-R.ipynb,36191,2022-05-26 14:33:05
-DS105-L5-Hands-On-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L5-Hands-On-R.ipynb,167478,2022-05-16 21:57:15
+DS105-L5-Hands-On-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L5-Hands-On-R.ipynb,167143,2023-04-19 18:37:56
 DS105-L6-Repeated-ANOVA-Honey-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L6-Repeated-ANOVA-Honey-R.ipynb,220447,2023-01-19 09:07:19
 DS105-L3-Hands-On-Loans-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L3-Hands-On-Loans-R.ipynb,29219,2023-01-19 17:21:25
 T-Tests-Python-and-R.ipynb,DS105-Intermediate-Statistics/Examples/T-Tests-Python-and-R.ipynb,122575,2022-02-02 15:17:52
@@ -162,11 +162,12 @@ DS105-L1-exploring-the-anime-dataset.ipynb,DS105-Intermediate-Statistics/Example
 DS105-L4-P4-5-Diff-Example-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-P4-5-Diff-Example-R.ipynb,24919,2022-05-16 21:57:22
 DS105-L4-P1-7-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-P1-7-R.ipynb,479350,2022-07-12 17:28:41
 DS105-L3-All-Examples-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L3-All-Examples-P.ipynb,41855,2023-01-18 18:52:41
+L04handsonPython_AvgPrice.ipynb,DS105-Intermediate-Statistics/Examples/L04handsonPython_AvgPrice.ipynb,22016,2023-04-21 12:43:10
 DS105-L2-Hands-On-Seattle-ParksnRec-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L2-Hands-On-Seattle-ParksnRec-R.ipynb,721941,2022-05-02 20:25:21
 DS105-L2-P7-Transforming-Data-PGATourData-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L2-P7-Transforming-Data-PGATourData-P.ipynb,634737,2023-01-25 13:44:23
-DS105-L4-Hands-On-Part-2-Oranges-Python.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-2-Oranges-Python.ipynb,75044,2022-06-27 14:50:16
+DS105-L4-Hands-On-Part-2-Oranges-Python.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-2-Oranges-Python.ipynb,75035,2023-04-21 12:43:10
 DS105-L3-All-Examples-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L3-All-Examples-R.ipynb,75326,2022-07-12 17:28:18
-DS105-L8-Hands-on-Helper-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L8-Hands-on-Helper-R.ipynb,105944,2022-05-16 21:56:31
+DS105-L8-Hands-on-Helper-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L8-Hands-on-Helper-R.ipynb,73556,2023-05-02 08:11:10
 DS105-L1-P1-OlympicEvents-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L1-P1-OlympicEvents-P.ipynb,464112,2021-12-20 12:36:51
 DS105-L1-P2-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L1-P2-R.ipynb,655,2022-07-12 17:37:48
 DS105-L1-P2-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L1-P2-P.ipynb,77953,2022-07-12 17:48:07
@@ -178,8 +179,8 @@ DS105-L7-Hands-On-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L7-Hands-
 DS105-L4-Hands-On-Part-1-R-Oranges.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-1-R-Oranges.ipynb,202572,2022-05-23 13:49:26
 DS105-L8-MANOVA-Example.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L8-MANOVA-Example.ipynb,55454,2022-02-26 11:08:17
 PCA.ipynb,DS105-Intermediate-Statistics/Examples/PCA.ipynb,6553,2022-07-11 19:26:08
-DS105-L4-Hands-On-Part-2-Oranges.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-2-Oranges.ipynb,75044,2022-06-27 14:50:16
 DS105-L4-P1-7-Examples-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-P1-7-Examples-R.ipynb,333248,2022-05-17 17:27:14
+Statistical-Methods-Catalog.ipynb,DS105-Intermediate-Statistics/Examples/Statistical-Methods-Catalog.ipynb,3529,2023-04-21 12:42:46
 DS105-L4-Hands-On-Part-1-R.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-1-R.ipynb,57433,2022-05-16 21:58:17
 DS105-L4-P8-12-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L4-P8-12-P.ipynb,134869,2022-02-08 11:32:40
 DS105-L2-Hands-On-SeattleParksnRec-P.ipynb,DS105-Intermediate-Statistics/Examples/DS105-L2-Hands-On-SeattleParksnRec-P.ipynb,213354,2021-12-12 08:42:17
@@ -249,7 +250,7 @@ Classes.ipynb,DS109-Python/Workshops/Week-2/06-Coding-with-Class/Classes.ipynb,1
 Python-Functions.ipynb,DS109-Python/Workshops/Week-2/05-Functions/Python-Functions.ipynb,6575,2021-11-12 14:40:16
 Functions.ipynb,DS109-Python/Workshops/Week-2/05-Functions/Functions.ipynb,2808,2021-11-05 18:10:42
 Python-Variable-Types.ipynb,DS109-Python/Workshops/Week-1/01-Variables-and-Data-Types/Python-Variable-Types.ipynb,14204,2023-01-04 10:22:21
-Imports-in-Python.ipynb,DS109-Python/Workshops/Week-1/12-Importing-in-Python/Imports-in-Python.ipynb,36904,2022-01-14 19:04:31
+Imports-in-Python.ipynb,DS109-Python/Workshops/Week-1/12-Importing-in-Python/Imports-in-Python.ipynb,36904,2023-04-21 12:43:43
 Lists.ipynb,DS109-Python/Workshops/Week-1/03-Lists/Lists.ipynb,5399,2022-08-17 09:56:41
 if-else.ipynb,DS109-Python/Workshops/Week-1/02-If-Else/if-else.ipynb,4862,2022-08-17 09:56:38
 Common-Errors-in-Python.ipynb,DS109-Python/Workshops/Week-1/10-Addressing-Common-Errors-in-Python/Common-Errors-in-Python.ipynb,29697,2022-08-17 09:56:44
@@ -342,6 +343,7 @@ Inspecting-Data-Python.ipynb,DS109-Python/Examples/Team-Examples/Nolan/Inspectin
 3-0-Data-Structures-Overview.ipynb,DS109-Python/Examples/Python-Basics/3-0-Data-Structures-Overview.ipynb,77324,2023-02-26 10:17:30
 5-Iterators-and-Generators.ipynb,DS109-Python/Examples/Python-Basics/5-Iterators-and-Generators.ipynb,2896,2023-01-27 08:50:18
 10-optimizing-code-holiday-gifts.ipynb,DS109-Python/Examples/Python-Basics/10-optimizing-code-holiday-gifts.ipynb,3488,2023-01-30 14:25:55
+Jupyter-Python.ipynb,DS109-Python/Examples/Jupyter/Jupyter-Python.ipynb,7767,2023-05-01 20:05:18
 Importing_Data.ipynb,DS109-Python/Examples/Importing_Data/Importing_Data.ipynb,298799,2023-03-08 17:44:22
 DS106Questions.ipynb,DS106-Machine-Learning/DS106Questions.ipynb,55284,2021-12-28 20:19:30
 DS106-L2-Modeling-with-logistic-regression.ipynb,DS106-Machine-Learning/Modeling/DS106-L2-Modeling-with-logistic-regression.ipynb,58932,2023-01-13 14:33:56
@@ -515,6 +517,7 @@ PowerBoats.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/PowerBoats.ipyn
 DS104-L4-Helper.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/DS104-L4-Helper.ipynb,6594,2022-05-17 10:25:37
 Character-Encodings-Python.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Character-Encodings-Python.ipynb,24087,2023-01-17 20:41:47
 Combiner.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Combiner.ipynb,21461,2023-01-18 20:06:40
+GGPlotHistogramsTransformations.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/GGPlotHistogramsTransformations.ipynb,678003,2023-04-21 12:43:10
 DS104-L2-Follow-Along-Lesson-P.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/DS104-L2-Follow-Along-Lesson-P.ipynb,78907,2022-06-30 15:00:22
 FedRAMP.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/FedRAMP.ipynb,78768,2023-03-08 17:46:02
 CommonCodes.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/CommonCodes.ipynb,8689,2023-01-18 18:30:31
@@ -529,12 +532,13 @@ Fast-Data-Analysis-in-Python.ipynb,DS104-Data-Wrangling-and-Visualization/Exampl
 Looping-through-directory-reading-into-pandas.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Looping-through-directory-reading-into-pandas.ipynb,10657,2023-01-04 18:11:04
 Prepare-Dataset.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Prepare-Dataset.ipynb,206716,2022-06-22 19:28:54
 DS104-L1-Follow-Along-Lesson-babies-R.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/DS104-L1-Follow-Along-Lesson-babies-R.ipynb,23634,2022-05-11 16:01:32
+Bear-Markets.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Bear-Markets.ipynb,16083,2023-04-13 19:27:09
 Generating-Random-Data-Using-Faker.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Generating-Random-Data-Using-Faker.ipynb,39100,2022-01-23 10:11:41
 DS104-L3-Hands-on-Example-Anime-P.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/DS104-L3-Hands-on-Example-Anime-P.ipynb,310664,2022-08-28 09:57:29
 Data Visualizations Using Seaborn.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Data Visualizations Using Seaborn.ipynb,1450095,2022-07-17 18:42:38
 DSO104 Lesson 9 HandsOn Helper.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/DSO104 Lesson 9 HandsOn Helper.ipynb,3220,2022-08-05 18:33:44
 Clinical-Trials.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Clinical-Trials/Clinical-Trials.ipynb,14724,2023-04-05 19:18:14
-Synthetic-Data-Vault.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Synthetic-Data-Generation/Synthetic-Data-Vault.ipynb,23615,2023-03-08 19:37:24
+Synthetic-Data-Vault.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Synthetic-Data-Generation/Synthetic-Data-Vault.ipynb,23605,2023-05-08 20:11:17
 Synthetic-Data-Faker.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Synthetic-Data-Generation/Synthetic-Data-Faker.ipynb,38408,2023-03-08 17:46:02
 Data_Cleaning_and_PCA.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Data_Cleaning_and_PCA_Example/Data_Cleaning_and_PCA.ipynb,393280,2023-02-22 16:45:24
 Federal-Fleet-Data-Analysis.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Team-Examples/Federal-Fleet-Data-Analysis.ipynb,90858,2022-02-10 18:49:41
@@ -575,9 +579,9 @@ Stata17SE-setup.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Team-Examp
 Stata-Auto.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Team-Examples/Stata/Stata-Auto.ipynb,5316,2021-11-30 09:10:33
 Stata-intro.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Team-Examples/Stata/Stata-intro.ipynb,1008,2021-11-28 15:06:15
 OSCAL.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/OSCAL/OSCAL.ipynb,4915,2023-03-20 18:30:26
-Creating-and-Using-Metadata-in-OSCAL.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/OSCAL/Creating-and-Using-Metadata-in-OSCAL.ipynb,29670,2023-04-05 19:26:14
+Creating-and-Using-Metadata-in-OSCAL.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/OSCAL/Creating-and-Using-Metadata-in-OSCAL.ipynb,29850,2023-05-06 12:25:06
 Diagrams.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Diagramming/Diagrams.ipynb,14198,2022-06-29 19:17:35
-US-Government-Data-Catalogs.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/US-Government-Data-Catalogs.ipynb,54993,2023-04-06 17:39:00
+US-Government-Data-Catalogs.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/US-Government-Data-Catalogs.ipynb,57985,2023-04-18 16:31:40
 Data-Cataloging-Basics.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/Data-Cataloging-Basics.ipynb,631806,2023-04-05 19:10:14
 Air-Quality.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Pandas/Air-Quality.ipynb,378483,2023-02-15 19:59:13
 _Pandas.ipynb,DS104-Data-Wrangling-and-Visualization/Examples/Pandas/_Pandas.ipynb,1478,2023-02-15 18:47:13
@@ -594,13 +598,13 @@ DS101-L3-Variable-Types.ipynb,DS101-Basic-Statistics/DS101-L3-Variable-Types.ipy
 DS101-L2-Probability.ipynb,DS101-Basic-Statistics/DS101-L2-Probability.ipynb,110757,2023-03-01 19:47:24
 DS101-L9-High-Level-Data-Exploration.ipynb,DS101-Basic-Statistics/DS101-L9-High-Level-Data-Exploration.ipynb,101615,2023-01-03 19:02:12
 DS101-L8-Other-Common-Distributions.ipynb,DS101-Basic-Statistics/DS101-L8-Other-Common-Distributions.ipynb,62181,2023-01-03 19:02:06
-DS101-L5-Normal-Distribution.ipynb,DS101-Basic-Statistics/DS101-L5-Normal-Distribution.ipynb,74124,2023-01-03 19:01:21
+DS101-L5-Normal-Distribution.ipynb,DS101-Basic-Statistics/DS101-L5-Normal-Distribution.ipynb,74194,2023-04-21 12:43:10
 DS101-L7-Uniform-Binomial-StudentT-F-Distribution.ipynb,DS101-Basic-Statistics/DS101-L7-Uniform-Binomial-StudentT-F-Distribution.ipynb,89387,2023-01-03 19:01:52
-DS101-L1-Introduction-to-Data-Science.ipynb,DS101-Basic-Statistics/DS101-L1-Introduction-to-Data-Science.ipynb,56739,2023-03-21 19:27:04
-5-Common-Codes.ipynb,DS101-Basic-Statistics/Orientation/5-Common-Codes.ipynb,38622,2023-02-07 13:03:46
-2-Prepwork.ipynb,DS101-Basic-Statistics/Orientation/2-Prepwork.ipynb,10751,2022-09-15 08:24:33
-1-Orientation.ipynb,DS101-Basic-Statistics/Orientation/1-Orientation.ipynb,5936,2022-09-02 15:32:51
-3-Importing-Saving-Files.ipynb,DS101-Basic-Statistics/Orientation/3-Importing-Saving-Files.ipynb,57922,2022-09-02 15:32:51
+DS101-L1-Introduction-to-Data-Science.ipynb,DS101-Basic-Statistics/DS101-L1-Introduction-to-Data-Science.ipynb,56739,2023-04-27 09:12:21
+5-Common-Codes.ipynb,DS101-Basic-Statistics/Orientation/5-Common-Codes.ipynb,39749,2023-05-04 19:22:08
+2-Prepwork.ipynb,DS101-Basic-Statistics/Orientation/2-Prepwork.ipynb,10656,2023-05-15 08:14:56
+1-Orientation.ipynb,DS101-Basic-Statistics/Orientation/1-Orientation.ipynb,4869,2023-05-15 08:14:56
+3-Importing-Saving-Files.ipynb,DS101-Basic-Statistics/Orientation/3-Importing-Saving-Files.ipynb,64416,2023-05-15 08:14:56
 4-Helpers-Workshops.ipynb,DS101-Basic-Statistics/Orientation/4-Helpers-Workshops.ipynb,20296,2023-01-20 11:30:20
 Saving-Files-in-Jupyter-Lab-Python-and-R.ipynb,DS101-Basic-Statistics/Orientation/Videos/Saving-Files-in-Jupyter-Lab-Python-and-R.ipynb,1867,2022-09-02 15:32:51
 Saving-Google-Sheets.ipynb,DS101-Basic-Statistics/Orientation/Videos/Saving-Google-Sheets.ipynb,1857,2022-09-02 15:32:51
@@ -630,11 +634,11 @@ TODOs.ipynb,DS101-Basic-Statistics/Workshops/Week-1/Hello-World-Notebook-Intro/T
 Welcome-to-Data-Science.ipynb,DS101-Basic-Statistics/Workshops/Week-1/01-Welcome-to-Data-Science/Welcome-to-Data-Science.ipynb,3217,2022-10-20 21:03:32
 Github-Basics.ipynb,DS101-Basic-Statistics/Workshops/Week-1/01-Welcome-to-Data-Science/Github-Basics.ipynb,3496,2022-10-20 21:03:24
 Simple-Statistics.ipynb,DS101-Basic-Statistics/Workshops/Week-1/Simple-Statistics/Simple-Statistics.ipynb,767,2022-01-10 08:26:13
-DS101-Change-Log.ipynb,DS101-Basic-Statistics/Errata/DS101-Change-Log.ipynb,2096,2023-03-14 13:24:04
+DS101-Change-Log.ipynb,DS101-Basic-Statistics/Errata/DS101-Change-Log.ipynb,2236,2023-04-21 12:43:10
 Change-Log-Workflow.ipynb,DS101-Basic-Statistics/Errata/Change-Log-Workflow.ipynb,7735,2023-01-25 14:28:44
 Debugging-Basics.ipynb,DS101-Basic-Statistics/Debugging/Debugging-Basics.ipynb,18233,2022-05-26 14:31:53
-Homebrew.ipynb,DS101-Basic-Statistics/Installation/Homebrew.ipynb,15646,2023-01-03 16:11:44
-Chocolatey.ipynb,DS101-Basic-Statistics/Installation/Chocolatey.ipynb,14865,2023-03-22 19:12:21
+Homebrew.ipynb,DS101-Basic-Statistics/Installation/Homebrew.ipynb,15636,2023-04-28 11:50:00
+Chocolatey.ipynb,DS101-Basic-Statistics/Installation/Chocolatey.ipynb,14874,2023-05-04 14:52:45
 Homebrew.ipynb,DS101-Basic-Statistics/Installation/archive/Homebrew.ipynb,10018,2022-01-06 15:04:55
 Windows-Troubleshooting.ipynb,DS101-Basic-Statistics/Installation/Troubleshooting/Windows-Troubleshooting.ipynb,18719,2022-07-28 14:45:35
 Jupyter.ipynb,DS101-Basic-Statistics/Installation/Troubleshooting/Jupyter.ipynb,11176,2022-08-16 11:57:05
@@ -646,7 +650,7 @@ RHEL-System-Admin.ipynb,DS101-Basic-Statistics/Installation/Utilities/RHEL-Syste
 Bash.ipynb,DS101-Basic-Statistics/Installation/Utilities/Bash.ipynb,9334,2022-06-23 08:04:12
 File-Permissions.ipynb,DS101-Basic-Statistics/Installation/Utilities/File-Permissions.ipynb,16829,2022-06-04 08:06:47
 7-Jupyter-for-Mac.ipynb,DS101-Basic-Statistics/Examples/7-Jupyter-for-Mac.ipynb,3669,2022-05-10 07:09:07
-1-Github-Basics.ipynb,DS101-Basic-Statistics/Examples/1-Github-Basics.ipynb,14381,2023-03-08 17:46:02
+1-Github-Basics.ipynb,DS101-Basic-Statistics/Examples/1-Github-Basics.ipynb,14371,2023-05-05 17:32:42
 Datetime.ipynb,DS101-Basic-Statistics/Examples/Datetime.ipynb,2311,2022-05-04 21:59:02
 6-Print-Hello-Example.ipynb,DS101-Basic-Statistics/Examples/6-Print-Hello-Example.ipynb,911,2022-05-10 07:09:07
 8-Statistical-Hypothesis-Testing.ipynb,DS101-Basic-Statistics/Examples/8-Statistical-Hypothesis-Testing.ipynb,4632,2022-05-10 07:09:07
@@ -728,16 +732,19 @@ Accreditation-Data-Analysis.ipynb,DS110-Final-Project/Examples/Accreditation-Dat
 Steam-Games.ipynb,DS110-Final-Project/Examples/Steam-Games.ipynb,9454,2022-10-19 14:18:55
 List-of-Student-Projects.ipynb,DS110-Final-Project/Examples/List-of-Student-Projects.ipynb,2423,2022-10-19 14:18:58
 test.ipynb,DS110-Final-Project/Examples/test.ipynb,1078,2022-03-04 09:09:50
-Air-Quality.ipynb,DS110-Final-Project/Examples/Accelerated/Notebooks/Air-Quality.ipynb,378483,2023-02-15 19:59:13
-Student-Final-Project-Notebook.ipynb,DS110-Final-Project/Examples/Accelerated/Notebooks/Student-Final-Project-Notebook.ipynb,131128,2023-01-31 20:17:42
-Titanic.ipynb,DS110-Final-Project/Examples/Accelerated/Notebooks/Titanic.ipynb,62681,2023-02-15 19:59:14
-Data.ipynb,DS110-Final-Project/Examples/Accelerated/Notebooks/Data.ipynb,11681,2023-02-22 17:06:40
+Air-Quality.ipynb,DS110-Final-Project/Examples/Other-Examples/Air-Quality.ipynb,378483,2023-02-15 19:59:13
+Titanic.ipynb,DS110-Final-Project/Examples/Other-Examples/Titanic.ipynb,62681,2023-02-15 19:59:14
+Data.ipynb,DS110-Final-Project/Examples/Other-Examples/Data.ipynb,11681,2023-02-22 17:06:40
 Federal-Fleet-Data.ipynb,DS110-Final-Project/Examples/Team-Examples/Federal-Fleet-Project/Federal-Fleet-Data.ipynb,365961,2021-12-15 08:55:40
 Random-Forest.ipynb,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/Random-Forest.ipynb,25261,2023-01-20 11:30:20
 EDA-Graphs-Python.ipynb,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/EDA-Graphs-Python.ipynb,365835,2023-01-20 11:30:20
 multiple-weather-stations-ML.ipynb,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/multiple-weather-stations-ML.ipynb,60645,2023-01-20 11:30:20
 Supervised-ML-Python.ipynb,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/Supervised-ML-Python.ipynb,72679,2023-01-20 11:30:20
+Original-Student-Final-Project-Notebook.ipynb,DS110-Final-Project/Examples/Avocado-Final-Project/Notebooks/Original-Student-Final-Project-Notebook.ipynb,131118,2023-05-02 18:35:41
+Latest-Student-Final-Project-Notebook-Avocados.ipynb,DS110-Final-Project/Examples/Avocado-Final-Project/Notebooks/Latest-Student-Final-Project-Notebook-Avocados.ipynb,1862071,2023-05-04 18:45:08
 Crime-Study.ipynb,DS110-Final-Project/Examples/FBI Crime Stats/Crime-Study.ipynb,556492,2022-12-29 17:21:45
+R-Analysis-Notebook.ipynb,DS110-Final-Project/Examples/Autism-Final-Project/Notebooks/R-Analysis-Notebook.ipynb,3919116,2023-05-02 08:31:36
+Py-Analysis-Notebook.ipynb,DS110-Final-Project/Examples/Autism-Final-Project/Notebooks/Py-Analysis-Notebook.ipynb,497223,2023-05-03 19:38:12
 Air-Quality.ipynb,DS110-Final-Project/Documents/Repo-Template/Notebooks/Air-Quality.ipynb,378483,2023-02-15 19:59:13
 Titanic.ipynb,DS110-Final-Project/Documents/Repo-Template/Notebooks/Titanic.ipynb,62681,2023-02-15 19:59:14
 Data.ipynb,DS110-Final-Project/Documents/Repo-Template/Notebooks/Data.ipynb,11681,2023-02-22 17:06:40

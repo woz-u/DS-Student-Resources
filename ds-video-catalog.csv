@@ -162,6 +162,7 @@ DS105-Intermediate-Statistics/Examples/DS105-L1-exploring-the-anime-dataset.ipyn
 DS105-Intermediate-Statistics/Examples/DS105-L4-P4-5-Diff-Example-R.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-P1-7-R.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L3-All-Examples-P.ipynb,0,0
+DS105-Intermediate-Statistics/Examples/L04handsonPython_AvgPrice.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L2-Hands-On-Seattle-ParksnRec-R.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L2-P7-Transforming-Data-PGATourData-P.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-2-Oranges-Python.ipynb,0,0
@@ -178,8 +179,8 @@ DS105-Intermediate-Statistics/Examples/DS105-L7-Hands-On-R.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-1-R-Oranges.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L8-MANOVA-Example.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/PCA.ipynb,0,0
-DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-2-Oranges.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-P1-7-Examples-R.ipynb,0,0
+DS105-Intermediate-Statistics/Examples/Statistical-Methods-Catalog.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-Hands-On-Part-1-R.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L4-P8-12-P.ipynb,0,0
 DS105-Intermediate-Statistics/Examples/DS105-L2-Hands-On-SeattleParksnRec-P.ipynb,0,0
@@ -342,6 +343,7 @@ DS109-Python/Examples/Python-Basics/1-Intro-to-Python.ipynb,0,0
 DS109-Python/Examples/Python-Basics/3-0-Data-Structures-Overview.ipynb,0,0
 DS109-Python/Examples/Python-Basics/5-Iterators-and-Generators.ipynb,0,0
 DS109-Python/Examples/Python-Basics/10-optimizing-code-holiday-gifts.ipynb,0,0
+DS109-Python/Examples/Jupyter/Jupyter-Python.ipynb,0,0
 DS109-Python/Examples/Importing_Data/Importing_Data.ipynb,0,0
 DS106-Machine-Learning/DS106Questions.ipynb,0,0
 DS106-Machine-Learning/Modeling/DS106-L2-Modeling-with-logistic-regression.ipynb,1,0
@@ -515,6 +517,7 @@ DS104-Data-Wrangling-and-Visualization/Examples/PowerBoats.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/DS104-L4-Helper.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Character-Encodings-Python.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Combiner.ipynb,0,0
+DS104-Data-Wrangling-and-Visualization/Examples/GGPlotHistogramsTransformations.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/DS104-L2-Follow-Along-Lesson-P.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/FedRAMP.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/CommonCodes.ipynb,0,0
@@ -529,6 +532,7 @@ DS104-Data-Wrangling-and-Visualization/Examples/Fast-Data-Analysis-in-Python.ipy
 DS104-Data-Wrangling-and-Visualization/Examples/Looping-through-directory-reading-into-pandas.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Prepare-Dataset.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/DS104-L1-Follow-Along-Lesson-babies-R.ipynb,0,0
+DS104-Data-Wrangling-and-Visualization/Examples/Bear-Markets.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Generating-Random-Data-Using-Faker.ipynb,1,0
 DS104-Data-Wrangling-and-Visualization/Examples/DS104-L3-Hands-on-Example-Anime-P.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Data Visualizations Using Seaborn.ipynb,0,0
@@ -577,7 +581,7 @@ DS104-Data-Wrangling-and-Visualization/Examples/Team-Examples/Stata/Stata-intro.
 DS104-Data-Wrangling-and-Visualization/Examples/OSCAL/OSCAL.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/OSCAL/Creating-and-Using-Metadata-in-OSCAL.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Diagramming/Diagrams.ipynb,0,0
-DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/Catalog-GitHub-Repo-Datasets.ipynb,0,0
+DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/US-Government-Data-Catalogs.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/Data-Cataloging-Basics.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Pandas/Air-Quality.ipynb,0,0
 DS104-Data-Wrangling-and-Visualization/Examples/Pandas/_Pandas.ipynb,0,0
@@ -600,7 +604,7 @@ DS101-Basic-Statistics/DS101-L1-Introduction-to-Data-Science.ipynb,8,0
 DS101-Basic-Statistics/Orientation/5-Common-Codes.ipynb,0,0
 DS101-Basic-Statistics/Orientation/2-Prepwork.ipynb,0,0
 DS101-Basic-Statistics/Orientation/1-Orientation.ipynb,0,0
-DS101-Basic-Statistics/Orientation/3-Importing-Saving-Files.ipynb,3,0
+DS101-Basic-Statistics/Orientation/3-Importing-Saving-Files.ipynb,6,0
 DS101-Basic-Statistics/Orientation/4-Helpers-Workshops.ipynb,0,0
 DS101-Basic-Statistics/Orientation/Videos/Saving-Files-in-Jupyter-Lab-Python-and-R.ipynb,1,0
 DS101-Basic-Statistics/Orientation/Videos/Saving-Google-Sheets.ipynb,1,0
@@ -728,16 +732,19 @@ DS110-Final-Project/Examples/Accreditation-Data-Analysis.ipynb,0,0
 DS110-Final-Project/Examples/Steam-Games.ipynb,0,0
 DS110-Final-Project/Examples/List-of-Student-Projects.ipynb,0,0
 DS110-Final-Project/Examples/test.ipynb,0,0
-DS110-Final-Project/Examples/Accelerated/Notebooks/Air-Quality.ipynb,0,0
-DS110-Final-Project/Examples/Accelerated/Notebooks/Student-Final-Project-Notebook.ipynb,0,0
-DS110-Final-Project/Examples/Accelerated/Notebooks/Titanic.ipynb,0,0
-DS110-Final-Project/Examples/Accelerated/Notebooks/Data.ipynb,0,0
+DS110-Final-Project/Examples/Other-Examples/Air-Quality.ipynb,0,0
+DS110-Final-Project/Examples/Other-Examples/Titanic.ipynb,0,0
+DS110-Final-Project/Examples/Other-Examples/Data.ipynb,0,0
 DS110-Final-Project/Examples/Team-Examples/Federal-Fleet-Project/Federal-Fleet-Data.ipynb,0,0
 DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/Random-Forest.ipynb,0,0
 DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/EDA-Graphs-Python.ipynb,0,0
 DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/multiple-weather-stations-ML.ipynb,0,0
 DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/Supervised-ML-Python.ipynb,0,0
+DS110-Final-Project/Examples/Avocado-Final-Project/Notebooks/Original-Student-Final-Project-Notebook.ipynb,0,0
+DS110-Final-Project/Examples/Avocado-Final-Project/Notebooks/Latest-Student-Final-Project-Notebook-Avocados.ipynb,0,0
 DS110-Final-Project/Examples/FBI Crime Stats/Crime-Study.ipynb,0,0
+DS110-Final-Project/Examples/Autism-Final-Project/Notebooks/R-Analysis-Notebook.ipynb,0,0
+DS110-Final-Project/Examples/Autism-Final-Project/Notebooks/Py-Analysis-Notebook.ipynb,0,0
 DS110-Final-Project/Documents/Repo-Template/Notebooks/Air-Quality.ipynb,0,0
 DS110-Final-Project/Documents/Repo-Template/Notebooks/Titanic.ipynb,0,0
 DS110-Final-Project/Documents/Repo-Template/Notebooks/Data.ipynb,0,0

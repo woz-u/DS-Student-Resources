@@ -1,7 +1,7 @@
 filename,path,extension,size,mime_type,modified_date
 ds-video-catalog.csv,ds-video-catalog.csv,csv,58324,text/csv,2023-04-06 12:55:17
-ds-datasets.csv,ds-datasets.csv,csv,62323,text/csv,2023-04-06 12:56:08
-ds-jupyter-notebooks.csv,ds-jupyter-notebooks.csv,csv,96083,text/csv,2023-04-06 12:54:27
+ds-datasets.csv,ds-datasets.csv,csv,62062,text/csv,2023-04-07 10:40:45
+ds-jupyter-notebooks.csv,ds-jupyter-notebooks.csv,csv,96082,text/csv,2023-04-07 10:40:57
 DS-Students.csv,DS108-Databases/NoSQL/Data/DS-Students.csv,csv,12452,text/csv,2021-11-18 13:17:16
 addresses.csv,DS108-Databases/SQL/Workshops/Week-2/08-Export-to-CSV/addresses.csv,csv,52009,text/csv,2021-12-03 16:18:53
 staff.csv,DS108-Databases/SQL/Workshops/Week-2/08-Export-to-CSV/staff.csv,csv,309,text/csv,2021-12-03 16:23:44
@@ -183,6 +183,7 @@ glassdoor.csv,DS104-Data-Wrangling-and-Visualization/Workshops/Week-1/05.5-Data-
 glassdoor.csv,DS104-Data-Wrangling-and-Visualization/Workshops/Week-1/05-Data-Recoding-Python/archive/glassdoor.csv,csv,1935165,text/csv,2021-11-30 17:41:28
 volcanoes.csv,DS104-Data-Wrangling-and-Visualization/Workshops/Week-1/02-Data-Wrangling-in-Python/volcanoes.csv,csv,2687607,text/csv,2021-06-28 01:59:00
 olympicEvents.csv,DS104-Data-Wrangling-and-Visualization/Workshops/Week-1/02-Data-Wrangling-in-Python/olympicEvents.csv,csv,36182944,text/csv,2021-06-28 01:59:00
+bear_markets.csv,DS104-Data-Wrangling-and-Visualization/Examples/bear_markets.csv,csv,1002,text/csv,2023-04-13 19:25:01
 file2-Address.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/file2-Address.csv,csv,174,text/csv,2023-01-17 16:06:29
 file1-Name.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/file1-Name.csv,csv,83,text/csv,2023-01-17 16:06:24
 combined.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/combined.csv,csv,277,text/csv,2023-01-18 19:23:41
@@ -193,6 +194,7 @@ combined5.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/com
 file1.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/SourceFiles/file1.csv,csv,83,text/csv,2023-01-17 15:43:24
 file2.csv,DS104-Data-Wrangling-and-Visualization/Examples/Combiner_Files/SourceFiles/file2.csv,csv,174,text/csv,2023-01-17 15:46:27
 medical_raw_data.csv,DS104-Data-Wrangling-and-Visualization/Examples/Data_Cleaning_and_PCA_Example/medical_raw_data.csv,csv,2091357,text/csv,2022-07-17 18:42:38
+government_data_catalogs.csv,DS104-Data-Wrangling-and-Visualization/Examples/Data-Cataloging/government_data_catalogs.csv,csv,12378,text/csv,2023-04-17 14:47:44
 breakfast.csv,DS104-Data-Wrangling-and-Visualization/Data/breakfast.csv,csv,44516,text/csv,2021-09-20 18:07:11
 L3P1.csv,DS104-Data-Wrangling-and-Visualization/Data/L3P1.csv,csv,171,text/csv,2021-10-25 07:47:51
 museums.csv,DS104-Data-Wrangling-and-Visualization/Data/museums.csv,csv,6817303,text/csv,2019-09-20 09:54:26
@@ -201,10 +203,14 @@ flowerShipment.csv,DS104-Data-Wrangling-and-Visualization/Data/flowerShipment.cs
 graduate_admissions.csv,DS104-Data-Wrangling-and-Visualization/Data/graduate_admissions.csv,csv,12504,text/csv,2021-09-20 18:07:11
 All_GPUs.csv,DS104-Data-Wrangling-and-Visualization/Data/All_GPUs.csv,csv,828198,text/csv,2021-06-28 01:59:00
 London_hotel_reviews.csv,DS104-Data-Wrangling-and-Visualization/Data/London_hotel_reviews.csv,csv,22820803,text/csv,2021-09-20 18:07:11
+L3P2.csv,DS104-Data-Wrangling-and-Visualization/Data/L3P2.csv,csv,618,text/csv,2023-04-21 12:43:10
+L3P3.csv,DS104-Data-Wrangling-and-Visualization/Data/L3P3.csv,csv,1367,text/csv,2023-04-21 12:43:10
 volcanoes.csv,DS104-Data-Wrangling-and-Visualization/Data/volcanoes.csv,csv,2687607,text/csv,2021-06-28 01:59:00
 anime.csv,DS104-Data-Wrangling-and-Visualization/Data/anime.csv,csv,6275613,text/csv,2021-09-20 18:07:11
 flowerShop.csv,DS104-Data-Wrangling-and-Visualization/Data/flowerShop.csv,csv,24015,text/csv,2021-06-28 01:59:00
+crocodiles.csv,DS104-Data-Wrangling-and-Visualization/Data/crocodiles.csv,csv,789,text/csv,2023-04-21 12:43:10
 tea.csv,DS104-Data-Wrangling-and-Visualization/Data/tea.csv,csv,317,text/csv,2018-07-05 16:32:28
+L3P5.csv,DS104-Data-Wrangling-and-Visualization/Data/L3P5.csv,csv,1691,text/csv,2023-04-21 12:43:10
 boats.csv,DS104-Data-Wrangling-and-Visualization/Data/boats.csv,csv,207,text/csv,2018-09-28 10:06:32
 glassdoor.csv,DS104-Data-Wrangling-and-Visualization/Data/glassdoor.csv,csv,1935165,text/csv,2021-06-28 01:59:00
 BorderCrossing.csv,DS104-Data-Wrangling-and-Visualization/Data/BorderCrossing.csv,csv,24602656,text/csv,2021-09-20 18:07:11
@@ -288,7 +294,6 @@ Coffee-modified.csv,DS101-Basic-Statistics/Data/Coffee-modified.csv,csv,602672,t
 datasets-20465-26638-honeyproduction.csv,DS101-Basic-Statistics/Data/datasets-20465-26638-honeyproduction.csv,csv,28580,text/csv,2021-10-08 20:58:33
 gdp.csv,DS101-Basic-Statistics/Data/gdp.csv,csv,118350,text/csv,2021-11-29 09:39:51
 stocks.csv,DS101-Basic-Statistics/Data/stocks.csv,csv,330,text/csv,2023-03-08 17:46:02
-museums.csv,DS110-Final-Project/Examples/Accelerated/Data/museums.csv,csv,6817303,text/csv,2019-09-20 09:54:26
 Kinross.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/Kinross.csv,csv,27284,text/csv,2023-01-20 11:30:20
 SSM 7-1SSW.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/SSM 7-1SSW.csv,csv,8969,text/csv,2023-01-20 11:30:20
 Sault-Weather.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/Sault-Weather.csv,csv,693258,text/csv,2023-01-20 11:30:20
@@ -302,8 +307,12 @@ SaultSled.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and 
 Dunbar.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/Dunbar.csv,csv,428948,text/csv,2023-01-20 11:30:20
 SSM2-1E.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/SSM2-1E.csv,csv,36187,text/csv,2023-01-20 11:30:20
 SooChristmas.csv,DS110-Final-Project/Examples/Team-Examples/White Christmas ML and Infographic/DATA/SooChristmas.csv,csv,3099,text/csv,2023-01-20 11:30:20
+avocados-us-2015-1018.csv,DS110-Final-Project/Examples/Avocado-Final-Project/Data/avocados-us-2015-1018.csv,csv,1901846,text/csv,2021-09-20 18:07:12
+avocado-production-worldwide-1961-2021.csv,DS110-Final-Project/Examples/Avocado-Final-Project/Data/avocado-production-worldwide-1961-2021.csv,csv,172402,text/csv,2023-04-24 09:42:39
+avocados-california-1980-2020.csv,DS110-Final-Project/Examples/Avocado-Final-Project/Data/avocados-california-1980-2020.csv,csv,34266,text/csv,2022-10-19 02:29:52
 HT_2013-2021.csv,DS110-Final-Project/Examples/FBI Crime Stats/HT_2013-2021.csv,csv,530242,text/csv,2022-12-29 17:21:45
 fbi human trafficking FL.csv,DS110-Final-Project/Examples/FBI Crime Stats/Data/fbi human trafficking FL.csv,csv,524014,text/csv,2022-12-29 17:21:45
+clean_data.csv,DS110-Final-Project/Examples/Autism-Final-Project/Data/clean_data.csv,csv,42926,text/csv,2023-04-28 13:12:39
 museums.csv,DS110-Final-Project/Documents/Repo-Template/Data/museums.csv,csv,6817303,text/csv,2019-09-20 09:54:26
 movie_dataset.csv,DS110-Final-Project/Data/movie_dataset.csv,csv,23432179,text/csv,2022-12-04 11:55:07
 FPsteam.csv,DS110-Final-Project/Data/FPsteam.csv,csv,1574586,text/csv,2022-06-27 02:01:30
@@ -382,6 +391,7 @@ FY2016-Federal_Fleet_Data.xlsx,DS110-Final-Project/Examples/Team-Examples/Federa
 FY2017-Federal_Fleet_Data1.xlsx,DS110-Final-Project/Examples/Team-Examples/Federal-Fleet-Project/Federal-Fleet-Data/FY2017-Federal_Fleet_Data1.xlsx,xlsx,284382,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2021-11-02 09:16:09
 FY2020-FederalFleetReport.xlsx,DS110-Final-Project/Examples/Team-Examples/Federal-Fleet-Project/Federal-Fleet-Data/FY2020-FederalFleetReport.xlsx,xlsx,274851,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2021-11-02 09:10:37
 FY2015-Federal_Fleet_Open_Data_Set_-_20160302.xlsx,DS110-Final-Project/Examples/Team-Examples/Federal-Fleet-Project/Federal-Fleet-Data/FY2015-Federal_Fleet_Open_Data_Set_-_20160302.xlsx,xlsx,1189475,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2021-11-02 09:16:31
+DATA.xlsx,DS110-Final-Project/Examples/Autism-Final-Project/Data/DATA.xlsx,xlsx,40427,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2023-04-14 21:38:15
 store-sales.xlsx,DS110-Final-Project/Data/store-sales.xlsx,xlsx,125805,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2021-10-15 19:31:26
 AccreditationData.xlsx,DS110-Final-Project/Data/DAPIPData/AccreditationData.xlsx,xlsx,3447713,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,2021-11-01 09:49:00
 DSO102 L8 train_accidents.xls,DS102-Statistical-Programming-in-R/Data/DSO102 L8 train_accidents.xls,xls,663552,application/vnd.ms-excel,2021-07-14 14:59:32
