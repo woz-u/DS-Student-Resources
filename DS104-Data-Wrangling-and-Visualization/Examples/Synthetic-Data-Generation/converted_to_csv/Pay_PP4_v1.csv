@@ -1,0 +1,6 @@
+{us:gov:federal:hc}RecordID,{us:gov:federal:hc}GivenName,{us:gov:federal:hc}LastName,{us:gov:federal:hc}MaritalStatus,{us:gov:federal:hc}MiddleName,{us:gov:federal:hc}PersonTypeCode,{us:gov:federal:hc}SSN,{us:gov:federal:hc}PPEndDate,{us:gov:federal:hc}PPNum,{us:gov:federal:hc}PPStartDate,{us:gov:federal:hc}PayDedCode,{us:gov:federal:hc}PayDedPPAmt,{us:gov:federal:hc}PayDedYTDAmt
+00001528,Adam,One,S,NMN,02,310001000,2021-03-27,202107,2021-03-14,167,145,5803
+00001541,Estella,One,S,NMN,02,310001005,2021-03-27,202107,2021-03-14,428,250,250
+00001544,EStella,Three,M,NMN,02,310001007,2021-03-27,202107,2021-03-14,384,250,250
+00001550,ADam,Four,S,NMN,02,310001003,2021-03-27,202107,2021-03-14,368,100,100
+00001559,WaG,Two,M,NMN,02,310001026,2021-03-27,202107,2021-03-14,374,300,300
