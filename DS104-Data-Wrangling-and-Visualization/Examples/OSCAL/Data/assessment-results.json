@@ -1,0 +1,30 @@
+{
+  "assessment-results": {
+    "uuid": "20d0bfe7-8739-4b8d-acfe-1633b7cda73b",
+    "metadata": {
+      "oscal-version": "1.0.4",
+      "title": "Assessment Results for Application",
+      "last-modified": "2023-04-04T20:19:52.103Z",
+      "version": ""
+    },
+    "import-ap": {
+      "href": "assessment-plan.json"
+    },
+    "results": [
+      {
+        "uuid": "1c46e441-7f41-4980-82f5-bbfeb2df375f",
+        "title": "Assessment Result",
+        "start": "2023-04-04T20:13:52.064Z",
+        "description": "Assessment Result for Application",
+        "reviewed-controls": {
+          "control-selections": [
+            {
+              "description": "Reviewed Controls"
+            }
+          ]
+        },
+        "findings": []
+      }
+    ]
+  }
+}

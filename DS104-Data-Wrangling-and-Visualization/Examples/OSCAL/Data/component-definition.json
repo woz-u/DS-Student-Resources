@@ -1,0 +1,52 @@
+{
+  "component-definition": {
+    "uuid": "df7e30fd-b614-4f97-ac4f-db2c7cc7dfb7",
+    "metadata": {
+      "oscal-version": "1.0.4",
+      "title": "Component Definition",
+      "last-modified": "2023-04-04T20:19:52.024Z",
+      "version": "Final"
+    },
+    "components": [
+      {
+        "uuid": "019ca89a-d1b2-40a6-8f17-3fda23bfe0c5",
+        "type": "Security",
+        "title": "Security",
+        "description": "Location: Cloud. Machine Type: Virtual. IP: 10.64.64.251",
+        "props": [
+          {
+            "name": "location",
+            "value": "Cloud"
+          },
+          {
+            "name": "machineType",
+            "value": "Virtual"
+          },
+          {
+            "name": "ip",
+            "value": "10.64.64.251"
+          },
+          {
+            "name": "encryption",
+            "value": "AES"
+          },
+          {
+            "name": "recovery",
+            "value": "1"
+          }
+        ],
+        "protocols": [
+          {
+            "uuid": "bfee4195-b007-48cf-9da9-661af90fb23b",
+            "name": "Application Software",
+            "port-ranges": [
+              {
+                "start": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

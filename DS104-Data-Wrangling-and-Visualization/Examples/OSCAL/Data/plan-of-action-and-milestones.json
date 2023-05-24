@@ -1,0 +1,17 @@
+{
+  "plan-of-action-and-milestones": {
+    "uuid": "39a926ca-3d0a-41d8-9167-d93eac5ea325",
+    "metadata": {
+      "oscal-version": "1.0.4",
+      "title": "Plan of Action and Milestones for Application",
+      "last-modified": "2023-04-04T20:19:52.104Z",
+      "version": ""
+    },
+    "import-ssp": {
+      "href": "system-security-plan.json"
+    },
+    "system-id": {
+      "id": "a7903478-74c6-46f4-b969-e86251fea69a"
+    }
+  }
+}

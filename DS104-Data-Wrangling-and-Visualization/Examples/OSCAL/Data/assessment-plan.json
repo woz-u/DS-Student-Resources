@@ -1,0 +1,21 @@
+{
+  "assessment-plan": {
+    "uuid": "212d1273-2877-4141-a63a-81898041258d",
+    "metadata": {
+      "oscal-version": "1.0.4",
+      "title": "Assessment Plan for Application",
+      "last-modified": "2023-04-04T20:19:52.103Z",
+      "version": ""
+    },
+    "import-ssp": {
+      "href": "system-security-plan.json"
+    },
+    "reviewed-controls": {
+      "control-selections": [
+        {
+          "description": "Controls to review"
+        }
+      ]
+    }
+  }
+}
