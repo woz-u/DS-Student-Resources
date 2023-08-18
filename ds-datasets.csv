@@ -1,7 +1,7 @@
 filename,path,extension,size,mime_type,modified_date
 ds-video-catalog.csv,ds-video-catalog.csv,csv,58906,text/csv,2023-05-15 18:01:33
-ds-datasets.csv,ds-datasets.csv,csv,63432,text/csv,2023-05-15 18:01:04
-ds-jupyter-notebooks.csv,ds-jupyter-notebooks.csv,csv,97042,text/csv,2023-05-15 18:01:19
+ds-datasets.csv,ds-datasets.csv,csv,75844,text/csv,2023-05-27 07:30:58
+ds-jupyter-notebooks.csv,ds-jupyter-notebooks.csv,csv,99403,text/csv,2023-05-27 07:31:14
 DS-Students.csv,DS108-Databases/NoSQL/Data/DS-Students.csv,csv,12452,text/csv,2021-11-18 13:17:16
 addresses.csv,DS108-Databases/SQL/Workshops/Week-2/08-Export-to-CSV/addresses.csv,csv,52009,text/csv,2021-12-03 16:18:53
 staff.csv,DS108-Databases/SQL/Workshops/Week-2/08-Export-to-CSV/staff.csv,csv,309,text/csv,2021-12-03 16:23:44
